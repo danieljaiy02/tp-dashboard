@@ -1,6 +1,181 @@
 {
-  "summary": "## COMMUNITY PULSE\n\n- **Yann LeCun declares today's LLMs nearly obsolete** (124 pts, 140 comments) - Major debate on whether foundational architecture needs rethinking; splits between true believers and skeptics\n- **Intel Neural-Chat-7B tops LLM leaderboard** (37 pts, 64 comments) - Surprise performance from non-traditional AI player sparking discussion on efficiency vs. scale\n- **Chinese AI models dominate Hugging Face benchmarks** (6 pts, 0 comments) - Notable but muted reaction; community seems unsurprised by China's rapid progress\n\n## KEY DEVELOPMENTS\n\n- **OpenAI ships GPT-5.3-Codex and \"Skills\" framework** - New agentic coding platform with Frontier enterprise offering and testing ads in ChatGPT. Disbanded mission alignment team while rolling out commercial features.\n\n- **Anthropic launches Claude Opus 4.6** - System card shows focus on sabotage risk mitigation. Released tools for Excel/PowerPoint integration and agentic infrastructure noise quantification. Committed to covering electricity price increases from data centers.\n\n- **Modal Labs raising at $2.5B valuation** - AI inference startup's momentum signals enterprise demand for deployment infrastructure beyond the big three providers.\n\n- **BCG partners with ElevenLabs** - Major consulting firm adding conversational AI agents to enterprise CX offering, validating the enterprise agent opportunity.\n\n- **xAI bleeding talent** - Half the founding team departed; Musk deflecting with Mars talk while the company faces execution questions.\n\n## WHAT THIS MEANS FOR TP\n\nThe agentic shift is accelerating faster than expected—Anthropic and OpenAI both shipping production-grade agent infrastructure signals clients will ask \"why aren't we using this?\" within weeks, not months. BCG's ElevenLabs partnership proves the enterprise consulting playbook is shifting from \"AI strategy\" to \"agent implementation,\" and we need concrete deployment methodologies ready now.",
+  "summary": "## COMMUNITY PULSE\n\n- **GLM-5 model release dominates discussion** (998 pts, 170 comments across multiple threads) - Strong enthusiasm for China's new open-weights leader scoring 50 on Intelligence Index, with community comparing it to MiniMax M2.5 launch and discussing whether this signals China's \"Agent War Era\"\n\n- **xAI turbulence draws scrutiny** (258 pts, 90 comments) - Community dissecting Elon Musk's statements about employee departures, with half the founding team now gone and interplanetary ambitions being questioned given current GPU constraints\n\n- **Yann LeCun's LLM obsolescence claim sparks debate** (124 pts, 140 comments on HN) - Deep philosophical discussion about whether today's transformer architecture represents a dead end, with researchers and practitioners split on implications\n\n- **OpenAI Codex standardization at NVIDIA** (115 pts, 34 comments) - Mixed reactions to potential platform lock-in, with enterprise developers concerned about vendor dependency\n\n- **Mathematicians challenge AI to \"show your work\"** (191 pts, 38 comments) - Growing demand for interpretability beyond benchmarks, particularly relevant for scientific and research applications\n\n## KEY DEVELOPMENTS\n\n- **OpenAI ships GPT-5.3-Codex and OpenAI Frontier**: Major enterprise push with new coding model, agent platform, and ChatGPT ads launch. \"Skills\" API enables long-running agents with shell access and state persistence. Testing ads signals monetization pressure.\n\n- **Anthropic releases Claude Opus 4.6**: New flagship with Excel/PowerPoint integration, updated Responsible Scaling Policy, and sabotage risk reporting. Focus on agentic workflows for enterprise, including parallel Claude coding teams.\n\n- **Chinese models surge**: GLM-5 (open weights, Intelligence Index leader), MiniMax M2.5, and DeepSeek grayscale testing (1M context) all drop simultaneously. Hugging Face leaderboard now dominated by Chinese models.\n\n- **xAI bleeding talent amid GPU shortage**: Half of founding team departed, Musk citing \"push not pull\" while Z.ai publicly admits GPU starvation. Questions intensify about viability ahead of rumored IPO.\n\n- **Google signals Gemini 3 Pro successor \"this week\"**: Lead product designer promises \"something even better\" than Gemini 3 Pro, plus continued Deep Think development for scientific research and math reasoning.\n\n## WHAT THIS MEANS FOR TP\n\nEnterprises are choosing platforms now—OpenAI's agent infrastructure (Frontier, Skills) vs Anthropic's safety-first enterprise play vs emergent Chinese open-weights options creates consulting opportunities around selection, integration strategy, and avoiding lock-in. The simultaneous shift toward agentic workflows, longer context windows, and domain specialization (coding, science, math) means TP should position on orchestration and governance across heterogeneous model portfolios rather than single-vendor solutions.",
   "sources": [
+    {
+      "title": "Z.ai said they are GPU starved, openly.",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1r26zsg/zai_said_they_are_gpu_starved_openly/",
+      "score": 998,
+      "comments": 170,
+      "source": "reddit"
+    },
+    {
+      "title": "A Direct Message From AI To All Humans (Seedance 2.0)",
+      "url": "https://reddit.com/r/singularity/comments/1r23uzw/a_direct_message_from_ai_to_all_humans_seedance_20/",
+      "score": 895,
+      "comments": 156,
+      "source": "reddit"
+    },
+    {
+      "title": "GLM-5 Officially Released",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1r22hlq/glm5_officially_released/",
+      "score": 642,
+      "comments": 132,
+      "source": "reddit"
+    },
+    {
+      "title": "GLM 5 Released",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1r1wl6x/glm_5_released/",
+      "score": 570,
+      "comments": 180,
+      "source": "reddit"
+    },
+    {
+      "title": "Comparison in hallucinations by the top image editing models in Arena when asked to colorize a picture (cropped zoom in of the Solvay Conference)",
+      "url": "https://reddit.com/r/singularity/comments/1r1udry/comparison_in_hallucinations_by_the_top_image/",
+      "score": 427,
+      "comments": 99,
+      "source": "reddit"
+    },
+    {
+      "title": "GLM-5 scores 50 on the Intelligence Index and is the new open weights leader!",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1r28xxz/glm5_scores_50_on_the_intelligence_index_and_is/",
+      "score": 358,
+      "comments": 84,
+      "source": "reddit"
+    },
+    {
+      "title": "Lead product + design at Google AI Studio promises \"something even better\" than Gemini 3 Pro GA this week",
+      "url": "https://reddit.com/r/singularity/comments/1r288o1/lead_product_design_at_google_ai_studio_promises/",
+      "score": 316,
+      "comments": 60,
+      "source": "reddit"
+    },
+    {
+      "title": "I Gave Seedance 2.0 One Photo and It Made Me Talk Like a YouTuber!",
+      "url": "https://reddit.com/r/singularity/comments/1r2116u/i_gave_seedance_20_one_photo_and_it_made_me_talk/",
+      "score": 288,
+      "comments": 66,
+      "source": "reddit"
+    },
+    {
+      "title": "GLM-5 is here",
+      "url": "https://reddit.com/r/singularity/comments/1r22g1l/glm5_is_here/",
+      "score": 271,
+      "comments": 73,
+      "source": "reddit"
+    },
+    {
+      "title": "#SaveLocalLLaMA",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1r2e8mp/savelocalllama/",
+      "score": 262,
+      "comments": 47,
+      "source": "reddit"
+    },
+    {
+      "title": "Elon Musk statement regarding the departure of some xAI employees in the last two weeks.",
+      "url": "https://reddit.com/r/singularity/comments/1r2bwt9/elon_musk_statement_regarding_the_departure_of/",
+      "score": 258,
+      "comments": 90,
+      "source": "reddit"
+    },
+    {
+      "title": "MiniMax M2.5 Released",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1r1wnj9/minimax_m25_released/",
+      "score": 229,
+      "comments": 61,
+      "source": "reddit"
+    },
+    {
+      "title": "GLM 5.0 &amp; MiniMax 2.5 Just Dropped, Are We Entering China's Agent War Era?",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1r1x0qi/glm_50_minimax_25_just_dropped_are_we_entering/",
+      "score": 225,
+      "comments": 100,
+      "source": "reddit"
+    },
+    {
+      "title": "Just finished building this bad boy",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1r1tuh1/just_finished_building_this_bad_boy/",
+      "score": 221,
+      "comments": 31,
+      "source": "reddit"
+    },
+    {
+      "title": "Mathematicians issue a major challenge to AI—show us your work",
+      "url": "https://reddit.com/r/artificial/comments/1r1w56d/mathematicians_issue_a_major_challenge_to_aishow/",
+      "score": 191,
+      "comments": 38,
+      "source": "reddit"
+    },
+    {
+      "title": "When AI can't generate a realistic enough human but can get the marketing speak and room decoration right, the next best thing is to get any Jane Doe to stand in and let AI do the hard work.",
+      "url": "https://reddit.com/r/singularity/comments/1r20lpp/when_ai_cant_generate_a_realistic_enough_human/",
+      "score": 186,
+      "comments": 23,
+      "source": "reddit"
+    },
+    {
+      "title": "Gemini Deep Think: Redefining the Future of Scientific Research (New updates on Alethia, their SOTA math agent, and work on Physics/Compsci automated AI research)",
+      "url": "https://reddit.com/r/singularity/comments/1r29cr5/gemini_deep_think_redefining_the_future_of/",
+      "score": 163,
+      "comments": 12,
+      "source": "reddit"
+    },
+    {
+      "title": "Z.ai releases GLM 5",
+      "url": "https://reddit.com/r/singularity/comments/1r1zcqx/zai_releases_glm_5/",
+      "score": 149,
+      "comments": 18,
+      "source": "reddit"
+    },
+    {
+      "title": "Nanbeige4.1-3B: A Small General Model that Reasons, Aligns, and Acts",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1r1r3nk/nanbeige413b_a_small_general_model_that_reasons/",
+      "score": 132,
+      "comments": 57,
+      "source": "reddit"
+    },
+    {
+      "title": "DeepSeek has launched grayscale testing for its new model on both its official website and app. 1M content length!",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1r1snhv/deepseek_has_launched_grayscale_testing_for_its/",
+      "score": 123,
+      "comments": 42,
+      "source": "reddit"
+    },
+    {
+      "title": "NVIDIA appears to be standardizing on OpenAI Codex",
+      "url": "https://reddit.com/r/singularity/comments/1r2fvmf/nvidia_appears_to_be_standardizing_on_openai_codex/",
+      "score": 115,
+      "comments": 34,
+      "source": "reddit"
+    },
+    {
+      "title": "Grok-3 joins upcoming models list",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1r1u2ne/grok3_joins_upcoming_models_list/",
+      "score": 110,
+      "comments": 125,
+      "source": "reddit"
+    },
+    {
+      "title": "Google Gemini 3.1 Pro Preview Soon?",
+      "url": "https://reddit.com/r/singularity/comments/1r2d9o6/google_gemini_31_pro_preview_soon/",
+      "score": 109,
+      "comments": 38,
+      "source": "reddit"
+    },
+    {
+      "title": "Surely this is not the \"updated model\" this week that got reported by CNBC?",
+      "url": "https://reddit.com/r/singularity/comments/1r254t3/surely_this_is_not_the_updated_model_this_week/",
+      "score": 101,
+      "comments": 26,
+      "source": "reddit"
+    },
+    {
+      "title": "MOSS-TTS has been released",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1r1wvos/mosstts_has_been_released/",
+      "score": 96,
+      "comments": 34,
+      "source": "reddit"
+    },
     {
       "title": "Switzerland releases its own AI model trained on public data",
       "url": "https://www.theverge.com/ai-artificial-intelligence/770646/switzerland-ai-model-llm-open-apertus",
@@ -1122,5 +1297,5 @@
       "source": "news"
     }
   ],
-  "generated_at": "2026-02-12T06:09:01.116Z"
+  "generated_at": "2026-02-12T06:09:22.893Z"
 }
