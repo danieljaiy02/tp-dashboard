@@ -1,5 +1,5 @@
 {
-  "summary": "## COMMUNITY PULSE\n\nUnable to assess - no Reddit/HN data provided in feed. Based on tech news volume alone: Heavy focus on OpenAI's massive product dump (GPT-5.3-Codex, Frontier platform, ads in ChatGPT). Anthropic's Claude Opus 4.6 launch competing directly. xAI organizational chaos drawing attention (half the founding team gone). General sentiment likely: fatigue with model releases, curiosity about enterprise tooling, concern over OpenAI's ad monetization.\n\n## KEY DEVELOPMENTS\n\n**OpenAI's Enterprise Push**: Launched GPT-5.3-Codex (coding-focused model), OpenAI Frontier (enterprise agent platform), and confirmed ads coming to ChatGPT. Also shipping \"Skills\" framework for agents, Trusted Access for Cyber, and direct government integration (GenAI.mil). Signal: Going all-in on enterprise/government B2B.\n\n**Anthropic's Claude Opus 4.6**: New flagship model with focus on safety evals (sabotage risk testing, 0-day vulnerability discovery). Heavy emphasis on agentic workflows (parallel Claudes, coding evals) and Excel/PowerPoint integration. Direct enterprise play competing with OpenAI.\n\n**OpenAI Internal Turmoil**: Disbanded \"mission alignment team\" entirely. Policy exec reportedly fired over discrimination claim related to opposing chatbot's \"adult mode.\" Organizational signals suggest product velocity prioritized over safety theater.\n\n**xAI Bleeding Talent**: Half of founding team now departed. Musk claims departures are \"push not pull\" (firing underperformers). Company discussing Mars ambitions publicly while losing core team. Modal Labs raising at $2.5B (inference infrastructure bet).\n\n**Enterprise AI Layer Battle**: Glean profiled as attempting to own internal company AI layer. Amazon reportedly building marketplace for media content licensing to AI companies. The \"who owns the enterprise AI stack\" fight is heating up.\n\n## WHAT THIS MEANS FOR TP\n\n**Immediate**: Both OpenAI and Anthropic are productizing agent frameworks and enterprise tooling fast—clients will ask about Frontier vs. Opus 4.6 for their use cases. The ads-in-ChatGPT move may accelerate enterprise demand for self-hosted alternatives. The disbanding of alignment teams at OpenAI suggests safety concerns will matter less to buyers than capabilities.\n\n**Positioning**: The enterprise AI infrastructure question (Glean vs. building custom) is becoming critical. TP should have a POV on build-vs-buy for internal AI layers and which vendor stack makes sense for different client profiles.",
+  "summary": "## COMMUNITY PULSE\n\nUnable to assess Reddit/HN sentiment - no community discussion data provided in feed.\n\n## KEY DEVELOPMENTS\n\n**OpenAI's Major Product Push:**\n- **GPT-5.3-Codex launched** - \"most powerful, interactive, and productive Codex yet\" with autonomous capabilities\n- **OpenAI Frontier** - New enterprise platform specifically for AI agents\n- **Ads coming to ChatGPT** - Testing phase begins, fundamental monetization shift\n- **Mission alignment team disbanded** - Structural change amid leadership exits\n\n**Anthropic Ships Claude Opus 4.6:**\n- New flagship model released with extensive system card documentation\n- Heavy enterprise focus: Excel/PowerPoint integrations, healthcare infrastructure examples\n- Published sabotage risk assessment and agentic coding eval methodologies\n\n**Infrastructure & Funding:**\n- **Modal Labs** (AI inference) raising at $2.5B valuation \n- **xAI bleeding talent** - Half of founding team has now departed, Musk citing \"push not pull\"\n- Amazon exploring marketplace for media content licensing to AI companies\n- BCG announces partnership with ElevenLabs for conversational AI\n\n**Product Delays:**\n- Apple's Siri revamp delayed again (ongoing strategic concern)\n\n## WHAT THIS MEANS FOR TP\n\nThe OpenAI Frontier launch and Opus 4.6's enterprise integrations signal agent deployment moving from pilot to production - consulting demand will shift from \"should we\" to \"how to implement safely.\" More immediate: the Codex autonomous capabilities and Modal's valuation suggest infrastructure consulting opportunities around agent orchestration and cost management are heating up now.",
   "sources": [
     {
       "title": "xAI lays out interplanetary ambitions in public all-hands",
@@ -140,6 +140,76 @@
       "score": 0,
       "comments": 0,
       "source": "techcrunch"
+    },
+    {
+      "title": "Beyond Media Rights: A Whole New Ballgame for Sports - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxON2NlU0NiQmFhSm1QN1VxcWJTZk8yRU9LQ0F5WlZCQXdENC1XSUp3cG5NektONjFhQURWZ1FvX21HSjhidEU2OEtjTzF6V1FTWXVwQnRTMEZkSzh3REctMFV4Y3puM1NxQ0ZXNHFSN211TWt5dWRvM2hVM1JlWEo4eVFiZWJDRjdqVWd2NmVzUEdsMDQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Ryo Uemura - BCG Expert | BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1rZkJERHpPcWpVZURxUTloeG1JX3NWVTNmQl82bWVPSHBYN3NXaUhuVy1sRzVoRzFFQVR5VGNkdEJFTTlIQ005aHZhWU9BbUgyU1hrVndKOTdlNHBLdlRkaA?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Digital Money: A Chance for Hong Kong’s Fund Industry to Double Up - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVl9yNFB6SmdCQ3BNTU83SXhwZUppOEVhZWNQWnJaWm43eUU4aWRlMU9IZDhocHVMM3lrbV9tazJQYUNHbjF4X1g0RlVvYmhVVU1YWHFvS2ZYQm1qdGJvbDU1ZnR0bm5PbFN0Y2pOU2MxaUlfRkxfWHNxT21uUU9sTi1jdUZPa2F0cndNSkpScVluVmt0dXgtN3hZemRRN3I4bllWNjBuakpBVDg1?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "BCG and ElevenLabs Announce Strategic Partnership to Transform Enterprise Customer Experience with Conversational Agents - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdGVhUktyVXNLal8wXzNBcm5sd19DcjNycmNkR21ZUlhaaEhiNVhoWkhYaXMtMGhOc2Y2d2tTelNUelo0ZC02ZjIyUnF5WE9JYkZJaGJfYVJZSXNSZjVtOVRHMHVOamI1bzluU2J6VDJYdkVpR3hLN1k4cEpJSkJ6ZnQ5NktJZ0tZTHpzT3k3UXNJS3dZc2RoY1IwSG10V3dNdFhFdGo1T092aGVoemlGdV92RQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Why Zero-Based Transformation Is Not Just Another Cost Program - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbnpzSHFySkQtaUsycXBnd196QnBqVWtMRGJUSGdRQ2diU3MxZkJTMGMwZndpdWNrbWJHbkhkVm4yR3huUm8zNlN0MS1rSHByTTJvOEtNMV9uTG1lbUJiUjdSdWVPYkhjdG5TMUlsMVdmTlJVdV83Tmc1bWdFVHpNdktJUnFkcDVSaTZDQ3NBWUYtdw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Global Data Analyst Senior Specialist in Gurgaon, Haryana, India | Expertise and Insights at BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZjJNM19rUTI0aWFDUzhlbUhvNWU5MTdxbjZWQUc3X0FuSnBOcXV2OVhRWnNtTUdGXzE4OFE3bVo0b09EWTRWZXE4UUhDbElGd1RORm5CeHdIVFZDVUxXTEF0RmozczZmSXkyUVc5MEdWSG00MGRaQW10YTFfVU93ZkNaRnh3cFpG?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Don’t Wait for Good Times to Focus on Growth - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcnJKd21ISWlvdk5iM2ZHMnRORVVVUGFtaFlIWTg1eEl4UW9JWFlNRkRvQU1rcFFyS1pTc0RTTm1oNW9SS3J1OEFkSjNoYi02Y01MNWlZVEhiSmxVZVdLUldFeFhRMjRlOThfc21nYlg5Nml3dy1zUGlycVNaMmxBRDhqTDJJMG9Z?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Data Scientist, Finland - BCG X in Helsinki, Finland | Data Science and Analytics at BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5YSy1rZ2g3YlI1VXV2X2I3bGJmWFAyWHZqSFo3NkJGRFRYZEZDaV9lXzBaSG1wX0FzM1F4aUttUkN6OE01MkxsUG1NSGdqbkxPUXNtM095c0dNYzRQTFJEOHZ6OTFScDVRazJ2dDlEX2FNTlBvWG5kUUtKMl8?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Data Scientist, Internship, Finland - BCG X in Helsinki, Finland | データサイエンスと分析 at BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1rWkRRYThRNTFmVGZKM0x6U283enFLYTZXOUNTRVdpRnFmTkJVLXdHcGhPM3dOT2RzeE04Q0pYb0VzUmJOcHIyNTBBTDM5YkV5TEtfQkZxU2ZIWG83Vm9LZDJqSFR3LVlF?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Manager/Principal, Platinion in Johannesburg, South Africa | Technology and Engineering at BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1fcWZhTWN4aEpCQl90VHF3N2ZUR3hpZHJIUUNLMDhJUGlXUTVTRktrVUJpWGJFcDgyYU01a203VnVmNFg2SG0zU08wRnJvMm1QQTJqWEtFN2ZxU2Y5MHlJMlQ0ZS1YYjZGYkRLZUtEZkotQ2dMek96YW52VQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
     },
     {
       "title": "Gemini Deep Think: Redefining the Future of Scientific Research - Google DeepMind",
@@ -905,5 +975,5 @@
       "source": "news"
     }
   ],
-  "generated_at": "2026-02-12T05:39:44.514Z"
+  "generated_at": "2026-02-12T05:39:57.471Z"
 }
