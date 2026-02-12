@@ -142,6 +142,6 @@
       "source": "techcrunch"
     }
   ],
-  "generated_at": "2026-02-12T05:44:44.317Z",
-  "debug": "{\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011CY3eKLX9i5jEr1N32t1UJ\"}"
+  "generated_at": "2026-02-12T05:49:42.620Z",
+  "debug": "{\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011CY3ehKpr6UzQboftDCemi\"}"
 }
