@@ -2,6 +2,146 @@
   "summary": "## KEY DEVELOPMENTS\n- Briefing generation failed. Check API key and try again.",
   "sources": [
     {
+      "title": "Switzerland releases its own AI model trained on public data",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/770646/switzerland-ai-model-llm-open-apertus",
+      "score": 5,
+      "comments": 3,
+      "source": "hackernews"
+    },
+    {
+      "title": "Research: AI and Software Verification/Validation",
+      "url": "https://news.ycombinator.com/item?id=45293564",
+      "score": 2,
+      "comments": 0,
+      "source": "hackernews"
+    },
+    {
+      "title": "Ask HN: Are we ready for embodied robotic agents?",
+      "url": "https://news.ycombinator.com/item?id=36385412",
+      "score": 1,
+      "comments": 1,
+      "source": "hackernews"
+    },
+    {
+      "title": "Unveiling the Next-Gen LLM to Disrupt Technology Headline Writing",
+      "url": "https://news.ycombinator.com/item?id=39054813",
+      "score": 1,
+      "comments": 0,
+      "source": "hackernews"
+    },
+    {
+      "title": "Chinese AI models storm Hugging Face's LLM chatbot benchmark leaderboard",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/chinese-llms-storm-hugging-faces-chatbot-benchmark-leaderboard-alibaba-runs-the-board-as-major-us-competitors-have-worsened",
+      "score": 6,
+      "comments": 0,
+      "source": "hackernews"
+    },
+    {
+      "title": "Chinese AI models storm Hugging Face's LLM chatbot benchmark leaderboard",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/chinese-llms-storm-hugging-faces-chatbot-benchmark-leaderboard-alibaba-runs-the-board-as-major-us-competitors-have-worsened",
+      "score": 2,
+      "comments": 0,
+      "source": "hackernews"
+    },
+    {
+      "title": "What Does “Intelligent” Mean in AI ()?",
+      "url": "https://spin.atomicobject.com/2023/08/11/artificial-intelligence-llm/",
+      "score": 1,
+      "comments": 0,
+      "source": "hackernews"
+    },
+    {
+      "title": "Show HN: AI-Powered Twitter Filter",
+      "url": "https://news.ycombinator.com/item?id=39210964",
+      "score": 1,
+      "comments": 0,
+      "source": "hackernews"
+    },
+    {
+      "title": "Intel Neural-Chat-7B Model Achieves Top Ranking on LLM Leaderboard",
+      "url": "https://community.intel.com/t5/Blogs/Tech-Innovation/Artificial-Intelligence-AI/Intel-neural-chat-7b-Model-Achieves-Top-Ranking-on-LLM/post/1549386",
+      "score": 37,
+      "comments": 64,
+      "source": "hackernews"
+    },
+    {
+      "title": "AI researchers run LLMs at lightbulb-esque 13 watts without loss in performance",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-researchers-found-a-way-to-run-llms-at-a-lightbulb-esque-13-watts-with-no-loss-in-performance",
+      "score": 3,
+      "comments": 0,
+      "source": "hackernews"
+    },
+    {
+      "title": "Parsel: An LLM that enables automatic implementation and validation of code",
+      "url": "https://www.marktechpost.com/2023/01/29/researchers-at-stanford-introduce-parsel-an-artificial-intelligence-ai-framework-that-enables-automatic-implementation-and-validation-of-complex-algorithms-with-code-large-language-models-llms/",
+      "score": 3,
+      "comments": 0,
+      "source": "hackernews"
+    },
+    {
+      "title": "Beyond ChatGPT: The Silent Birth of Conscious AI",
+      "url": "https://news.ycombinator.com/item?id=45824262",
+      "score": 2,
+      "comments": 1,
+      "source": "hackernews"
+    },
+    {
+      "title": "Global Grand Challenges: Catalyzing Equitable Artificial Intelligence Use of LLM",
+      "url": "https://gcgh.grandchallenges.org/challenge/catalyzing-equitable-artificial-intelligence-ai-use",
+      "score": 1,
+      "comments": 1,
+      "source": "hackernews"
+    },
+    {
+      "title": "ArXiv Endorsement for Paper on Neuro-Symbolic Architecture for Financial Agents",
+      "url": "https://news.ycombinator.com/item?id=46975121",
+      "score": 2,
+      "comments": 2,
+      "source": "hackernews"
+    },
+    {
+      "title": "AI language model runs on a Windows 98 system with Pentium II and 128MB of RAM",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-language-model-runs-on-a-windows-98-system-with-pentium-ii-and-128mb-of-ram-open-source-ai-flagbearers-demonstrate-llama-2-llm-in-extreme-conditions",
+      "score": 3,
+      "comments": 0,
+      "source": "hackernews"
+    },
+    {
+      "title": "Researchers at Stanford Have Developed a New AI Benchmark",
+      "url": "https://www.marktechpost.com/2022/11/23/researchers-at-stanford-have-developed-a-new-artificial-intelligence-ai-benchmark-to-understand-large-language-models-llms/",
+      "score": 1,
+      "comments": 0,
+      "source": "hackernews"
+    },
+    {
+      "title": "Yann LeCun, Pioneer of AI, Thinks Today's LLM's Are Nearly Obsolete",
+      "url": "https://www.newsweek.com/ai-impact-interview-yann-lecun-artificial-intelligence-2054237",
+      "score": 124,
+      "comments": 140,
+      "source": "hackernews"
+    },
+    {
+      "title": "Ask HN: Could a form of modern-day AI been made to work back in the late 1980s?",
+      "url": "https://news.ycombinator.com/item?id=40065833",
+      "score": 1,
+      "comments": 1,
+      "source": "hackernews"
+    },
+    {
+      "title": "Automate LLMs jailbreaking using LLMs",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/researchers-train-ai-chatbots-to-jailbreak-rival-chatbots-and-automate-the-process",
+      "score": 1,
+      "comments": 0,
+      "source": "hackernews"
+    },
+    {
+      "title": "Experiments in LLMs – Everything I've learned (so far) – Part One – Fine tuning",
+      "url": "https://adamfallon.com/ai/llms/deep-learning/machine-learning/artificial-intelligence/openai/2023/06/18/experiments-in-llms.html",
+      "score": 3,
+      "comments": 0,
+      "source": "hackernews"
+    },
+    {
       "title": "xAI lays out interplanetary ambitions in public all-hands",
       "url": "https://techcrunch.com/2026/02/11/xai-lays-out-interplanetary-ambitions-in-public-all-hands/",
       "score": 0,
@@ -982,6 +1122,6 @@
       "source": "news"
     }
   ],
-  "generated_at": "2026-02-12T05:49:52.246Z",
-  "debug": "{\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011CY3ei33pZgwYKhe7r9njE\"}"
+  "generated_at": "2026-02-12T05:49:54.642Z",
+  "debug": "{\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011CY3eiCe2fHzhTkMeYGTpc\"}"
 }
