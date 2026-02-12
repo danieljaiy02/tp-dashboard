@@ -982,6 +982,6 @@
       "source": "news"
     }
   ],
-  "generated_at": "2026-02-12T05:49:50.366Z",
-  "debug": "{\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011CY3ehsvPozRsZvejHgKWW\"}"
+  "generated_at": "2026-02-12T05:49:52.246Z",
+  "debug": "{\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011CY3ei33pZgwYKhe7r9njE\"}"
 }
