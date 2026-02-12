@@ -1,5 +1,5 @@
 {
-  "summary": "## COMMUNITY PULSE\n\n- **Chinese models dominating discussion**: GLM-5 released by Z.ai (admitting GPU constraints) is flooding Reddit threads, claiming top open weights spot with Intelligence Index score of 50. Community excited but cautious about validation\n- **xAI turbulence getting attention**: Half of xAI's founding team has now departed, with Musk claiming exits are \"push not pull.\" Community skeptical of the spin\n- **OpenAI Codex pivot generating buzz**: Multiple threads noting OpenAI released GPT-5.3-Codex with \"skills\" framework and agent capabilities. Some excitement about speed/productivity, but scattered reports of bugs and infrastructure issues\n- **Quiet frustration on model access**: #SaveLocalLLaMA sentiment bubbling up alongside DeepSeek grayscale testing discussions (1M context length)\n- **HN mostly quiet**: Yann LeCun \"LLMs nearly obsolete\" piece got traction (124 points), otherwise minimal signal\n\n## KEY DEVELOPMENTS\n\n1. **OpenAI ships GPT-5.3-Codex**: New coding-focused model with \"skills\" framework for agents, shell integration, and long-running agent capabilities. Multiple system cards published. Also testing ads in ChatGPT and launched \"OpenAI Frontier\" enterprise platform. Signal: major productization push toward agentic workflows\n\n2. **Anthropic releases Claude Opus 4.6**: New model with sabotage risk report and system card. Also published infrastructure for agentic coding evals, Excel/PowerPoint integration guides, and \"AI Fluency\" framework. Heavy focus on enterprise safety/deployment\n\n3. **Chinese model wave**: GLM-5 (Z.ai), MiniMax M2.5, DeepSeek testing new model - all claiming competitive performance but GPU-constrained. Community treating as validation of open weights viability but awaiting independent benchmarking\n\n4. **xAI organizational chaos**: Half of founding team gone, Musk talking about moon/interplanetary ambitions while dealing with talent exodus. Potential distraction for Grok-3 delivery\n\n5. **Google teasing Gemini updates**: Promise of \"something even better\" than Gemini 3 Pro this week, plus Gemini Deep Think positioning for scientific research. Unclear if vaporware or real\n\n## WHAT THIS MEANS FOR TP\n\n**Near-term**: Clients will ask about Codex vs Opus 4.6 for production agents - both are pushing enterprise-ready agentic tooling hard. The \"skills\" framework and infrastructure guides suggest consulting opportunities in implementation/integration. **Strategic**: The Chinese model surge and GPU constraints narrative reinforces that inference optimization and deployment architecture (not just model selection) remain high-value consulting domains. OpenAI testing ads signals potential pricing model disruption.",
+  "summary": "## COMMUNITY PULSE\n\n- **Chinese models dominate discussion**: GLM-5 and MiniMax M2.5 launches generating massive engagement (multiple threads, 1000+ combined comments). Community viewing this as China entering \"Agent War Era\"\n- **GPU scarcity anxiety**: Z.ai publicly stating GPU starvation resonating strongly (969 upvotes) - supply constraints hitting real deployments\n- **OpenAI's Codex push**: Mixed sentiment on GPT-5.3-Codex release and \"OpenAI Frontier\" platform. Dev community noting bugs, UX issues, token consumption concerns\n- **xAI exodus narrative**: Elon addressing departures (half of founding team gone) - community skeptical of \"push not pull\" framing\n- **Video generation buzz**: Seedance 2.0 getting attention for avatar/video creation capabilities\n\n## KEY DEVELOPMENTS\n\n**Model Releases (Competitive Pressure Intensifying)**\n- **GLM-5**: Chinese open-weights model scoring 50 on Intelligence Index, leading open-weights category. Multiple releases today (GLM-5, MiniMax M2.5) signal accelerating competition from China\n- **OpenAI GPT-5.3-Codex**: Major coding-focused release with new \"Skills,\" \"Shell,\" enterprise platform \"Frontier,\" and Codex ads in ChatGPT. Positioning for enterprise agent workflows\n- **Anthropic Claude Opus 4.6**: New release with sabotage risk evaluations, infrastructure noise quantification in coding evals. Focus on safety at frontier capabilities\n\n**Business/Infrastructure News**\n- **Modal Labs**: AI inference startup raising at $2.5B valuation - signal of infrastructure layer value\n- **OpenAI restructuring**: Disbanded mission alignment team, ads launching in ChatGPT, policy exec fired. Commercialization accelerating\n- **BCG + ElevenLabs partnership**: Major consultancy announcing strategic partnership for conversational AI in enterprise CX\n\n**Consulting Ecosystem Moves**\n- McKinsey, Bain, BCG all publishing heavily on agentic AI, workforce transformation, enterprise AI architecture decisions. Clear land grab for AI transformation work\n\n## WHAT THIS MEANS FOR TP\n\nChinese open-weights models reaching competitive performance changes client cost/deployment calculus - expect questions about alternatives to OpenAI/Anthropic. OpenAI's enterprise agent platform (Frontier) and consulting firms' aggressive AI positioning means the \"AI transformation\" market is getting crowded fast with established players; TP needs sharp differentiation on implementation speed and practical ROI vs. big firm strategy theater.",
   "sources": [
     {
       "title": "Z.ai said they are GPU starved, openly.",
@@ -588,6 +588,132 @@
       "score": 0,
       "comments": 0,
       "source": "bcg"
+    },
+    {
+      "title": "AI Engineer - Lead - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9zUHF4am5XVjZxS2VGNXZiSWdHWWlVejJLazZYMjN2dlVOazdUVDJsWkpGZDQ0Vlo5azN1ZlJfWDJrQktxOUlFVDR5cWJwZlRHRm9KU1E0Q05SSFY1Rk9MLWlHSlRXUHBMZlJfLWI2OTk?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Want More Out of Your AI Investments? Think People First - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbnlWUW05WlJGRko3S2tuaGpNLWFSZmYtOV9xbk1YWU5obE5YcVZ4MjZSQllzU2hSeEpqUHZsM1dHOVVlSmlOOXhyZ282ald6RmxGck1WbUFEN0FiV3FmTWVYYVlhV3hUZG54c0o5NkM3c2RBenNhbXp1SlYwR25VcmlzZW9Ec2R5cmZZM25Daw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Preparing for AI’s Next Wave: Agentic, Quantum, and Managing Change Throughout - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPY0hBYzhrMks4MVFrTUxtZDdiVlcxMDI4SGFWOTlSSnJoWXlPS2VpSnBsSkR4TG5uUkRSSnFXNW5nU0VubHp6T1lEMkV6QXV4MGlRT0hOWnFicVNFQUhCU1ZOWTVxdGtxODZRMDVNV2RDaDRCV0E5YUxGVFZ3VXBmTEpxUWlUT1BYVzdERVVtb1BQU3dqTUFtTmJTS1g2TU44cXlZTVNFWlc?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Getting AI Right: Architecture, Investments, and Tough Choices - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQREZIWVJSbDFsazNjZFVjNGZhOGNIVXd3eG1YczA3cXJSVFBTdE8wMW1BcG1kV1NsSGhJOEVFMkFhQU9KX0xGdHR4X1NSbkVIZEdDSWQ5NnJHSElVbE1BR1R2d190N1RHdTg5emw0WTB6TWFnbmJhLWg4bzg3d2RFTGhaR3BHaHVITW1fcTJ0dWtJUDk3?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Life Sciences’ AI Momentum Requires a Workforce Redesign - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNmVsRHFTWGpvS3RxMXB0dk1qVmZ0cWlVM0xsa1YzN3NOSk5VUnI0LUhvSDNhemF1cVRUcXZwSEc1S2xwNVk5NnRiTjdUQlBCVy1xOXFJZFRoaGRZbDN5TEdMeG5DeDFBd3JIYXp2dk5zZTRLcTNFX29Hc2lUUjVSU1dRbUVpVU5XekU0em9IVzR6c2M3dkktZVBhYmpIZw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Anukool Rege - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9yZjRGTE8zZVB5ZjhGZUJTalkwdmlIdGVaYzdjdHZidWNENk42OU5WYVlyU0ZZMXZNZUlfdVNpZ1hwaWJjOWxGRmhmWHpOYWducnlkekdn?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Khushi Kaur - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9UaFZQSTJIUF80M1kxNmo5aXVheGptQmlNbk9pSGJXNjRZd3dlVnlaYUoxLXZKM3FlUVB4S3kxUENveXptQXYxUlNwSkd6TWRfLTN2Mg?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "What Agency Consolidation Means for CMOs - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ELUZwTlN3Q2dnb091M3AwT0FPVEVsa2l4OXhBckx6clRrMWNVT1UzU3ZBTTc1QVVlblY0RzdnTUF4ay1tR0IyT3J2T25uem5ic1BZcEd4U0V4aFQ2UkRTTnB5dTFMcm1HbWdmVlR1a2k1QTFiMlFkZE54OA?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Brian West - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8ycHhxZi1YMkdKWTVaQTJabVZldDFTVUlhOWRwUjV0VmNidzBIWkpObjl0U3dyRzhXQnVVQlFNTG1oZWZaXzUxVFR5aGVjMlBoY2tZ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Stay Relevant, Spark Energy: Pedro Arnt, CEO dLocal - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBobjlqU3V5WDFhQ1dDZ1hNV0lCZzdFcmx3U3Z4RDY3ZHdHbTNzNXJuOG5tOXRJdTJFUXl2N3RaQlpTMm54eFBsTGx2NjhtZ2hiV1BUVkk4OHlfYmFjT1BxX2JUcms?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "2026 Bain de Perto - Conheça mais sobre a Bain e a Carreira em Consultoria (Híbrido) - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOYVN3Nlh2d1k2NFByQXFzQUp4UGZTWXhhTWdBM0RpMjhkYlFfZERaOUJyVG54R1RyNElWMFc3Y2k3aEhwRTNwNnhFaEZxTExIcTdYMmM0RDdjTVFZdENzekc4UkVWbmpOejBhSXZockxhX2RaLXNBRlZRZ0FQeXl3ZGczYXdQb2NLMVF5MlMwc2RWdUZ3eWxUVVB6aEJ1dGVOTjF6ZnFXZzBvcUNZS1U0QXl0cHA0OGhtTnB0Z3Q3MDdtRGlpTU0waURiUTRQVnFsSTF1TW8wVlZHVW1HRmZjbk1ueE1ETWVjejJfcVBMUDQ3ZUVUUzZTcQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Adam Olszewski - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9HT21wR0c5a2NOdXFnYl9PMW5Rd1AxcUFEMjVLYkNqRTd4MG1zNi1yaG94eGo2bGU5cDUyRmFkUGlVUmUtQ1BNdzVjQWltSVFON2ZheHJ6bEE?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Roberto Pepe - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAxTFd3dXBQc3laWUp5ckotMlpPeEUxR2hMQ0hyQVlQM1hlelRLX2hLVzRrNGVDRDNfNU5DVDc0RVZGTVdiRXQ1ckl3YnFfMGJzelNOYjR3?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Betting on the Future without a Plan B? - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOY3VvdTVjOXAzR2RrVzhUWlc1REU1bE52TmRxalVRcDcyVVRlM2FlWDBxYmJLSDZXV19vbnJPTWhXekRIN2JZamVWZDBmZW5IT012RFVib2M2T2hqWndnczNiNUJsMXVlWTluTDByQTRiemE4Q19wNThvM2JCR1VhUTh0RERGYlE?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "2026 Brown Sophomore Coffee Chats - In Person - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPX1lSMldRcDBtQ2hoU19SSHdPaHlrQjVxSGpHUmpmT2VYLWVma1N2VHdBaGxfNk10Rmh2RnJGQUx2a1pNTGFFOEQ1U2MtQ3IxTnN0cWI5dEZoT3BmR3JYSmdWRDJweHhidHBSZUpXRWMyaGZzcDEzeHBNN1lSM2tRRkZxN3RFN09ibWQ2TUNGaWN2NnRabll5cks4M3RnbkU?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Meet Bain Mexico - in person AC / ACI Spring 2026 - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMktNZ1J0WENQek1LS0dYWHczV1BCaXVELUQyQi1JYk5HRHVqS0dpM2xINkJEWHlweUtiNUdlcUpQdGl1ZDB5U0Y3SDlxenk2emQtQUtwb0MydlEtb0l3dlFKWnBKREMxT1RyRzBhYS1TbnduSW96Vmk4cFFzbTVzN0JNMHVNWWU1SFFkMkdvN0duNWpsNU1IOEc3WnFCaEE?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "2026 UCLA Spring Presentation - In person - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONkY2a1ZPSjJxOXI0Uy04TUdhSFJ3bXdLMy1GSTlkOVFZUlE0WjA4azhZVHBVdkhXM0tXbHV1VGMxdzg5N2NORG53VGFLYjFSamRUUmh5Z0FTalJjOXNDMC1QNno2VGI3OVFVbWRPZWtEQlBnNUMyb0Y3VVE5Y0MybWlCd1hjb1Vpc1pjWXRhQWs0Z0Y0cWJpaFBRU3Y1aG8?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "2026 Emory Info Session & Meet the Team: In-Person - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUnNGZEpGNXRBaFR6OTBqNHVPVDJxWWtyUWtpVjhTaW55YmNfeF9kVUFqNzBYWHpiRFo5dDQwdUFSNHk2ekR0aWgta3puUHVoLUw3OTQ2U3ZWWjJ0QjFzZ0toWjBTa0NlVUtVT05qLXNSSk1CeFh6YklCeFpJeUZMekxWNkZoYm1xeC1NcWdfMi03clBVWHhBREF5X3NRQmM?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
     },
     {
       "title": "Gemini Deep Think: Redefining the Future of Scientific Research - Google DeepMind",
@@ -1353,5 +1479,5 @@
       "source": "news"
     }
   ],
-  "generated_at": "2026-02-12T05:41:17.665Z"
+  "generated_at": "2026-02-12T05:41:41.000Z"
 }
