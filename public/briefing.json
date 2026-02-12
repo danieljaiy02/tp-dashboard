@@ -1,5 +1,5 @@
 {
-  "summary": "## COMMUNITY PULSE\n(No Reddit/HackerNews data provided in feed - unable to report community discussions)\n\n## KEY DEVELOPMENTS\n\n- **Anthropic ships Claude Opus 4.6** - Major model release with enhanced capabilities, full system card published, plus extensive infrastructure updates including sabotage risk assessments and 0-day vulnerability testing. Anthropic positioning hard for enterprise with agent-focused tooling.\n\n- **OpenAI launches GPT-5.3-Codex and monetization plays** - New coding-specialized model released alongside \"OpenAI Frontier\" enterprise platform for AI agents. Testing ads in ChatGPT and opening advertiser program. Mission alignment team disbanded (concerning optics).\n\n- **xAI chaos: half the founding team has now exited** - Musk claims departures are \"push not pull\" while pitching interplanetary ambitions. Company credibility taking hits as talent bleeds out despite ambitious positioning.\n\n- **Enterprise AI infrastructure heating up** - Modal Labs raising at $2.5B valuation for inference infrastructure. Glean fighting to own the \"AI layer inside every company.\" Amazon may launch marketplace for AI training data from media sites.\n\n- **Google DeepMind advances scientific research tooling** - Gemini Deep Think positioning for scientific workloads. K-Health fine-tuning Gemma 3 with clinical data shows vertical-specific model customization gaining traction.\n\n## WHAT THIS MEANS FOR TP\n\nThe Anthropic/OpenAI enterprise agent push creates immediate consulting opportunities around implementation, safety protocols, and workflow integration. Client conversations should emphasize infrastructure readiness and custom model evaluation before the market gets saturated with half-baked deployments.",
+  "summary": "## COMMUNITY PULSE\n(No Reddit/HN discussion data provided in source material)\n\n## KEY DEVELOPMENTS\n\n- **Anthropic ships Claude Opus 4.6** with comprehensive safety testing, infrastructure noise quantification for coding agents, and expanded enterprise capabilities including Excel/PowerPoint integration. System card shows rigorous sabotage risk evaluation.\n\n- **OpenAI launches GPT-5.3-Codex and Frontier platform** - new specialized coding model with Shell, Skills, and compaction features for long-running agents. Testing ads in ChatGPT. New \"Trusted Access for Cyber\" and GenAI.mil deployment signal government/defense expansion.\n\n- **xAI hemorrhaging talent** - half of founding team has now departed, with Musk suggesting \"push not pull.\" Company pivoting to interplanetary ambitions while facing brutal orbital AI economics.\n\n- **Modal Labs raising at $2.5B valuation** - AI inference infrastructure becoming critical competitive layer. Glean fighting for enterprise AI integration position. Amazon exploring content marketplace for AI training data.\n\n- **Google ships Gemini Deep Think** for scientific research, plus K-Health clinical Gemma 3 deployment. BCG partners with ElevenLabs on conversational agents for enterprise CX.\n\n## WHAT THIS MEANS FOR TP\n\nThe enterprise AI layer war (Glean, Modal, Anthropic, OpenAI Frontier) is intensifying exactly where we play - consulting firms need to help clients choose infrastructure and integration strategies now before lock-in occurs. Government/defense AI adoption (GenAI.mil, Trusted Access) opens new vertical opportunities requiring specialized compliance expertise.",
   "sources": [
     {
       "title": "xAI lays out interplanetary ambitions in public all-hands",
@@ -140,6 +140,76 @@
       "score": 0,
       "comments": 0,
       "source": "techcrunch"
+    },
+    {
+      "title": "Beyond Media Rights: A Whole New Ballgame for Sports - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxON2NlU0NiQmFhSm1QN1VxcWJTZk8yRU9LQ0F5WlZCQXdENC1XSUp3cG5NektONjFhQURWZ1FvX21HSjhidEU2OEtjTzF6V1FTWXVwQnRTMEZkSzh3REctMFV4Y3puM1NxQ0ZXNHFSN211TWt5dWRvM2hVM1JlWEo4eVFiZWJDRjdqVWd2NmVzUEdsMDQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Ryo Uemura - BCG Expert | BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1rZkJERHpPcWpVZURxUTloeG1JX3NWVTNmQl82bWVPSHBYN3NXaUhuVy1sRzVoRzFFQVR5VGNkdEJFTTlIQ005aHZhWU9BbUgyU1hrVndKOTdlNHBLdlRkaA?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Digital Money: A Chance for Hong Kong’s Fund Industry to Double Up - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVl9yNFB6SmdCQ3BNTU83SXhwZUppOEVhZWNQWnJaWm43eUU4aWRlMU9IZDhocHVMM3lrbV9tazJQYUNHbjF4X1g0RlVvYmhVVU1YWHFvS2ZYQm1qdGJvbDU1ZnR0bm5PbFN0Y2pOU2MxaUlfRkxfWHNxT21uUU9sTi1jdUZPa2F0cndNSkpScVluVmt0dXgtN3hZemRRN3I4bllWNjBuakpBVDg1?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "BCG and ElevenLabs Announce Strategic Partnership to Transform Enterprise Customer Experience with Conversational Agents - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdGVhUktyVXNLal8wXzNBcm5sd19DcjNycmNkR21ZUlhaaEhiNVhoWkhYaXMtMGhOc2Y2d2tTelNUelo0ZC02ZjIyUnF5WE9JYkZJaGJfYVJZSXNSZjVtOVRHMHVOamI1bzluU2J6VDJYdkVpR3hLN1k4cEpJSkJ6ZnQ5NktJZ0tZTHpzT3k3UXNJS3dZc2RoY1IwSG10V3dNdFhFdGo1T092aGVoemlGdV92RQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Why Zero-Based Transformation Is Not Just Another Cost Program - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbnpzSHFySkQtaUsycXBnd196QnBqVWtMRGJUSGdRQ2diU3MxZkJTMGMwZndpdWNrbWJHbkhkVm4yR3huUm8zNlN0MS1rSHByTTJvOEtNMV9uTG1lbUJiUjdSdWVPYkhjdG5TMUlsMVdmTlJVdV83Tmc1bWdFVHpNdktJUnFkcDVSaTZDQ3NBWUYtdw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Global Data Analyst Senior Specialist in Gurgaon, Haryana, India | Expertise and Insights at BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZjJNM19rUTI0aWFDUzhlbUhvNWU5MTdxbjZWQUc3X0FuSnBOcXV2OVhRWnNtTUdGXzE4OFE3bVo0b09EWTRWZXE4UUhDbElGd1RORm5CeHdIVFZDVUxXTEF0RmozczZmSXkyUVc5MEdWSG00MGRaQW10YTFfVU93ZkNaRnh3cFpG?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Don’t Wait for Good Times to Focus on Growth - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcnJKd21ISWlvdk5iM2ZHMnRORVVVUGFtaFlIWTg1eEl4UW9JWFlNRkRvQU1rcFFyS1pTc0RTTm1oNW9SS3J1OEFkSjNoYi02Y01MNWlZVEhiSmxVZVdLUldFeFhRMjRlOThfc21nYlg5Nml3dy1zUGlycVNaMmxBRDhqTDJJMG9Z?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Data Scientist, Finland - BCG X in Helsinki, Finland | Data Science and Analytics at BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5YSy1rZ2g3YlI1VXV2X2I3bGJmWFAyWHZqSFo3NkJGRFRYZEZDaV9lXzBaSG1wX0FzM1F4aUttUkN6OE01MkxsUG1NSGdqbkxPUXNtM095c0dNYzRQTFJEOHZ6OTFScDVRazJ2dDlEX2FNTlBvWG5kUUtKMl8?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Data Scientist, Internship, Finland - BCG X in Helsinki, Finland | データサイエンスと分析 at BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1rWkRRYThRNTFmVGZKM0x6U283enFLYTZXOUNTRVdpRnFmTkJVLXdHcGhPM3dOT2RzeE04Q0pYb0VzUmJOcHIyNTBBTDM5YkV5TEtfQkZxU2ZIWG83Vm9LZDJqSFR3LVlF?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Manager/Principal, Platinion in Johannesburg, South Africa | Technology and Engineering at BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1fcWZhTWN4aEpCQl90VHF3N2ZUR3hpZHJIUUNLMDhJUGlXUTVTRktrVUJpWGJFcDgyYU01a203VnVmNFg2SG0zU08wRnJvMm1QQTJqWEtFN2ZxU2Y5MHlJMlQ0ZS1YYjZGYkRLZUtEZkotQ2dMek96YW52VQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
     },
     {
       "title": "Gemini Deep Think: Redefining the Future of Scientific Research - Google DeepMind",
@@ -912,5 +982,5 @@
       "source": "news"
     }
   ],
-  "generated_at": "2026-02-12T06:08:18.601Z"
+  "generated_at": "2026-02-12T06:08:31.573Z"
 }
