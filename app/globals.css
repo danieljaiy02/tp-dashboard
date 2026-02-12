@@ -242,6 +242,23 @@ body {
 }
 
 /* ─── Top gradient accent bar ─── */
+/* ─── Hide scrollbar on Quick Links (mobile horizontal scroll) ─── */
+.scrollbar-none {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+.scrollbar-none::-webkit-scrollbar {
+  display: none;
+}
+
+/* ─── Mobile: show delete buttons (no hover on touch) ─── */
+@media (hover: none) {
+  .touch-visible {
+    opacity: 1 !important;
+  }
+}
+
 .top-gradient-bar {
   background: linear-gradient(
     90deg,

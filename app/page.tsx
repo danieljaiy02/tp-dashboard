@@ -61,22 +61,44 @@ function parseSections(markdown: string) {
     icon: string;
     gradient: string;
   }[] = [];
-  const parts = markdown.split(/###\s+/);
+  
+  const lines = markdown.split('\n');
+  let currentTitle = '';
+  let currentContent: string[] = [];
 
-  for (const part of parts) {
-    if (!part.trim()) continue;
-    const lines = part.trim().split("\n");
-    const title = lines[0].replace(/\*+/g, "").trim();
-    const content = lines.slice(1).join("\n").trim();
+  for (const line of lines) {
+    const headerMatch = line.match(/^#{1,3}\s+(.+)/);
+    if (headerMatch) {
+      // Save previous section
+      if (currentTitle && currentContent.length > 0) {
+        const match = Object.entries(SECTION_CONFIG).find(([key]) =>
+          currentTitle.toUpperCase().includes(key)
+        );
+        if (match) {
+          sections.push({
+            title: match[0],
+            content: currentContent.join('\n').trim(),
+            icon: match[1].icon,
+            gradient: match[1].gradient,
+          });
+        }
+      }
+      currentTitle = headerMatch[1].replace(/\*+/g, '').trim();
+      currentContent = [];
+    } else {
+      currentContent.push(line);
+    }
+  }
 
+  // Don't forget the last section
+  if (currentTitle && currentContent.length > 0) {
     const match = Object.entries(SECTION_CONFIG).find(([key]) =>
-      title.toUpperCase().includes(key)
+      currentTitle.toUpperCase().includes(key)
     );
-
-    if (content && match) {
+    if (match) {
       sections.push({
         title: match[0],
-        content,
+        content: currentContent.join('\n').trim(),
         icon: match[1].icon,
         gradient: match[1].gradient,
       });
@@ -253,7 +275,7 @@ function SourceFeed({
                 <button
                   key={tab.key}
                   onClick={() => onFilterChange(tab.key)}
-                  className={`px-2.5 py-1 rounded-md text-[11px] font-medium transition-colors ${
+                  className={`px-3 py-2 sm:px-2.5 sm:py-1 rounded-md text-[11px] font-medium transition-colors ${
                     filter === tab.key
                       ? "bg-white/[0.08] text-zinc-200"
                       : "text-zinc-500 hover:text-zinc-300 hover:bg-white/[0.04]"
@@ -313,14 +335,14 @@ function SourceFeed({
 
 function QuickLinksBar() {
   return (
-    <div className="flex flex-wrap gap-2 mb-8 animate-quick-links">
+    <div className="flex gap-2 mb-8 animate-quick-links overflow-x-auto scrollbar-none sm:flex-wrap sm:overflow-visible -mx-4 px-4 sm:mx-0 sm:px-0">
       {QUICK_LINKS.map((link) => (
         <a
           key={link.label}
           href={link.url}
           target="_blank"
           rel="noopener noreferrer"
-          className="px-3 py-1.5 rounded-full text-[11px] font-medium text-zinc-400 bg-white/[0.03] border border-white/[0.06] backdrop-blur-sm hover:border-amber-500/20 hover:text-zinc-200 hover:shadow-[0_0_12px_-3px_rgba(245,158,11,0.1)] transition-all"
+          className="shrink-0 px-3 py-2 sm:py-1.5 rounded-full text-[11px] font-medium text-zinc-400 bg-white/[0.03] border border-white/[0.06] backdrop-blur-sm hover:border-amber-500/20 hover:text-zinc-200 hover:shadow-[0_0_12px_-3px_rgba(245,158,11,0.1)] transition-all"
         >
           {link.label}
         </a>
@@ -373,7 +395,7 @@ function ActionItemsSection({
             value={input}
             onChange={(e) => setInput(e.target.value)}
             placeholder="Add an action item..."
-            className="w-full bg-white/[0.03] border border-white/[0.06] rounded-lg px-3 py-2 text-sm text-zinc-300 placeholder:text-zinc-600 focus:outline-none focus:border-amber-500/30 transition-colors"
+            className="w-full bg-white/[0.03] border border-white/[0.06] rounded-lg px-3 py-2.5 text-base sm:text-sm text-zinc-300 placeholder:text-zinc-600 focus:outline-none focus:border-amber-500/30 transition-colors"
           />
         </form>
 
@@ -389,10 +411,10 @@ function ActionItemsSection({
                 key={item.id}
                 className="flex items-center gap-3 px-3 py-2 -mx-3 rounded-lg hover:bg-white/[0.04] transition-colors group"
               >
-                {/* Checkbox */}
+                {/* Checkbox — 44px touch target on mobile */}
                 <button
                   onClick={() => onToggle(item.id)}
-                  className={`shrink-0 w-4 h-4 rounded border transition-colors flex items-center justify-center ${
+                  className={`shrink-0 w-6 h-6 sm:w-4 sm:h-4 rounded border transition-colors flex items-center justify-center ${
                     item.completed
                       ? "bg-amber-500/20 border-amber-500/40"
                       : "border-white/[0.12] hover:border-amber-500/30"
@@ -400,8 +422,7 @@ function ActionItemsSection({
                 >
                   {item.completed && (
                     <svg
-                      width="10"
-                      height="10"
+                      className="w-3 h-3 sm:w-2.5 sm:h-2.5"
                       viewBox="0 0 10 10"
                       fill="none"
                     >
@@ -428,10 +449,10 @@ function ActionItemsSection({
                   {item.text}
                 </span>
 
-                {/* Delete */}
+                {/* Delete — always visible on touch devices */}
                 <button
                   onClick={() => onDelete(item.id)}
-                  className="shrink-0 text-zinc-700 hover:text-red-400 transition-colors opacity-0 group-hover:opacity-100 text-xs"
+                  className="touch-visible shrink-0 text-zinc-700 hover:text-red-400 transition-colors opacity-0 group-hover:opacity-100 text-xs p-2 -m-2"
                   title="Delete"
                 >
                   ✕
@@ -467,7 +488,7 @@ function NotesSection({
           onChange={(e) => onChange(e.target.value)}
           placeholder="Jot down notes, ideas, follow-ups..."
           rows={6}
-          className="w-full bg-white/[0.03] border border-white/[0.06] rounded-lg px-3 py-2.5 text-sm text-zinc-300 placeholder:text-zinc-600 leading-relaxed resize-y focus:outline-none focus:border-amber-500/30 transition-colors"
+          className="w-full bg-white/[0.03] border border-white/[0.06] rounded-lg px-3 py-2.5 text-base sm:text-sm text-zinc-300 placeholder:text-zinc-600 leading-relaxed resize-y focus:outline-none focus:border-amber-500/30 transition-colors"
         />
       </div>
     </section>
@@ -510,7 +531,10 @@ export default function Dashboard() {
   // ─── Fetch briefing data ───
   const fetchBriefing = useCallback(async () => {
     try {
-      const res = await fetch("/briefing.json", { cache: "no-store" });
+      // Cache-bust with a timestamp so the browser always fetches fresh data
+      const res = await fetch(`/briefing.json?t=${Date.now()}`, {
+        cache: "no-store",
+      });
       const data = await res.json();
       const d = Array.isArray(data) ? data[0] : data;
       setBriefing(d);
@@ -756,7 +780,7 @@ export default function Dashboard() {
             <button
               onClick={handleRefresh}
               disabled={refreshing}
-              className="text-zinc-500 hover:text-amber-400 transition-colors p-1 rounded-md hover:bg-white/[0.04] disabled:opacity-40"
+              className="text-zinc-500 hover:text-amber-400 transition-colors p-2.5 sm:p-1 -m-1.5 sm:m-0 rounded-md hover:bg-white/[0.04] disabled:opacity-40"
               title="Refresh briefing"
             >
               <RefreshIcon spinning={refreshing} />
@@ -787,7 +811,7 @@ export default function Dashboard() {
                 <div className="relative">
                   <button
                     onClick={() => toggleSection(i)}
-                    className="flex items-center justify-between w-full text-left group"
+                    className="flex items-center justify-between w-full text-left group py-1 sm:py-0"
                   >
                     <div className="flex items-center gap-3">
                       <span className="text-lg">{section.icon}</span>
@@ -836,8 +860,8 @@ export default function Dashboard() {
         {/* Week Archive */}
         <WeekArchive />
 
-        {/* Footer */}
-        <footer className="mt-14 sm:mt-16 pt-6 border-t border-white/[0.06] animate-fade-in-footer">
+        {/* Footer — extra bottom padding for iPhone home indicator */}
+        <footer className="mt-14 sm:mt-16 pt-6 pb-4 border-t border-white/[0.06] animate-fade-in-footer safe-bottom">
           <div className="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-2">
             <p className="text-zinc-600 text-xs">
               Automated via n8n &bull; Claude Sonnet 4.5 &bull; Reddit + Hacker
