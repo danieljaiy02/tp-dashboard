@@ -1498,8 +1498,15 @@
       "score": 0,
       "comments": 0,
       "source": "news"
+    },
+    {
+      "title": "A New Economic World Order May Be Based on Sovereign AI and Midsized Nation Alliances - Stanford HAI",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcVVDZGxfaERySnFTNVRqSUxjU0M1bkVEUFQ0TFhkZV82LUxhRWtTWUlEVEV6cUtRUVhLTzdsY2J3ckZxSVN6QUo0cjdzSWlacmpTLXU1bzAyQU10aEQ1SXVkNHVOaTN3cEFxelFXcjExWHhja2xJN2hIS3cwQU9ZMGE2Wl9iVGt1X3hSUDl6UGV2bzUzZ2VvWTUxRVlxQm5MTjVIYWlZRmpZeXJIQUV5UnBpb2hsdw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
     }
   ],
-  "generated_at": "2026-02-12T05:50:01.087Z",
-  "debug": "{\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011CY3eigqRELuyTnUkpT5fa\"}"
+  "generated_at": "2026-02-12T05:50:03.102Z",
+  "debug": "{\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011CY3eiqUL1YqgCrVDYSJdp\"}"
 }
