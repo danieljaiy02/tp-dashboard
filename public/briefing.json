@@ -142,6 +142,27 @@
       "source": "techcrunch"
     },
     {
+      "title": "Gemini Deep Think: Redefining the Future of Scientific Research - Google DeepMind",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRmtMZnRYNW04a3Q4b0dSQm9aall0S3BJWFFOczQ3dmdfX3cyR1plYlotZHg5ekhlZ2s3cUd6Y1pyT3lkVEJrV1V0c0NWVlBQNHlMbXlEbXpTYWlSVUZHVllYZWdSb2RMU2JTelVGMXBEckZSdWt5VUs1d24zdUVLaExpS0NZMmtpSTRoNDd2MHRZdlBRaWxSWmVTNk0wRWtRQ2NaV2ln?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "K-Health enhances its AI physician by fine-tuning Gemma 3 with real-world clinical data - Google DeepMind",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9mT0hUeVh3X2hOUG5Fc3VibG1wNlNmcFRXZFc2TFdJZ3dPZkVQeGhnUDExelJiSFh2U25pdzJHeTlRYUdMMjN1ampkRC1QTzV4T3pDbDZHQ0ZVSlpsVERJMFVTenRVWnRT?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Hybrid neural–cognitive models reveal how memory shapes human reward learning - Google DeepMind",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB5REdrQjc0d0RqTDFfWXd1cmIxMkZEVl9ENWg0bDZGbEdHcFZaYVY0LTFHX2Y3SEdsb2tkSTFMTi1NNW9iTVUzaFctem52VTk1dS1kbTQ5V2xJQThyMUFCQU9B?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
       "title": "Covering electricity price increases from our data centers - Anthropic",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBUZlJZd1hSbDZKNDAtaEFoNG90LXd0Y2Z3Y3dTdWdkSUNCWTl5dE12VFpzQzg3VkVacUZQOWdXLUtBN2VYTmtubVBMdEhBTmhNclZkTXp5RXI0REJsVUNSbFVMVUtBM0tvU1NNYVlZZk00VENBaVE?oc=5",
       "score": 0,
@@ -891,6 +912,6 @@
       "source": "news"
     }
   ],
-  "generated_at": "2026-02-12T05:49:46.465Z",
-  "debug": "{\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011CY3ehcLmeuPmZKzGScu4c\"}"
+  "generated_at": "2026-02-12T05:49:48.405Z",
+  "debug": "{\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011CY3ehkbryVS5WPdEVdxeZ\"}"
 }
