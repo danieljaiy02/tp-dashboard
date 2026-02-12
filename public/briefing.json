@@ -1,5 +1,5 @@
 {
-  "summary": "## COMMUNITY PULSE\n\n- **GLM-5 model release dominates discussion** (998 pts, 170 comments across multiple threads) - Strong enthusiasm for China's new open-weights leader scoring 50 on Intelligence Index, with community comparing it to MiniMax M2.5 launch and discussing whether this signals China's \"Agent War Era\"\n\n- **xAI turbulence draws scrutiny** (258 pts, 90 comments) - Community dissecting Elon Musk's statements about employee departures, with half the founding team now gone and interplanetary ambitions being questioned given current GPU constraints\n\n- **Yann LeCun's LLM obsolescence claim sparks debate** (124 pts, 140 comments on HN) - Deep philosophical discussion about whether today's transformer architecture represents a dead end, with researchers and practitioners split on implications\n\n- **OpenAI Codex standardization at NVIDIA** (115 pts, 34 comments) - Mixed reactions to potential platform lock-in, with enterprise developers concerned about vendor dependency\n\n- **Mathematicians challenge AI to \"show your work\"** (191 pts, 38 comments) - Growing demand for interpretability beyond benchmarks, particularly relevant for scientific and research applications\n\n## KEY DEVELOPMENTS\n\n- **OpenAI ships GPT-5.3-Codex and OpenAI Frontier**: Major enterprise push with new coding model, agent platform, and ChatGPT ads launch. \"Skills\" API enables long-running agents with shell access and state persistence. Testing ads signals monetization pressure.\n\n- **Anthropic releases Claude Opus 4.6**: New flagship with Excel/PowerPoint integration, updated Responsible Scaling Policy, and sabotage risk reporting. Focus on agentic workflows for enterprise, including parallel Claude coding teams.\n\n- **Chinese models surge**: GLM-5 (open weights, Intelligence Index leader), MiniMax M2.5, and DeepSeek grayscale testing (1M context) all drop simultaneously. Hugging Face leaderboard now dominated by Chinese models.\n\n- **xAI bleeding talent amid GPU shortage**: Half of founding team departed, Musk citing \"push not pull\" while Z.ai publicly admits GPU starvation. Questions intensify about viability ahead of rumored IPO.\n\n- **Google signals Gemini 3 Pro successor \"this week\"**: Lead product designer promises \"something even better\" than Gemini 3 Pro, plus continued Deep Think development for scientific research and math reasoning.\n\n## WHAT THIS MEANS FOR TP\n\nEnterprises are choosing platforms now—OpenAI's agent infrastructure (Frontier, Skills) vs Anthropic's safety-first enterprise play vs emergent Chinese open-weights options creates consulting opportunities around selection, integration strategy, and avoiding lock-in. The simultaneous shift toward agentic workflows, longer context windows, and domain specialization (coding, science, math) means TP should position on orchestration and governance across heterogeneous model portfolios rather than single-vendor solutions.",
+  "summary": "## COMMUNITY PULSE\n\n- **Z.ai GPU shortage and GLM-5 release dominates discussion** (998 pts, 170 comments) - Multiple threads on GLM-5's release with strong technical interest; community excited about new open weights leader scoring 50 on Intelligence Index\n- **xAI founder departures create skepticism** (258 pts, 90 comments) - Community questioning company stability as half of founding team exits; Musk's \"interplanetary ambitions\" statement met with mixed reactions\n- **Mathematicians challenge AI capabilities** (191 pts, 38 comments) - Growing sentiment around AI's inability to \"show its work\" in rigorous mathematical contexts; skepticism about reasoning claims\n- **Yann LeCun declares LLMs \"nearly obsolete\"** (124 pts, 140 comments on HN) - Heated debate on fundamental limitations of current transformer architectures; community split on timeline for next paradigm\n- **DeepSeek 1M context testing begins** (123 pts, 42 comments) - Anticipation building around Chinese model capabilities; practical applications being discussed\n\n## KEY DEVELOPMENTS\n\n- **OpenAI launches GPT-5.3-Codex and Frontier platform** - Major enterprise push with new coding model, agent infrastructure (Skills/Shell), and \"OpenAI Frontier\" for AI agents. Testing ads in ChatGPT. Disbanded mission alignment team signals organizational shift.\n\n- **Anthropic releases Claude Opus 4.6** - New flagship model with extensive safety documentation (Sabotage Risk Report, System Card). Focusing hard on enterprise agents, Excel/PowerPoint integration, and agentic coding evaluations. Addresses infrastructure noise in evals.\n\n- **Chinese AI surge: GLM-5 and MiniMax M2.5** - GLM-5 becomes top open weights model (50 on Intelligence Index). Z.ai publicly admits GPU constraints. DeepSeek testing 1M context. Community asking if this signals \"China's Agent War Era.\"\n\n- **Google teasing Gemini updates** - Lead promises \"something even better\" than Gemini 3 Pro GA this week. Deep Think positioning for scientific research. K-Health fine-tuning Gemma 3 with clinical data.\n\n- **xAI in turmoil** - Half of founding team departed; Musk pivoting messaging to \"interplanetary ambitions\" and moon missions. Investor confidence questions emerging.\n\n## WHAT THIS MEANS FOR TP\n\nThe agent infrastructure war is heating up (OpenAI Frontier, Anthropic enterprise focus, BCG-ElevenLabs partnership for conversational agents). GLM-5's open weights leadership and Chinese model advances create competitive pressure on pricing while DeepSeek's 1M context could enable new use cases. For TP: enterprise clients will expect agent deployment roadmaps, not just chatbot implementations.",
   "sources": [
     {
       "title": "Z.ai said they are GPU starved, openly.",
@@ -455,6 +455,69 @@
       "score": 0,
       "comments": 0,
       "source": "techcrunch"
+    },
+    {
+      "title": "AI in Southeast Asia: An era of opportunity - McKinsey & Company",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSkhtMm41MHozdEw0c2lrcWpRUFlSQkpid3QySWN5cVZnNnF5a2stel9acDZId3dvWkI5ZEdZSEhDRzEyOS1xQS1ZUzBfcHN1di1Dd085YTZVeFBPUU5sOEY0NnlUc21ab2tRYWE3dXk4LTlSbXB5UXk2Vnk0S2ZtQVp5ZjBSSWowa0x2WHludFdMV21Gc2EzMGpEUllnUzlKYlE?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "mckinsey"
+    },
+    {
+      "title": "The new CIO mandate: Strategy, speed, and scaled intelligence - McKinsey & Company",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORkhBbXUxZ2pncEszdEZtc1BBeU5FM2h0QXVfOWtnTjdGbHdDR3lmUDNzWlJzaExMQkhMOG5lNjM4Zk9fSklzSWI4ZXF4STdmVEIzUkx5UjNLVDJmTG85WE1fTVVEN1NWMWVLS3ZjdUU1Mk0xWDh4MmtxTE4wNTRzU2I0R1pnbG5sTU9VdWJxaEJiYy1qeE8zc0ZwQkdFaUlMQkZVNU5LSWpBT1NwSER4VXF3aEx6VDkxSnl4UmJ2YTM5Ty1lWkgzNQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "mckinsey"
+    },
+    {
+      "title": "AI in the workplace: A report for 2025 | McKinsey - McKinsey & Company",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNHluenp6NE4teVg3bTJiWG9VZk81dDQwcDBJcmVJWlBHdWhIYWRSYTNWX052aHVZdjhfdmxXNk9mTENURGRzdURmMExpTm5VazdfTWZpcUxTV21TcThJbHc2cFluMmRjMXdVeE80ZDhBR0JUWUhJcHJiX2Rva1lGT2tfMDNEOHZzRkJwSUpoM3FwZjh1RU56aXcxclFqNnRyVkRBVkJIbUkyaloxWGpscjJTZ2hYVkNxX0g2d2liUm41MlhaZDQwcl9JTlFtcWVGd3d0Vzg5V3Y?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "mckinsey"
+    },
+    {
+      "title": "Senior Software Engineer - QuantumBlack, AI by McKinsey - McKinsey & Company",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUmpCT3ZwV21kc3NXRW82UjJlVThrQjd0eXJXalBrLWZBRjg1b0lxNW5VUktuZ3pWT1YtYmVXZmxISUxkcDJjWDl1MHJhSDdWUS1YbmpIQXJOYzJLWTlhSkR1ZFNzM1F0dnhJc3pBV0g4WS1FYVZGbXBWWWx6VkFyb25NUHM1ZkVtZl9hdjRuUTA1ZUxsSkJvdWt3b2o2Z1d1Vm92TmEtZw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "mckinsey"
+    },
+    {
+      "title": "Jobs | Careers - McKinsey & Company",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNUhYaFczMjFPNmV5YVUyb3ZRSUowTS1CdTFHc3VRcVBhRktEYjJxT0J0cHR5XzJWUGhLSGV3bHVVQXlIQzhQVEM1V2l0Tld5a0pRbExwYjBEek5NcjRicU1OZ1JfYWFJekpTeER5N2E3UVIwQ3BvSVNWUDU1X0x5RGNpbw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "mckinsey"
+    },
+    {
+      "title": "Beyond the bot: Building empathetic customer experiences with agentic AI - McKinsey & Company",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZHNPX0VJVkNlcDgzQjJRRlFHak9uRzcwZnQ0RkZNSG1Ud0N1cWZwZUNxLXdPTi1RdnNHdTdCMWExcDNQQmtSOXlHbG04dmJ4clB1Q3l1cngyLW02VEYzeEtyMGVWUktUSjZ3Z1d6WmRYSUdzbFJ5SlVSLTNDTlFEaEt3QXRoVjdJVFI2QXVnVGl0WkZObWc4YWluZVNXYS1ZcXdKY3Fuc2lnU2VEckZXbW5BVWxLNnpKVUNtcnh1Zm5hay1CVGNKcUtiYlpzUQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "mckinsey"
+    },
+    {
+      "title": "The Committed Innovator: Keeping up with AI and deploying it as it evolves - McKinsey & Company",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNdW4ybjN5bDE5LWF3c3l1Q2F0N01ZSURKcUY0cG1aZjZNcTlsRExINTVPMVZ6UHFEaDBCTUwwN0NJbUNOQlY3bFk5SWJMRndFb3pOSFAtVmw1YlpaNXljLXo0LWhHZ1dKOElqZGpPNWdYa1B0QmZsMmNNT0dZVGplbDc3T3NXLW91Qm9oWWMyT1NGSW81bzVsQ3hNTVkxZEdjVnVTRjJXcUhfaEItWlBtazVGdDlPV0RtSmFER0VBUF9yOU9PQ2FFNHhfMlYyazdLaDR6cjZuTnNmVnRsTFNFSldBSDljTHNEX3Vz?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "mckinsey"
+    },
+    {
+      "title": "What to expect in the global fashion industry in 2026 - McKinsey & Company",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQ3J1YThZT2I0SmttTXNjLUtNaGQwMEN1YTB6OFZrbUttdXo2Z200UkJGTnlWMjQ0ai05bmw1TEoyTDFUajdRLUs5c1ZtTFBqVEx1bzU5TWhnMG5LUjI2LTVhQnV1RGZSSXVyUHVVd2NpMTFHcHlJUy1tLWJLZzlvMml4VThyc1JTNzRkb3BnN1pzUHZVd2M1Yk8yckp5STlFTUFJRUhZVTFoTTVvZ3c?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "mckinsey"
+    },
+    {
+      "title": "Monthly Highlights, February 2026 - McKinsey & Company",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcDJZbGplLUFpRXBzQmV0czFwRmpwZEdJNEl2WTJYQWs2eXdFQVcyTFZpZGRvQ3U4cXpXbk56UFd1SzFQU0tKdTAxaEp2TG8xQkgzWnBfSUJkbndaSDdqTExQOG1RTDVTNThKNjQxUEdRRThQV2dDeFR1Q1BkVGpId21obw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "mckinsey"
     },
     {
       "title": "Beyond Media Rights: A Whole New Ballgame for Sports - Boston Consulting Group",
@@ -1297,5 +1360,5 @@
       "source": "news"
     }
   ],
-  "generated_at": "2026-02-12T06:09:22.893Z"
+  "generated_at": "2026-02-12T06:09:44.177Z"
 }
