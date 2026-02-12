@@ -1,5 +1,5 @@
 {
-  "summary": "## COMMUNITY PULSE\n- **xAI mass exodus** (High engagement across platforms) - Half of xAI's founding team has now departed, with Musk claiming exits were \"push, not pull.\" Community skeptical of leadership stability and interplanetary ambitions timing.\n- **OpenAI Frontier & GPT-5.3-Codex launch** (Strong developer interest) - New enterprise agent platform and coding model generating buzz, though some users reporting the \"codex app is insanely fast\" while others concerned about token consumption.\n- **ChatGPT ads rollout** (Mixed reception) - OpenAI testing advertising in ChatGPT drawing criticism from users who question monetization strategy for paid product.\n- **Modal Labs $2.5B valuation talks** (Investor attention) - AI inference startup's meteoric rise sparking discussions about infrastructure layer valuations and competition.\n\n## KEY DEVELOPMENTS\n- **OpenAI ships major enterprise products**: GPT-5.3-Codex (coding model), OpenAI Frontier (agent platform for enterprises), and Skills API all launched. Also testing ads in ChatGPT and expanding government contracts (GenAI.mil). Disbanded mission alignment team while firing policy exec over discrimination claims - organizational turmoil amid aggressive expansion.\n- **xAI bleeding talent and credibility**: Half of founding team has departed. Musk positioning exits as intentional while pivoting to interplanetary messaging. Raises questions about technical execution vs. narrative-driven fundraising.\n- **Infrastructure wars heating up**: Modal Labs raising at $2.5B (inference), Glean fighting for enterprise AI layer ownership, Amazon launching AI content marketplace. The \"who owns the AI layer\" question becoming central for enterprise deals.\n- **Enterprise AI sales modernization**: Former Founders Fund VC launching AI sales startup targeting Salesforce displacement. Meridian raises $17M for \"agentic spreadsheets.\" Pattern shows traditional B2B software vulnerable to AI-native replacements.\n\n## WHAT THIS MEANS FOR TP\nOpenAI's Frontier platform and Skills API represent a direct play for the enterprise agent market - TP should evaluate whether to build on this infrastructure or maintain vendor neutrality. The \"AI layer\" battle (Glean, etc.) signals clients will soon face critical architectural decisions about where intelligence lives in their stack - positioning TP as the neutral advisor on these choices could be valuable. xAI's instability creates opportunity gaps in enterprise AI consulting market.",
+  "summary": "## COMMUNITY PULSE\n- **xAI exodus accelerates** (high engagement) - Half of xAI's founding team has now departed, with Musk framing exits as terminations rather than voluntary departures. Community skeptical of internal stability.\n- **OpenAI's mission alignment team disbanded** (significant concern) - Policy exec who opposed adult chatbot mode reportedly fired on discrimination claim. Reddit threads questioning OpenAI's commitment to safety over commercialization.\n- **Modal Labs raising at $2.5B valuation** (investor interest) - AI inference startup's valuation generating debate about infrastructure layer economics and competitive moat sustainability.\n\n## KEY DEVELOPMENTS\n\n**OpenAI launches GPT-5.3-Codex and \"Frontier\" enterprise platform** - New coding-focused model with agent capabilities, dedicated enterprise platform for AI agents, plus ads rolling out in ChatGPT. Major monetization and product expansion push.\n\n**Anthropic ships Claude Opus 4.6 with safety reports** - Released comprehensive sabotage risk assessment, 0-day exploit research, and infrastructure noise analysis. Positioning as the safety-conscious enterprise alternative.\n\n**xAI internal chaos vs. interplanetary ambitions** - 50% founder attrition while publicly discussing lunar plans. Stability questions as company tries to scale.\n\n**Amazon prepping AI content marketplace** - Could become distribution channel for media companies to license training data. Potential new B2B opportunity.\n\n**Glean raising profile for enterprise AI layer** - Multiple features positioning them as the internal AI interface layer. Direct competition for consulting implementation work.\n\n## WHAT THIS MEANS FOR TP\n\nEnterprise clients will ask about OpenAI Frontier vs. Anthropic for agent deployments—need clear POV on reliability, safety requirements, and total cost of ownership. The \"who owns your AI layer\" fight (Glean, Microsoft, etc.) creates implementation consulting opportunities but also potential margin compression as platforms productize services.",
   "sources": [
     {
       "title": "xAI lays out interplanetary ambitions in public all-hands",
@@ -140,6 +140,146 @@
       "score": 0,
       "comments": 0,
       "source": "techcrunch"
+    },
+    {
+      "title": "Covering electricity price increases from our data centers - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBUZlJZd1hSbDZKNDAtaEFoNG90LXd0Y2Z3Y3dTdWdkSUNCWTl5dE12VFpzQzg3VkVacUZQOWdXLUtBN2VYTmtubVBMdEhBTmhNclZkTXp5RXI0REJsVUNSbFVMVUtBM0tvU1NNYVlZZk00VENBaVE?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Sabotage Risk Report: Claude Opus 4.6 - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHYk5uOG5QQUlwNGhTdUs0aFdYQVpTVnY2YXFPVFBMOFdMc1RlUkxDUnhGQjhXOGRyRU1xb2w3TGNjTUs5ZmtlZmdHUUdTNXE3Z0JGMG9NV0pBZ3BFUVE?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Claude Opus 4.6 System Card - www-cdn.anthropic.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1WelBYMm1oSGFvcmdmTkM4OUhCNER3N0I3SzFRRVVmQUJWSEtSLWplQzNBZjVSWnVxMmgtR2szel91TGdDV0lqTzhReUczbWl1NGZ6cW1NWkV1SzdSYXAyeFY5MzlMQmFSdHlST09pZFNiTnpkSlF0VTBjMXZCUmc?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Evaluating and mitigating the growing risk of LLM-discovered 0-days - Anthropic Red Team",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBEd1U5RWVzTzJaMUdtaUp3VnBjTHhMMFY3VWlkVmVpTGE5Sy1Oa3VubDRKSkU2dXlCbURoa3JpOTN6am9SZnlIR2VJemNOc29vZS1J?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Introducing Claude Opus 4.6 - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE90b09UTmFMU3laaUE4WGQ0ejltUDEtZHdHMjlSY1pDTUhjX1A3VF9qRU56ejhuRkR3eFFvUFB4UV9ZTjMzaklkTkczSEJZWXRNOE1UX3hDd3dHdw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Building a C compiler with a team of parallel Claudes - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5NUkt0Nm9IUS03YjJqelFmYzBnZFRfZDhsWTNDMUlaN2ZwdGMwNDRSTk1aMjRPb3dGdkxYTElnVGVjZHRrOV8ya0JuZWNzM2diemJDZktWR0RKdTVIang0ZjB4SHhrZnlz?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Quantifying infrastructure noise in agentic coding evals - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5SaE9rUUJHWC1wZm01M3IzV3VpLXpnOVdRbkJpLU9jeTZCOGltREw5VUpYTHlYRjV5RnE5STUxREJRTXZMZEx4UC1tQUlzYm5lYUhBdEt5YTVOZk5OQksxVzg5UjUwSFRlWGc?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "How to transform work with Claude in Excel and PowerPoint - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9SS1FjRms2Vkd1bXhUWGxydEx4Q3dWVXVuSUYwZVpNczZXem91X1o2amFzLUd1ZWZsLXlPYXRUWkVfa2kzREtQZG1jVjRkdUlQVktLZHBLWkFpb0dneEYwaXRXRkpaME5EUlpSa21MRldaM2c?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "The Briefing: Enterprise Agents - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdU1jQi1jWXIzZFNvVFJZLUhKNFlXN01XTGVrd1U1U3d4RXB6SWtYbE5GZnBid1BWSjduM3lIYXVoV0F6bkJQNV91WmVnQWxBVzZwS0RFLWZqRFp4czQ4RFk0emZJd0F6c2hHUG0zWERMWXNaLVNzcV9oeHJUekZwZHZxOA?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Jobs - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPUklpdUN6UkhIOHdsUW83ekp4Sk1WTVcxU0loS3Blck1NaG02cHRnazU1LVRxT05PazBPN2YtS1MyT19DUUxpclJzRkdVRVdxdFd1LVZUVjJlUHNmS1BIQlo0ZUdCMWVoYm0zZGJldk9rNXF6aVhrbHZtZ1VPYTVkVjJYZ1BqQ20wb2JnZmhpZXZUZXhxTVFLNnpwWFJTWnQzeFdBeU5tcnJkWXJlOHVfWE1kVGpEQUxiam5PZnBSaHJBUU1MUXZhbTUwQS0wUVZMUUQ0OFFDU1I?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Responsible Scaling Policy Updates - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ieHJIeW1xcWh4T0dqQU9lc25UOVBIOWZnODNjNlUwTXdteUo1SHdlRFZHVjFZaW5xQ2NESk5Ib2ZVc1c5alpVb3IxenBSZEpyTEtWWmVEdU5qTDBHa2RqVDRZb0o2cFRGU2RmUzh3Qk9IV3RSVjE0?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Agentic AI in action - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5hZVhKUkdRYlFSd1UyV0x1aGVycHhmQjkzaUNhQ252ZFZKcldZZDZiUGFVM0QyUHRhQ3VzMWMyaldxdUxhR1B4cU80MGFKRFhrT3Q5ZldXdEVTalllY005d1pKMA?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "AI Fluency: Framework and Foundations - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Oa0ZnNG85NUdadXBSZ0VHcEdHX21pcGRwTFh5RUtPQ1Q2TTl1MVVVTlVhbVllVEFxOUttb3M5MkU3c0xla29feF9FZkFfWUpYZG92YW9ucklHZlFuWHFlcVdITDQ0NV94dEQ0d0lUcm5kTTNHeEI0S2tBTmt0ZVE?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Anthropic’s Transparency Hub - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNLUF1b25tNDRiczNqQTFMejhxWm1BNGNXaE15T0pyazlLWTRLU0ZfSE5lQzd3d21HYnIxbHBOR2lON2VXazNiNVhTRnRLakltdDgyLVNMX2lONDJvNDNFa0ZPYlptblh3dzZBaDFZQUNrZU9pX25ibVFnTmZMM0xSVmJXR2daQ1l4Z2t4SnNR?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Building AI Infrastructure for Healthcare: A Customer Success Story Zingage's 0 to 1 Story - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbzNfV3B6ZmdYTVB0X1VmbHYyT2JSUjlxckt2aGU2RGlBRUl0dk1oeXVYVnVKcl9IemlMWVdLOUJsQWZBdWEyU1JSQVFOMHcyN1hnNHBjcTQ3bkJRLUtwaGV6VGlOb01yVVFKMW4zMzNESGxrWTJBVXN4SzFNR1p6UXBkUlJtRFRaN0NxdUs2MlA5REw1UUlBZWplS3g3TWhLY2ViemhHc1JRVW1sb2lHSVBnT09jVGI3R0MtZWkwUWQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Overview - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE91UGcwV1FDSFVwY2tFVHRJV29Md3EwTzg4SE92cEFERV9NNGRJTlhtNU9yZ0NfOG9STk54VThfRWdVcHlYNUpVdURB?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Jobs - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5pU3B5WGxVQVFJcVdDSURBX2lwdlEyYTZ4bGlhSjdvUzBKSWFKSHh0MDJKY0xBM1ZkbVd2Z0RsX05NVy1pVWpWQUFtUmFhUVBRZTJJbXBYMWgxZ1JPclVZaS1IZ0tLS1AtUGlELQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Anthropic Academy: Claude AI Solutions for Business - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE96dFpVRVBqVjNudmpHZU56U2lHZTgwRXI0aXItTjVxMzJtTkpQT2tvd29RNC1GLUMzV0xGaGNubW0tcV84YlRtQ0NjeDR0SXlhVk11cGdFbzZ6MjlMenlJaXVMYmk3T2Z2anpsbXdZUmQ0OU05VGNZWFFmbw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Engineering - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObUdjOGZJNHE4aS1qYWMxeHIwTDBZSGlHWXF3dnp6WFlUX3l3Tk1iNERRYVY4Q1R6bGNjbHpRdGh3S1BOTUZQRjlrSUJZR0dyTDlHRUJKUk1oRzVPVEMtcHltRnFHaVByZXhGSnhWakJiTTZTSUt1RnctY1c2NDU3aVZiYnVadFhOdnc?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Economic Futures - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBTcUR3LUo2TUJHNHNDaGI3cjdCN0puWUVBd1ktNVhSQ0Vab05pbWRwd2RWazRmUFI2MnlzSUJtSjFIR3hRMnFhSEF1cm9kdFFxQ0NOcWdraTh1N2tzN3FOTDdvX214b1ZvMlJFLTdOOA?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
     },
     {
       "title": "Harness engineering: leveraging Codex in an agent-first world - OpenAI",
@@ -751,5 +891,5 @@
       "source": "news"
     }
   ],
-  "generated_at": "2026-02-12T06:07:50.560Z"
+  "generated_at": "2026-02-12T06:08:05.683Z"
 }
