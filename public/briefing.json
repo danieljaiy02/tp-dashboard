@@ -1,5 +1,5 @@
 {
-  "summary": "## COMMUNITY PULSE\n- **xAI exodus accelerates** (high engagement) - Half of xAI's founding team has now departed, with Musk framing exits as terminations rather than voluntary departures. Community skeptical of internal stability.\n- **OpenAI's mission alignment team disbanded** (significant concern) - Policy exec who opposed adult chatbot mode reportedly fired on discrimination claim. Reddit threads questioning OpenAI's commitment to safety over commercialization.\n- **Modal Labs raising at $2.5B valuation** (investor interest) - AI inference startup's valuation generating debate about infrastructure layer economics and competitive moat sustainability.\n\n## KEY DEVELOPMENTS\n\n**OpenAI launches GPT-5.3-Codex and \"Frontier\" enterprise platform** - New coding-focused model with agent capabilities, dedicated enterprise platform for AI agents, plus ads rolling out in ChatGPT. Major monetization and product expansion push.\n\n**Anthropic ships Claude Opus 4.6 with safety reports** - Released comprehensive sabotage risk assessment, 0-day exploit research, and infrastructure noise analysis. Positioning as the safety-conscious enterprise alternative.\n\n**xAI internal chaos vs. interplanetary ambitions** - 50% founder attrition while publicly discussing lunar plans. Stability questions as company tries to scale.\n\n**Amazon prepping AI content marketplace** - Could become distribution channel for media companies to license training data. Potential new B2B opportunity.\n\n**Glean raising profile for enterprise AI layer** - Multiple features positioning them as the internal AI interface layer. Direct competition for consulting implementation work.\n\n## WHAT THIS MEANS FOR TP\n\nEnterprise clients will ask about OpenAI Frontier vs. Anthropic for agent deployments—need clear POV on reliability, safety requirements, and total cost of ownership. The \"who owns your AI layer\" fight (Glean, Microsoft, etc.) creates implementation consulting opportunities but also potential margin compression as platforms productize services.",
+  "summary": "## COMMUNITY PULSE\n(No Reddit/HackerNews data provided in feed - unable to report community discussions)\n\n## KEY DEVELOPMENTS\n\n- **Anthropic ships Claude Opus 4.6** - Major model release with enhanced capabilities, full system card published, plus extensive infrastructure updates including sabotage risk assessments and 0-day vulnerability testing. Anthropic positioning hard for enterprise with agent-focused tooling.\n\n- **OpenAI launches GPT-5.3-Codex and monetization plays** - New coding-specialized model released alongside \"OpenAI Frontier\" enterprise platform for AI agents. Testing ads in ChatGPT and opening advertiser program. Mission alignment team disbanded (concerning optics).\n\n- **xAI chaos: half the founding team has now exited** - Musk claims departures are \"push not pull\" while pitching interplanetary ambitions. Company credibility taking hits as talent bleeds out despite ambitious positioning.\n\n- **Enterprise AI infrastructure heating up** - Modal Labs raising at $2.5B valuation for inference infrastructure. Glean fighting to own the \"AI layer inside every company.\" Amazon may launch marketplace for AI training data from media sites.\n\n- **Google DeepMind advances scientific research tooling** - Gemini Deep Think positioning for scientific workloads. K-Health fine-tuning Gemma 3 with clinical data shows vertical-specific model customization gaining traction.\n\n## WHAT THIS MEANS FOR TP\n\nThe Anthropic/OpenAI enterprise agent push creates immediate consulting opportunities around implementation, safety protocols, and workflow integration. Client conversations should emphasize infrastructure readiness and custom model evaluation before the market gets saturated with half-baked deployments.",
   "sources": [
     {
       "title": "xAI lays out interplanetary ambitions in public all-hands",
@@ -140,6 +140,27 @@
       "score": 0,
       "comments": 0,
       "source": "techcrunch"
+    },
+    {
+      "title": "Gemini Deep Think: Redefining the Future of Scientific Research - Google DeepMind",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRmtMZnRYNW04a3Q4b0dSQm9aall0S3BJWFFOczQ3dmdfX3cyR1plYlotZHg5ekhlZ2s3cUd6Y1pyT3lkVEJrV1V0c0NWVlBQNHlMbXlEbXpTYWlSVUZHVllYZWdSb2RMU2JTelVGMXBEckZSdWt5VUs1d24zdUVLaExpS0NZMmtpSTRoNDd2MHRZdlBRaWxSWmVTNk0wRWtRQ2NaV2ln?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "K-Health enhances its AI physician by fine-tuning Gemma 3 with real-world clinical data - Google DeepMind",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9mT0hUeVh3X2hOUG5Fc3VibG1wNlNmcFRXZFc2TFdJZ3dPZkVQeGhnUDExelJiSFh2U25pdzJHeTlRYUdMMjN1ampkRC1QTzV4T3pDbDZHQ0ZVSlpsVERJMFVTenRVWnRT?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Hybrid neural–cognitive models reveal how memory shapes human reward learning - Google DeepMind",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB5REdrQjc0d0RqTDFfWXd1cmIxMkZEVl9ENWg0bDZGbEdHcFZaYVY0LTFHX2Y3SEdsb2tkSTFMTi1NNW9iTVUzaFctem52VTk1dS1kbTQ5V2xJQThyMUFCQU9B?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
     },
     {
       "title": "Covering electricity price increases from our data centers - Anthropic",
@@ -891,5 +912,5 @@
       "source": "news"
     }
   ],
-  "generated_at": "2026-02-12T06:08:05.683Z"
+  "generated_at": "2026-02-12T06:08:18.601Z"
 }
