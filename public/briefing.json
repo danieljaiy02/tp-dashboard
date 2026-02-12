@@ -457,6 +457,76 @@
       "source": "techcrunch"
     },
     {
+      "title": "Two more xAI co-founders are among those leaving after the SpaceX merger",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/877609/two-more-xai-co-founders-are-among-those-leaving-after-the-spacex-merger",
+      "score": 0,
+      "comments": 0,
+      "source": "theverge"
+    },
+    {
+      "title": "Anthropic says it&#8217;ll try to keep its data centers from raising electricity costs",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/877526/anthropic-ai-electricity-costs-data-center-pledge",
+      "score": 0,
+      "comments": 0,
+      "source": "anthropic"
+    },
+    {
+      "title": "Apple keeps hitting bumps with its overhauled Siri",
+      "url": "https://www.theverge.com/tech/877494/apple-siri-ai-overhaul-ios-personalized",
+      "score": 0,
+      "comments": 0,
+      "source": "theverge"
+    },
+    {
+      "title": "Instagram and X have an impossible deepfake detection deadline",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/877206/youtube-instagram-x-india-deepfake-detection-deadline",
+      "score": 0,
+      "comments": 0,
+      "source": "theverge"
+    },
+    {
+      "title": "Here are the brands bringing ads to ChatGPT",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/877148/openai-chatgpt-advertisers-target-adobe-audible",
+      "score": 0,
+      "comments": 0,
+      "source": "openai"
+    },
+    {
+      "title": "How an ‘icepocalypse’ raises more questions about Meta’s biggest data center project",
+      "url": "https://www.theverge.com/science/876555/meta-data-center-winter-power-outages-storm-ice",
+      "score": 0,
+      "comments": 0,
+      "source": "theverge"
+    },
+    {
+      "title": "T-Mobile will live translate regular phone calls without an app",
+      "url": "https://www.theverge.com/tech/877008/t-mobile-live-translation-languages-ai-network",
+      "score": 0,
+      "comments": 0,
+      "source": "theverge"
+    },
+    {
+      "title": "Uber Eats adds AI assistant to help with grocery shopping",
+      "url": "https://www.theverge.com/transportation/876540/uber-eats-ai-chatbot-cart-assistant-grocery-shopping",
+      "score": 0,
+      "comments": 0,
+      "source": "theverge"
+    },
+    {
+      "title": "‘Shut up and focus on the mission’: Tech workers are frustrated by their companies’ silence about ICE",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/876558/tech-workers-ice-resistance-google-microsoft-clear-abbott",
+      "score": 0,
+      "comments": 0,
+      "source": "theverge"
+    },
+    {
+      "title": "ChatGPT’s deep research tool adds a built-in document viewer so you can read its reports",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/876775/openai-deep-research-chatgpt-full-screen-report-viewer",
+      "score": 0,
+      "comments": 0,
+      "source": "openai"
+    },
+    {
       "title": "AI in Southeast Asia: An era of opportunity - McKinsey & Company",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSkhtMm41MHozdEw0c2lrcWpRUFlSQkpid3QySWN5cVZnNnF5a2stel9acDZId3dvWkI5ZEdZSEhDRzEyOS1xQS1ZUzBfcHN1di1Dd085YTZVeFBPUU5sOEY0NnlUc21ab2tRYWE3dXk4LTlSbXB5UXk2Vnk0S2ZtQVp5ZjBSSWowa0x2WHludFdMV21Gc2EzMGpEUllnUzlKYlE?oc=5",
       "score": 0,
@@ -1542,6 +1612,6 @@
       "source": "news"
     }
   ],
-  "generated_at": "2026-02-12T05:50:04.975Z",
-  "debug": "{\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011CY3eiyT42Tbu3ddfm3uN3\"}"
+  "generated_at": "2026-02-12T05:50:06.921Z",
+  "debug": "{\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011CY3ej7obFzDUfYzQUWdAy\"}"
 }
