@@ -1,5 +1,5 @@
 {
-  "summary": "## QUICK BRIEF\n\nOpenAI dropped GPT-5.3-Codex-Spark with dedicated chip architecture and began testing ads in ChatGPT while disbanding its mission alignment team. Anthropic raised $30B at a $380B valuation in their Series G, marking one of the largest AI funding rounds to date. The enterprise AI middleware battle is heating up as Glean fights to own companies' AI layers, Modal Labs targets $2.5B valuation, and Spotify claims its best developers haven't coded since December thanks to AI tooling.\n\n## COMMUNITY PULSE\n\nBased on the feed, developer communities are actively engaging with several topics:\n\n- **GPT-5.3-Codex-Spark release** - High excitement but frustration around access issues (\"Cannot use GPT-5.3-Codex on Codex Cloud\"). Developers noting \"insanely fast\" performance but encountering missing closing tags and stability issues with GPT-4 models.\n\n- **Ads coming to ChatGPT** - Multiple documentation updates suggest rollout is imminent. Community likely divided on commercialization of the platform they've integrated into workflows.\n\n- **API instability concerns** - Multiple threads about GPT-4 model instability, error rates for ChatGPT Go, conversation loading issues, and API key permission problems. Suggests scaling challenges as usage grows.\n\n- **Codex integration patterns** - Active discussion of \"Shell + Skills + Compaction\" for long-running agents. Shows community moving from simple API calls to production agent deployments.\n\n- **Feature frustration** - Complaints about VSCode extension changes, image upload issues, context handling problems. Power users feeling product decisions don't match their workflow needs.\n\nOverall sentiment: Excitement about capabilities mixed with production deployment anxiety. The gap between demo quality and production reliability is a recurring frustration.\n\n## KEY DEVELOPMENTS\n\n- **Anthropic raises $30B at $380B valuation** - This Series G makes Anthropic one of the most valuable private AI companies globally. The sheer scale suggests enterprise customers are committing serious budgets to Claude over alternatives. For consulting, this validates that Fortune 500s are moving beyond experimentation into multi-year, nine-figure AI platform commitments. Anthropic's enterprise focus and constitutional AI positioning is clearly resonating with regulated industries.\n\n- **OpenAI launches GPT-5.3-Codex-Spark with dedicated chip** - New model runs on custom silicon, suggesting OpenAI is vertically integrating like Google/TPU. The \"Codex\" branding resurrection signals code generation is now a first-class product line, not just API feature. Combined with Spotify's claim their best developers haven't coded since December, we're seeing the end of traditional software development timelines. The dedicated chip play means OpenAI is optimizing for specific workload economics, likely making agent-based coding dramatically cheaper.\n\n- **OpenAI disbands mission alignment team** - Coming just as they test ads in ChatGPT and push enterprise/military deals (GenAI.mil), this suggests full pivot to commercial growth over safety theatre. The timing with Musk's xAI staff exits and \"push not pull\" comments hints at broader talent reshuffling across AI labs. For consultants, this means clients will ask harder questions about whose AI platform aligns with their risk tolerance.\n\n- **Modal Labs raising at $2.5B valuation** - AI inference infrastructure becoming its own lucrative category. Modal's pitch is making deployment trivial for AI apps, which matters as companies move from prototype to production. The valuation suggests VCs believe the inference layer will be as valuable as the model layer. For consulting firms, this confirms infrastructure/deployment expertise is as valuable as prompt engineering.\n\n- **Spotify's developers haven't coded since December** - This is the most concrete enterprise proof point yet that AI coding tools fundamentally change team productivity. If true, it means delivery timelines are compressing 3-5x. For consulting firms, this creates both opportunity (helping enterprises adopt similar workflows) and threat (clients expecting proportionally faster/cheaper delivery). The specific timing (December) suggests this coincided with improved code generation model releases.\n\n- **Glean's battle to own enterprise AI layer** - The race to become the \"AI operating system\" for enterprises is intensifying. Glean's positioning as unified interface across company data and tools could lock in massive enterprise value. This middleware layer—sitting between foundation models and business apps—may be where consulting firms can build defensible expertise. Companies that control enterprise AI orchestration could become as valuable as Salesforce or ServiceNow.\n\n- **IBM hiring entry-level talent specifically for AI age** - Big consulting recognizing that traditional developer hiring pipelines are obsolete. If IBM is restructuring talent acquisition around AI-native skills, every consultancy needs similar strategy. This also signals enterprises are comfortable hiring less experienced people if they're AI-fluent, potentially commoditizing traditional consulting leverage models.\n\n## WHAT THIS MEANS FOR TP\n\nThe Anthropic raise and Modal valuation together tell a clear story: enterprises are writing massive checks for AI infrastructure, but they're terrified of deployment complexity. There's a $30B+ gap between buying models and actually operationalizing them. This is exactly where boutique consultancies can win—helping enterprises navigate the Glean vs. build-your-own decision, architecting inference infrastructure, and redesigning workflows like Spotify did. The specific opportunity is \"AI platform selection and integration,\" which is a $500K-2M engagement for mid-market companies.\n\nThe Codex launch with dedicated chips plus OpenAI disbanding alignment creates a clear fork in enterprise AI strategies. Some clients will want to move faster with OpenAI's commercial tools, others will pause over safety concerns and want Anthropic/Claude implementations. TP should develop point-of-view positioning on this—likely something like \"responsible AI acceleration\" that acknowledges both imperatives. This becomes a discovery/strategy offering before any implementation work.\n\nThe biggest threat is timeline compression. If Spotify's claims are real, clients will expect AI consulting engagements to deliver proportionally faster. A 6-month digital transformation can't take 6 months if the underlying code can be generated in weeks. TP needs to either restructure pricing away from time-based models or develop extremely high-value strategy/change management components that justify similar engagement lengths. The developer-hours arbitrage that consulting firms rely on is evaporating—the new arbitrage is in knowing which tools to chain together and how to change organizational workflows around them.",
+  "summary": "## QUICK BRIEF\n\nAnthropic raised **$30 billion at a $380 billion valuation** in their largest funding round yet, while OpenAI launched GPT-5.3-Codex-Spark with dedicated chip infrastructure and introduced ads to ChatGPT. OpenAI also disbanded its mission alignment team amid organizational shifts. On the ground, Spotify reports top developers haven't coded since December thanks to AI tools, and Didero raised $30M for agentic manufacturing procurement—signals that enterprise agent adoption is accelerating rapidly across sectors.\n\n## COMMUNITY PULSE\n\n*[Note: No Reddit/HN data was provided in the raw feed. This section would typically show trending discussions with actual scores and comment counts. Based on the news flow, likely community discussions would center on: Anthropic's massive valuation jump, concerns about OpenAI disbanding alignment teams, reactions to Spotify's claim about developers not coding, and debates about ChatGPT ads impacting user experience.]*\n\n**Unable to generate community sentiment analysis without social platform data in feed.**\n\n## KEY DEVELOPMENTS\n\n- **Anthropic closes $30B Series G at $380B valuation** - This represents a roughly 2.5x increase from their last known valuation and positions Anthropic as the second-most-valuable AI company after OpenAI. They're simultaneously releasing Claude Opus 4.6 with new sabotage risk assessments, donating $20M to advocacy work, and committing to cover electricity price increases from their data centers—a comprehensive push to balance rapid scaling with safety theater and public perception management. For consulting firms, this validates the enterprise agent narrative and suggests clients will increasingly expect multi-model strategies.\n\n- **OpenAI launches GPT-5.3-Codex-Spark with dedicated chips** - The new Codex version runs on custom silicon, marking OpenAI's move into vertical integration similar to Google's TPU strategy. They're also rolling out new \"Shell,\" \"Skills,\" and \"Compaction\" features for long-running agents that do real work, alongside testing ads in ChatGPT. The disbanding of the mission alignment team while pushing commercial features sends a clear signal about prioritization. This infrastructure play matters because it enables faster, cheaper code generation—directly threatening traditional development workflows.\n\n- **Spotify: top developers haven't written code since December** - A bold public claim that their best engineers are now orchestrating AI systems rather than coding directly. This validates the \"developer as conductor\" thesis but raises questions about what \"best developers\" actually means in this context—are they prompting, architecting agent systems, or reviewing AI output? For consulting positioning, this is a data point clients will cite when questioning their engineering headcount, requiring nuanced guidance on what actually drives this productivity.\n\n- **Didero raises $30M for agentic manufacturing procurement** - Specialized vertical agent plays continue attracting serious capital. Manufacturing procurement is notoriously complex (multi-tier suppliers, compliance, long lead times), making it an ideal test case for whether agents can handle real-world enterprise chaos. If Didero succeeds, it validates the agent-for-specific-business-process playbook over general-purpose tools, suggesting consulting opportunities lie in identifying which processes are \"agent-ready\" vs. requiring more foundational work.\n\n- **Modal Labs reportedly raising at $2.5B valuation** - The AI infrastructure layer is getting expensive. Modal specializes in serverless inference deployment, and this valuation suggests enterprise demand for simplified AI ops is accelerating. The infrastructure market is bifurcating: hyperscalers for foundation models, specialized players like Modal for deployment, and consulting in the middle helping clients decide what to build vs. buy. This valuation makes Modal a potential acquisition target and raises questions about infrastructure lock-in for client architectures.\n\n- **Apple's Siri revamp delayed again** - Apple continues struggling with AI execution while competitors ship. This matters because enterprise clients often look to Apple as a \"safe\" technology choice—ongoing delays signal that even trillion-dollar companies can't quickly retrofit AI into existing systems. It's a cautionary tale for enterprises expecting quick LLM integrations into legacy stacks and creates openings for consulting around realistic timelines and change management.\n\n- **Glean fighting to own the enterprise AI layer** - Glean's positioning as the \"AI layer inside every company\" directly competes with Microsoft Copilot, Google Workspace AI, and custom solutions. Their CEO is making the case that a unified search and agent layer across all company data is the architecture enterprises need. This represents a key client decision point: bet on an independent player promising better integration, or stick with platform vendors who own the infrastructure. The consulting opportunity is in honestly assessing which approach fits each client's politics, tech debt, and risk tolerance.\n\n## WHAT THIS MEANS FOR TP\n\n**Immediate opportunities:** Anthropic's $380B valuation and Claude Opus 4.6 release gives us a fresh talking point for clients still treating OpenAI as the only game in town. Multi-model strategies are now table stakes—clients need frameworks for when to use Claude vs. GPT vs. open-source, and most lack the sophistication to make these calls strategically. The Didero fundraise and Spotify claims create specific entry points: \"which of your business processes are agent-ready\" assessments and \"developer productivity transformation\" engagements that go beyond tooling to address workflow redesign.\n\n**Strategic positioning:** The infrastructure landscape is consolidating fast—Modal at $2.5B, Anthropic at $380B, OpenAI's custom chips. Clients will increasingly ask whether they should build on these platforms or maintain optionality. Our value is in cutting through vendor hype with actual implementation experience. The OpenAI mission alignment team disbanding is a gift for positioning around responsible AI implementation—enterprises are increasingly paranoid about AI safety, and having external guidance matters more when even leading labs are deprioritizing it. We should develop POV on what \"good enough\" AI governance looks like for mid-market clients who can't afford Anthropic's approach.\n\n**Risk watch:** The Spotify developer claim will fuel unrealistic client expectations about overnight productivity gains. We need ready responses for why their situation won't replicate at a bank or manufacturer—specificity about what actually enabled Spotify's results prevents us from getting dragged into doomed initiatives. Apple's continued delays should inform our timeline guidance; if Apple struggles, clients with fraction of their resources will too. The ads in ChatGPT signal that free/cheap AI services are transitioning to ad-supported models, which may affect our recommendations around which consumer tools are appropriate for enterprise workflows.",
   "sources": [
     {
       "title": "Amid disappointing earnings, Pinterest claims it sees more searches than ChatGPT",
@@ -140,6 +140,195 @@
       "score": 0,
       "comments": 0,
       "source": "techcrunch"
+    },
+    {
+      "title": "Anthropic raises $30 billion in Series G funding at $380 billion post-money valuation - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaXY3cUsxbGhpVW9tUHAyc0MwNFlEOUJjRVFXYVBHNTBzZDNkakxyTW4yenQ0N3NUMGk0Zk1KbHVyVmprSWtJQzk3dGZjRUQ1QWhvbi00UnBjWlhsb0lPQnFYcDQxUW9BWFMteEVfekdvSG5acDRHU1pDQXB0M2M2WlhqclE1VGJfSUNXOXRZYmI2THlDYWp4MzlUcGdlWnB1enJpUXVUclBvZU5O?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Anthropic is donating $20 million to Public First Action - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE54V0E2RGhnX2NrZlRfaVJ4YVdiV0FuT1R2VHg1Z1RMQ0hjNWphWGlsdlpicE5tN1d4eXJ5UE5UVVlMd25RTy1nazlTcE5xLUxpNEp3MVczUXphVFRLZ3dWQXlkVlQ1UmdZ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Covering electricity price increases from our data centers - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBUZlJZd1hSbDZKNDAtaEFoNG90LXd0Y2Z3Y3dTdWdkSUNCWTl5dE12VFpzQzg3VkVacUZQOWdXLUtBN2VYTmtubVBMdEhBTmhNclZkTXp5RXI0REJsVUNSbFVMVUtBM0tvU1NNYVlZZk00VENBaVE?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Sabotage Risk Report: Claude Opus 4.6 - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHYk5uOG5QQUlwNGhTdUs0aFdYQVpTVnY2YXFPVFBMOFdMc1RlUkxDUnhGQjhXOGRyRU1xb2w3TGNjTUs5ZmtlZmdHUUdTNXE3Z0JGMG9NV0pBZ3BFUVE?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Claude Opus 4.6 System Card - www-cdn.anthropic.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1WelBYMm1oSGFvcmdmTkM4OUhCNER3N0I3SzFRRVVmQUJWSEtSLWplQzNBZjVSWnVxMmgtR2szel91TGdDV0lqTzhReUczbWl1NGZ6cW1NWkV1SzdSYXAyeFY5MzlMQmFSdHlST09pZFNiTnpkSlF0VTBjMXZCUmc?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "The Briefing: Enterprise Agents - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdU1jQi1jWXIzZFNvVFJZLUhKNFlXN01XTGVrd1U1U3d4RXB6SWtYbE5GZnBid1BWSjduM3lIYXVoV0F6bkJQNV91WmVnQWxBVzZwS0RFLWZqRFp4czQ4RFk0emZJd0F6c2hHUG0zWERMWXNaLVNzcV9oeHJUekZwZHZxOA?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Jobs - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPc3d1MmNYNTQ4R050NWd1d2YwZEpBdGxNRTNhZkYwVXBOVnVhdVB3aDI3UDd0ZjFOcDFkY2txTHd6Q290QmdoNzRHelZpaWxfSWw4d0t2RnJHUllLSUNGQ1FzM2lCa29PMGlfV0NEQ0Q2SllOcUgxM3VqRnJFVDNxTkZYb1RKZ2ZhNl93ZE1XX0dISmFoZHVuR0F0elpIYkV0aDBxX25MbGZDOEdrLTIyZGtCdw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Jobs - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPUklpdUN6UkhIOHdsUW83ekp4Sk1WTVcxU0loS3Blck1NaG02cHRnazU1LVRxT05PazBPN2YtS1MyT19DUUxpclJzRkdVRVdxdFd1LVZUVjJlUHNmS1BIQlo0ZUdCMWVoYm0zZGJldk9rNXF6aVhrbHZtZ1VPYTVkVjJYZ1BqQ20wb2JnZmhpZXZUZXhxTVFLNnpwWFJTWnQzeFdBeU5tcnJkWXJlOHVfWE1kVGpEQUxiam5PZnBSaHJBUU1MUXZhbTUwQS0wUVZMUUQ0OFFDU1I?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Responsible Scaling Policy Updates - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ieHJIeW1xcWh4T0dqQU9lc25UOVBIOWZnODNjNlUwTXdteUo1SHdlRFZHVjFZaW5xQ2NESk5Ib2ZVc1c5alpVb3IxenBSZEpyTEtWWmVEdU5qTDBHa2RqVDRZb0o2cFRGU2RmUzh3Qk9IV3RSVjE0?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Newsroom - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPc2FsM2VJNEtqQnRSQnJsUmlnUHRuYXlDNmRWUXFOeDhwUENWazVVWW1lVEI5b2Jwa0pyTXZydTJLTHQ0dWNwdGFaSG91dGxBenBKNDF2ejJwRFJvbkpxa1R4VGlIRjV1d1JSR3NjQXMzMGJWY1hfMGNvUlIxUHFBZ2paSkU?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "AI Learning Resources & Guides from Anthropic - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5QMDZDR1I2WVNPX1dScDdsbmhRSjlNbGdsbWpqeWI5bUJKaXJGcHYtampIUGxncnZxUGZ6QzJwX0Jva1dpZ2lwMV9VUFAzZEFUcjhLSlVHUjlUM0lKbTdBakh2ZGE0VFhwd21NeDU5Z053anlZcFA0?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "AI Fluency: Framework and Foundations - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1TWkprNnE0S19UcWRGNjF3UDhTaDdBYVlBdm9FUmNWWGtaS3lwU3V6anRZaUM3QTdWVlU1aWxvSmw0VEdLUjdzRjY4bjVjM2IwN1pKZ1JxNHdwN2lnd0dPaDl6aTNvM3QwZncybjctN3ctZDBacGxv?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Anthropic’s Transparency Hub - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5oaWQ3b1QxT19BOHNjZy02SG83UUxTeHV2YVUyM3NMTjlyOW56S0F3VTh5d2RQQmN4bFJGMk80Rk5xY3JGdFg2d1E0WEViaDJ2eFIxY0JtTDhzSW1JNnUyMEdQYjlKakFqVU1TcQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Agentic AI in action - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5hZVhKUkdRYlFSd1UyV0x1aGVycHhmQjkzaUNhQ252ZFZKcldZZDZiUGFVM0QyUHRhQ3VzMWMyaldxdUxhR1B4cU80MGFKRFhrT3Q5ZldXdEVTalllY005d1pKMA?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Jobs - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBGOHFSdk9hQzZWbFU0ZllkSnBBWURiSnlMSTVMeVZCMW5DaW1UWHZXdGd3aW1YUGFmaVZiendsbURCV3FyLXJyM1ZlR2k2VlhUdDZKNDVnd050ZDNXZnFYeUVEUkxRekw1a3BPMzRmZw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Jobs - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQOU11X2tUYlJYVkNwUWxDZHlmQmhXMnB5dk5Lc3JhNmFmYzlmbUhfS3Z4ODc1T1NqMzNWeElFT29DN3lXVF9RWHRLS0ZPSUYxdnotSGNMZTYyUTNDa2lQVDdKUkotQUk3ejJBN29LYVBpN1psbXNjcWxSbmZWMEN5WkxQUlJmMnU3S0lFT3N3cGxYVGxQNmthYzhzay1Ha3ZSNTZ1LUhJMjlQZlVaSTZNTTZ3U3dTeW5RQl9oS3V5YTc4SWFPM3h2azlSZXhFd1o0M0s3U3Z5OFI2LTFyUGdUV1BGLWd1eHFQRXdVVHFzdnpXMFFmeWlJZHF5eVFSVVNMRVR4Q3FwcHpQWE5PZmpmUkQ1elhoTlM4cGlxREg2d2F3UUxLQmJlX3haRQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Jobs - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBxR2JZdWhkbGNmR3YwZllrT0lPLTMtZloyaEZ6TUw5UlVrcjd0aXJFaEdXaThvRWthZkVGSHRpdDV2Wl9Vbngyb2MyaEZ5YS1WY1d2ZDUya0VCQVpUUmw3dERaWl9seFF6OC0ydUdncWdScWVFQ1VFOUNYTVU?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Building AI Infrastructure for Healthcare: A Customer Success Story Zingage's 0 to 1 Story - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbzNfV3B6ZmdYTVB0X1VmbHYyT2JSUjlxckt2aGU2RGlBRUl0dk1oeXVYVnVKcl9IemlMWVdLOUJsQWZBdWEyU1JSQVFOMHcyN1hnNHBjcTQ3bkJRLUtwaGV6VGlOb01yVVFKMW4zMzNESGxrWTJBVXN4SzFNR1p6UXBkUlJtRFRaN0NxdUs2MlA5REw1UUlBZWplS3g3TWhLY2ViemhHc1JRVW1sb2lHSVBnT09jVGI3R0MtZWkwUWQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Claude for work - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1tWTVKMUE0X09yejZRc0c1cjNLeEpzMmdRbmpnRjZpTVZ1TS1ydy1zRXNuekdBcmMtMWtGUWx0VElwclpkaFdfSUJ0QTNxNHBsOVZZMGtUTVpJNDg3MW5icnlmcmx3eHliTkxsN25xSkFpdEUtOWNpcQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Jobs - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBITjNXUElua3dSMmRjcW1YVGpveUIydVhFR051NTRMRXpyWUJrU29BcHktaUc1M1NOMWdrdUpWLVNOa0Y3RVJ6VmxHczBQSGs4eDJXTHNTVG14ajNEcWFPRW83MlBRdTRjUnc?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Overview - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE91UGcwV1FDSFVwY2tFVHRJV29Md3EwTzg4SE92cEFERV9NNGRJTlhtNU9yZ0NfOG9STk54VThfRWdVcHlYNUpVdURB?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Jobs - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcEJxbGdUYzFWdzUwSGNLd1FhQnNpZ2VJT3JHUFFLdHFDY3RzMG1QT1hxSU1TSHhobDFBSE4tYWNwQ0t0dXZxRngwVE1zcVprS3dDVGRUR1BvbGN5ZE1UOFBrRkN2ZzNreEo4ZTJ1RUcxM1R5OW5DbXFsamVSbFh6QWxZUQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Jobs - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZ1VXaFotTWNpOVJXQ3B3TmpLWjFnZnplVTVCbF9OeDJpV1VZM1hsNXdkMi1LZUFkWmEyRlhKNVR2ZS1wT1FrcnM0SVgwWDFQblBRVjZOUHBwMXJnSXgxUl9ZUV9oc3pIQ3h3TXpWeDRxenVxc3hCY0s2YkItOEx0NUxQR0twLXVvcEEw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Anthropic Academy: Claude AI Solutions for Business - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE96dFpVRVBqVjNudmpHZU56U2lHZTgwRXI0aXItTjVxMzJtTkpQT2tvd29RNC1GLUMzV0xGaGNubW0tcV84YlRtQ0NjeDR0SXlhVk11cGdFbzZ6MjlMenlJaXVMYmk3T2Z2anpsbXdZUmQ0OU05VGNZWFFmbw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Claude’s Constitution - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBVZU5GVTJJUWhuRFF3UTNCUkw2bnR1N0FrSzY4eTlQU3B4eUtWQW1kcVFlbW4tMnZLdGJiTUV5LWdlclZrWWdkQXRKZ01NT0lzSWhLNmZPTFRMNHpTcmR3MjlUaWZOZ1FmamRsempR?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Jobs - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4yWVJvSE1fcDBibG1UdzhQS3hROFA4N3JHZmZ1ZGpUeFVHbE10QWNXMkVabnQ0Y0ZYVC1QLUNMUXBOS3VwZGh5eDY3Ni1NR2ZBZktlekpJd25BRkdrT2xqLXAyQQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Engineering - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObUdjOGZJNHE4aS1qYWMxeHIwTDBZSGlHWXF3dnp6WFlUX3l3Tk1iNERRYVY4Q1R6bGNjbHpRdGh3S1BOTUZQRjlrSUJZR0dyTDlHRUJKUk1oRzVPVEMtcHltRnFHaVByZXhGSnhWakJiTTZTSUt1RnctY1c2NDU3aVZiYnVadFhOdnc?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
     },
     {
       "title": "Introducing GPT-5.3-Codex-Spark - OpenAI",
@@ -793,5 +982,5 @@
       "source": "news"
     }
   ],
-  "generated_at": "2026-02-13T13:11:48.793Z"
+  "generated_at": "2026-02-13T13:12:34.300Z"
 }
