@@ -4,10 +4,16 @@ html {
   scroll-behavior: smooth;
 }
 
+/* ─── Scroll snap on mobile ─── */
+@media (max-width: 639px) {
+  html {
+    scroll-snap-type: y proximity;
+  }
+}
+
 body {
   background: #09090b;
   -webkit-font-smoothing: antialiased;
-  /* Prevent iOS overscroll bounce revealing white bg */
   overscroll-behavior-y: none;
 }
 
@@ -49,7 +55,7 @@ body {
   animation: fadeInUp 0.7s ease-out 0.2s both;
 }
 
-/* Card stagger: 0ms, 150ms, 300ms */
+/* ─── Card stagger ─── */
 .animate-card-0 {
   animation: fadeInUp 0.7s ease-out 0.3s both;
 }
@@ -78,8 +84,17 @@ body {
   animation: fadeInUp 0.7s ease-out 1.2s both;
 }
 
-.animate-fade-in-footer {
+.animate-card-7 {
   animation: fadeInUp 0.7s ease-out 1.35s both;
+}
+
+.animate-fade-in-footer {
+  animation: fadeInUp 0.7s ease-out 1.5s both;
+}
+
+/* ─── Divider animation ─── */
+.animate-divider {
+  animation: fadeInUp 0.5s ease-out 0.4s both;
 }
 
 /* ─── Quick links bar ─── */
@@ -241,8 +256,7 @@ body {
   background-size: 60px 60px;
 }
 
-/* ─── Top gradient accent bar ─── */
-/* ─── Hide scrollbar on Quick Links (mobile horizontal scroll) ─── */
+/* ─── Hide scrollbar (mobile horizontal scroll) ─── */
 .scrollbar-none {
   -ms-overflow-style: none;
   scrollbar-width: none;
@@ -259,6 +273,7 @@ body {
   }
 }
 
+/* ─── Top gradient accent bar ─── */
 .top-gradient-bar {
   background: linear-gradient(
     90deg,
@@ -268,4 +283,28 @@ body {
     rgba(245, 158, 11, 0.4) 80%,
     transparent 100%
   );
+}
+
+/* ─── Back to top button ─── */
+@keyframes fadeInScale {
+  from {
+    opacity: 0;
+    transform: scale(0.8) translateY(8px);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1) translateY(0);
+  }
+}
+
+.animate-back-to-top {
+  animation: fadeInScale 0.25s ease-out both;
+}
+
+/* ─── Snap sections on mobile ─── */
+@media (max-width: 639px) {
+  .snap-section {
+    scroll-snap-align: start;
+    scroll-margin-top: calc(env(safe-area-inset-top, 0px) + 60px);
+  }
 }
