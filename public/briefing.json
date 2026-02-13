@@ -1,5 +1,5 @@
 {
-  "summary": "# Morning Intelligence Briefing\n**Date:** Today's Analysis | **Classification:** Internal Use\n\n## COMMUNITY PULSE\n\nBased on the data provided, I don't have access to Reddit/HN discussions with scores and comment counts. The feed consists primarily of press releases, corporate announcements, and technical documentation. To provide accurate community sentiment analysis, I would need the actual social media discussion data with engagement metrics.\n\n## KEY DEVELOPMENTS\n\n- **Anthropic closes monster $30B Series G at $380B valuation** - This represents one of the largest AI funding rounds in history, signaling massive institutional confidence in frontier model development. The scale suggests Anthropic is preparing for significant compute infrastructure expansion and extended runway for AGI research. For consulting firms, this validates the enterprise AI market size and indicates clients will have access to increasingly capable models requiring integration expertise.\n\n- **OpenAI launches GPT-5.3-Codex with dedicated chip architecture** - OpenAI is shipping a new code-generation model powered by custom silicon, directly competing with GitHub Copilot and Anthropic's coding capabilities. The \"dedicated chip\" angle suggests they're vertically integrating like Google with TPUs, potentially offering performance advantages. This creates pressure for enterprises to evaluate multiple coding assistants and raises questions about which tools integrate best with existing development workflows.\n\n- **Spotify's top developers \"haven't written code since December\" due to AI** - This is a striking claim about AI-assisted development reaching productivity escape velocity at a major tech company. Whether literally true or marketing hyperbole, it signals that leading engineering organizations are fundamentally restructuring around AI tools. Enterprises will increasingly ask consultants how to achieve similar productivity gains without disrupting quality and team dynamics.\n\n- **OpenAI disbands mission alignment team** - This organizational change suggests OpenAI may be deprioritizing certain safety research areas or consolidating alignment work elsewhere. Coming alongside Anthropic's new \"Sabotage Risk Report: Claude Opus 4.6,\" it highlights ongoing tensions between rapid capability scaling and safety governance. Enterprise clients concerned about AI risk management will need clearer guidance on which providers have robust safety frameworks.\n\n- **BCG announces strategic partnership with ElevenLabs for conversational AI** - A major consultancy is formally partnering with a voice AI provider to build enterprise customer experience solutions. This validates the conversational agent market and shows Big 4 firms moving from advisory to implementation partnerships. It raises competitive pressure on boutique AI consultancies to either specialize deeper or partner more strategically.\n\n- **Glean positioning for \"AI layer\" ownership inside enterprises** - Multiple articles focus on Glean's strategy to become the central AI interface for company knowledge. With Modal Labs raising at $2.5B for AI inference infrastructure, we're seeing a clear battle for different parts of the enterprise AI stack. Companies will need help deciding which layers to build, buy, or integrate, creating consulting opportunities around AI architecture decisions.\n\n- **xAI's personnel turbulence and interplanetary ambitions** - Musk's company is experiencing exits while publicly discussing space-based AI infrastructure and \"Moonbase Alpha\" vision. The \"brutal economics of orbital AI\" article suggests serious technical interest in space computing despite personnel challenges. While mostly speculative for consulting work, it indicates where frontier AI companies see differentiation opportunities beyond pure model quality.\n\n## WHAT THIS MEANS FOR TP\n\n**Immediate Service Opportunities:** The Anthropic funding and OpenAI product launches create urgency around multi-model strategies. Enterprises that standardized on one provider now face questions about whether to diversify or double down. TP should develop a clear point of view on model evaluation frameworks, particularly for code generation where OpenAI's new Codex competes with Claude and GitHub Copilot. The \"which tools for which tasks\" question is moving from theoretical to operational, and companies need implementation roadmaps, not just vendor comparisons.\n\nThe BCG-ElevenLabs partnership signals that conversational AI for customer experience is entering mainstream deployment. TP should position on implementation over strategy here—clients don't need convinced that voice agents are coming, they need help building them correctly with proper testing, escalation paths, and quality monitoring. Consider developing specific offerings around contact center transformation or customer service augmentation with clear ROI frameworks.\n\n**Strategic Positioning Shifts:** The Spotify coding claim and Glean's enterprise AI layer push point to a fundamental question TP should help clients answer: what does productivity actually look like with AI, and how do we measure it? As enterprises move beyond pilots, they're struggling with metrics. TP could differentiate by developing rigorous productivity measurement frameworks that go beyond \"tokens generated\" to business outcomes. This positions us as implementation validators rather than just implementation advisors.\n\nThe OpenAI alignment team disbanding alongside Anthropic's sabotage risk research creates an opportunity around AI governance consulting. Enterprises are increasingly concerned about model risks, but most \"AI ethics\" consulting is vague. TP could build specific offerings around model risk assessment, comparing provider safety frameworks, and building internal governance structures. This is especially relevant for regulated industries like finance and healthcare where AI risk management will become compliance requirements.",
+  "summary": "## COMMUNITY PULSE\n\n*Note: Reddit/HackerNews discussion data not provided in today's feed. Analysis based on industry news momentum and typical community response patterns to major announcements.*\n\nThe AI development community is likely processing several seismic shifts today:\n- **Anthropic's $30B raise at $380B valuation** - This represents the largest AI funding round to date and will dominate technical discussions around competitive positioning, compute economics, and whether we're in a bubble\n- **OpenAI's GPT-5.3-Codex launch** - Developer communities will be testing capabilities, benchmarking against competitors, and discussing practical integration scenarios\n- **\"No code since December\" claims from Spotify** - This provocative statement will fuel debates about AI replacing developers vs. augmenting them, with strong opinions on both sides\n- **OpenAI disbanding alignment team** - Safety-focused communities will express concern about prioritization of capabilities over safety research\n- **Modal Labs $2.5B valuation talks** - Infrastructure discussions around inference economics and whether specialized tooling can justify such valuations\n\nExpected sentiment: Mixture of excitement about capabilities, concern about consolidation and safety, and practical questions about enterprise ROI.\n\n## KEY DEVELOPMENTS\n\n- **Anthropic raises $30B at $380B valuation, releases Claude Opus 4.6** - This Series G makes Anthropic the most valuable private AI company and signals massive institutional confidence in foundation model competition. The company is simultaneously releasing their Sabotage Risk Report for Opus 4.6, updating their Responsible Scaling Policy, and donating $20M to Public First Action for policy work. For consulting firms, this validates that clients have real alternatives to OpenAI and creates opportunities to position multi-vendor strategies. The focus on safety documentation and transparency (new Transparency Hub) also signals enterprise buyers will increasingly demand governance frameworks.\n\n- **OpenAI launches GPT-5.3-Codex on dedicated hardware** - OpenAI's new Codex version runs on purpose-built chips and introduces \"Skills\" and \"Shell\" features for long-running agents. They're also testing ads in ChatGPT and bringing it to GenAI.mil for government use. The dedicated chip strategy suggests inference economics are driving architectural decisions, while the government contract indicates OpenAI is seriously pursuing regulated sector revenue. The Skills API represents their answer to agentic workflows, competing directly with orchestration layers like LangChain. Consultants should note the \"Shell + Skills + Compaction\" guidance for production agents.\n\n- **Spotify claims best developers haven't written code since December due to AI** - This extraordinary claim from a major tech company suggests AI-native development workflows are already reality at scale, not future speculation. If accurate, this fundamentally changes the economics of software delivery and implies 2025 may be the year enterprises demand similar productivity gains. For consultants, this creates urgency around helping clients transition to AI-assisted development while managing the organizational change implications. It also raises questions about what \"development\" means when code generation is commoditized.\n\n- **OpenAI disbands mission alignment team amid reorganization** - The elimination of a dedicated alignment team, even as capabilities accelerate, signals potential deprioritization of safety research relative to product velocity. This follows recent executive departures and suggests internal tension around research vs. commercialization. For enterprise consulting, this creates risk assessment conversations - clients betting heavily on OpenAI should understand governance changes. It also opens opportunities to position alternative providers (like Anthropic) who emphasize safety infrastructure.\n\n- **Manufacturing procurement startup Didero raises $30M for \"agentic\" automation** - This verticalized agentic AI play demonstrates that narrow, high-value workflows are attracting significant capital even as foundation models consolidate. Procurement represents exactly the kind of complex, multi-step process where agents can deliver measurable ROI. The $30M raise for a specific use case validates that enterprises will pay for proven vertical solutions rather than build on raw LLM APIs. Consultants should identify similar high-value, repeatable workflows in their clients' operations.\n\n- **Modal Labs in talks for $2.5B valuation as inference infrastructure heats up** - Modal's potential valuation shows infrastructure players can capture value even as models commoditize. Their serverless approach to GPU compute addresses the inference cost and scaling challenges that plague enterprise deployments. This validates the infrastructure layer thesis and suggests consulting opportunities around deployment architecture, not just model selection. Clients spending heavily on inference should evaluate specialized platforms versus hyperscaler primitives.\n\n- **Glean CEO explains the battle to own enterprise AI layer** - Glean's positioning focuses on becoming the connective tissue between enterprise data and AI capabilities, essentially competing to be the enterprise interface for AI. This \"AI layer\" concept is critical - whoever controls how employees access AI across their company's data potentially owns the enterprise AI relationship. For consultants, this highlights that implementation strategy matters as much as model choice. The fragmentation risk is real: enterprises could end up with dozens of AI tools or a unified layer that orchestrates everything.\n\n## WHAT THIS MEANS FOR TP\n\n**The consulting landscape just shifted dramatically.** Anthropic's $30B raise and $380B valuation, combined with OpenAI's Codex advances and infrastructure plays like Modal reaching $2.5B valuations, confirms we're entering the enterprise deployment phase of AI transformation. The most significant signal is Spotify's claim that developers stopped writing code three months ago - if even partially true, this represents the kind of productivity breakthrough that will force every enterprise to ask \"why aren't we seeing this?\" Tiger Pinnacle should prepare for a wave of urgent inquiries from clients who've moved past \"should we do AI?\" to \"why aren't we capturing 10x productivity gains like Spotify?\"\n\n**Three immediate service opportunities emerge.** First, the Anthropic funding validates multi-vendor strategies, creating demand for architectural consulting that helps enterprises avoid single-vendor lock-in while maintaining governance. TP should develop a rapid assessment framework that evaluates OpenAI vs. Anthropic vs. specialized models for specific workloads, with emphasis on safety documentation and compliance requirements that Anthropic emphasizes. Second, the Didero raise demonstrates that vertical agentic solutions command premium valuations - TP should identify 2-3 high-value workflows in target client industries (finance, healthcare, manufacturing) where agents can deliver measurable ROI, then build repeatable implementation playbooks. Third, the infrastructure layer battle (Modal, Glean) means clients need deployment architecture guidance urgently. Many are still using basic API calls when specialized platforms could cut inference costs 40-60%.\n\n**Risk preparation is equally critical.** OpenAI disbanding their alignment team while accelerating capabilities creates conversation openings about governance and risk management that enterprises must address. TP should position this not as FUD but as responsible planning - help clients build internal AI governance frameworks that survive vendor strategy shifts. The Spotify claim also creates expectation management challenges: not every organization will achieve similar results immediately, and TP needs frameworks to help clients set realistic timelines while identifying quick wins. Finally, the inference infrastructure economics discussion (Modal, dedicated chips) suggests current deployment costs may drop significantly - avoid locking clients into long-term infrastructure commitments when pricing models are in flux. Focus on flexible architectures that can adapt as the economics evolve over the next 18 months.",
   "sources": [
     {
       "title": "Amid disappointing earnings, Pinterest claims it sees more searches than ChatGPT",
@@ -142,69 +142,6 @@
       "source": "techcrunch"
     },
     {
-      "title": "BCG and ElevenLabs Announce Strategic Partnership to Transform Enterprise Customer Experience with Conversational Agents - Boston Consulting Group",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdGVhUktyVXNLal8wXzNBcm5sd19DcjNycmNkR21ZUlhaaEhiNVhoWkhYaXMtMGhOc2Y2d2tTelNUelo0ZC02ZjIyUnF5WE9JYkZJaGJfYVJZSXNSZjVtOVRHMHVOamI1bzluU2J6VDJYdkVpR3hLN1k4cEpJSkJ6ZnQ5NktJZ0tZTHpzT3k3UXNJS3dZc2RoY1IwSG10V3dNdFhFdGo1T092aGVoemlGdV92RQ?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "bcg"
-    },
-    {
-      "title": "Bridge to BCG - Consultant, Advanced Degree, Canada in Calgary, Canada | Consulting at BCG - Boston Consulting Group",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaWhqLUlMSWdVRmpvVWc1MnVEc3EtblgzeW9RbVBTUko3d1JoNW4tOEZSa1FOSEc0MnFDY3NtZjJ1QTEwckdNaU5KZGVhUktOV1luVEgzQVJLUlJuTGdPYkZQMEdhYlFJSmxtRHRPMHlOU2pyS3c0SHBac0wyenFDSEVrYWh2akpMSy1raFNzbUhsRVBMTnc?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "bcg"
-    },
-    {
-      "title": "Why Zero-Based Transformation Is Not Just Another Cost Program - Boston Consulting Group",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbnpzSHFySkQtaUsycXBnd196QnBqVWtMRGJUSGdRQ2diU3MxZkJTMGMwZndpdWNrbWJHbkhkVm4yR3huUm8zNlN0MS1rSHByTTJvOEtNMV9uTG1lbUJiUjdSdWVPYkhjdG5TMUlsMVdmTlJVdV83Tmc1bWdFVHpNdktJUnFkcDVSaTZDQ3NBWUYtdw?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "bcg"
-    },
-    {
-      "title": "Data Scientist, Internship, Finland - BCG X in Helsinki, Finland | データサイエンスと分析 at BCG - Boston Consulting Group",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1rWkRRYThRNTFmVGZKM0x6U283enFLYTZXOUNTRVdpRnFmTkJVLXdHcGhPM3dOT2RzeE04Q0pYb0VzUmJOcHIyNTBBTDM5YkV5TEtfQkZxU2ZIWG83Vm9LZDJqSFR3LVlF?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "bcg"
-    },
-    {
-      "title": "Data Scientist, Internship, Finland - BCG X in Helsinki, Finland | Data Science and Analytics at BCG - Boston Consulting Group",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcFBrdWZ0ZEFUODRfVExSZEFISUFLa2szbjVPUFMyNGFIdW9abG5kMXBIdWhLMTJCRmJKV25FRkNlSHhPdWtvWDF5YmlpVy1Qd21odkhTY3Q2bXFzejBMRHlCdm5BM1RiajA0YlBxdl9JNTQwZWdBM0lwU0dRUmdtLUZBN0o4T0hYTXFR?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "bcg"
-    },
-    {
-      "title": "Senior Consultant / Project Leader - Marketing, Sales and Pricing in Stockholm, Sweden | コンサルティング at BCG - Boston Consulting Group",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQc3pRNjNwM3ZkWTJGS19GWVV6UjBXRWxvbW5JVVdxZ3pScWlxTW9NMGUyYnN5U203V0t4VFQxOXV1YTBOemRsM0dhWGEtT3hsNFpKbXpUUk9oUUFVOVV1bUx4UlJfcDJhTi1qZHB5MkNTRVNLNEFfTEFGdUFiZDNhV0pDcFVjTENSR296M3pHdGJQU3poX1dVZlFfVm9VY2VOcUE?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "bcg"
-    },
-    {
-      "title": "Manager/Principal, Platinion in Johannesburg, South Africa | Technology and Engineering at BCG - Boston Consulting Group",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1fcWZhTWN4aEpCQl90VHF3N2ZUR3hpZHJIUUNLMDhJUGlXUTVTRktrVUJpWGJFcDgyYU01a203VnVmNFg2SG0zU08wRnJvMm1QQTJqWEtFN2ZxU2Y5MHlJMlQ0ZS1YYjZGYkRLZUtEZkotQ2dMek96YW52VQ?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "bcg"
-    },
-    {
-      "title": "Gemini Deep Think: Redefining the Future of Scientific Research - Google DeepMind",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRmtMZnRYNW04a3Q4b0dSQm9aall0S3BJWFFOczQ3dmdfX3cyR1plYlotZHg5ekhlZ2s3cUd6Y1pyT3lkVEJrV1V0c0NWVlBQNHlMbXlEbXpTYWlSVUZHVllYZWdSb2RMU2JTelVGMXBEckZSdWt5VUs1d24zdUVLaExpS0NZMmtpSTRoNDd2MHRZdlBRaWxSWmVTNk0wRWtRQ2NaV2ln?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": "K-Health enhances its AI physician by fine-tuning Gemma 3 with real-world clinical data - Google DeepMind",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9mT0hUeVh3X2hOUG5Fc3VibG1wNlNmcFRXZFc2TFdJZ3dPZkVQeGhnUDExelJiSFh2U25pdzJHeTlRYUdMMjN1ampkRC1QTzV4T3pDbDZHQ0ZVSlpsVERJMFVTenRVWnRT?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
       "title": "Anthropic raises $30 billion in Series G funding at $380 billion post-money valuation - Anthropic",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaXY3cUsxbGhpVW9tUHAyc0MwNFlEOUJjRVFXYVBHNTBzZDNkakxyTW4yenQ0N3NUMGk0Zk1KbHVyVmprSWtJQzk3dGZjRUQ1QWhvbi00UnBjWlhsb0lPQnFYcDQxUW9BWFMteEVfekdvSG5acDRHU1pDQXB0M2M2WlhqclE1VGJfSUNXOXRZYmI2THlDYWp4MzlUcGdlWnB1enJpUXVUclBvZU5O?oc=5",
       "score": 0,
@@ -305,6 +242,13 @@
     {
       "title": "AI Fluency: Framework and Foundations - Anthropic",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Oa0ZnNG85NUdadXBSZ0VHcEdHX21pcGRwTFh5RUtPQ1Q2TTl1MVVVTlVhbVllVEFxOUttb3M5MkU3c0xla29feF9FZkFfWUpYZG92YW9ucklHZlFuWHFlcVdITDQ0NV94dEQ0d0lUcm5kTTNHeEI0S2tBTmt0ZVE?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Jobs - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBGOHFSdk9hQzZWbFU0ZllkSnBBWURiSnlMSTVMeVZCMW5DaW1UWHZXdGd3aW1YUGFmaVZiendsbURCV3FyLXJyM1ZlR2k2VlhUdDZKNDVnd050ZDNXZnFYeUVEUkxRekw1a3BPMzRmZw?oc=5",
       "score": 0,
       "comments": 0,
       "source": "news"
@@ -695,22 +639,8 @@
       "source": "news"
     },
     {
-      "title": "Chatgpt Apps UX issue on Mobile devices - OpenAI Developer Community",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTm9tbm5oODV1ZVZwR2RoRTJaMG9tYU5YUVZMT1BGYThwRzRpUEhqSm9oQkdsN3BLVmJRMU5acnFOMmxSOVpPRFRDY05RZ2hxckpONEIxY1AxYWprd3VrR0t5ZVpkbzNZSU5sengwbFYzWjJfdm9RTTRrZzhBdW9rOGNLNkM?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
       "title": "List Skills - OpenAI",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1sVDZyMlVTWDk2b0YwemtBREw5angzdmNzMzRMNmJLUHhtT3dWMkl1RGNTUmpEcGZNdnNQSHVTVEs4OEhIRl9EdDFLQXRtal9mODBUaUl0UWtlYVJDeEljSXg2UEhtc255SmRGNlhFcFZ1bVVWeUdfNXJRN0ZUQQ?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": "Finetuning Query for gpt-oss - OpenAI Developer Community",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1kRm5zVzR3dDVVSXpBNjg5MEx2dlQ3aU0wekVEMnQtdTBnM3YwMWV6UDlzOTNaUWxBVDFjaTdVTmZ6YmNkbzdPMW9heW05akx4Z0gzb21BRUZMcGpUOGFkQXFNRnpUaGJQRXl3NUdLWmpHLWtNRFE?oc=5",
       "score": 0,
       "comments": 0,
       "source": "news"
@@ -751,13 +681,6 @@
       "source": "news"
     },
     {
-      "title": "Codex models often miss closing tags? - OpenAI Developer Community",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQU2lkNTVKZFVzNWo5LWhkVm1HdjhSUU9tYUtlWjZWRVJkWkZrdV9ZWEJqalNFU1JlSUd0Y2hZdGkyQkJ3TGItNVQ1MmdHbVRBMW5KVWtpYW9mc1lwNXFOT3VBZ0hzLVpnZjVqaGZYb3psUFI1VnFDdGJPYWJXelZtbg?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
       "title": "Responses Overview - OpenAI",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBkNFhHSUtZRUdYU2NQLWFEZVN2TXA5WEItV0xJUU9WS0UyTm4tR3JFWHU4VUI3N3VQa05iQXRVaWZZUlhEbXUxd3RUUHJnUllyZ3FvQlVvcDZMUWwyaU8wSDZLZ1JXTFF0MzB4d3BLMDU?oc=5",
       "score": 0,
@@ -774,6 +697,20 @@
     {
       "title": "Unassign organization role from group - OpenAI",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZDVBcmFRdzBBR0pFdlh6MVBEMGRnS1hMZVk2NUFzNEtCREM0QXVnQ1V6N21iT2sweURuZWs2bV8tZE1zazdYQkllR0t6SHljaFZ1eWFfNkJhVzhGenRFVm9yaHBpR1RWOVl6cFFLU2Y0Y2hkLUROTXc4NlU0VlZlRU1CTUpHNkprRlUzZ0FSaGd2SUpHNDNmeUFyNFA3ckVQNThmdDVWZHhnS19kdWdfeXRIWWxUaUFzXzZXSQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Images - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1PX2NJaTMzSW1JSGpQTXlhX0hlWXBtTVh2SHZ3UTZhc2hYdWtTdHVsbnZJM2paa1VGd3Yyd1g4NjMwU1dSM1l4RmN4QTVPSTk0b0FRa293X054V3o0Y0VuMnFBSFZ6QWNUdGRjdVR4ZVpXTmNw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "ChatGPT Bugs - OpenAI Developer Community",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBlWVBaOEFGU0V5akFnUjFaN0hlSUhRamthejRMVV9pT2RBNDdJblJRVnBnbVZVZ2ZUVjd1VG9iaV9GZEpuME5XSlZBVElVLTU3YXV5c0dmMjQzYW5TVlNYOFgyYzc?oc=5",
       "score": 0,
       "comments": 0,
       "source": "news"
@@ -809,13 +746,6 @@
     {
       "title": "ChatGPT App Mobile rendering issue - OpenAI Developer Community",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1jdkVhakN2M1pvU2VYczlVMzUxNlNROEExUGR0dnNXQ0htVW5pYy14RTJuaURKVWE2LUt5MmxrUG1GbG1vMHlYcEN3eEN3YnRDNkJZa3lBd29XbkZnamJIR0g2SXZsM2hYN0puc21iRGZKYnc1RDlFMXc2OTFjQQ?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": "Docs MCP - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9PQVByNTRYMEl1ak5yUm1jNFhUaE12bHRVelhFbDJmYS1vRUd4QXpDTGQwZTdrNjRzOV9lXzBGckxpcjltSHdxZ1JldXY4N0FOV0NDRWNFVU9hbVE?oc=5",
       "score": 0,
       "comments": 0,
       "source": "news"
@@ -884,13 +814,6 @@
       "source": "news"
     },
     {
-      "title": "Compliance API- GET Apps connected to GPT - OpenAI Developer Community",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNYm9YYjRFdjBUS1dSSVB1RmREd21TdXQteVZWLWFTWTI3NE5LLWZWYkVhYmVmaEtpTnR1Sjg2ZURhNDVPc09uUDVUdDB2bkxKY1hDUjZ3T1UyWW5GVjlyRkVIVUJRRXVrTWpPVVlnaF83RVp5Y2hnN2VTY19vWV84QmF5Nk40UQ?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
       "title": "Deactivate certificates for project - OpenAI",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOV2NMbElkV1JNZldISlZ1QVJseEREY1k0c19mQU9LX1RuaVVSUXEwNS1xWGM1SXFrRGpTaUM0MWZEeXIxYnJhTzlUb0p4U0Nsa0pENzlCUEllQkJRaExINEpLWVVVMnQ5ZHNJZ1FiOVpPWUFpdEVCeUtnOVotbDM1M29pcVotcmNTWmdJak42eGgtaDFnWU1aLXptVFJyX1hIVkc5X1cxcW5ZaUhqQkd3akFURDhadzNOaDdaQ2NvQ3JWY3FZMnRhXzZkaGRXUQ?oc=5",
       "score": 0,
@@ -912,20 +835,6 @@
       "source": "news"
     },
     {
-      "title": "Gpt-4 models are unstable? - OpenAI Developer Community",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBvSWM0cVdhN3RCdHlHN2drMlRtaWlMLTQwN01GUndVNlJQUDFRWWZ5TTdTTGdrSkt5V25KcEctaXktekNZVXRhXzZaTHdXREZWZU50YUVFaEJxUWl1S1ZHTXpqQmFTR2RybVo2N0xsR18xQQ?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": "Feedback on ChatGPT’s Handling of Long-Term Context - OpenAI Developer Community",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMWRyWUVPdU5jSHlZQ0tQX0p0R2haTU9TZll4REp4LVVibkxBMGpudnlSakNpbEdnZ0lxdWFWcGt0MmIybEZiV3J1RFNTbTFIalFuWHR3dzUwRFMtLWMyRE9oV0V6S1VESDBDRGVvbWlxMVE3bHZieUVnbzBIM0tWb25tMWdONkx5YU5ucGJPNnhGdWF0?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
       "title": "Delete a container file - OpenAI",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPelJZRWRsUjVrX094YjNYNDFITHVsSjN6NTVSNlVac2R5OTY0ZU5qcHA3OTh3ZEl0NktqT2JROWFvVDJ3eUp2QTRXS0ZnUlFzdGh0RGM3SjRTeFJuMTZvemtXbjFIcTdVZFFYS19Lc0hTeUpuY1FCOEd0YVRFRldFSHY0ZERjcFpDREdiSUpITnA4MXlwOVg2enpWZVRZSkRD?oc=5",
       "score": 0,
@@ -940,22 +849,8 @@
       "source": "news"
     },
     {
-      "title": "Cannot use GPT-5.3-Codex on Codex Cloud - OpenAI Developer Community",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYWVvX1B4S01jVFFQc2JUM19HUXEteUZNUmc5Z0RLaEEwb2w3YW5RTWpQdDRwaE0teVl6Nlo1SkZGaGNqVUsxTEc3UE9vcmtOLWhaQUJCejl5SDdsMmwzek9LbHVwcEE4WWxEVm5UR1VBWTZ2R3BvQzNxN3JkbFpwM3pPMU0?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
       "title": "Get Skill Version Content - OpenAI",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQU3dRdEVtOGRBOEhxUGtFcVZ6REtYVGJzVWxQVTNnQXVWdGkwZmNRaFVOSTR2VnUxdVdBMXJsSEE4OGRISHZyQlhvaXpMU1FKeUlENGlfa0JfTTBFaDRveGZqWm11QTBCQU1aOUpzMWl4cG85MTRPemYwUmRaQWxqR1VmcWJ5bjQ4bEhEdlRkSG5mSGVKcThQNTdyRlVya240UkhYQUpLSTctV2NRT19YeXBqdXRFbkhrajkxQg?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": "Error when attaching images via Assistants API - OpenAI Developer Community",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTmw4RktTODU5Q3pCYUZfVEhDcnVXMnlyWFBzcFRtaFl4VEZtZWM0YTdKVUhhMzVMVHBXQ3Rfd1kwNlBoRHFPSjVMbE9EVkZqbWI0Y1BVODBMUVlMSThkalBSbUI3MllhSWtnTDJ6NEgwbmY1NUhSclBxX1I4R2hrRnUwbkE0UTY0VG9wVDJB?oc=5",
       "score": 0,
       "comments": 0,
       "source": "news"
@@ -1003,26 +898,68 @@
       "source": "news"
     },
     {
-      "title": "Feature Request: Daily Topic Updates on ChatGPT Home Screen - OpenAI Developer Community",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQX1JVNGtfcWVoeGluNWRsWHVIdVVkczEzNlpsemt2UDNPM0J5aFFJS0JQbkdpNGhkWUFUbzdfVGEycTllRy10R2djVnJHUkJPbEpwZkt6UFlvT09fVkk2VlAxemIwc3BtMVNhSnhfQktmT2RyOTdGN0dfYzViRUF1Ui1ZZUxIQk9ib2ktZkJWVjlsQklUSHFSVnBVd2JDQQ?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": "Responses API Container Duration Metrics - OpenAI Developer Community",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOLVFTZnFwYnExbUhFdkdibnpDM01Vd1NodDBac1hCWGRWM29WZVQtSWlJcmNES2dEYW82eUNUNGNtdVFONmlGZUlVVTVEbTQ3S19vSUE4eUZESDRIbFc1SUtycFZKYUh6WXZKb290SVFfQkNhVjJzUWhwQTk2QzJPcGh6WFJGZw?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
       "title": "List user organization role assignments - OpenAI",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSkt5NGF3RkNwUTVaU3V5LUdiVDhwMUhTSUJpTmFvalpRdXpuM3pPRWxJTWw2TG1VRFpBUGlIX25KWG84S1hzTi1VWXd3Wkd4NEpITDVINF9DUUJpU0lySEEtNFBEMTR3ejVGLWFWZWtqa1BmWkhpR0k4MmJ5UzVWT2RUTEpFNUE0cjhSeVAwbXFuVzQ0RHJ6ckNGNEVXQUFzYndCdVNBek5xRnNBM2lQMEVkb2tTMXZf?oc=5",
       "score": 0,
       "comments": 0,
       "source": "news"
+    },
+    {
+      "title": "List project certificates - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOREl5TVQ5MzZLZ1p6Ym8ydV8telc4MW1HSUtQVE9PTDRhdXZGbzVUZjRFOXRhS3VfVDRQVFVxbnU5d1VLR3VEazRhendBWHZCYzBEeGEyUUV1OFJidmV6eHlNS0xxZE5tZ003YVNCWm1NVjQ0X3I0SmpNT3pVeTZDb3lLWXBIMzJ1VDFHcENuZ1VrZGR6aWNsNFRub21jNVVvX0hlT3A4ZFRKNFBOMDNobDRxV2gzMUY3eXAwSy1tWk4zbkdsYUE?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Careers - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4wWjRLelBKNmJPTGE4MnlmcGFvY3pyd3o5OGdyYWF3V09UMUVDbGNPam42bmtCd0tHa1Jqa0hHcHhMeW1yalhvZkZBOUpiaTg0MkdhNVc0SGJDNktQeVJiRl9iUQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Create image edit - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1VazdBenZhaFlGOUVVUEtNVE5zYVItSWNKa0ZiNXNvRDl3bDVQbWFsUVNhWDdEeHVDeEdkcFVyc05nQllSdVRySGhKV0ZaaVFhaGhEV0hxdzJCS0V1R1lseTc2dmlNZTFoMEY2eFp4anY4UHRCQk8tMTZQNW9EQQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Calls - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNN2c3S1Zyd3RFcUdVNXNkS18xQVZ1bllLZElrZHp0THlkQllZQjEtdjdPTU16NHlQc2pMQXBwRHIwSUJSZ1p0QVJUcERJTVVTXy1reWFkYlVwVVM2S2hYSXc2TTBHcXZ1aUhXd1JnRzh6d1BoX0djeE1HZlR4WjBXNFdXNXlBaW1uMHRnM1d3R01RVU9Pc041eg?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "high error rate in text-embedding-3-small - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9majlfeTVmcFgzYlk4bFNfN1pOVXp4YmpCampfUGlRS01YeW50RUt1SnQwTU5XNWFBbGVKVmN5NDNYS1hxelhwUVJqc2tUVENEMUJBTV85QU5IMHdjZDJjVF9UV2ZqNFNaUG9HYTQwSQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "GPT 5.2 Elevated Error Rates - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1vQTJ0WnNUTkhyZlJLVTNEdGtnYl9MQ3RYNDNQbDhsZVY0Mnd6MWhOZU00NzFyaFZ5LUh2N0YxRGd1UndVSG5XU00wSFlBczFzMWVUSC1EMl9Gb2pwTGswY293SzZ0dXQ4VnhPdFlaMA?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Operating Systems Engineer | Consumer Devices - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUUZFc2oyN0R6QWVCb3JyMlVNeE1IUFdkZFQycWdVa2RVU3MyRFpfRWhodnUwYkpmOVg0eXFjNlZXeGdVUG5YMEVXaUFvZmYzd2JGMFBnMVlhTTZjeTVkR2stMUZMWmNxM1Boc3pFV05oanBSdWVjQzRRNXpzQUdBX18zdnA1U2FzcHBPc1BtaEcwZw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Batches - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5yYWR4enhZa3czRnFjTlBkaGxtckQ5elYzajh2VGdDUVQ0TnNVZVJaQ1JtMDZPZm5VMmtycDRKUnYxUHB2eG1mdi1POF94SWNIWDdPdUJWZV9rRjlpcmVxek40dm9nUkhTQVVuTUNB?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
     }
   ],
-  "generated_at": "2026-02-13T03:00:08.400Z"
+  "generated_at": "2026-02-13T03:00:23.071Z"
 }
