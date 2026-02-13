@@ -4,13 +4,6 @@ html {
   scroll-behavior: smooth;
 }
 
-/* ─── Scroll snap on mobile ─── */
-@media (max-width: 639px) {
-  html {
-    scroll-snap-type: y proximity;
-  }
-}
-
 body {
   background: #09090b;
   -webkit-font-smoothing: antialiased;
@@ -301,10 +294,3 @@ body {
   animation: fadeInScale 0.25s ease-out both;
 }
 
-/* ─── Snap sections on mobile ─── */
-@media (max-width: 639px) {
-  .snap-section {
-    scroll-snap-align: start;
-    scroll-margin-top: calc(env(safe-area-inset-top, 0px) + 60px);
-  }
-}

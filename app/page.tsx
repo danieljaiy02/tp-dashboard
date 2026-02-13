@@ -703,7 +703,7 @@ export default function Dashboard() {
 
         {/* ─── Quick Brief Hero Card ─── */}
         {quickBrief && (
-          <section className="snap-section glass-card relative bg-white/3 border border-white/6 rounded-2xl p-5 sm:p-6 backdrop-blur-sm overflow-hidden animate-card-0 mb-6">
+          <section className="glass-card relative bg-white/3 border border-white/6 rounded-2xl p-5 sm:p-6 backdrop-blur-sm overflow-hidden animate-card-0 mb-6">
             <div
               className={`absolute inset-0 rounded-2xl bg-linear-to-br ${quickBrief.gradient} pointer-events-none`}
             />
@@ -746,7 +746,7 @@ export default function Dashboard() {
                   sectionRefs.current[i] = el;
                 }}
                 id={`section-${i}`}
-                className={`snap-section glass-card relative bg-white/3 border border-white/6 rounded-2xl p-5 sm:p-6 backdrop-blur-sm ${cardDelays[i] || "animate-card-3"}`}
+                className={`glass-card relative bg-white/3 border border-white/6 rounded-2xl p-5 sm:p-6 backdrop-blur-sm ${cardDelays[i] || "animate-card-3"}`}
               >
                 <div
                   className={`absolute inset-0 rounded-2xl bg-linear-to-br ${section.gradient} pointer-events-none`}
@@ -783,7 +783,7 @@ export default function Dashboard() {
 
         {/* ─── Source Feed ─── */}
         {sources.length > 0 && (
-          <section className="snap-section glass-card relative bg-white/3 border border-white/6 rounded-2xl p-5 sm:p-6 backdrop-blur-sm animate-card-4 mt-6">
+          <section className="glass-card relative bg-white/3 border border-white/6 rounded-2xl p-5 sm:p-6 backdrop-blur-sm animate-card-4 mt-6">
             <div className="absolute inset-0 rounded-2xl bg-linear-to-br from-amber-500/5 to-transparent pointer-events-none" />
             <div className="relative">
               <button
@@ -878,7 +878,7 @@ export default function Dashboard() {
         )}
 
         {/* ─── Action Items ─── */}
-        <section className="snap-section glass-card relative bg-white/3 border border-white/6 rounded-2xl p-5 sm:p-6 backdrop-blur-sm animate-card-5 mt-6">
+        <section className="glass-card relative bg-white/3 border border-white/6 rounded-2xl p-5 sm:p-6 backdrop-blur-sm animate-card-5 mt-6">
           <div className="absolute inset-0 rounded-2xl bg-linear-to-br from-amber-600/5 to-transparent pointer-events-none" />
           <div className="relative">
             <div className="flex items-center gap-3 mb-5">
