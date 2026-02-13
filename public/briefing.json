@@ -1,5 +1,5 @@
 {
-  "summary": "## QUICK BRIEF\n\nThe AI industry is experiencing a major funding and capability surge alongside structural upheaval. Anthropic just closed a staggering $30B Series G at a $380B valuation while OpenAI is disbanding its mission alignment team and rolling out new Codex infrastructure. At the enterprise layer, multiple consulting firms are launching strategic partnerships (BCG with ElevenLabs) and companies like Spotify report developers haven't written code in months due to AI tooling. Meanwhile, Yann LeCun's assertion that today's LLMs are \"nearly obsolete\" (124 points, 140 comments on HN) is sparking debate about what comes next.\n\n## COMMUNITY PULSE\n\n- **Yann LeCun claims today's LLMs are nearly obsolete** (124 pts, 140 comments) - Heated discussion about whether current transformer architectures have fundamental limitations. Community split between believers in incremental scaling vs. those expecting architectural paradigm shifts. Critical for consultancies positioning long-term AI strategies.\n\n- **Intel Neural-Chat-7B tops LLM leaderboard** (37 pts, 64 comments) - Surprise that Intel achieved competitive performance with smaller models. Discussion centers on efficiency gains and whether hardware-software co-design will matter more than pure scaling. Implications for edge deployment recommendations.\n\n- **Switzerland releases AI model trained on public data** (5 pts, 3 comments) - Growing interest in sovereign AI capabilities. Limited discussion but signals broader trend of governments building independent AI infrastructure rather than relying on US providers.\n\n- **Chinese AI models storm Hugging Face benchmarks** (6 pts, 0 comments) - Notable performance but minimal engagement suggests community fatigue with benchmark wars. Reflects broader skepticism about whether leaderboard rankings translate to real-world utility.\n\n- **AI researchers run LLMs at 13 watts without performance loss** (3 pts, 0 comments) - Efficiency breakthrough getting overlooked despite potential impact on deployment economics. Suggests market is oversaturated with incremental optimization news.\n\n**Overall sentiment**: Community increasingly skeptical of hype cycles, focusing on practical implementation challenges and questioning whether current approaches have hit fundamental limits.\n\n## KEY DEVELOPMENTS\n\n- **Anthropic raises $30B at $380B valuation** - The largest single funding round in AI history signals unprecedented investor confidence but also raises questions about sustainable business models at these valuations. This follows their Opus 4.6 release and expanded enterprise focus. For consulting firms, this validates the enterprise AI opportunity but also means clients will expect sophisticated understanding of when premium models justify their cost versus open alternatives.\n\n- **OpenAI disbands mission alignment team** - While launching new Codex infrastructure and \"Skills\" API features, OpenAI has eliminated its dedicated alignment group. This organizational change contradicts earlier safety commitments and suggests commercial pressure is reshaping priorities. Consultants should anticipate client concerns about AI safety governance and need frameworks for responsible deployment that don't rely on vendor promises.\n\n- **Spotify reports developers haven't coded since December** - Chief Product Officer claims best engineers are now fully AI-assisted, representing the most concrete productivity claim from a major tech company. This isn't theoretical ROI—it's a Fortune 500 company fundamentally restructuring how software gets built. Creates immediate consulting opportunity around development workflow transformation and measuring actual vs. claimed productivity gains.\n\n- **BCG announces strategic partnership with ElevenLabs for conversational agents** - Major consultancy making public infrastructure bets on specific vendors for enterprise customer experience transformation. This signals consulting firms are moving from advising on AI to delivering turn-key agentic solutions. Competitive threat if other consultancies don't establish similar partnerships or differentiated capabilities.\n\n- **Modal Labs raising at $2.5B valuation** - AI infrastructure layer attracting massive capital as inference costs and deployment complexity create new middleware opportunities. Yann LeCun's comments about LLM obsolescence are particularly relevant here—if architectures shift dramatically, today's inference infrastructure may need complete rebuilds. Consultants should help clients avoid over-investment in infrastructure tied to potentially transitional technologies.\n\n- **Multiple enterprise AI product launches** - Uber Eats AI grocery assistant, Threads feed personalization, Glean's push to own enterprise AI layer all dropped within 24 hours. The velocity of productization suggests the experimental phase is ending. Clients will increasingly ask not \"should we do AI?\" but \"why haven't we shipped yet?\" This shifts consulting from strategy to execution velocity.\n\n- **xAI outlines interplanetary ambitions, reports employee exits** - Musk's latest venture combining space and AI compute faces talent challenges despite ambitious vision. The \"moonbase\" positioning reveals how AI compute economics might drive extreme infrastructure solutions. For consultancies, this represents the kind of moonshot thinking that could create demand for scenario planning around non-traditional AI deployment models.\n\n## WHAT THIS MEANS FOR TP\n\nThe $30B Anthropic raise and $380B valuation fundamentally resets enterprise expectations. Clients will increasingly view AI consulting through a binary lens: are you helping us capture transformer-level value, or just doing incremental automation? Tiger Pinnacle needs to position around **transformation scale** rather than point solutions. The Spotify data point—no code written in months—provides a concrete proof point for this scale of change. Specific opportunities include: development workflow audits that measure AI-assisted productivity (most companies claim gains but don't measure rigorously), infrastructure advisory that balances bleeding-edge capabilities against LeCun's obsolescence warning (clients shouldn't over-invest in potentially transitional tech), and safety/governance frameworks now that OpenAI's alignment disbanding proves vendors won't self-regulate.\n\nThe BCG-ElevenLabs partnership represents direct competitive pressure. Larger consultancies are locking in technology partnerships to deliver vertical solutions rather than vendor-agnostic advice. TP's independence becomes either a key differentiator (\"we're not tied to any vendor stack\") or a liability (\"we can't deliver turn-key solutions\"). The middle ground is dangerous. Consider strategic partnerships that enhance delivery capability without compromising advisory objectivity—perhaps with infrastructure layers (Modal, Replicate) rather than model providers.\n\nThe community pulse reveals a crucial insight: technical practitioners are increasingly skeptical of LLM hype while enterprises pour billions into the space. This creates a consulting opportunity around **reality-checking AI investments**—helping clients separate genuine capability from benchmark gaming and marketing. The efficiency research (13-watt LLMs) getting ignored despite massive implications suggests clients need help identifying which technical advances actually matter for their business versus which are just paper improvements. TP should develop frameworks for evaluating AI capabilities that go beyond vendor claims and benchmark scores to real-world deployment constraints.",
+  "summary": "## QUICK BRIEF\n\nAnthropic just closed a staggering $30B Series G at a $380B valuation, cementing its position as OpenAI's primary rival while OpenAI simultaneously disbands its mission alignment team — a symbolic shift in AI safety priorities. The consulting giants are all-in on agentic AI: BCG partnered with ElevenLabs for conversational agents, while practical deployments accelerate (Spotify's devs haven't coded since December, Didero raised $30M for procurement automation). Meanwhile, Yann LeCun's declaration that today's LLMs are \"nearly obsolete\" sparked major community debate about whether we're heading toward fundamentally different architectures.\n\n## COMMUNITY PULSE\n\n- **Yann LeCun thinks today's LLMs are nearly obsolete** (124 pts, 140 comments) - Heavy debate between believers in current scaling trajectories versus those expecting architectural breakthroughs. Community split on whether this is prescient warning or premature dismissal of transformer progress. Sentiment: cautiously skeptical of dramatic claims.\n\n- **Intel Neural-Chat-7B tops LLM leaderboard** (37 pts, 64 comments) - Surprise that Intel achieved competitive results with smaller model. Discussion focuses on inference efficiency and whether specialized hardware will fragment the model landscape. Some skepticism about benchmark gaming. Sentiment: intrigued but wanting real-world validation.\n\n- **Chinese AI models storm Hugging Face benchmarks** (6 pts, 0 comments) - Low engagement despite significance, suggesting either benchmark fatigue or community discount of leaderboard positions. The silence itself is notable given geopolitical implications.\n\n- **Switzerland releases government AI model on public data** (5 pts, 3 comments) - Interest in sovereign AI approaches and data governance models. Discussion of whether national models serve real needs or are political theater. Sentiment: curious about non-US AI development paths.\n\n- **Are we ready for embodied robotic agents?** (1 pt, 1 comment) - Low engagement on robotics suggests HN community sees this as overhyped versus software AI. The timing alongside xAI's \"interplanetary ambitions\" reveals gap between aspirational and practical AI discussions.\n\nOverall trend: Community showing fatigue with benchmarks and bold claims, but high engagement on efficiency gains and architectural debates. Safety concerns bubbling under surface.\n\n## KEY DEVELOPMENTS\n\n- **Anthropic raises $30B Series G at $380B valuation** - This is the largest AI funding round in history and values Anthropic higher than most Fortune 500 companies. The timing alongside their release of Claude Opus 4.6 with new \"sabotage risk\" assessments suggests they're building both capabilities and safety infrastructure simultaneously. For enterprise consulting, this validates the Claude ecosystem as a long-term platform bet — clients building on Claude now have certainty their vendor won't disappear. The $380B valuation also signals investors believe the enterprise AI services market is much larger than current revenues suggest.\n\n- **OpenAI disbands mission alignment team while Anthropic doubles down on safety** - The contrast couldn't be starker: OpenAI eliminates the team focused on keeping AI aligned with human values while Anthropic publishes detailed sabotage risk reports and updates their Responsible Scaling Policy. This divergence creates a clear positioning opportunity for consultants — risk-averse enterprises (healthcare, finance, government) will increasingly prefer Anthropic's documented safety approach. The talent implications are significant too: where are OpenAI's alignment researchers going?\n\n- **Spotify reports developers haven't written code since December due to AI** - This is the first major tech company to publicly claim near-complete code automation for their best developers. If accurate, it suggests AI coding tools have crossed a threshold where developers become orchestrators rather than implementers. For consulting firms, this validates the \"AI augmentation\" narrative but raises urgent questions about billing models — if implementation accelerates 10x, do firms need to restructure delivery teams and pricing? The enterprise software development services market needs immediate strategic rethinking.\n\n- **BCG partners with ElevenLabs for conversational AI agents** - A top-tier consultancy betting on voice-first AI interfaces signals where enterprise UX is heading. This isn't about chatbots — it's about replacing form-based enterprise workflows with natural conversations. The partnership model is notable: rather than building in-house, BCG is integrating specialist AI vendors. This suggests the winning consultancy play is orchestration and integration expertise, not proprietary AI development. Clients will ask their consultants about voice-first strategies within months.\n\n- **Yann LeCun declares current LLMs \"nearly obsolete\"** - One of AI's godfathers saying transformer-based LLMs are approaching their limits matters, even if controversial. LeCun has consistently advocated for models with better world understanding and reasoning versus pure pattern matching. For consultants, this creates both risk and opportunity: risk if clients pause LLM investments waiting for \"next gen,\" opportunity to position current deployments as foundational layers that new architectures will enhance rather than replace. The 140-comment debate shows the community takes this seriously.\n\n- **Didero raises $30M for \"agentic\" manufacturing procurement** - The shift from \"AI-powered\" to \"agentic\" in B2B startup positioning is accelerating. Didero specifically targets autonomous procurement decisions, not just recommendations — a meaningful delegation of authority. This validates the enterprise appetite for AI agents that act independently within guardrails. For consultants, every procurement, logistics, and operations process is now up for agentic redesign. The $30M seed round size also shows investors believe vertical-specific agents will capture more value than horizontal platforms.\n\n- **Modal Labs raising at $2.5B valuation for AI inference infrastructure** - Infrastructure players getting unicorn-plus valuations indicates the market expects inference compute demand to explode as models deploy beyond chatbots into production workflows. Modal's focus on serverless inference suggests enterprises want to avoid managing GPU clusters themselves. This infrastructure layer maturation makes it safer for consultants to recommend ambitious AI architectures — the deployment complexity is being abstracted away. But it also means infrastructure costs remain a significant line item in AI ROI models.\n\n## WHAT THIS MEANS FOR TP\n\nThe Anthropic mega-round fundamentally changes the enterprise AI vendor landscape — TP should immediately review which clients are on OpenAI versus Anthropic and have conversations about the safety/governance positioning. Healthcare, financial services, and government clients will increasingly prefer Anthropic's documented approach, creating an advisory opportunity to help them navigate multi-model strategies. The OpenAI alignment team disbanding is a gift for consultants who can articulate AI governance frameworks; enterprises are now more nervous about AI safety and need independent guidance.\n\nThe Spotify coding automation claim and BCG's conversational AI partnership both point to the same shift: AI is moving from productivity enhancement to workflow transformation. TP's pitch should evolve from \"AI will make your teams 20% more efficient\" to \"AI will fundamentally restructure how work happens.\" This means every client engagement needs a workforce redesign component — not just tool implementation but role redefinition. The Didero procurement example provides a concrete case study for how agents replace processes, not just people. TP should develop vertical-specific agentic blueprints for industries where the firm has domain expertise.\n\nThe infrastructure maturation (Modal's valuation, efficiency gains like 13-watt LLMs) creates a window for mid-market clients who previously couldn't afford AI at scale. TP should develop productized offerings for companies in the $50M-500M revenue range who now have access to enterprise-grade AI infrastructure through platforms. The consulting opportunity isn't just Fortune 500 transformation anymore — it's bringing sophisticated AI capabilities to companies that couldn't previously justify the investment. Finally, LeCun's \"LLMs are obsolete\" comment should become a client talking point: \"We design AI strategies that are architecture-agnostic, so you're not locked into today's transformer paradigm.\" It positions TP as forward-thinking without requiring clients to wait for hypothetical breakthroughs.",
   "sources": [
     {
       "title": "Switzerland releases its own AI model trained on public data",
@@ -371,6 +371,181 @@
       "score": 0,
       "comments": 0,
       "source": "bcg"
+    },
+    {
+      "title": "Want More Out of Your AI Investments? Think People First - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbnlWUW05WlJGRko3S2tuaGpNLWFSZmYtOV9xbk1YWU5obE5YcVZ4MjZSQllzU2hSeEpqUHZsM1dHOVVlSmlOOXhyZ282ald6RmxGck1WbUFEN0FiV3FmTWVYYVlhV3hUZG54c0o5NkM3c2RBenNhbXp1SlYwR25VcmlzZW9Ec2R5cmZZM25Daw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "AI’s Evolution: What Good Looks Like Now - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1MRFhIS19aYS1VdlB2V1A4WU9IVFhuMnhEdEs3ME15YW1weHlHdTZYZS1aOFlKX1Y4R0p4STd2cGVUTHhQVFBRNUZKTC1VNkZ1STF1SFltTjRycTl4YlNlSHMtM2VjQ2hQLW12U0lYZnVNU0JOdDk0MQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Preparing for AI’s Next Wave: Agentic, Quantum, and Managing Change Throughout - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPY0hBYzhrMks4MVFrTUxtZDdiVlcxMDI4SGFWOTlSSnJoWXlPS2VpSnBsSkR4TG5uUkRSSnFXNW5nU0VubHp6T1lEMkV6QXV4MGlRT0hOWnFicVNFQUhCU1ZOWTVxdGtxODZRMDVNV2RDaDRCV0E5YUxGVFZ3VXBmTEpxUWlUT1BYVzdERVVtb1BQU3dqTUFtTmJTS1g2TU44cXlZTVNFWlc?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "How Agentic AI Is Reshaping Customer Behavior in Italy and Europe - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYUgyWjdhaUlOXzhQN2o4a2swN1A0U0xiTklqclVRUUNacFRjNnJjRmpLOGlLMEVRS3BXZHNZWWFoQnlXd0FGcFBmOFliNjFtb2NhV2hDVEFKTXNZWnZDZjVVY3lyZmE0U2VBU0p2MGhuNGUxZEFoQ2ZReUxmZnpOMlNJdWRYVmJ0MDlFZUFaSzJMY25VREM2dGU2T2lBVWpEZzM2RTlrRVNjNGpL?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Life Sciences’ AI Momentum Requires a Workforce Redesign - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNmVsRHFTWGpvS3RxMXB0dk1qVmZ0cWlVM0xsa1YzN3NOSk5VUnI0LUhvSDNhemF1cVRUcXZwSEc1S2xwNVk5NnRiTjdUQlBCVy1xOXFJZFRoaGRZbDN5TEdMeG5DeDFBd3JIYXp2dk5zZTRLcTNFX29Hc2lUUjVSU1dRbUVpVU5XekU0em9IVzR6c2M3dkktZVBhYmpIZw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Anukool Rege - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9yZjRGTE8zZVB5ZjhGZUJTalkwdmlIdGVaYzdjdHZidWNENk42OU5WYVlyU0ZZMXZNZUlfdVNpZ1hwaWJjOWxGRmhmWHpOYWducnlkekdn?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Khushi Kaur - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9UaFZQSTJIUF80M1kxNmo5aXVheGptQmlNbk9pSGJXNjRZd3dlVnlaYUoxLXZKM3FlUVB4S3kxUENveXptQXYxUlNwSkd6TWRfLTN2Mg?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "2026 UC Berkeley Los Angeles Office Sophomore/Junior Coffee Chats - In-person - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeW9pS1FzbllTQl9sZXdOTDBjdEJOUDR1SWY3cjdGSlM1Zm0zRUloTEd1WXNYRVVEOW5oVmFVZC1xenR5UExHRVdlVVYyUktrWV9tb1AwYjBPVnM5bHdfRnhhUS0yNGpOb0pIaS05eEVNVEEwdkRObjdaaGdJRXA0SlZPak9GX3RWX2VhRmNHX2J3aGxQZkxDVlVaZ0Y5Z0k?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Six Threats Demand a New Playbook for Banks in Wealth and Asset Management - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVGNaZ0pkLTdmVzN1MmMwMElvZDBLSGdjZnhUR3I3dFlrendJSWRtZFlRUUJjM0FZUk9TcVVKWi1lUG4wLUZyVjlTX1BUalhidUp6T3UtZDhpbWNEUnY0ZHpVWlo4YnNNMTFOUzBQSmxhOHZkY1V3aFd6VVplV1NYaC1ZMzFMRUhCdFJ3Umx5b1VjaUttWVlla3RMbkRURXZUMThEWTI4QjM?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Steve Filler - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBIWWczT3NCSE9nSlZSQWlmWWFyVWpWSlEyVXkwbVBZQVpybHZVR1BqWndBSkdfRjdPY3NGTkZsLTJFQWdubEtCS1ZFV0hqMmRIREhfeWxB?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "What Agency Consolidation Means for CMOs - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ELUZwTlN3Q2dnb091M3AwT0FPVEVsa2l4OXhBckx6clRrMWNVT1UzU3ZBTTc1QVVlblY0RzdnTUF4ay1tR0IyT3J2T25uem5ic1BZcEd4U0V4aFQ2UkRTTnB5dTFMcm1HbWdmVlR1a2k1QTFiMlFkZE54OA?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Brian West - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8ycHhxZi1YMkdKWTVaQTJabVZldDFTVUlhOWRwUjV0VmNidzBIWkpObjl0U3dyRzhXQnVVQlFNTG1oZWZaXzUxVFR5aGVjMlBoY2tZ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Stay Relevant, Spark Energy: Pedro Arnt, CEO dLocal - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBobjlqU3V5WDFhQ1dDZ1hNV0lCZzdFcmx3U3Z4RDY3ZHdHbTNzNXJuOG5tOXRJdTJFUXl2N3RaQlpTMm54eFBsTGx2NjhtZ2hiV1BUVkk4OHlfYmFjT1BxX2JUcms?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "2026 Bain de Perto - Conheça mais sobre a Bain e a Carreira em Consultoria (Híbrido) - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOYVN3Nlh2d1k2NFByQXFzQUp4UGZTWXhhTWdBM0RpMjhkYlFfZERaOUJyVG54R1RyNElWMFc3Y2k3aEhwRTNwNnhFaEZxTExIcTdYMmM0RDdjTVFZdENzekc4UkVWbmpOejBhSXZockxhX2RaLXNBRlZRZ0FQeXl3ZGczYXdQb2NLMVF5MlMwc2RWdUZ3eWxUVVB6aEJ1dGVOTjF6ZnFXZzBvcUNZS1U0QXl0cHA0OGhtTnB0Z3Q3MDdtRGlpTU0waURiUTRQVnFsSTF1TW8wVlZHVW1HRmZjbk1ueE1ETWVjejJfcVBMUDQ3ZUVUUzZTcQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "2026 Harvard Undergraduate Recruiting Office Hours - Virtual - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOGtKZnlWcG93VjAxd2RKMVpnby1VM21fSnB0UDdYOUVpU21odzZ5OHIwLWVaSEZUTXlaWUNRZmpWQjVxSXVudjlKUTExeWVrNGZodHQ0RjZDUDdDcDNIT0c2dnMtbE1YcmhDeGxmbW11WHpJcGQ2dVRsZ2pxd3o5NFB5d09VMWtxcHBuaXRPclZXMmJvd2ZpYlFzLTBHSjA?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Stephanie Staibano - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9iSEFFNUJKQTVYTlBEM1pXUU1Qc1FCd1VUWFo4enlSSUp1NUo5RHIyT2N0TUVYSVI3bjZSSlBjdUcyak1UR190bll5c1dfOEVOLTRYbnR0ZWVTUVZlSDZUSklfQjdpa1F6?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Adam Olszewski - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9HT21wR0c5a2NOdXFnYl9PMW5Rd1AxcUFEMjVLYkNqRTd4MG1zNi1yaG94eGo2bGU5cDUyRmFkUGlVUmUtQ1BNdzVjQWltSVFON2ZheHJ6bEE?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Jose Eduardo Torralba - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8zRno1Y29lb1VLQzhDOEQ5Vkl5RUFZeEUyblZUNUd1a2NYYVNjZGFYeXNYTmYtQTdTbno5RWJGM0hRWnNXek9LcUVFLUp0SS11bWRlTHhmNFZEb3A5Yy1MSzZ3?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "2026 Duplo Diploma e Graduação no Exterior - Meet the Office: Bain Sao Paulo (Virtual) - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQU2doUFJHWW56YzZrYmxtRkRtSDB1S3lQZ3o4Nk9xeWZmMjE5Q0xxa2tIX3o2M3p2bGp3bWIwMXEtTmR5TXB4Z3MzSG9NdDN6VFRZOHB4cmp1bU5sSEh6MDlwQWplSnNWRjV0ektVUEVRRXhkcTdGWWc5cmdHazV1Q3prbFI4OW9tbHdnSVFpT00xUno1OUxyZVBZaWNqWGc?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Roberto Pepe - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAxTFd3dXBQc3laWUp5ckotMlpPeEUxR2hMQ0hyQVlQM1hlelRLX2hLVzRrNGVDRDNfNU5DVDc0RVZGTVdiRXQ1ckl3YnFfMGJzelNOYjR3?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Betting on the Future without a Plan B? - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOY3VvdTVjOXAzR2RrVzhUWlc1REU1bE52TmRxalVRcDcyVVRlM2FlWDBxYmJLSDZXV19vbnJPTWhXekRIN2JZamVWZDBmZW5IT012RFVib2M2T2hqWndnczNiNUJsMXVlWTluTDByQTRiemE4Q19wNThvM2JCR1VhUTh0RERGYlE?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "2026 Brown Sophomore Coffee Chats - In Person - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPX1lSMldRcDBtQ2hoU19SSHdPaHlrQjVxSGpHUmpmT2VYLWVma1N2VHdBaGxfNk10Rmh2RnJGQUx2a1pNTGFFOEQ1U2MtQ3IxTnN0cWI5dEZoT3BmR3JYSmdWRDJweHhidHBSZUpXRWMyaGZzcDEzeHBNN1lSM2tRRkZxN3RFN09ibWQ2TUNGaWN2NnRabll5cks4M3RnbkU?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Meet Bain Mexico - in person AC / ACI Spring 2026 - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMktNZ1J0WENQek1LS0dYWHczV1BCaXVELUQyQi1JYk5HRHVqS0dpM2xINkJEWHlweUtiNUdlcUpQdGl1ZDB5U0Y3SDlxenk2emQtQUtwb0MydlEtb0l3dlFKWnBKREMxT1RyRzBhYS1TbnduSW96Vmk4cFFzbTVzN0JNMHVNWWU1SFFkMkdvN0duNWpsNU1IOEc3WnFCaEE?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "2026 UCLA Spring Presentation - In person - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONkY2a1ZPSjJxOXI0Uy04TUdhSFJ3bXdLMy1GSTlkOVFZUlE0WjA4azhZVHBVdkhXM0tXbHV1VGMxdzg5N2NORG53VGFLYjFSamRUUmh5Z0FTalJjOXNDMC1QNno2VGI3OVFVbWRPZWtEQlBnNUMyb0Y3VVE5Y0MybWlCd1hjb1Vpc1pjWXRhQWs0Z0Y0cWJpaFBRU3Y1aG8?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "2026 Emory Info Session & Meet the Team: In-Person - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUnNGZEpGNXRBaFR6OTBqNHVPVDJxWWtyUWtpVjhTaW55YmNfeF9kVUFqNzBYWHpiRFo5dDQwdUFSNHk2ekR0aWgta3puUHVoLUw3OTQ2U3ZWWjJ0QjFzZ0toWjBTa0NlVUtVT05qLXNSSk1CeFh6YklCeFpJeUZMekxWNkZoYm1xeC1NcWdfMi03clBVWHhBREF5X3NRQmM?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
     },
     {
       "title": "Gemini Deep Think: Redefining the Future of Scientific Research - Google DeepMind",
@@ -1227,5 +1402,5 @@
       "source": "news"
     }
   ],
-  "generated_at": "2026-02-13T13:17:32.112Z"
+  "generated_at": "2026-02-13T13:18:25.201Z"
 }
