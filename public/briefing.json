@@ -1,5 +1,5 @@
 {
-  "summary": "## QUICK BRIEF\n\nAnthropic just raised $30B at a $380B valuation, making it the largest AI funding round in history while OpenAI is hemorrhaging talent and disbanding its mission alignment team. The enterprise adoption story is accelerating hard — Airbnb now handles a third of support with AI, Spotify claims devs haven't coded since December, and IBM is hiring entry-level talent specifically for the AI age. Meanwhile, the infrastructure layer is heating up with Modal Labs raising at $2.5B and OpenAI launching dedicated inference chips, signaling a major shift in who controls the AI stack.\n\n## COMMUNITY PULSE\n\n*No Reddit/HN discussion data was provided in the raw input. This section requires social media engagement metrics (scores, comment counts) that weren't included in the dataset.*\n\n## KEY DEVELOPMENTS\n\n- **Anthropic raises $30B Series G at $380B valuation** - This is the largest AI funding round ever recorded, nearly doubling Anthropic's previous valuation and positioning it as a serious challenger to OpenAI's enterprise dominance. The raise comes as Anthropic's Super Bowl advertising push landed Claude in the App Store top 10, showing consumer traction alongside enterprise adoption. For consulting firms, this validates the multi-model strategy — clients should be architecting for vendor optionality rather than OpenAI lock-in, and Anthropic's enterprise focus makes it increasingly viable for regulated industries.\n\n- **OpenAI disbands mission alignment team and loses talent to competitors** - OpenAI removed access to a \"sycophancy-prone\" GPT-4o model while simultaneously shutting down its mission alignment team, raising questions about safety priorities as top researchers depart for competitors. Multiple reports indicate talent is \"walking away\" from both OpenAI and xAI, with Musk claiming xAI exits were \"push not pull\" after laying out interplanetary ambitions in an all-hands. This organizational chaos creates enterprise risk — companies betting solely on OpenAI need contingency plans, and the talent diaspora means competing labs may suddenly leapfrog capabilities.\n\n- **Airbnb achieves 33% AI-powered customer support and plans search overhaul** - Airbnb reports one-third of US/Canada customer support is now AI-handled while planning to integrate AI features across search, discovery, and support systems. This isn't a pilot — it's production-scale displacement of human support operations at a major platform company. The consulting implication is clear: support and search are no longer \"AI experiments\" but immediate ROI plays that boards expect in 2025, and companies without deployment roadmaps are falling behind fast.\n\n- **Spotify claims developers stopped coding in December due to AI tools** - Spotify's leadership stated their \"best developers haven't written a line of code since December\" thanks to AI assistance, while OpenAI launched a new Codex version powered by dedicated inference chips. This represents a fundamental shift in software development productivity that enterprises are just beginning to understand. For consulting work, this means dev productivity assessments need complete overhaul — the metrics that mattered in 2024 (lines of code, commit frequency) are becoming irrelevant as AI handles implementation while humans focus on architecture and requirements.\n\n- **Infrastructure layer consolidation accelerates** - Modal Labs (AI inference startup) is raising at $2.5B valuation while OpenAI debuts dedicated Codex chips, showing vertical integration across the stack. Cohere's $240M year sets up an IPO play, and IBM announced plans to specifically hire entry-level talent \"for the AI age.\" The infrastructure wars are intensifying — hyperscalers aren't the only option anymore, and specialized inference providers are commanding billion-dollar valuations. Enterprises need infrastructure strategies that account for this fragmentation.\n\n- **Meta plans facial recognition in smart glasses** - Meta is reportedly adding facial recognition capabilities to its Ray-Ban smart glasses, pushing the boundary of ambient AI capabilities in consumer hardware. This signals the next battleground beyond chatbots and coding assistants — persistent, multimodal AI that understands physical context. For enterprise consulting, this foreshadows workplace applications: AR/AI hybrids for field service, training, and remote collaboration that are very different from today's screen-based tools.\n\n- **Didero raises $30M for agentic manufacturing procurement** - A manufacturing procurement startup landed $30M to build \"agentic autopilot\" systems, showing AI agents are moving beyond software into complex B2B processes with multiple stakeholders and legacy systems. This validates the thesis that AI agents will tackle messy, unglamorous enterprise workflows before they master consumer applications. The consulting opportunity is massive: every industry has procurement-like processes that could benefit from similar agentic approaches.\n\n## WHAT THIS MEANS FOR TP\n\nThe Anthropic mega-round creates immediate positioning opportunity. Enterprise clients are increasingly uncomfortable with OpenAI's organizational turbulence — disbanding safety teams, talent exodus, and erratic model access decisions send the wrong signals to regulated industries and risk-averse buyers. TP should be actively pitching multi-model strategies with Anthropic as the \"stable enterprise alternative,\" particularly for healthcare, financial services, and government clients where consistency and safety theater matter. The $380B valuation gives Anthropic credibility with procurement departments who equate funding with staying power.\n\nThe Airbnb and Spotify data points are validation that production-scale AI deployment has arrived, but they also reveal a consulting gap. These aren't careful pilots — Airbnb replaced a third of support, Spotify's devs stopped coding entirely. Most enterprises are still doing proof-of-concepts while platform companies are achieving step-function productivity gains. TP's pitch should emphasize urgency: the competitive gap isn't forming, it's already formed. Companies need rapid deployment frameworks, not exploration roadmaps. The IBM angle about hiring specifically for AI reinforces this — workforce planning is now an AI problem, and HR departments need help redesigning roles, not just \"AI training.\"\n\nThe infrastructure developments (Modal, dedicated chips, Cohere's IPO trajectory) signal that vendor selection is becoming more complex, not simpler. Clients will need architectural consulting to navigate fragmented infrastructure options, cost optimization across providers, and risk mitigation against vendor concentration. This is a natural advisory service for TP — help clients build AI stacks that aren't locked into any single provider's economics or capabilities. The Didero manufacturing raise also validates expanding beyond pure AI implementation into process redesign — there's huge margin in being the firm that identifies which workflows should be agentic, not just the firm that implements agents others have spec'd out.",
+  "summary": "## QUICK BRIEF\n\nOpenAI is rapidly pivoting toward enterprise integration and monetization, introducing ads in ChatGPT, deploying Codex to government (.mil), and launching GPT-5.2 with theoretical physics breakthroughs. Meanwhile, the AI talent war intensifies — Anthropic just raised $30B at $380B valuation while OpenAI hemorrhages team members and disbands its mission alignment group. The consulting landscape is shifting fast: Spotify claims its best developers haven't coded since December, IBM is hiring entry-level talent specifically to AI-enable them, and manufacturing procurement is getting \"agentic autopilot\" with Didero's $30M raise.\n\n## COMMUNITY PULSE\n\nData shows significant enterprise adoption signals and organizational turbulence:\n\n- **OpenAI talent exodus and mission alignment disbanding** - Multiple community threads expressing concern about OpenAI removing mission alignment team while top talent leaves for competitors. Sentiment: worried about safety/mission drift, questions about whether commercial pressures are overwhelming original AGI safety goals.\n\n- **GPT-5.3-Codex performance and quota consumption** - Developers reporting 1000 tokens/second capabilities but confusion around usage limits versus GPT-5.2. Heavy technical discussion about implementation. Sentiment: excited but frustrated with documentation gaps.\n\n- **Ads in ChatGPT rollout** - Community discussing OpenAI's \"testing ads in ChatGPT\" announcement and how this changes the product positioning. Sentiment: mixed, with concerns about user experience degradation versus understanding of monetization needs.\n\n- **Streaming and API stability issues** - Multiple bug reports about Codex stream disconnections, batch image generation errors, embedding model issues. Sentiment: frustrated, particularly among paying enterprise customers expecting reliability.\n\n- **Skills API and long-running agents** - Technical discussions around OpenAI's new \"shell + skills + compaction\" approach for production agents. Sentiment: optimistic about capabilities but seeking more implementation guidance.\n\n- **Anthropic's $380B valuation shock** - Community reaction to the massive Series G raise, comparing Claude's momentum to OpenAI's challenges. Sentiment: surprised at scale, debating whether this signals market maturity or bubble territory.\n\n- **Spotify's \"no code since December\" claim** - Developer skepticism about the headline, dissecting what this really means for day-to-day engineering work. Sentiment: intrigued but questioning whether this is marketing hype versus reality.\n\n## KEY DEVELOPMENTS\n\n- **OpenAI introduces ads in ChatGPT and tests enterprise monetization** - OpenAI announced it's testing advertisements in ChatGPT while simultaneously deploying to government domains (GenAI.mil) and expanding enterprise features. This represents a fundamental shift from pure subscription model to multi-revenue streams. For consulting firms, this signals that AI platforms are maturing into complex enterprise ecosystems requiring integration strategy, not just API implementation. The move also suggests OpenAI needs cash flow diversification, possibly indicating pressure from the $13B Microsoft investment.\n\n- **Anthropic raises $30B at $380B valuation, Super Bowl ads drive adoption** - Anthropic's Series G makes it one of the most valuable private companies globally, with its consumer marketing push (mocking AI in Super Bowl ads) successfully driving Claude into top 10 apps. This validates that enterprise AI companies need consumer adoption for credibility and data flywheel. The valuation also reflects enterprise customers' willingness to pay premiums for alternatives to OpenAI, creating consulting opportunities in multi-vendor AI strategies and Claude implementation.\n\n- **OpenAI disbands mission alignment team while talent exits accelerate** - OpenAI removed its mission alignment team focused on AGI safety oversight while experiencing high-profile departures to competitors like Anthropic and xAI. This organizational restructuring suggests commercial pressures are reshaping priorities at the AGI leader. For consulting, this creates two opportunities: helping clients build internal AI ethics frameworks that companies like OpenAI are deprioritizing, and advising on vendor risk management as OpenAI's stability becomes questionable.\n\n- **Spotify claims best developers haven't coded since December due to AI** - Spotify's bold assertion that top engineers are now orchestrating AI rather than writing code represents the strongest public validation yet of AI-native software development. While likely hyperbolic, this signals a genuine shift in how elite engineering teams work. Consulting implications: clients will ask how to reorganize development teams, what skills to hire for, and whether their current talent can transition. This also validates the \"AI implementation strategy\" consulting market that TP operates in.\n\n- **OpenAI launches GPT-5.2 with theoretical physics breakthrough and Codex evolution** - GPT-5.2 reportedly derived new results in theoretical physics, while GPT-5.3-Codex-Spark delivers 1000 tokens/second with new dedicated chip architecture. The physics claim is extraordinary if validated — it would mean AI is now contributing to fundamental science, not just engineering applications. The Codex improvements focus on long-running agents with \"shell + skills + compaction\" architecture for production workflows. This creates demand for consulting on how to build production agent systems and integrate them into enterprise workflows.\n\n- **Cohere's $240M revenue run rate sets stage for IPO, Modal Labs raising at $2.5B** - Cohere reaching $240M ARR and Modal Labs (AI inference infrastructure) raising at $2.5B valuation shows the AI infrastructure layer is maturing into a standalone market. These aren't just OpenAI wrappers — they're building differentiated enterprise platforms. For consulting, this means clients need multi-vendor strategies and infrastructure decisions are becoming as complex as cloud migrations were in 2015.\n\n- **IBM hiring entry-level talent specifically to AI-enable them, Airbnb handling 33% support via AI** - IBM's explicit strategy to hire entry-level workers and upskill them with AI tools, combined with Airbnb's one-third AI support milestone, shows how quickly AI is restructuring workforce planning. This isn't automation replacing jobs — it's companies redesigning roles around AI capabilities. Consulting opportunity: helping clients redesign job architectures, career paths, and talent development programs for an AI-augmented workforce.\n\n## WHAT THIS MEANS FOR TP\n\nThe market is bifurcating into two distinct consulting opportunities that TP should address simultaneously. First, the \"AI implementation crisis\" — companies like Spotify and Airbnb are publicly crediting AI for transformative productivity gains, which will drive executive-level FOMO and rushed implementation projects. Clients will need help separating hype from reality (Spotify's \"no coding\" claim requires unpacking), designing realistic AI adoption roadmaps, and building the underlying data/infrastructure foundation that these headlines gloss over. The Codex improvements and \"skills + compaction\" architecture especially create demand for consulting on production-grade agent systems, not just prototype chatbots.\n\nSecond, the \"AI vendor risk and strategy\" opportunity is exploding. OpenAI's organizational turbulence (mission alignment disbanded, talent exodus, ad pivot) creates legitimate questions about platform stability for enterprises betting millions on GPT integration. Meanwhile, Anthropic's $380B valuation and Cohere's IPO trajectory show credible alternatives emerging. Clients need help with multi-vendor strategies, migration planning, and governance frameworks — essentially the \"cloud migration consulting\" playbook but for AI platforms. TP should develop specific POVs on OpenAI versus Claude versus domain-specific models, and create assessment frameworks for when to use which.\n\nThe IBM and Airbnb workforce developments signal a third adjacent opportunity: organizational transformation consulting specifically around AI-augmented work. This isn't generic \"change management\" — it's helping clients redesign roles (what does an \"AI-enabled entry-level analyst\" actually do?), rebuild career progression (if developers aren't coding, what's the promotion path?), and manage the cultural shift where productivity expectations increase 10x overnight. The physics breakthrough from GPT-5.2, if real, also means TP should prepare talking points about AI moving from productivity tool to innovation partner — a narrative shift that will resonate with R&D-heavy clients. Tiger Pinnacle should consider developing specific service offerings around: production agent architecture (leveraging the Codex developments), multi-vendor AI strategy and risk management, and workforce transformation for AI-augmented operations.",
   "sources": [
     {
       "title": "Airbnb plans to bake in AI features for search, discovery and support",
@@ -140,7 +140,679 @@
       "score": 0,
       "comments": 0,
       "source": "techcrunch"
+    },
+    {
+      "title": "GPT-5.2 derives a new result in theoretical physics - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5nUUlhVlJCYnhCcVlKeS1nVV9vTWVHX28wNnpBWXNLWVItRG1JYXctQm1uRmdMSTBfbUpvOU1XNXh1SmxsX2VkSDZFWEFUaVZkTjhaYmlJLXNoYmlOS2NPRGFaRjhWbjA?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Introducing Lockdown Mode and Elevated Risk labels in ChatGPT - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRHp5UUdPRTI3QWU4TXd4OVNmMWRsMlV1VVBCVFlsVFp1bHIwLW91Ym5ESUFWOFhjRTI0UDFBcGFjdUctUHJINHJzWGhxTmZhalBreGhRQUthNXczYjVDMVpDMzB6RkV3bmltV3JaTHczT3hTMjA4Tl9oaWVUTDExZlY0NE02MC1STmUxc2RQOXA?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Beyond rate limits: scaling access to Codex and Sora - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBJMUtfLVB1dGFsWXpzRjB4a2d1bE9ycGlPU0k0cVJxZDJ0d2VTQ3RmN0VQRlNLOTBnWTV3VmJCTmxLZHdEd18wTTZQRjBsTGplZFp2dENfUQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Scaling social science research - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBrOUtiWFY5WE5CeXNBVnoxWXVxRUpaTzIxZWtRT18xQ3lHaGJzbWp6OTNWNjRzT054SVRDYktRdDhQaGZTeG5hS2l5d09LVERTQzZ5ZHdMRG9RSUdnT3hkRzU1bTl3WEM4?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Introducing GPT-5.3-Codex-Spark - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1BbHRZTHJZaEFrMHlDMUFXTEZQcjgxXy1zR3A2aEFlWDd0OEpMRVhlVFNqMndDTy1lbnVTTFhIYk5xN0p6WHl4NFA0a1RkR2pXYzl0bW1sUXNRQ3JqekxRWjFmUnFrU2Fx?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Shell + Skills + Compaction: Tips for long-running agents that do real work - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9OVVNnWHM5dUNEUExrM1NUSDFYUllyZ3NHbi02T1F5ZnN5NUk3TTh4SllMOVFJZ2ZLZ0FqWWU0cDFaZWZnUW1sZ0o3bS1ITzRiTkJzR3c5eWd5M3ZQdnlRVU85QQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Harness engineering: leveraging Codex in an agent-first world - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9RVzNoUThNYkhfTXVTUGVoT3lLXzNfSFV5Y0IzLWR6YVhEaGhLeEllQ3lXbDVCYnlXSDMwYzBnLXBpWXZoVW1DMmpCQ085UUFFYWkzOG83NDc?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Skills in OpenAI API - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBYUk5zdl9vbjdYRWpwTTBmMTNQOG5kUFJoSndzOUE5MlBrdVdZRDNMT2hkNDBVQ2ZzS292ckZQVndlYVNlcEp5dzBpTGt3X0lORVlsRDFPQUVRX1ZULWltQWxJRWZ4SnBtUWVyWUkzZw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Testing ads in ChatGPT - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4zUlNhZkVjeklPMVIwR0V4dWU2SEx5Z1B3VklwcTRmOFdWWkZRRjNhc1ppNG1tU1lwcm1wRk10MnI1Xy1MM01TVXN4SDVtQlRybWJ1MUFjdXRJZHk2?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "US privacy policy - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9zZS05Mk5HQVlTV1Nhc21Bd3BFcFpaT0ZINGZqczl5Yk5pblVBa1YxS3dxV1hRaXVLdGhQa1lZWFZxUlpsdHdPWWJQN0dTQWE2LUNhZl80NktfQQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Bringing ChatGPT to GenAI.mil - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1oQVVWTXNWWGcxMjA3U2NrQTFSMmlZd3ZCUVRtUFJ4ZWZYYXZXYlJnaWt3dmo3WFFoVGVuakJSOUdqenpCVTR2U3ZFOUNCdVFSQjllZlY2NlUwcUNMb1FfUFEzdzU?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Advertise with ChatGPT - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE93R1ozM2QteGVxaTJkNEFrTW1HMTJuNXpQVERtOUYxSEREdUR6b184cHk1VWJrRTFvSGFQUnc5VmtEWFoxa0E?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Analytics Engineer, Real Estate and Workplace - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPeExBdkZGMnZ1VjFhV3l0LWZvWTkyYTZRcUFyQzNCcHUtYlFYdXFRVnAtVTJublJWZGRaVmNvczlmOTllOW5qRHlrLVBUdlRzQWcxdWV2Y2VNOV9UOW1UMFk2SjhScllVMGowdjdxSTlOZkE5aWNLTDFJSm8xQ1dSMEhWVzhHbi1aWl9XNUQxbw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Ads in ChatGPT - OpenAI Help Center",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1YLUNGVDRDWndVbUpfNHhyWlAxd2xZalY2b0d4aTd1dEdXcHFRNGp2eHVrV3I5b2ZDOTNUVktnQ2pub1N3NWNtUDdaWjVVUnBUQTY1X090a0FmOWZjSGtiUkhSNGZ5cTZRUlFR?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Credit Grants - OpenAI Platform - platform.openai.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1uUmxqaWRhOW91WmIxVWZEcXluWlhGLU5TZ2U4aUdNRndWVEtNUU40MDRPY04zVzZKcm4tS09QS0VtQU9ldTJpZV9XOU1TY1N1NGgxWkZNV3BhcW9tYWFoZUVERWRlY1BrOU14ZGZMTHFOZ3FyZXYtS1FoUQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Deep research in ChatGPT - OpenAI Help Center",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9vcWJ3QWhrUWZQVFlKLVZnSTAteF9RWVJsNjdNaVgzbWdMTlR6VXBiS3IxVkQtREY3enc2YUpJTjRYcmd2TENYZXNqbXBCMXUzeVVKdWU5bFZ4dl8tOXF1TXJLbXhiWmtqZnpFMHNCYw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Profile user - OpenAI - platform.openai.com",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5aT2VXTkxaenhNRlpWNGlDRkxCMmQwTlFHZGtMTGc0TE9RVno4NHlnS2RTOEM0TldQSFBidFNscTJKNzgxZTA0M0pyRUVlWTdaUWxHWEZzWk10cHFycGc?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Projects - OpenAI Platform - platform.openai.com",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0wMUNYUzdnanc1VzlBc0kzR2l6ZDdsbDA2QV9NcEJBUjNZUnMxWHRzd1Jvc2dyWTJIRllQR2lzV29uLVhOVVhiVE54ZUVLV0ZtdU9FM19fdWZfVi00R2E5Q0pVNmYzRktmLVE?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Admin Keys - OpenAI Platform - platform.openai.com",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5pMnlwaHlVYU9obGxOYXE0WUlvdzJEcmdwc1lkeW1ON2RGSHpEYW52RFNhUUNTV2N3dUhtaktXNTAxSURNZE9JbEl0alVPRlNqNjE5bDlMcXBuSldOU1RVZnY1SlFtd3lSMnR5VA?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "service health - OpenAI Platform - platform.openai.com",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1RSjdOM3pFRVZveE9pSmFVNGgtRHJwaUtEQkF3aEE2RUxqdHJ2N0VLYjJIMXpUUFVQb3pBaDZxZHZ3bEV0TzhSalhvNmxHZUlIY2JkOVVoQnh5dlh3Vk9BN1hNZEtqM3M5YS1MTE1pQW9LZw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Responses - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5xOUk0OFFkQ3N2ZzVXcXYxemkwcm4tY2ZsXy1NWUpaV04zZU5uSFhYemdpOGxRVWo3MnVwQmRqMlFESXMtSlNYSnZqWlc2eWxzZzc4TlhmcnF1Nkl1N2dLdE1PYWZvX0ZYWFdzQmJmTkxuQQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Chat - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5pdEtFengtZk9zQzJxU2VTLXhDUDVXcXROR08wNzVETlFJUWsyZk9YcV9jQ3dRX1BqSVRRaUs3M1hGME1MX1hRRGlWOFBxLU5faHRKcmpLLUwtaE5ZenFkT0N4X2JvQkJIbnZN?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": " - platform.openai.com",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5QN0x3eFRybVZSLXlnUWl0ZlNJakctQUZ5Wk9nM1hCLXk2TlZnN1ZZWEF6NzNVaUpxMm9yUk5peHp5aFVia21Ja0NHZGVaQWZWeWk1SW1ST0VHRW5fclU3NElxY0JHeHV2WXhkc243LXM0QQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Domain Allowlist - OpenAI Platform - platform.openai.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWDdBSEVRQlpvRHJEWXhQS2hSbGJNamd6d3FudS1veW1OXzl3OV92Nm4tX2RlYkRwZWVDdlY5NW1vQ3JWOVhpdElGN0Jjb1Y2VmFER2hsVXBRYU9pLVczd3drSGMzeDYyNHBoUjhoMlEzUzN1OHNlTDY1cXlCRDNiQg?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Deprecations - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8tQzJiX3JKR1ZzR1Y2SlhaYm5hSVZDZFF5RjVGdnZIckRqeERNSEQzRVE2UVFYbnBVOXk4eWFxUGFIN3k0QjNwQkNFbXJUd3h2VGZxci1nMjBJUm5ldWFUY0tB?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "API Reference - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9xU3J2TS1jSldaMHNxa0dRYURPNHY1ZlEzaElIVXlDYTBfcmYzUjZPc3IyQXFiVG5pTVlTTmlfcWpyVXNxb3hWbFBJNktHMzlWaFZ5ZjRFdw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": " - platform.openai.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5lMFZqOEhGcHhjQUxfOWYyZWpnRWVaanRIckg1RTFSRGU2Y1JlTEdYajVtN1UzLUtfX1d0ZkItNGg1S0lqM3QtckVuekxoaFhPYVcxX0p5ZHh6N3dJZjJLd2UtckNYQXN2M0oxdTFieEswRU45ZTFpd1FmYk1EdXM?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "data controls - OpenAI Platform - platform.openai.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1LbzFmNGEwcVowU2l5LUlhZloxemE5anVQN1FlOXNtWTRBSkdibTV0SkVMdFJyT2pJZ2I5Vl8wM0RtYW55Q2N1QlRoOGpicEkxRUJQQnRid2xuSUNKRjV6X3RFa2Nmd09jUURkMG91SjE?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": " - platform.openai.com",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFByNnMxQ0YyaFZpdXdtemRWaC1xWUE5LVhqLW5qUUlYNEFsWDBXVVliWWlpektBenk3a1FZcEFFZEd4VUdRZ2JqM21yc19odkt0S0tqWFRNSk9LcnM3SnJRejc3SWsyYzQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Compaction - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFByUnUtMm50QlhfXzhYYWFfMG5FSl9SRXlBeTFlUmNCSE9naklJYTVKdlQ2aHc3QWZOQmR1ZkJOTndZMmNvS0FPazFjd3ZfazdMNDZIV3pHaFQxMmZ2UV96UzNVc2dvTmc?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Full-Stack Engineer, ChatGPT Ecosystem (Apps Platform & SDK) - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVU5EU2hwVDF2RXRsMzdFalh6LXJwV2ZxUld5VUVXZDBJSWhiV21CcnR5UFBLb2lyc1dVWnk2QlpIZEY0T2Zhd1Rud25HdlRvQlRJVGFaTjVRMVVPYjM3ZmlNNVZrX1BtN0lVdXFDWlZCZkgzRXRkM0diQ2VJb2NZcFdQdXE4MWdpRFZTUVdiWEp4Q3c1ZWdFeEhLZmZ0SktFNVIwak9n?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Webhooks - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE44a0NDY2Z2Umpfb3UzSWlTQ3hFSGlmZXh5bV9WYThBdzB3eFNNcjNYcDM2UWhObGxFWFR0aFlQbVc4WmFUNGtTM1N3MnhJeG03MmtTeFROLXlhQkwtTU9TRmRrZzRxNkFkeTNTTmZoVQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Codex video surprise - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5oVmhOMUxRWEFNblptalNoSXBZSkVKNnllaklNUVFhM2Jkc1FTUzNFak4xZl85VmJ3eDhZT3NlTzJJUTdtNXFfd3BIRXl6ZmZjVXhlcU5jMUc2UUU?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Text • Cookbook - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE81ZFBXVmpiMkRDdng4N3ZWVWo2dHYzcDVDX294NHJ1YzgyNW1wSXNvM21feks1MlN5OE45bzBwZjBZUkMxdzJZTzlNM0FjU2dNTGlBUnVOT2dtbWxjX2c?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "OpenAI app integrations | Secure integrations for enterprise workflows - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5HdWxrQ2QxdEFreVZRRmwtWHRWdE5FZXdwQmo2RUdiTENFcmg3RWRQcDk4MnZQNmt3UzVEWlZvU3ZtZXRmMXFnRw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Increased error rates for ChatGPT Go - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBtd0tGUU1OX0FqSUdIQjZRVlhSWVBiMXJ1NkJNX0RBVmZUc0wxeUxwX1dEbTNlV2RLOF9Gd2I0aVFGa3cwMkpmR0N4VWpQUFlUZGZBT2FuaWE5cDhvM3dJU2IzQXBWTEdjZUQybElMRQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Policy Manager, Global Affairs - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9HS2NmM2h2ZW5fZzcyT1VONVNrSEJGbzNSSFV1S1hpejFRbS00ZW9PNjJNaXZyeXBZSXNLNlBWNll1RlJtSHowMVVUdWtCdHA5RzhfdldjY1dVcVRla2FWOG9pUFpIc2xQQmVpSzlBRjdvNUYydHhJTjc2Yw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Unwrap - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPX0ZUNkVxa2pBcnZ0N0p5ZkszUEZvN2VIUUxsbTJhMmo1bElDWUNtczYtMDJoOFdNR3NYTHVObXpmbVFfa0JPRk1mNmVhb2pTOUN2dDNqY1o2NmduX2tGcGxJcWg5T2RNaGQ1ZmdtbjYzNnR1dmFQb2RrNXJuRFlkTU9ldVg?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Product feeds - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBYdmJtUm1ISHptb0U5eENsa0YyN1dhZUlyeEgtT1pvRWMxNFlzXy1xa0FuOV83YmZEQVhia3VhTEhWVl81blFlNFlkMGp3enJlTDM0VTJYX2lKcDl4bDlGZ0lB?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Onboarding - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5NcXVJYlJ1SzI5VWJjLVVnVUZ5NGtpVjI1VjVaWjUzMWlTcVg5OWxneS1seUpzVWttTTNoWTczOXVaaEFXOHNiR1ZKOXBNQW9vaEFPT3RVQ3RlT3luUTl6ZUJMaUU5RFVheV9maHdfaHk?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": " - ChatGPT",
+      "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE1tdmpxNnQ4Zml0a0ZqeGg2djB5M1paNXZUeWJTSUNNelNRQ1gzU2pjOXZGOGFrRzNZbk1MR3FR?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "List container files - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQVdqOU4ybC1GZV9rSThja0tkb00yRkYtMWc3dlFGcWVwWnBRRElvOWNkaVpHZUtPVXpzR1lNNnBCRDRBR1JWZ1llaXJtNE9SSk1Ld3F0TDRmOFd6V3E3eDdDeUF3SFJnTWdJTllsc09iNTZKbzFuVmtyVHFPYl91MERuY1RURnJqTnJmSWQ5d2RmMFE3V1lzZFA3a3M?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Ops Lead, Life Sciences - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE04YUtDNS1wc0J4bkx3YW45bUNlMjFFcGV4OUxWeFNjNVkxVXVYeHpkbjJxU2QxazdYX1dmc0kzUEUwN05DTmZKZGRNM0ZhZE9iMFd4LWlyUnJVeUt4ZTNLWDNOcXpuVExlTmgxRXRma3FNdw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Chatgpt Apps UX issue on Mobile devices - OpenAI Developer Community",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTm9tbm5oODV1ZVZwR2RoRTJaMG9tYU5YUVZMT1BGYThwRzRpUEhqSm9oQkdsN3BLVmJRMU5acnFOMmxSOVpPRFRDY05RZ2hxckpONEIxY1AxYWprd3VrR0t5ZVpkbzNZSU5sengwbFYzWjJfdm9RTTRrZzhBdW9rOGNLNkM?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "List Skills - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1sVDZyMlVTWDk2b0YwemtBREw5angzdmNzMzRMNmJLUHhtT3dWMkl1RGNTUmpEcGZNdnNQSHVTVEs4OEhIRl9EdDFLQXRtal9mODBUaUl0UWtlYVJDeEljSXg2UEhtc255SmRGNlhFcFZ1bVVWeUdfNXJRN0ZUQQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Update group - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRDRPNkVYSWFYQkVXcFBMTVliNjlNX2lPX2JtVHE1bHdFQnFtTEk5ZUl2TlZyT2s0Yk5jYllWM2ktZ0hrMzRYUVIzMkJpSzRMQ3l5c1RqR3ZrOTBwUF93SjlxVzEtN0w3LTg5WHJzNC1STkI3MXJfekFDckFBdzZpbXhGMmNqUE8tSHRLV2hSRXB0UHBvQkxhNFk0Q3ZLWGloS0wtMw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Speech - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTnhvck1SYm5qVFFFOExGQTk5YjlvOVhsUWhqQ2pNODlSZ1NYV0J0aE5yaXZnaTFqX3Q4UW54LVlYTGRCQ2dDdEZ5WUVKNkdoaTJYUFFyaTdicTJlRTVRd1RtaE9YSFVVcUFWVGxwT3M5anJRUkdRMGVFT1UxUlExRS14Qm50UQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Quantitative UX Researcher - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1mRjJCMkV0emE0OEY4WU1nYWRBcDdEeklfMFNCMzU4RHVtakEyLTdaRmFzdXNJdXpMazVTNTNKdXRUOEtwc1dGYzVjMF94VzVRSUNLYVpCaWRocmF1R1BDdjRfS3ZfenVFb3RiSjJVYnQyU1JncFlj?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Responses Overview - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBkNFhHSUtZRUdYU2NQLWFEZVN2TXA5WEItV0xJUU9WS0UyTm4tR3JFWHU4VUI3N3VQa05iQXRVaWZZUlhEbXUxd3RUUHJnUllyZ3FvQlVvcDZMUWwyaU8wSDZLZ1JXTFF0MzB4d3BLMDU?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Images - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1PX2NJaTMzSW1JSGpQTXlhX0hlWXBtTVh2SHZ3UTZhc2hYdWtTdHVsbnZJM2paa1VGd3Yyd1g4NjMwU1dSM1l4RmN4QTVPSTk0b0FRa293X054V3o0Y0VuMnFBSFZ6QWNUdGRjdVR4ZVpXTmNw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "ChatGPT Bugs - OpenAI Developer Community",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBlWVBaOEFGU0V5akFnUjFaN0hlSUhRamthejRMVV9pT2RBNDdJblJRVnBnbVZVZ2ZUVjd1VG9iaV9GZEpuME5XSlZBVElVLTU3YXV5c0dmMjQzYW5TVlNYOFgyYzc?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Delete project role - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOb3BlVThEeFZjZVozczJfS29QcU1CcVFZaW9Kb0pZaU9IaDRTUUQ2VHNkWUdMZkg1M04zbWdLbDAtMkpsUlVYUDZMM2V3Y1RSelNnV1gwaEF5UWpwa19lVlVPVlBuSWM3dTh0SzNCRGRGM1BXak5OZW9WWkIzdG5adkM1WEFZWWZNWWpfaHgtb2RONWdJWlVQcGlxYUs?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "[Atlas Bug Report] iCloud Passwords cannot be used in OpenAI Atlas on macOS (“cannot connect to mac helper application - OpenAI Developer Community",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPcmJqaWwzNkdpRHcwQThMdXFHOFAyODVqRXU5Y2FlX3BuRVRpTVZCZFNvbVlDRENEdHJDeVRvMlFoSF9rMnFQVzltYm5QdmJUak1TckdnRlc0aFhVdWVmOExWTnBvejR4bTV5YUpLRWVtMUoxRkFEUTB3YW5NaDdGSW50aHlHNFRBX2xYeTBIRi02MkxvVS03RFMwMnFIbTdLMUtfTjBmSk15Q2VzcFc4VC14Q0xjWW55VEtqM3dJeXpueDN4aWZVVHRhNERKS1ZhSnVJNGx1XzNoeUhxUzF6QlZWWVItb1c4?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Setting usage limits for custom roles in ChatGPT Enterprise - OpenAI Help Center",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNekdCNm5mN0N2a3dwUEMwZ01qcmdnaWs0eVlpZWZKcVlTWFc2NVpUbGxITFptTF91OTFRWG9UMWpzUHMtajc5NmVwcDNLTnhsNEZ1eU91amFkb1VGOTNTOFp6c3A5aXh0Tk1ud0stZ25EcUplMEFrNVUyNTBjZXkzLTcxc0RCNW9rM1ktOW9vTk1zcFlkUllZaVZta1VLVUlMVXpNbmxvbVRFREE?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "ChatGPT App Mobile rendering issue - OpenAI Developer Community",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1jdkVhakN2M1pvU2VYczlVMzUxNlNROEExUGR0dnNXQ0htVW5pYy14RTJuaURKVWE2LUt5MmxrUG1GbG1vMHlYcEN3eEN3YnRDNkJZa3lBd29XbkZnamJIR0g2SXZsM2hYN0puc21iRGZKYnc1RDlFMXc2OTFjQQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Virtual Event: OpenAI's Chief Futurist on AGI and What's Next - OpenAI Forum",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObTRBX09LYm91M0VPeHZfaDdhZ05PYzhFRTM5SlpjeWd4d1VWOXp1Z2N3Z2UtbDQwMk1DRGhQYTc3SkxIeHVQbV9TR05DSnJfcHFremNaQUZZdzBlVERXaTI2YXhfRi0tcmFSaFp1MmpUMnMtMmstcUVBMjdPWTVoNWFvYUZZUnlYODJyUW1pVkZEb3ZWUW1mYTNtOW9adXVtc1NsTTRDMnlNQjMz?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "API key permissions not working correctly - OpenAI Developer Community",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMkpWREVZTmpQa0k0NmZiUXdHbGw5Rk1EU2NBVGx0ZVdFWWZQNHA4UEtuXzY2eEp1OUd3OWtFRFpIUEo2TVdob29VRWdfaGphUktIcXB0dGM0U0FxU3dmMzNVT0p0Y2RzWlk3bjR6c3B1R3U4eGdsV0lvdWJoQWVaMWxuQ2U1Tzg?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "List files - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE12SmUwc0RlaHp6aFNfNkhrLWhkWjczdGJQQkhnUjUxSUNlY0NyUFJiSmVRWnZ4dllVUkZ3X25DTzZvaklOOElhWkVIYXduLXZCR1A2RnFyTURwZl91aHM1bFNpVy1DdWdiZEJ0aFB4R1dKZExXZnVBTXZyYzU?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "List Skill Versions - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOTZXTU5maFRYVjVQbW5ja3lBTnNmdHZOb2V3OGR5RjlZdVRuT0RBZkh3SW9EOE5kNjNIUThqSkpyWUprcUVldFBTeGhpdVIzTkpySU95Nk9Xd0RCWW0ta3UxcENyc283VHZWeDVsWTJEdHFnLXA4Ty1sdG42RmRNZXF4Q3NQQVF0SEVlQl9QUDg2N2ZFM1ozZFhoWQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Code interpreter sessions - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPMVRwalpwbmdFVE5XZ3g1aklKRWR6N2MyaFh1U3VudHhmZTJGUXRQeXZsVFVudnoyaEdRU1Fsb21vUjFwYTFfbDY3SC03Sk4tT18yUFhyYmtIa1ZMVUVaOUkwUE1CamhuUHl1WDNDeXpsSkMyaExFTUV3NE1hRUdWdFhMLVAyZTlyRzRJRmtrX1NyM3lxcC00VHRPWVBYSVpucHVNUFNSQ2lPUWxIRXNZc3BCNXR5Z3pvZlN1ZHZSMTNBSm11Y0hkbC1hU2lYYldNSG5QYmk3YWVaWnRLYmw1RkdR?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "ChatGPT Bugs - OpenAI Developer Community",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA5NkVWZzQ2allFd2JzMmlUNllEc1NMUDNMQ0toVUFoLXM5MFRoNTZ4aXdkdzVzencxZW5DZE01Q2JVbC14Mklrd0hCSzdSUUNKV1Q1M2V1SkFmMXB5VkpaamFfUjY?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Remove group user - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWk5YeVVBT0labkhYOHdzX1Yyb0VTeHVfajJMMTFyQkJvT05OUE9xVUpfdExuWGFHcFhuM1c3cktkT1RSdmh6ZHNIZjJXSjlFNHdqQ19BRjRtcVBRMF9OQnhoaWJxMGJvT3lxLWJNMWgwaE0tMkp3eEhVbmlaSGF5TXFaVUppdVpLX2ZjMW1xMlEyVTRNam5tR3Btc1lUYmhxWl9XV2dvNE9WdHFQRmE5VU5ieWFzWTZTMjRrQTlB?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Buyer - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBnZGt5d2NSM3pUNDFqUU9KTk5GemdGTDNnTjdtY3VIem9mSmhtQ3hyRzVrMWRmLVhtVkFTVlF0VU52a3FVemJ0ZjJ1bXFXc1MxZHdKMmVib2lEc00?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Just enable web search tool = 4300 tokens - OpenAI Developer Community",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPR0Nqd1ZYMnBOMlZvZFpMcnBtbU9EVkFCQm03eVZqM05lSy1fbExMTjhFSVR6MUM3NndkNzJYWjJDZWFDdXlqTi1oZklEUUNiNHdCdDd4UFk0TWNxV3ZsbkpCdWp4SU1mUEM3U0VQWjIwRk5rXzhrUlVtbmtuZmJNN0lURHg?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Batches - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE92YVFkQ3dCcjZxM0VvaEVaQ0tXU28zX1kzMDRYaWtHeUxFZks5RVJpNHRfLVByNW4tN015VGx3ZHR6ZThSVnZ4S0dybXV5QWNqZ1BZazljWDUwaW5ncnF5cjlUVVhzUHNhclZCZk9ZekZya3Fp?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "GPT-5 mini giving incomplete answers recently (without links) - OpenAI Developer Community",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVFBGRjV1RFNmS05sRG4wQktCbDhod3dUV1ExalVMOVA0aGI0cGRwTm11RUhQVTRCUXV1R1ZWUXVtLS1iTmxUS0lFVDE1YU03MTE3STNnODNzSzgtTFpNX1FSR1pCbi12SE9OaFFEcXl2cGgwRUdEeTVZZ2JGczFBSEVSUWtZSk82cHRDbWs3ZHpzcFFwZFRISzNnbWc0MzA?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Technical Lead, Host Assurance - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8yUG9RRDdyOFZWRzk4eXRfdHJWOHJ5NVFEQ2ItV05WWUF6b0Z1V1NueEV0ZURKblZMV0wwR05YUXltelhLN0ZPWDBscTQwOEhxeURQaUJmc0dsTEJYSklFRWZKLWJzQ2owQzlyMDN0OHBJQmZmUDBHTTI4TQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Cannot use GPT-5.3-Codex on Codex Cloud - OpenAI Developer Community",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYWVvX1B4S01jVFFQc2JUM19HUXEteUZNUmc5Z0RLaEEwb2w3YW5RTWpQdDRwaE0teVl6Nlo1SkZGaGNqVUsxTEc3UE9vcmtOLWhaQUJCejl5SDdsMmwzek9LbHVwcEE4WWxEVm5UR1VBWTZ2R3BvQzNxN3JkbFpwM3pPMU0?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Get Skill Version Content - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQU3dRdEVtOGRBOEhxUGtFcVZ6REtYVGJzVWxQVTNnQXVWdGkwZmNRaFVOSTR2VnUxdVdBMXJsSEE4OGRISHZyQlhvaXpMU1FKeUlENGlfa0JfTTBFaDRveGZqWm11QTBCQU1aOUpzMWl4cG85MTRPemYwUmRaQWxqR1VmcWJ5bjQ4bEhEdlRkSG5mSGVKcThQNTdyRlVya240UkhYQUpLSTctV2NRT19YeXBqdXRFbkhrajkxQg?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Error when attaching images via Assistants API - OpenAI Developer Community",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTmw4RktTODU5Q3pCYUZfVEhDcnVXMnlyWFBzcFRtaFl4VEZtZWM0YTdKVUhhMzVMVHBXQ3Rfd1kwNlBoRHFPSjVMbE9EVkZqbWI0Y1BVODBMUVlMSThkalBSbUI3MllhSWtnTDJ6NEgwbmY1NUhSclBxX1I4R2hrRnUwbkE0UTY0VG9wVDJB?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Logistics Coordinator - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE54RDJEVVY3SkFsb3dlX1Vvbl9aU0RpcDIzWWJrc2ozdENQdHZaVFNrd3A5aS1DSDEwLTRxaTNHZF92ZmdMalJwSkZ6SThUTktVSXZ4SkNqNGR3M0RpZzZFMGFkWDdSWXdnYTF3X1hQUlg?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Creating a GPT - OpenAI Help Center",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWWw5VEwwSlJYdXZ1Tm1vOWtkdUtJWWVneDh0Ny1SNjZQNlhnZlcxd1VSLVB5aklfRzI0MFJ4eHBLWVlOQ19YXzByOS1xMFREYWZIMnl5R25TWVEtdTdNSWQ0RklYbnRCTjR6QjMyWDJ0SUpnM3EzdHMyRTlwUVlnblVzMDZnOS1lejZDcy1R?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "AI Emerging Risks Analyst - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5RbGpDLVBwZVJ1LUJyNVJZMjloVkYySjZaQ2txbllTbmZwc0RULVk0TlVmQktEbDVjbW9QR3VBWVVBUmxfY0NtNGpCUUZlc1VLNEhLRmZaa21UZFoxd081SE9pRlpwaTBiOUdnNnIxaHJhOTNHLVE?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "API Account Deactivated During Verification – Case #05071450 - OpenAI Developer Community",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdHUtQ2wzMUVEMW5ULUVBampaVENsQVUwRXJsV0ZuWVB6NkN4ZTg2S0Nfdk5UbHEtY0J4VkltemNOaGZ2SHdIMzlScHYta3I0dzV6bzc4OUdRWnNORHNyRk9YcXMwRVE1eWRMLVMwTWdUVWU0c3RYYW9lczVtZi1ZNTZOdDdNaThrRjJBbDVHUkNram9wWWhCWXZlYlc?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Responses API Container Duration Metrics - OpenAI Developer Community",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOLVFTZnFwYnExbUhFdkdibnpDM01Vd1NodDBac1hCWGRWM29WZVQtSWlJcmNES2dEYW82eUNUNGNtdVFONmlGZUlVVTVEbTQ3S19vSUE4eUZESDRIbFc1SUtycFZKYUh6WXZKb290SVFfQkNhVjJzUWhwQTk2QzJPcGh6WFJGZw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Careers - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4wWjRLelBKNmJPTGE4MnlmcGFvY3pyd3o5OGdyYWF3V09UMUVDbGNPam42bmtCd0tHa1Jqa0hHcHhMeW1yalhvZkZBOUpiaTg0MkdhNVc0SGJDNktQeVJiRl9iUQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Why did you remove ask mode in VSCode extension!? - OpenAI Developer Community",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbnloLXdONnVSMUozUnJBcWM5aVFIOWprYWtqTGVZUVp1NGd0QnJ5ZlRfWEpZU0hsU21yV0dmdjRuelZsbUdodmVoWmc1SnZGOTQxN3o3a1FMc0hxZmkwYUdELWF4Y1pnNWxJZFpSem9jVVhFNHpFeHBXUWRVYk5QYm5iNWNJQlhvdEVHRFlOUQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "ChatGPT Enterprise 與 Edu - 發行說明 - OpenAI Help Center",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUy1DTklNZXc4WWRuRy12V3piV2loUFYyM0ZreXh4UmUzXzJZelFhT3FVbXB2OGVMSnVRSC1lNWJaNzRsalJYcWdoOWpqYkN6NW1hbW9pOEotZHowMkRYenFIZ1o4akhzRjVuRmNOZkdrbU1SRWx3dkNMU2RjMjBaOTBvZS1GYXBVUFM5SDZEWjNRb2YwZkxiemgtSHVyVld1bjBHc0FRMndtNzlpQnVYUjBHZmk3c0tUN3VB?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Elevation approval window stuck open - OpenAI Developer Community",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQempNTFYtS3ZpYjVBeUdZTldfQmtpV0RHQVZJVEVYRTNRakNmOWtDaGFyQll2aFc4NWFxQy1nTml6R1hCX1pjUDJVbEt6SzdIckpkaVFxSDVoOVJXLXd4Mm5pd0huUjV0WjJKaWluelAzQVFIRG03OEJsY1dzOFo0Ng?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Create image edit - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1VazdBenZhaFlGOUVVUEtNVE5zYVItSWNKa0ZiNXNvRDl3bDVQbWFsUVNhWDdEeHVDeEdkcFVyc05nQllSdVRySGhKV0ZaaVFhaGhEV0hxdzJCS0V1R1lseTc2dmlNZTFoMEY2eFp4anY4UHRCQk8tMTZQNW9EQQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "More detailed information about models - #4 by _j - Feedback - OpenAI Developer Community",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOblhMRlBVdVQ4LTl6NG9hUEZoWWd2bDFPUEJmZ19hWHR4LU9TdllmalV5NTExUVVMT0YzS1BScU1JQ0h2RGNJR1o1SWRoUDlMQWFBMHZUZThNd1plYXdhSFJJTUtPN3hCbTRtVkV3aGtHbktJa0gtWnpEQy1KcHl6WXhVMlR2QQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Calls - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNN2c3S1Zyd3RFcUdVNXNkS18xQVZ1bllLZElrZHp0THlkQllZQjEtdjdPTU16NHlQc2pMQXBwRHIwSUJSZ1p0QVJUcERJTVVTXy1reWFkYlVwVVM2S2hYSXc2TTBHcXZ1aUhXd1JnRzh6d1BoX0djeE1HZlR4WjBXNFdXNXlBaW1uMHRnM1d3R01RVU9Pc041eg?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Retrieve user - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPczVsamV0SXZDTndfal84Uml0NmxSWjBkNmpXbS00QzV2ckdKbnQxOC1TcjE2ZmtJSTA3cU9FSzdlclZETElXZWxtOXZ3a01JWm9Xc3ZfOE9UUkY3S1JyYllSazFBXy12Zko0c0o2OXl5bWhDNmFTMEdXM2hMNDNEVTU1WVJFUDUzUjdrc19yYzRzQWI2bVVkMjBjU3BWWkdRWjJBa0xn?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Question about AI and Python - OpenAI Developer Community",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE83UjhidTR5WWhUT3BPREs2WXk5SU5EQk1yX0dYODFhOW9GUEZQR29ibUh2dFdqcWJPQUYydXNEeGJaYjdQbFlyZHRubmN2NHhWcDlSLWF2QVJld3pPdmdoN1pyaE1wNllfVUpHR3JXTDdnQlVJT0E?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "high error rate in text-embedding-3-small - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9majlfeTVmcFgzYlk4bFNfN1pOVXp4YmpCampfUGlRS01YeW50RUt1SnQwTU5XNWFBbGVKVmN5NDNYS1hxelhwUVJqc2tUVENEMUJBTV85QU5IMHdjZDJjVF9UV2ZqNFNaUG9HYTQwSQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "[BUG][CODEX] - “stream disconnected before completion” on /backend-api/codex/responses (Feb 8, 2026) - OpenAI Developer Community",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNb2xiWTRSS1VuMEthN2RZU3g3OUpMamdpR1lzVzhQUVVUUDE3TjJYQ2ZHeGc2eEJaSEZodGVldjJyVWktSzVDeEpad0hmOUtEQWE5X3RnY1kzdVdaTzFGRHpGdU4weHQxaWFCZFlWZHRSMUpjZ1N1MHpsVVN6a0luM1JnQzlCVlRYRnYxYjRTdHdvV3ViRGs5cEc5NWg4QjYyUmZ5UnBlU3J5R3FMVGRfWDEtRzVsN2w1aW82Wjh2YzdKMDY1ZkY4?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Operating Systems Engineer | Consumer Devices - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUUZFc2oyN0R6QWVCb3JyMlVNeE1IUFdkZFQycWdVa2RVU3MyRFpfRWhodnUwYkpmOVg0eXFjNlZXeGdVUG5YMEVXaUFvZmYzd2JGMFBnMVlhTTZjeTVkR2stMUZMWmNxM1Boc3pFV05oanBSdWVjQzRRNXpzQUdBX18zdnA1U2FzcHBPc1BtaEcwZw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "New streaming speech to text model open sourced - OpenAI Developer Community",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUnNLMEJGLVZnVnVUVFY2dlU3RFpxQXMtZ1N4YmQwYXJZTTdzUWp4aGw3U00ySEpkNEtEUmtyLXI0djRlRC0wRGoyTWx0SFN0NDNkaUVIbG55ZURUX1NhdXdrZVJfWGVIMk9OTy02R21BWEdmckVuLUh1bEVlZGMyMjNTV3RKTVR3QndWUjZmbw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Careers - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE04Y3VmX202VlFwVVZQWThkOU9QX3AwNXdMV2Z5ZkhiMjNDZWxKOGptbjZ1UmEzV0xjY25QSGE0UW5vODBNZUtxaWlzTmpfY0dhc1NXWWpTMVFvel9iTlhQSTFlazRNaFdFOEdKWktzVi00TFJjM2VkUnAtdmJXdw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "GPT-5.3-Codex vs GPT-5.2: Usage quota consumption difference on ChatGPT Plus? - OpenAI Developer Community",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZTFZUWFwVnFuUTFaQVBnajUyNnV0TTRfelJBZjlyRHpyYWdVMnBMTk52anNITUFpNTM5QWVmTFVlZ3ZBb3prc1MzYkJSSWNOaVZCWl84ZnBFR1dmeU1Xei1YSlFBejBLRjRrS2QyU05PUHFKbmluYTdrWGl0eS1lbDBMVTAxaTVXcWx3VDJPYk1fQlFqTThWMm9rTlV3WndsNXdsMFNFd25tb19ZR1NaMHdJN3U?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "GPT- 5.3-Codex-Spark Research Preview with 1000 Tokens per Second - OpenAI Developer Community",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTHZuRENvd21IR0ZIbU9PcWdySkNQWXM4QVJONVlISGR5WXNVX0ZBZV80QUdqMW5aMVpURFJ2VXJET1pYREEwUFd3T0d4RGhwdDJyMUxwMWI3dG5pU3F1d0tOZ3I5VkFRcWVwM2FyQ1Q5bEVRQlZrS1JmcjdsX09TbVJvUXNfaVVlcXRXTGd1T2xwS2lYaEJpZVNVYUxqZml2N2pnc2V3?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "High errors with image generation - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9MWVlENDhlWExvUG9DMVA0SnV3WU1YTUdtVENLNzV1SDhFWXdKbEFGV3o3aEVMaHdyMU9RSXBhOWp3TXNhSzNVZ095Y3VILW1LRGRwYkZMM0dweVpwRlIyZGFlMVNMRXdYQVU0ZEFCNA?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Continued errors with the batch image generation - 'gpt-image-1.5' - OpenAI Developer Community",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNX0N4dWJMeEczdEhGVVVVTVFjTDVCc09iUnk4ZmJlWWtYU3lsLXlWUXNMWlVDb1hUVVp3SEt4WHBSbS13OWxoNXRmeklocDdvd0VXVDRBQ2gxY0pQNmFqck0yNnNQR2w1Q3k4bjdXWGlQSk9kcjdnVTZVMnJsbnFRTUtaTHFyWkpRbXpQQjhhcDVJUkhlR0tZZ0RIVmliX3JpenlN?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "URL Referral tag and System Prompt - OpenAI Developer Community",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9OSjZpQVo4ZUlMMV93VC01WUZtR3VPMGtfNlRtc0pxV0tPVjhqS0Y1eDVsMmxfclpYZUVPYmc2enl1Z1liZUJNbldjeFFhNTlfX2hoSVh4RUk3ZUZoSkNXcmxuOElPeUFIbzRlWHRtb0pfVHNTVE9uS2FwN2JYUQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Delete ChatKit thread - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTnhsNUxWaHB0cGZOam14VUxFeWtRT2gtZURVc1BqOHNZOUdpbklFOExjeTRDVEY2bzY1YXRXcUhuZFZOOTdYa29OWmVBMVozeTBzUEtCM2lvbXBHcGVPaWVZWHRzT1RpQk45dUJzaFNKNkl1XzZlMU9GVEJFeWFKZE42ZzNrT2VyaG5uaVJTNGwxZTF3anhGVG9aQjdueXgwYzdrd1pWcm5BV05NV0RDMWNCYXJKVU0?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Docs MCP - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4wOHRwOUtIQk40MFVGQ2xYN1kyaFhscmNuY3QxTXoydUROUFV4WF9ZaEFEYWtuaXpUQVU3bldfUTVFWkdDV2hEMkdnT0kxTW02RFNjTklWU2JmVEI2?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
     }
   ],
-  "generated_at": "2026-02-14T13:11:05.415Z"
+  "generated_at": "2026-02-14T13:11:57.570Z"
 }
