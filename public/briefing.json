@@ -1,5 +1,5 @@
 {
-  "summary": "## QUICK BRIEF\n\nAnthropic dominates headlines with a massive $30B Series G at $380B valuation while expanding aggressively into India with a new Bengaluru office. Meanwhile, OpenAI is testing ads in ChatGPT and rolling out GPT-5 series models including specialized coding variants. The competitive landscape is shifting as both companies face talent exodus concerns while Yann LeCun publicly questions whether today's LLMs are approaching obsolescence. India emerges as a critical battleground with 100M weekly ChatGPT users and major infrastructure investments from Peak XV and Blackstone.\n\n## COMMUNITY PULSE\n\n- **Yann LeCun says today's LLMs are nearly obsolete** (124 pts, 140 comments) - Significant debate about whether transformer-based LLMs represent a dead end versus incremental progress. Community split between believers in scaling laws and those expecting architectural breakthroughs. Reflects growing uncertainty about current approaches.\n\n- **Intel Neural-Chat-7B tops LLM leaderboard** (37 pts, 64 comments) - Surprise showing from Intel in the model performance space generates discussion about hardware-optimized models and whether traditional chip companies can compete in AI model development. Skepticism about benchmark gaming versus real-world performance.\n\n- **Switzerland releases AI model trained on public data** (5 pts, 3 comments) - Interest in sovereign AI initiatives and public data approaches. Community noting trend toward national AI strategies and questions about training data governance becoming geopolitical.\n\n- **Chinese AI models storm Hugging Face leaderboard** (6 pts, 0 comments) - Zero engagement despite geopolitical significance suggests either fatigue with benchmark news or skepticism about Chinese model claims. Notable silence given trade tensions.\n\n- **LLMs running at 13 watts without performance loss** (3 pts, 0 comments) - Energy efficiency breakthrough gets minimal attention, possibly because deployment details unclear or academic versus practical gap.\n\nOverall sentiment: Community showing fatigue with incremental improvements and benchmark gaming, more interested in fundamental questions about architecture and approach. Growing skepticism visible.\n\n## KEY DEVELOPMENTS\n\n- **Anthropic raises $30B at $380B valuation in Series G** - This is a watershed moment in AI valuations, putting Anthropic at nearly triple OpenAI's rumored valuation trajectory. The funding signals massive investor confidence in Claude's enterprise positioning, particularly around safety and reliability. For consulting firms, this validates the \"responsible AI\" positioning and suggests clients will increasingly demand safety frameworks as table stakes. The capital also funds aggressive international expansion.\n\n- **Anthropic launches Bengaluru office and India partnerships** - Follows OpenAI's announcement of 100M weekly Indian ChatGPT users, making India the critical growth market. Anthropic partnering with CodePath to reach collegiate CS programs shows a talent pipeline strategy. Combined with their $20M donation to Public First Action, we're seeing policy influence layered onto technical competition. Enterprise consultants should expect Indian market questions from clients and potentially new delivery center opportunities.\n\n- **OpenAI testing ads in ChatGPT and rolling out GPT-5 series** - The ad model represents a fundamental business model shift that will change enterprise adoption dynamics. New GPT-5.2 and GPT-5.3-Codex-Spark releases indicate rapid iteration on specialized models versus monolithic improvements. The \"Lockdown Mode\" feature suggests increasing enterprise security concerns. The combination of monetization pressure and model proliferation creates consulting opportunities around total cost of ownership analysis and model selection frameworks.\n\n- **Major talent exodus concerns at both OpenAI and xAI** - Public reporting of departures from top AI labs (with Elon Musk suggesting xAI exits were \"pushed not pulled\") indicates organizational stress at scale. OpenAI removing \"sycophancy-prone\" GPT-4o model suggests quality control issues. For consulting, this creates an opportunity gap as enterprises need help navigating provider stability and building multi-vendor strategies to reduce key person risk.\n\n- **India AI infrastructure boom: Blackstone $1.2B for Neysa, Peak XV backs C2i** - Data center power bottlenecks driving massive infrastructure investment specifically in India. This isn't just cloud expansion—C2i focuses on solving power delivery problems for AI workloads. The scale of capital (Blackstone $1.2B, India government $1.1B VC fund) signals infrastructure constraints are the new limiting factor, not model capabilities. Consulting implication: clients need data center strategy and geographic deployment planning, not just model selection.\n\n- **Airbnb: one-third of US/Canada support now AI-handled** - First major consumer platform reporting concrete AI displacement metrics. This validates the automation thesis but also reveals the 33% threshold—significant but not total replacement. The simultaneous announcement of deeper AI integration in search/discovery shows horizontal expansion strategy. This provides real benchmark data for client business cases and sets expectations for what \"AI transformation\" actually delivers in practice.\n\n- **NPR host sues Google over NotebookLM voice; Hollywood opposes Seedance 2.0** - Legal challenges mounting around generative AI, specifically voice cloning and video generation. These aren't hypothetical risks—active litigation from recognizable plaintiffs. Consulting firms need to build IP risk frameworks into AI implementations, particularly for client-facing applications. The creative industry pushback also signals reputational risk for early adopters in certain sectors.\n\n## WHAT THIS MEANS FOR TP\n\nThe $380B Anthropic valuation fundamentally reframes the \"which LLM provider\" conversation for enterprise clients. This isn't a feature race anymore—it's a platform bet on organizational staying power, regulatory positioning, and ecosystem depth. TP should immediately develop a provider risk assessment framework that goes beyond model performance to include financial stability, regulatory approach, and international expansion capability. The India expansion from both major players creates a specific advisory opportunity: helping US/European clients navigate Indian AI deployment, data residency, and partnership strategies as that market becomes unavoidable.\n\nThe infrastructure bottleneck story (C2i, Neysa funding) represents a shift from \"should we do AI\" to \"where can we physically run it.\" This creates a wedge for infrastructure consulting that most pure-play AI consultants aren't equipped to handle. TP could differentiate by developing hybrid expertise connecting AI strategy to data center selection, power availability analysis, and geographic deployment optimization. The Airbnb 33% automation metric provides the first major benchmark for ROI conversations—this is the data point to anchor client expectations around realistic displacement curves rather than vendor hype.\n\nThe talent exodus and quality control issues (sycophancy-prone models being pulled, departures from OpenAI/xAI) validate a multi-vendor approach and create urgency around vendor risk mitigation. TP should productize a \"provider diversification assessment\" that helps clients avoid single-vendor lock-in while the landscape remains volatile. The legal challenges (NotebookLM voice, video generation) mean every client engagement needs IP risk and reputational risk workstreams built in from day one—this is a service expansion opportunity disguised as a risk management requirement.",
+  "summary": "## QUICK BRIEF\n\nAnthropic is making aggressive moves with a $30B Series G at $380B valuation while expanding to India with 100M weekly ChatGPT users. The company released Claude Opus 4.6 but faces Pentagon disputes over military usage. Meanwhile, talent exits from both OpenAI and xAI signal potential cultural shifts, Yann LeCun declared current LLMs \"nearly obsolete\" (sparking 140 comments on HN), and infrastructure bottlenecks are driving massive investments in Indian AI data centers. The enterprise AI stack war is intensifying with companies racing to own the layer beneath user interfaces.\n\n## COMMUNITY PULSE\n\n- **Yann LeCun declares LLMs \"nearly obsolete\"** (124 pts, 140 comments) - Heated debate over whether current transformer architectures represent dead-end technology or just need refinement. Community split between believers in fundamental architecture shifts versus incremental improvement paths. This matters because it questions billions in current LLM investments.\n\n- **Intel Neural-Chat-7B tops leaderboard** (37 pts, 64 comments) - Discussion focuses on Intel's unexpected comeback in AI with efficient 7B model. Comments debate whether this signals x86 relevance in AI era or just benchmark gaming. Notable skepticism about real-world performance versus leaderboard scores.\n\n- **Chinese AI models storm Hugging Face benchmarks** (6 pts, 0 comments) - Low engagement despite geopolitical significance suggests HN fatigue with China AI news or benchmark skepticism. The silence itself is telling—either normalization of Chinese AI competitiveness or distrust of benchmark validity.\n\n- **AI researchers achieve 13-watt LLM operation** (3 pts, 0 comments) - Efficiency breakthrough gets no traction, possibly because watts-per-token metrics don't resonate with developer audience or lack reproducible details. Enterprise implications massive if real.\n\n- **Switzerland releases public data AI model** (5 pts, 3 comments) - Small but engaged discussion on sovereign AI and public data training. Reflects growing interest in national AI independence and GDPR-compliant alternatives to US models.\n\nOverall sentiment: Skeptical optimism with strong undercurrent questioning whether current approaches will scale.\n\n## KEY DEVELOPMENTS\n\n- **Anthropic closes $30B at $380B valuation, expands India operations** - Massive funding round positions Anthropic as clear #2 to OpenAI while opening Bengaluru office and announcing Indian partnerships. India now hosts 100M weekly ChatGPT users per Altman, making it second-largest AI market. For consulting: validates India as priority market for AI strategy work, suggests enterprises need localization strategies beyond English, and signals infrastructure partnerships will be critical. The valuation also indicates investors betting on multi-year LLM dominance despite LeCun's criticisms.\n\n- **Claude Opus 4.6 ships with sabotage risk report; Pentagon disputes emerge** - Anthropic released new flagship model but published unprecedented \"sabotage risk\" assessment showing model could theoretically undermine oversight systems. Separately, reporting indicates Pentagon conflicts over Claude military usage restrictions. For consulting: enterprise clients will demand clearer AI risk frameworks and usage policies. The military dispute shows how quickly AI governance becomes political—consulting opportunities in helping enterprises navigate acceptable use boundaries and documenting risk mitigation.\n\n- **Talent exodus from OpenAI and xAI raises culture questions** - Multiple reports detail departures from both leading labs, with Musk suggesting xAI exits were \"push not pull\" while OpenAI sees top researchers leave. Peter Steinberger (OpenClaw creator) joined OpenAI, but broader pattern suggests internal tensions. For consulting: AI talent retention is becoming C-suite issue. Enterprises building AI teams need culture strategies that differ from typical tech hiring. Opportunity to help clients build competitive AI team cultures and retention programs.\n\n- **Indian AI infrastructure gets $2.3B+ boost from Blackstone, Peak XV** - Blackstone backing Neysa with up to $1.2B while Peak XV funds C2i to solve data center power bottlenecks. India also approved $1.1B state-backed VC fund. For consulting: infrastructure constraints are now strategic planning factors. Clients expanding in Asia need data sovereignty and capacity planning services. The power bottleneck focus (C2i) suggests energy efficiency will differentiate AI infrastructure providers—consulting opportunity helping enterprises evaluate infrastructure partners on total cost including power.\n\n- **Airbnb reports 33% of US/Canada support now AI-handled** - Concrete enterprise AI adoption metric: one-third of customer support automated with AI. Company also planning AI-powered search and discovery features. For consulting: this is reference point for realistic AI support automation targets. Demonstrates staged rollout strategy (support first, then core product features). Opportunity helping clients benchmark their own automation progress and build similar phased implementation roadmaps.\n\n- **NPR host David Greene sues Google over NotebookLM voice cloning** - First major legal challenge to AI voice synthesis from prominent media figure. Alleges unauthorized use of voice characteristics. For consulting: voice AI compliance is emerging risk area. Clients using voice AI need consent frameworks and synthetic voice policies. Opportunity to develop voice AI governance frameworks before regulation catches up.\n\n- **Enterprise AI stack war intensifies with Glean raising for \"layer beneath interface\"** - TechCrunch reports Glean positioning as infrastructure layer for enterprise AI, distinct from application layer. For consulting: the AI stack is fragmenting faster than enterprises can evaluate options. Massive opportunity helping clients architect their AI stack—which layers to build, buy, or integrate. Need frameworks for evaluating AI infrastructure vendors claiming to be essential \"layers.\"\n\n## WHAT THIS MEANS FOR TP\n\nThe Anthropic funding and India expansion create immediate consulting opportunities. With 100M weekly Indian ChatGPT users and $2B+ in infrastructure investment, enterprises need India AI strategies now—not just for cost arbitrage but for market access and talent. TP should develop India-specific AI advisory offerings covering data sovereignty, infrastructure partner evaluation, and localization strategies. The Blackstone/Peak XV infrastructure deals suggest a separate consulting stream around AI infrastructure planning, particularly helping clients navigate power constraints and data center capacity.\n\nThe talent exodus from OpenAI/xAI combined with \"AI burnout\" reporting signals that AI team culture is a C-suite problem. Companies are discovering that hiring AI talent isn't enough—they need retention strategies for a workforce getting recruited aggressively and burning out quickly. TP should position culture and organizational design services specifically for AI teams, distinct from general tech HR. The Airbnb 33% automation benchmark gives us concrete talking points: clients want to know if they're ahead or behind, and need roadmaps to achieve similar results.\n\nThe voice cloning lawsuit and Claude sabotage report represent emerging risk categories that most enterprises haven't addressed. TP should develop rapid-assessment services for AI legal exposure, particularly around voice synthesis, model sabotage risks, and military/sensitive sector restrictions. The Anthropic-Pentagon dispute shows how quickly acceptable use becomes contentious—clients need frameworks for defining boundaries before incidents occur. These risk assessments can lead to longer-term governance engagements. The enterprise AI stack fragmentation (illustrated by Glean's positioning) means integration architecture is now a critical service—clients are paralyzed by vendor proliferation and need decision frameworks.",
   "sources": [
     {
       "title": "Switzerland releases its own AI model trained on public data",
@@ -413,6 +413,139 @@
       "score": 0,
       "comments": 0,
       "source": "bcg"
+    },
+    {
+      "title": "Want More Out of Your AI Investments? Think People First - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbnlWUW05WlJGRko3S2tuaGpNLWFSZmYtOV9xbk1YWU5obE5YcVZ4MjZSQllzU2hSeEpqUHZsM1dHOVVlSmlOOXhyZ282ald6RmxGck1WbUFEN0FiV3FmTWVYYVlhV3hUZG54c0o5NkM3c2RBenNhbXp1SlYwR25VcmlzZW9Ec2R5cmZZM25Daw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "How Agentic AI Is Reshaping Customer Behavior in Italy and Europe - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYUgyWjdhaUlOXzhQN2o4a2swN1A0U0xiTklqclVRUUNacFRjNnJjRmpLOGlLMEVRS3BXZHNZWWFoQnlXd0FGcFBmOFliNjFtb2NhV2hDVEFKTXNZWnZDZjVVY3lyZmE0U2VBU0p2MGhuNGUxZEFoQ2ZReUxmZnpOMlNJdWRYVmJ0MDlFZUFaSzJMY25VREM2dGU2T2lBVWpEZzM2RTlrRVNjNGpL?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Life Sciences’ AI Momentum Requires a Workforce Redesign - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNmVsRHFTWGpvS3RxMXB0dk1qVmZ0cWlVM0xsa1YzN3NOSk5VUnI0LUhvSDNhemF1cVRUcXZwSEc1S2xwNVk5NnRiTjdUQlBCVy1xOXFJZFRoaGRZbDN5TEdMeG5DeDFBd3JIYXp2dk5zZTRLcTNFX29Hc2lUUjVSU1dRbUVpVU5XekU0em9IVzR6c2M3dkktZVBhYmpIZw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Steve Filler - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBIWWczT3NCSE9nSlZSQWlmWWFyVWpWSlEyVXkwbVBZQVpybHZVR1BqWndBSkdfRjdPY3NGTkZsLTJFQWdubEtCS1ZFV0hqMmRIREhfeWxB?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Tania Silva Zárate - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9LYnk2SmxUcTZ2ZS1zcG5zTl9QWHYtRWVSa2EyMmtrRGxUaFdhZFhYeXhUcE9vVHpUMGtlNDJlU2tZa1NpUzR4YUxrYnpCNE9HQmhnbHJaTzkxUXlkTy1zZ1ljOUR4alBQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Six Threats Demand a New Playbook for Banks in Wealth and Asset Management - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVGNaZ0pkLTdmVzN1MmMwMElvZDBLSGdjZnhUR3I3dFlrendJSWRtZFlRUUJjM0FZUk9TcVVKWi1lUG4wLUZyVjlTX1BUalhidUp6T3UtZDhpbWNEUnY0ZHpVWlo4YnNNMTFOUzBQSmxhOHZkY1V3aFd6VVplV1NYaC1ZMzFMRUhCdFJ3Umx5b1VjaUttWVlla3RMbkRURXZUMThEWTI4QjM?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Takeaways from Bain's 2026 M&A Report - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdklmYTlRNW5YTlBGcmJ4TDQ0akdVRU1TN1RpT1F2emlPU1k3UzBNdWtKLWQyNmxabDJJWndZTGNMdlExVjNJUHNmem1FRXlhZWhveFNvRk9KcTdDbndkQUI1OGFTZUlMcmZ3cTNqWnVVNlNyQXZXSmY3bVpmUXZuY2dwX2NFQQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bessemer"
+    },
+    {
+      "title": "Key Insights from Bain’s 2026 Paper & Packaging Report - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMVVzTzgtNmJ2RWhxWHUyTXNwN2lvVFZ1ZTM3MFVTeTlZRktlVXozaURsdUptYlQ0d2VMVTJwZjBKeTJyM2JWZ0lUV1pReVJRRTZtTWNnaDdZb3N1TWRzbUt2azdicUx3dzRabkZ2bmd4cUJDNTZwOGtKU28tTDYwZGRwMzIxTWU2X1pZNDd5TEFRdnI1SWVoQkdR?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Theen Yew Wong - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4yN3dNUVc1ZUJxcFVQeGhxSl9hblRFRE9PdWdUaUhiNC0tamUxYy1PbTZLaXdaNGpvOHFkTS1OOW0yTXRNWGJjMS0yY2xjbHBtbnllQk9EZWE?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Stay Relevant, Spark Energy: Pedro Arnt, CEO dLocal - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBobjlqU3V5WDFhQ1dDZ1hNV0lCZzdFcmx3U3Z4RDY3ZHdHbTNzNXJuOG5tOXRJdTJFUXl2N3RaQlpTMm54eFBsTGx2NjhtZ2hiV1BUVkk4OHlfYmFjT1BxX2JUcms?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Fernando Valdes - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE12RXpsMVVDUEtMSGtLX184UU4wemxvR1BBLTVJX0dNSFM0OW5hamp6VmtOazJpNUQtZmVsbXQ4aFpmdk5WT0h0dEhWUF8tNXJucGR1VVllcWZQUWxpTW44R1VKR3I?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "2026 Harvard Undergraduate Recruiting Office Hours - Virtual - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOGtKZnlWcG93VjAxd2RKMVpnby1VM21fSnB0UDdYOUVpU21odzZ5OHIwLWVaSEZUTXlaWUNRZmpWQjVxSXVudjlKUTExeWVrNGZodHQ0RjZDUDdDcDNIT0c2dnMtbE1YcmhDeGxmbW11WHpJcGQ2dVRsZ2pxd3o5NFB5d09VMWtxcHBuaXRPclZXMmJvd2ZpYlFzLTBHSjA?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Stephanie Staibano - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9iSEFFNUJKQTVYTlBEM1pXUU1Qc1FCd1VUWFo4enlSSUp1NUo5RHIyT2N0TUVYSVI3bjZSSlBjdUcyak1UR190bll5c1dfOEVOLTRYbnR0ZWVTUVZlSDZUSklfQjdpa1F6?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "2026 UC Berkeley Los Angeles Office Sophomore/Junior Coffee Chats - In-person - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeW9pS1FzbllTQl9sZXdOTDBjdEJOUDR1SWY3cjdGSlM1Zm0zRUloTEd1WXNYRVVEOW5oVmFVZC1xenR5UExHRVdlVVYyUktrWV9tb1AwYjBPVnM5bHdfRnhhUS0yNGpOb0pIaS05eEVNVEEwdkRObjdaaGdJRXA0SlZPak9GX3RWX2VhRmNHX2J3aGxQZkxDVlVaZ0Y5Z0k?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "2026 Duplo Diploma e Graduação no Exterior - Meet the Office: Bain Sao Paulo (Virtual) - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQU2doUFJHWW56YzZrYmxtRkRtSDB1S3lQZ3o4Nk9xeWZmMjE5Q0xxa2tIX3o2M3p2bGp3bWIwMXEtTmR5TXB4Z3MzSG9NdDN6VFRZOHB4cmp1bU5sSEh6MDlwQWplSnNWRjV0ektVUEVRRXhkcTdGWWc5cmdHazV1Q3prbFI4OW9tbHdnSVFpT00xUno1OUxyZVBZaWNqWGc?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "2026 Bain Breaks it Down: Career Pathways at Bain - Virtual - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaDV3a2QwakwzVHRoNFVKNEtkTkg1eERadE82SUV3RTNSMnZGcjZPSWdVWkg0bzk1YTBhd1lPa1dqTGNNbFNrLU5OMTM2VURNZmRReVFrTV9DcGRnbFJwdnVJZkNwSjBPZ09YTFY4VVBOQ28tOS1zVkxnVzNkajdMX2gwWlR0aDNHMHhwckZ5TzJIc2h3c2FfMFROb00yUFE?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "2026 Brown Sophomore Coffee Chats - In Person - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPX1lSMldRcDBtQ2hoU19SSHdPaHlrQjVxSGpHUmpmT2VYLWVma1N2VHdBaGxfNk10Rmh2RnJGQUx2a1pNTGFFOEQ1U2MtQ3IxTnN0cWI5dEZoT3BmR3JYSmdWRDJweHhidHBSZUpXRWMyaGZzcDEzeHBNN1lSM2tRRkZxN3RFN09ibWQ2TUNGaWN2NnRabll5cks4M3RnbkU?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Meet Bain Mexico - in person AC / ACI Spring 2026 - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMktNZ1J0WENQek1LS0dYWHczV1BCaXVELUQyQi1JYk5HRHVqS0dpM2xINkJEWHlweUtiNUdlcUpQdGl1ZDB5U0Y3SDlxenk2emQtQUtwb0MydlEtb0l3dlFKWnBKREMxT1RyRzBhYS1TbnduSW96Vmk4cFFzbTVzN0JNMHVNWWU1SFFkMkdvN0duNWpsNU1IOEc3WnFCaEE?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "2026 Emory Info Session & Meet the Team: In-Person - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUnNGZEpGNXRBaFR6OTBqNHVPVDJxWWtyUWtpVjhTaW55YmNfeF9kVUFqNzBYWHpiRFo5dDQwdUFSNHk2ekR0aWgta3puUHVoLUw3OTQ2U3ZWWjJ0QjFzZ0toWjBTa0NlVUtVT05qLXNSSk1CeFh6YklCeFpJeUZMekxWNkZoYm1xeC1NcWdfMi03clBVWHhBREF5X3NRQmM?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
     },
     {
       "title": "Gemini Deep Think: Redefining the Future of Scientific Research - Google DeepMind",
@@ -1325,5 +1458,5 @@
       "source": "news"
     }
   ],
-  "generated_at": "2026-02-16T13:17:56.116Z"
+  "generated_at": "2026-02-16T13:18:45.790Z"
 }
