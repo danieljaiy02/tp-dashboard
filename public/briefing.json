@@ -1,5 +1,5 @@
 {
-  "summary": "## QUICK BRIEF\n\nAnthropic just raised $30B at a $380B valuation (Series G), while OpenAI is shipping GPT-5.2 and GPT-5.3-Codex-Spark alongside major enterprise features like Lockdown Mode and in-app advertising. India is emerging as a critical AI battleground with 100M weekly ChatGPT users, massive infrastructure investments from Blackstone ($1.2B for Neysa), and Anthropic opening a Bengaluru office. Meanwhile, talent exodus stories from both OpenAI and xAI are raising questions about safety culture and burnout across frontier labs, even as both companies push aggressive product launches.\n\n## COMMUNITY PULSE\n\nBased on the available data (primarily enterprise announcements rather than community discussions), the major signals are:\n\n- **Anthropic's $380B valuation** - This represents one of the largest AI valuations ever, signaling massive institutional confidence in Claude's enterprise trajectory despite questions about profitability timelines and competitive positioning against OpenAI/Google\n\n- **OpenAI advertising rollout** - The company is testing ads in ChatGPT, marking a significant business model shift that likely reflects pressure to monetize the massive user base beyond subscriptions\n\n- **India AI infrastructure boom** - Multiple billion-dollar commitments (Blackstone's $1.2B, government's $1.1B VC fund) indicate India positioning as the third major AI development hub after US/China\n\n- **Talent retention crisis** - Multiple stories about exits from OpenAI and xAI suggest broader industry issues with burnout, safety concerns, and cultural tensions as companies scale rapidly\n\n- **Enterprise security focus** - Both OpenAI (Lockdown Mode) and Anthropic (sabotage risk reports) are shipping security-first features, reflecting enterprise demand for controlled AI deployment\n\nOverall sentiment: Cautious optimism mixed with concern about sustainability, safety culture, and whether current valuations reflect realistic revenue trajectories.\n\n## KEY DEVELOPMENTS\n\n- **Anthropic raises $30B at $380B valuation in Series G** - This massive funding round positions Anthropic as OpenAI's most credible competitor and validates the enterprise-first Claude approach. The valuation is extraordinary for a company this young, suggesting investors believe the enterprise AI market will support multiple $100B+ players. For consulting firms, this means clients will increasingly expect multi-vendor strategies rather than OpenAI-only implementations. The funding also enables Anthropic to match OpenAI on compute and talent, making their product roadmap more predictable for long-term enterprise planning.\n\n- **OpenAI ships GPT-5.2 (with theoretical physics capabilities) and GPT-5.3-Codex-Spark** - The GPT-5.2 announcement emphasizes scientific reasoning breakthroughs, while Codex-Spark targets developer workflows with improved code generation. This dual-track product strategy shows OpenAI segmenting capabilities by use case rather than offering one general model. Enterprise implication: organizations need specialized model selection frameworks rather than defaulting to the \"latest GPT.\" The theoretical physics angle also signals OpenAI positioning for research/scientific computing markets beyond typical enterprise applications.\n\n- **OpenAI introduces Lockdown Mode, advertising in ChatGPT, and GenAI.mil partnership** - Lockdown Mode provides enterprise-grade security controls, while the advertising rollout and Pentagon partnership reveal OpenAI's simultaneous consumer monetization and government positioning. The GenAI.mil announcement is particularly significant—it indicates DoD comfort with OpenAI's security posture and potentially establishes precedent for other federal agencies. For consulting firms, this creates opportunities in helping commercial enterprises navigate the same compliance frameworks that satisfied Pentagon requirements.\n\n- **India becomes major AI battleground: 100M weekly ChatGPT users, Anthropic opens Bengaluru office, Blackstone invests $1.2B in Neysa infrastructure** - India's emergence as a top-3 AI market (after US and China) is reshaping global strategy for every major player. The 100M ChatGPT user figure suggests Indian enterprises are adopting AI faster than European markets. Blackstone's infrastructure bet on Neysa (power/cooling for data centers) addresses the constraint that's limiting AI deployment globally. For consulting firms, this signals Indian subsidiaries of multinational clients will need dedicated AI strategies, not just localized versions of Western playbooks. The Anthropic Bengaluru office also suggests talent availability and cost advantages are drawing R&D, not just customer support.\n\n- **Talent exodus stories from OpenAI and xAI raise safety and culture concerns** - Multiple reports detail departures from both companies, with Elon Musk's \"push not pull\" comment about xAI exits and questions about whether \"safety is dead at xAI\" indicating cultural tensions around rapid scaling versus responsible development. OpenAI removing the \"sycophancy-prone\" GPT-4o model shows they're still addressing fundamental alignment issues. For enterprises, this talent instability creates risk in vendor roadmaps and suggests the need for multi-vendor strategies to avoid dependency on any single lab's trajectory. The safety concerns also reinforce the value of consulting firms that can provide independent evaluation of AI system risks.\n\n- **Enterprise AI infrastructure layer emerging: Glean building beneath interface, Airbnb deploying AI across search/support (33% of North American support now AI-handled)** - Glean's positioning as the \"layer beneath the interface\" represents the infrastructure play many predicted—enterprise AI needs specialized data preparation, retrieval, and orchestration that sits between foundation models and applications. Airbnb's 33% AI support figure provides concrete ROI data that consulting firms can reference when building business cases. The combination suggests the AI stack is bifurcating: foundation models (OpenAI/Anthropic), infrastructure layer (Glean and similar), and application layer (Airbnb's custom implementations). Consulting opportunities exist at each layer, with the infrastructure/orchestration layer potentially offering the highest margins.\n\n- **Hollywood pushes back on Seedance 2.0 video generator, NPR host sues Google over NotebookLM voice** - Legal and industry resistance to AI content generation is intensifying, with the NPR lawsuit particularly significant because it targets synthetic voice technology that many enterprises are considering for customer service. Hollywood's opposition to Seedance indicates content industries are moving beyond complaints to coordinated resistance. For consulting firms, this creates advisory opportunities around IP risk assessment and licensed content strategies. The lawsuits also suggest enterprises should prepare for potential licensing costs if courts rule that training on copyrighted material requires compensation.\n\n## WHAT THIS MEANS FOR TP\n\nThe Anthropic mega-round and OpenAI's product velocity create a critical consulting opportunity: enterprises now face genuine multi-vendor complexity rather than \"just use ChatGPT\" simplicity. With Anthropic at $380B valuation and aggressive enterprise positioning (Bengaluru office, CodePath partnership, Pentagon negotiations), clients need frameworks for when to use Claude versus GPT-5.x versus specialized models. TP should develop vendor selection methodologies and multi-LLM orchestration strategies as core offerings—this is no longer academic, it's a purchasing decision every enterprise will face in 2026. The India expansion by both players also suggests TP could position for international clients needing India market entry strategies, or US clients managing Indian subsidiaries' AI adoption.\n\nThe infrastructure layer developments (Glean, Neysa, C2i fixing data center power bottlenecks) reveal where consulting margins will likely concentrate: not in recommending foundation models, but in building the orchestration and data preparation layers that make those models useful. TP should consider whether to partner with infrastructure players like Glean or build proprietary IP in this layer. The Airbnb case study (33% AI support) provides concrete ROI narratives for client conversations—this is the kind of specific, verifiable outcome that justifies consulting engagements. Daniel should consider developing industry-specific deployment playbooks that translate these infrastructure patterns to different verticals.\n\nThe talent and safety concerns across frontier labs create an opening for independent advisory services. If enterprises can't fully trust that OpenAI or xAI will maintain stable roadmaps and safety practices, they need external evaluation and risk management. TP could position as the independent voice that helps clients navigate vendor claims, assess model risks (like Anthropic's sabotage risk reports for Claude Opus 4.6), and build resilient strategies that don't depend on any single vendor's trajectory. The legal battles (NotebookLM voice lawsuit, Hollywood opposition) also suggest IP risk assessment as a specific service offering—many enterprises are deploying AI without fully understanding their exposure to future licensing requirements or copyright claims.",
+  "summary": "## QUICK BRIEF\nAnthropic raised $30B at a $380B valuation while opening offices in India and expanding to 100M weekly ChatGPT users there. OpenAI launched GPT-5.3-Codex-Spark and began testing ads in ChatGPT, while removing a problematic GPT-4o model. The big story underneath: talent exodus at both OpenAI and xAI, enterprise AI consolidation heating up with Glean's positioning play, and India emerging as a critical AI infrastructure battleground with billions in new funding.\n\n## COMMUNITY PULSE\nBased on the headlines, key community discussions would center on:\n\n- **OpenAI and xAI talent departures** - High concern around \"brain drain\" from leading AI labs, with Musk suggesting xAI exits were forced rather than voluntary. Community debating whether this signals cultural/safety issues or normal scaling pains.\n\n- **Anthropic's $380B valuation** - Mix of skepticism and validation. Debates about whether enterprise AI companies can justify these valuations, comparisons to OpenAI's trajectory, concerns about bubble dynamics.\n\n- **Ads coming to ChatGPT** - Negative sentiment from users who see this as monetization creep. Discussions about whether paid tiers will remain ad-free, comparisons to Google's trajectory.\n\n- **India's AI infrastructure push** - Interest in India's aggressive domestic AI strategy with $1.2B Blackstone-Neysa deal and $1.1B state VC fund. Community analyzing whether India can become third AI superpower after US/China.\n\n- **Safety team exits and xAI concerns** - Questions about whether \"safety is dead at xAI\" and what Pentagon-Anthropic tensions mean for responsible AI development in practice.\n\n- **Enterprise AI consolidation** - Technical community tracking Glean's \"layer beneath the interface\" strategy as signal for where enterprise AI stack is heading.\n\n- **Computer science enrollment exodus** - Educators and students discussing shift away from traditional CS programs, possibly toward AI-specific tracks or other fields entirely.\n\n## KEY DEVELOPMENTS\n\n- **Anthropic raises $30B at $380B valuation in Series G** - Massive funding round positions Anthropic as clear #2 player behind OpenAI. The valuation (up from previous rounds) suggests enterprise customers are betting heavily on Claude for production workloads. For consulting: clients will increasingly expect POCs comparing Claude vs GPT architectures, and Anthropic's enterprise focus creates more structured engagement opportunities than OpenAI's consumer-first approach.\n\n- **India becomes AI infrastructure battleground with multiple billion-dollar bets** - Blackstone backing Neysa with up to $1.2B, India approving $1.1B state VC fund, and Peak XV funding C2i for data center power solutions signals India building domestic AI stack. Anthropic opening Bengaluru office and claiming 100M weekly ChatGPT users validates market size. This isn't just offshoring—India is positioning for sovereign AI capabilities, which creates massive implementation and localization consulting opportunities.\n\n- **OpenAI begins testing ads in ChatGPT, launches GPT-5.3-Codex-Spark** - Monetization shift from pure subscription to ad-supported tiers changes enterprise calculus around deployment costs. GPT-5.3-Codex-Spark focused on agentic coding workflows shows OpenAI pushing hard into developer automation space. The ad testing matters because it signals OpenAI needs revenue diversification beyond API/subscription—potential indicator of pressure to justify valuation or reduce burn rate.\n\n- **Talent exodus accelerates at OpenAI and xAI amid safety concerns** - Multiple reports of departures from both companies, with xAI facing questions about safety priorities and Musk claiming exits were \"push not pull.\" OpenAI removing \"sycophancy-prone\" GPT-4o model suggests quality control issues reaching production. For consulting: enterprise clients will increasingly demand governance frameworks and model evaluation processes to derisk vendor dependence on potentially unstable organizations.\n\n- **Glean positions as \"layer beneath the interface\" in enterprise AI land grab** - Strategic framing as infrastructure layer rather than application suggests Glean sees path to avoid commoditization. Enterprise AI stack is bifurcating: foundation models, orchestration/memory layers (where Glean plays), and application interfaces. Consulting opportunity here is helping clients architect this stack without vendor lock-in while Glean and competitors battle for the middle layer.\n\n- **Anthropic reports Pentagon tensions over Claude usage, releases Opus 4.6 safety evaluations** - Reported disagreements with Pentagon on usage terms while simultaneously releasing detailed \"Sabotage Risk Report\" for Opus 4.6 shows Anthropic trying to maintain safety positioning while pursuing government contracts. The transparency play (system cards, safety reports) creates consulting angle around responsible AI procurement for regulated industries and government contractors.\n\n- **Airbnb achieves 33% AI-powered customer support in US/Canada** - Concrete enterprise deployment milestone: one-third of support volume handled by AI in production. Matters because it's not a pilot or POC—it's scaled production deployment with measurable impact. For consulting: proof point that enterprise AI can handle customer-facing workloads at scale, though Airbnb's engineering capability is outlier so implementation roadmaps need realistic timeframing.\n\n## WHAT THIS MEANS FOR TP\n\n**Immediate service opportunities:** The India infrastructure buildout creates near-term consulting demand around AI localization, compliance with emerging Indian AI regulations, and vendor selection as clients decide between US-based vs. India-based AI infrastructure. TP should develop India AI market expertise and potentially partnerships with Indian system integrators. The Anthropic $30B raise and enterprise positioning means more enterprise buyers will want \"Claude vs. GPT\" architectural guidance—not just feature comparison but total cost of ownership, fine-tuning approaches, and vendor risk assessment given the talent exodus stories.\n\n**Strategic positioning:** The \"layer beneath the interface\" framing from Glean signals where enterprise AI stack is stabilizing. TP's consulting thesis should emphasize architecture and integration expertise over model selection—clients need help navigating the orchestration layer, memory systems, and RAG pipelines more than they need help picking between Claude and GPT. The Airbnb customer support numbers (33% AI-handled) provide concrete ROI benchmarks for pitching automation assessments. However, realistic implementation timelines matter: Airbnb has exceptional engineering, so TP needs to help clients set achievable milestones rather than overpromising based on outlier results.\n\n**Risk factors and client talking points:** The safety/talent concerns at OpenAI and xAI create consulting opportunity around vendor risk mitigation but also real deployment risks for clients heavily invested in these platforms. TP should develop vendor diversification playbooks and model switching frameworks. OpenAI testing ads in ChatGPT will concern enterprise clients about future pricing unpredictability—opportunity to position TP's guidance around total cost of ownership modeling and API vs. self-hosted tradeoffs. The computer science enrollment exodus story suggests upcoming talent shortage will intensify, making TP's training and enablement services more valuable as clients struggle to hire AI engineers.",
   "sources": [
     {
       "title": "Fractal Analytics’ muted IPO debut signals persistent AI fears in India",
@@ -140,6 +140,111 @@
       "score": 0,
       "comments": 0,
       "source": "techcrunch"
+    },
+    {
+      "title": "Apprenticeship - Campus Recruiting & Events Assistant (September 2026) in Paris, France | 人事 at BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYktLWGc2WjBrQ2dFTDF4cVY1c0ZFUW9abDBTcGl6UTBaMEh2TkNZOUt3RTB3VFdSRFRFQXJXSTFCU0hQYktXdVhvQjFoejUtVTJBWFdxa0YtNWUtQ05WUTktWXYtZl9KN1B6NVdkWWF6bGdWZmtuNmlsM3BueHlBaC1sV0xwRF83T0RFSUN6NUxiX0t4YWVnY3Z2RlBfUHJ1XzRWUzh2MA?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Apprenticeship - Campus Recruiting & Events Assistant (September 2026) - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMTd2MXhYTklHUlVxX1gxNm5LSFFyRzAxdjRkWmR1LUE4X2ZYVWZsTzB1S1FqMjRERkk4UklGQXhFU1U3blFfdVhQLWpYRl80RDJoZTVwVFFKbmJZR3FlUmVfU0F1cU1NanBSUnl1bnl3R1BVcG1GSVpvUFZnM2RUUURudk5ENjZ0UHZ2aS0yOV9QY1JPbTNNVUJBMEJWT2NnQWVXY3dybw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Apprenticeship - Campus Recruiting & Events Assistant (September 2026) in Paris, France | People and HR at BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZi1CQ1NneEdLS051WS00SGJydHI4TUNEVTRuTjYzdEVxS0NtZmxvdmcyYkZYRndQbUZBS1hFNDVsb0pudENzU2pWcDZPVUtWb05LNXJScE91cjVsWVk0cGhkVmE0azZHekpwUTkzZG9PX05VaEVoanRQOVZjT0w5bEtZandzN2dudHNrOGFGOF9KUGVTU2RNbmp0Rk9UU0RKd2tORVJxQ1V1WWZ3?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Enrique Gonzalez - BCG Expert | BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBWTkhBMGVZWFJaWXZZaUlEV2VMZTFBSjl5U2hyZ3p6QnlIb0RrbnJqdEJ5U1NhY05SX3ZHYXRMdU1zY3pFcWxqVlZ3WFJKY2hKaU5EZlVvcWdPTmZRQU9EZnEyaFhtYWhS?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Global IT Software Engineer Manager in Gurgaon, Haryana, India | Technology and Engineering at BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdGZaNGl2RXlYVFM5VzY1bUk3M1VMaFRoblJJOUVOZnhXOGlFZHNGS2g1bGFnTGR2VDFHMG9FRzFRUVRpRlZKcFJaX1lDWUpjaGVLS1kxeXM0YTh3ZERDSTVsOEFYOVV0M1ZueGtwZTY3WnpOWUJNSEFLUV9KVTZjbHNkNkNLZw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Key Economic Indicators in the Cybersecurity Sector - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWHVMOEpzengyWFNTTzdnLWRKQVpXcW1qSUdZQ19uV2ZmVkplNTNyVERDTnpObm1Bb2thVmZTb2ozZm5mdmdKSWQ4ODJDQVB1Z2F4UTJjZWxfU1R3ZEhQWnBsMGNvOEQteU0wMjRhdmI0U003aUhnVmJndk9JTjBOM0JySVgzNDZlNmp4VWFxTXVwQk5PazZOblFiQ284T1hka2dvcA?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Wachstumspfade für Deutschland - Roadmap zur wettbewerbsfähigen High-Tech Nation - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdEFZRzN0M0x3R2FPdV9QMGpyXzVrTDRtajh4aEJvVjBtbWdWQktoam1WaWw3V2wzYkdwTkRVeUdFczgwLUlqdlpEcW1aYnpKRjdSc25nX0ZUS01UUldwaFNtbVFKdFVhbENYQndvUTFVQTJNekZKSV9YZ0M1cmtoaWZjbFFZbVJ1N0g5VUJldXd0cXFaODAtd0p2aWcyTG5EQmkxNVVEa2o1VEJwRWp4Y3pycENrRW51anpZTmwxbWhZQQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "BCG Concludes the 7th Edition of Jeel Tamooh, Empowering Saudi Arabia’s Next Generation of Leaders - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZUpFYTFwZ1lPQlZPXzF5MHBNenlGYUtXZG1qbTlVNFluX0ozaVhHb3h1WnlOMUNaT1NlX2t6ckpzUDJpb3Q1QUcwLS01SWI2VkJsVGRyZXhjQW9XdEdmQzFOTWg5UU9xbV9SQk4zZnNCSkxLM3VYZlFhSlE0XzZ6RUt5UEM4WU1RZjFLNjhZbmhWX2k1c2h3SGx4c0JPZ1M1cE12VDV5QXRsSzZ1V2NrOWtsYW1pOGxHakNKS0pHQTFBYVFSbWEyb1hmSmlCVzBiaVVZ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Bridge to BCG - Consultant, Advanced Degree, Canada in Calgary, Canada | Consulting at BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaWhqLUlMSWdVRmpvVWc1MnVEc3EtblgzeW9RbVBTUko3d1JoNW4tOEZSa1FOSEc0MnFDY3NtZjJ1QTEwckdNaU5KZGVhUktOV1luVEgzQVJLUlJuTGdPYkZQMEdhYlFJSmxtRHRPMHlOU2pyS3c0SHBac0wyenFDSEVrYWh2akpMSy1raFNzbUhsRVBMTnc?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Consulting Jobs - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPdnlQdkRwTlNiMWh1RHlpMUtLR1kzWmNYekFhOFhpV0hnU2NQZjlDQUhsVmNXTEhKTktmZF9zZWxKRDUzTE9WR2pINWZ0MFgxWEFodkFUSTZ6UXB2NFFVOUFkMDZ6RmUxVEhCYWpad29TUDdHcDRDU2h5QnZjSjVJSVNCdUZtNk9RSXlFTkNrcS13eE55V2N6M2Uxdm9mRlBRLXB2RFdmVDVIajZfU0NsOWdfamhLQTVXYkR1OE9KX0pTdlRRdTh0UVhhc040M244ckhEcG1XeUdZb01GbFkwdEJ3TnI5OUNvN2ZIUWt4bw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Worldwide Search Results Page - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNdGVOcXUySmpMZ2g4UEZDOUh3b2xTZmdQbThZTFMyOU0tWXQzOEtBOVF0YnZ3MjBVVjJiOHZwTGpSc2h6NUJndFFCUUlRbE5YUE53bWpmQXd0ZW1DYXh0YkRJcFhOVzRWMFFoSWpkNjNZVTQ5NXFMQ09QZ19vRDA5S0UwWXlxYkh1ZkhHNDBEZmN0M2JiZDVNdjhkTVp6OVRMcnRqbkhLd3AzRUFRSnJoNGxWNHphLWJDNEdtb0FCT0ZDalhNUUdQSTF4Q0R2Mk5RM0ZOVDVWZkE2UUVScFJtR2lnYUhnald3V1BvSUFGMHdmc0k?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Senior Consultant / Project Leader - Marketing, Sales and Pricing in Stockholm, Sweden | Consulting at BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVkVUMVVtT1lsTVVoRFptNElxME55VW95MFVmVkpiNW1qd3U3M2VYNDRoYXBJQXVZTThEMFZSYnVuTGhvalhaQ1FRV1FHT2poTEZyYzdqVXdOT1k1WWl0dm4tbWtKenBsOTl2UGJCT21pU2VramVyRnpJQW4wWjBvU1dnV2phWVRvT3I5OWJIb21YZUUzN09manpzaVl4d0N4U2VSOHlxYw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Worldwide Search Results Page - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSkZDYUN6TUdLX08zNjh4T2s3VV91dk5nRGZiQ1p0LURwZGhtV1c2MW9CaWpxOVQ1MmlxOWkwUWFnTTZyMDcxcXpCOENhV3Fkandmd0NXUUQwOE9ucmp2UXpPQnRtYlNXTmdhZDZaZXpZMkJsWHgzWHNvWUM5X0VNOHVBYUFwMHEwWm1nNXNhWDRVT1pMZkdydVpiZ1VKNERMc2c?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Careers at BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5EMDhPZjhSb01hTmtJLTJsSnpkVEFJQTUxQnpGS0p2Z2taYXVpS3FDeEt3OVF4Z3dqRnVkd0Y5dFd3Sk5uRFhtWGNmYmNnZV9oWXRrb2pCYWprTmRzUm4wQnYyWTlhcTRYMVBrbjJBSk9KaDJ2dDdneA?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Lead/Principal AI Engineer- BCG X in Singapore, Singapore | Technology and Engineering at BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPV0FaUjZWcndaaVRmVGFwamxUeUxEb28yN3JxYWpTcXluYWhDek5GSWptOERDakExdFRZRWJIYXlwNlRuQjJKZ3JhNzlPZlhjMzFGejZOVVpVcklzdDJUNUZfTXhGUGgxOHdWOE5CTjRkSFNYb0YxYUV0YVo1UU1XSFZ3?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
     },
     {
       "title": "Gemini Deep Think: Redefining the Future of Scientific Research - Google DeepMind",
@@ -1052,5 +1157,5 @@
       "source": "news"
     }
   ],
-  "generated_at": "2026-02-16T13:13:47.918Z"
+  "generated_at": "2026-02-16T13:14:35.492Z"
 }
