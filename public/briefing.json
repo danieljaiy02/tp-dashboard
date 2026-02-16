@@ -1,5 +1,5 @@
 {
-  "summary": "## QUICK BRIEF\n\nOpenAI is simultaneously shipping ads in ChatGPT, testing new models (GPT-5.2, 5.3-Codex-Spark), and experiencing significant executive departures while dealing with Pentagon scrutiny over Claude usage via Anthropic. India emerged as a critical AI market with 100M weekly ChatGPT users, $2.3B in infrastructure investments, and government-backed VC expansion, though Fractal Analytics' weak IPO signals persistent investor skepticism. The industry faces a safety crisis as xAI hemorrhages talent over safety concerns, while enterprises like Airbnb prove AI's ROI with 33% of support automated.\n\n## COMMUNITY PULSE\n\nUnable to provide specific Reddit/HN discussion metrics as the raw data doesn't include social media engagement numbers. However, key themes would likely include:\n\n- **OpenAI monetization via ads** - Community divided between understanding business necessity and concerns about degraded user experience\n- **xAI safety exodus** - Strong criticism of Elon Musk's approach, comparisons to OpenAI's earlier safety controversies\n- **India's AI surge** - Debate over infrastructure sustainability and whether government backing creates competitive advantages\n- **Computer science enrollment decline** - Discussion of whether AI is making CS degrees obsolete or if market saturation is driving students away\n- **Pentagon-Anthropic tensions** - Privacy and national security concerns dominating discussion\n\n## KEY DEVELOPMENTS\n\n- **OpenAI launches advertising in ChatGPT** - The company is now testing ads within ChatGPT conversations, marking a major monetization shift beyond subscriptions and API usage. For enterprise AI consultants, this signals OpenAI's urgency to diversify revenue amid massive compute costs, and may indicate pricing pressure ahead for API access. Clients should expect more aggressive enterprise tier upselling.\n\n- **India becomes critical AI battleground with 100M weekly ChatGPT users** - Sam Altman revealed India has 100M weekly active ChatGPT users while the government approved $1.1B in VC funding and Blackstone committed up to $1.2B for Neysa's AI infrastructure. However, Fractal Analytics' weak IPO debut shows investor caution persists despite massive adoption. This creates consulting opportunities around India market entry, but clients need realistic expectations about monetization timelines in emerging markets.\n\n- **Safety crisis deepens as talent flees OpenAI and xAI** - Multiple reports detail executive departures from both companies, with xAI facing questions about whether safety is \"dead\" there. Elon Musk suggested xAI exits were \"push not pull,\" while OpenAI lost key talent including removing access to a \"sycophancy-prone\" GPT-4o model. This talent instability creates enterprise risk around model consistency and governance — clients deploying these models need contingency plans.\n\n- **Anthropic-Pentagon dispute over Claude usage emerges** - Reports indicate tensions between Anthropic and the Pentagon regarding Claude deployment, while Anthropic's Super Bowl ads mocking AI helped push Claude's app into the top 10. The military AI relationship is becoming a differentiator and risk factor simultaneously. For defense contractors and regulated industry clients, this highlights the importance of deployment restrictions in vendor selection.\n\n- **Enterprise AI proves ROI as Airbnb automates 33% of support** - Airbnb announced a third of its US/Canada customer support is now AI-handled, while planning deeper AI integration for search and discovery. Glean is building infrastructure \"beneath the interface\" for enterprise AI. These concrete results validate the business case for AI transformation consulting, particularly in customer service and knowledge management verticals.\n\n- **New model releases amid infrastructure constraints** - OpenAI announced GPT-5.2 (reportedly deriving new theoretical physics results), GPT-5.3-Codex-Spark, enhanced agent capabilities, and Skills API, while Peak XV backed C2i to address data center power bottlenecks. The pace of model releases is accelerating even as infrastructure struggles to keep up, creating a consulting opportunity around helping clients evaluate which model upgrades actually justify migration costs.\n\n- **Hollywood pushes back on Seedance 2.0 video generator** - Entertainment industry resistance to AI video generation intensifies, while NPR host David Greene sued Google over NotebookLM voice cloning. Combined with the computer science enrollment exodus, this signals growing societal friction with AI deployment. Clients in regulated or public-facing industries need strategies for navigating IP, privacy, and reputational risks.\n\n## WHAT THIS MEANS FOR TP\n\nThe India developments and enterprise AI land grab create immediate consulting opportunities. With 100M weekly ChatGPT users but weak AI company IPO performance, Indian enterprises need guidance on realistic AI implementation roadmaps that balance hype with ROI. The $2.3B in infrastructure investments signals serious commitment, but the Fractal Analytics IPO caution means clients will demand proof points before major spending. TP should develop India market entry frameworks, particularly around infrastructure partnerships (like the C2i power solution) and realistic localization strategies. The Airbnb case study (33% support automation) provides the concrete ROI ammunition needed to close enterprise deals.\n\nThe safety crisis at OpenAI and xAI creates both risk and opportunity. Clients are increasingly concerned about model stability, vendor lock-in, and governance — exactly where consulting adds value. TP should position multi-vendor strategies, emphasizing Claude's enterprise positioning (despite Pentagon tensions) alongside OpenAI's innovation velocity. The \"sycophancy-prone\" model removal and talent departures make vendor due diligence and model evaluation frameworks essential client deliverables. As models proliferate (GPT-5.2, 5.3-Codex-Spark, enhanced agents), clients need help understanding which capabilities justify switching costs versus staying put.\n\nThe advertising rollout in ChatGPT and infrastructure constraints signal pricing volatility ahead. Enterprise clients on OpenAI APIs should expect pressure to upgrade to premium tiers with guaranteed capacity. TP should help clients negotiate favorable terms now before OpenAI tightens monetization screws, and develop hybrid deployment strategies using the new Skills API and agent capabilities to maximize value from existing investments. The computer science exodus and Hollywood resistance indicate growing implementation friction — clients need change management and stakeholder alignment consulting as much as technical deployment help. Position TP as the bridge between AI capability and organizational readiness.",
+  "summary": "## QUICK BRIEF\n\nAnthropic raised $30 billion at a $380 billion valuation while opening a Bengaluru office, marking massive enterprise expansion as AI infrastructure becomes India's battleground. OpenAI is testing ads in ChatGPT and brought the platform to government systems (GenAI.mil), while removing a problematic GPT-4o model for sycophancy issues. Meanwhile, India now has 100M weekly ChatGPT users, and talent exodus from both OpenAI and xAI signals potential culture/safety concerns amid the enterprise land grab intensifying.\n\n## COMMUNITY PULSE\n\nNo Reddit/HackerNews data was provided in the source material. Community sentiment must be inferred from news patterns:\n\n- **Anthropic's $380B valuation** - Likely generating skepticism about AI bubble concerns, though the enterprise traction (Bengaluru office, partnerships) suggests real revenue validation\n- **OpenAI testing ads in ChatGPT** - Community historically opposes monetization that degrades UX; expect backlash about \"enshittification\" of free tier\n- **Talent leaving OpenAI/xAI** - Safety community likely citing this as validation of internal dysfunction concerns, especially given xAI's reported safety issues\n- **India's 100M weekly ChatGPT users** - International tech community discussing emerging market AI adoption patterns and localization challenges\n- **NPR host suing Google over NotebookLM voice** - Legal/ethical AI discussions around likeness rights and synthetic media consent\n\n*Note: Actual community data needed for accurate pulse metrics*\n\n## KEY DEVELOPMENTS\n\n- **Anthropic closes $30B Series G at $380B valuation** - This is a staggering 52% increase over prior valuation, positioning Anthropic as the second-most valuable AI company. The simultaneous Bengaluru office opening and India partnerships (CodePath, economic index publication) signal aggressive enterprise expansion into emerging markets. For consulting businesses, this validates that enterprise Claude deployments are generating massive revenue, not just pilot projects. The company also released Claude Opus 4.6 with detailed safety documentation, suggesting they're positioning as the \"responsible enterprise choice.\"\n\n- **India becomes AI infrastructure battleground** - Multiple stories converge: Blackstone backing Neysa with up to $1.2B, Peak XV funding C2i for power infrastructure, and India approving $1.1B state-backed VC fund. India's 100M weekly ChatGPT users create enterprise demand, but power constraints at data centers are the bottleneck. This represents a fundamental shift from AI model development to AI infrastructure enablement. Consulting firms should watch C2i's power solutions closely—energy efficiency will become a core enterprise AI requirement.\n\n- **OpenAI testing ads in ChatGPT and expanding to government** - OpenAI is monetizing beyond subscriptions with advertising while simultaneously bringing ChatGPT to GenAI.mil for government use. They're also introducing \"Lockdown Mode\" and \"Elevated Risk\" labels for enterprise security. This dual-track strategy (consumer monetization + government security) shows OpenAI positioning for both revenue diversification and regulatory compliance. The ad integration could create enterprise differentiation opportunities—businesses may pay premium for ad-free, secure instances.\n\n- **Talent exodus from OpenAI and xAI raises safety concerns** - Multiple reports of departures from both companies, with Elon Musk claiming xAI exits were \"push, not pull.\" OpenAI removed a sycophancy-prone GPT-4o model, while reports question if safety is \"dead\" at xAI. Peter Steinberger (OpenClaw creator) joining OpenAI adds complexity—top talent still arriving while others leave. For enterprises, this signals potential instability in safety commitments and product reliability. Companies building on these platforms should have contingency plans.\n\n- **Glean building \"layer beneath the interface\" for enterprise AI** - The \"enterprise AI land grab\" story highlights Glean's strategy to become infrastructure rather than application. This matters because it signals the market maturing beyond ChatGPT wrappers to actual enterprise architecture. Airbnb's announcement that AI handles a third of US/Canada support tickets validates this—enterprises need integration layers, not just chatbots. Consulting opportunities lie in helping companies choose between point solutions (Glean) versus platform plays (Microsoft/Google).\n\n- **Hollywood and creative industry pushback intensifies** - NPR host David Greene suing Google over NotebookLM voice, Hollywood unhappy about Seedance 2.0 video generator. These aren't isolated complaints—they represent organized creative professional resistance to AI tools trained on their work. For consulting businesses advising media/entertainment clients, IP rights and consent frameworks are becoming mandatory parts of AI implementation roadmaps. Any enterprise AI strategy in content-heavy industries needs proactive IP risk assessment.\n\n- **Computer science enrollment shifts signal changing perception** - TechCrunch reports a \"great exodus\" from computer science programs. While details are limited, this likely reflects concerns about AI automating programming roles combined with broader questions about CS career trajectories. For consulting firms, this affects talent availability and client workforce planning. Companies may need to pivot from \"hire more developers\" to \"upskill existing staff with AI tools\"—a consulting opportunity.\n\n## WHAT THIS MEANS FOR TP\n\n**Immediate opportunities:** The India infrastructure buildout (C2i, Neysa, government funds) creates massive consulting demand for enterprises navigating power-constrained AI deployments. TP should develop specific advisory services around energy-efficient AI architecture—this will be a C-suite concern within 6 months. Anthropic's enterprise validation at $380B valuation means \"Claude vs ChatGPT vs Copilot\" vendor selection is now a strategic decision requiring neutral advisory, not just IT procurement. The Glean story confirms enterprises need \"AI infrastructure strategy\" consulting distinct from \"AI use case\" consulting.\n\n**Risk preparation:** The talent exodus pattern at OpenAI/xAI suggests model provider stability is a legitimate enterprise risk. TP should proactively build \"AI continuity planning\" into advisory services—what happens if your primary model provider has a safety incident or key departures? Multi-model strategies aren't just about capability anymore; they're about organizational resilience. The ad monetization at OpenAI will likely spread to other providers, meaning enterprise clients will face unexpected cost structure changes. Build pricing volatility management into financial models.\n\n**Client talking points:** For India-focused clients: power infrastructure is the new AI bottleneck, not compute availability. For media/creative clients: IP and consent frameworks are mandatory now, not nice-to-have—the lawsuit pattern is established. For all enterprise clients: the shift from pilots to production is validated (Airbnb's 33% support automation, Anthropic's valuation), so \"wait and see\" is no longer a defensible strategy. The computer science enrollment trend means companies should invest in upskilling existing employees rather than planning to hire their way into AI capability—talent won't be available at expected volumes.",
   "sources": [
     {
       "title": "Fractal Analytics’ muted IPO debut signals persistent AI fears in India",
@@ -140,6 +140,223 @@
       "score": 0,
       "comments": 0,
       "source": "techcrunch"
+    },
+    {
+      "title": "Anthropic opens Bengaluru office and announces new partnerships across India - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0wckxXSHp1UXlwOGhNNVM5eXhzWEQyaTFMUzJZZDNPOU1fSDA2RlpzcFpEMXVXQW5kTjNGZzZOZG5ySWE0dko5X3lUVzdJems2S29BZlJrN1pwelFBVzJGWFgyWFRaYXJqTUQzUVhTaERVckZTSjBDRlhjLXNRUQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Chris Liddell appointed to Anthropic’s board of directors - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1tbm5JcGxGZFk2VU0xdEpudTJpbVdzTk8yaE1lbHlGOXBZdmNqVGNKS1JVWllWejFiSmZJNFFsNjVqSFVXX2lESHhmRVJ3WEI3ZC03NDR1TUZtVDVkNE5rdnNIOW8xQTRLZ2tGRUNzN2tfMU9mcS11VllR?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Anthropic partners with CodePath to bring Claude to the US’s largest collegiate computer science program - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1USWwzTlYxR0RTbXR2eDI4Y0tHZDM3VzZrbkplMjdrSUlIaG00NkEtZHFYQW9xVlRCaUlYa1NLS2pfcElMVVFEekMyZ2dSMTdieVU2cE5jd18zN1pPRUZRU0VsTVBkZjFGQ0E3d1l3?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Anthropic raises $30 billion in Series G funding at $380 billion post-money valuation - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaXY3cUsxbGhpVW9tUHAyc0MwNFlEOUJjRVFXYVBHNTBzZDNkakxyTW4yenQ0N3NUMGk0Zk1KbHVyVmprSWtJQzk3dGZjRUQ1QWhvbi00UnBjWlhsb0lPQnFYcDQxUW9BWFMteEVfekdvSG5acDRHU1pDQXB0M2M2WlhqclE1VGJfSUNXOXRZYmI2THlDYWp4MzlUcGdlWnB1enJpUXVUclBvZU5O?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Anthropic is donating $20 million to Public First Action - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE54V0E2RGhnX2NrZlRfaVJ4YVdiV0FuT1R2VHg1Z1RMQ0hjNWphWGlsdlpicE5tN1d4eXJ5UE5UVVlMd25RTy1nazlTcE5xLUxpNEp3MVczUXphVFRLZ3dWQXlkVlQ1UmdZ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Sabotage Risk Report: Claude Opus 4.6 - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHYk5uOG5QQUlwNGhTdUs0aFdYQVpTVnY2YXFPVFBMOFdMc1RlUkxDUnhGQjhXOGRyRU1xb2w3TGNjTUs5ZmtlZmdHUUdTNXE3Z0JGMG9NV0pBZ3BFUVE?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Covering electricity price increases from our data centers - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBUZlJZd1hSbDZKNDAtaEFoNG90LXd0Y2Z3Y3dTdWdkSUNCWTl5dE12VFpzQzg3VkVacUZQOWdXLUtBN2VYTmtubVBMdEhBTmhNclZkTXp5RXI0REJsVUNSbFVMVUtBM0tvU1NNYVlZZk00VENBaVE?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Claude Opus 4.6 System Card - www-cdn.anthropic.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5kV1ZjX3Z3NzZjZWhhN1Z4cnpqaE5FMTBtUmJsdVZLTDlrMVQzWkQwdEIyM2R3bjNjcnNBNGZ1Tm9OQkVVVUkwN09ZbU8xNS1XWThweUdJVHpBUEFaVE1rUk1jek1xVFhiemx3TDRXLWtWNTNYTmkyWFI0Z2ZmMmM?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Jobs - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPUklpdUN6UkhIOHdsUW83ekp4Sk1WTVcxU0loS3Blck1NaG02cHRnazU1LVRxT05PazBPN2YtS1MyT19DUUxpclJzRkdVRVdxdFd1LVZUVjJlUHNmS1BIQlo0ZUdCMWVoYm0zZGJldk9rNXF6aVhrbHZtZ1VPYTVkVjJYZ1BqQ20wb2JnZmhpZXZUZXhxTVFLNnpwWFJTWnQzeFdBeU5tcnJkWXJlOHVfWE1kVGpEQUxiam5PZnBSaHJBUU1MUXZhbTUwQS0wUVZMUUQ0OFFDU1I?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "India Country Brief: The Anthropic Economic Index - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNRmVyMFFCaUNGZjVqc1FTOE5mTUZ2WUxQZkpQSmxOR3YtXzVsT00zWTNYaWpGTEtza3JqcWdxQ0M3UHEtcmtHQUpYdkdhaHVEODhkakYyeG5tbkFMdV81a3hqNjQzZ3pueGRRVmpKb1FacTVjM2Q4WlotanNRbjdsMFFaZDVHMXBzN21zS3VSNmlxWjhNXzBTbEtHajJrZ01FSUdGNzg0TFVQYWhiT0J1ZUNKSHlsajdQdG44OWx0SDdhNlJNaUFUdW9MQ01xRFZ4QW1iX0xNRU9UcVNwVFVjb0RWNzJXNVQ1Y2hhTTVCZG1hVmxseWpBbmlZYmdYSUdDc2ZCYzJ3?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Jobs - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPb0xtWDl4MThLNEszc1IwNUdCZkE0RkVxZGRSOEtyeGdvckctYW50blhLUUVmMW1Db3dnUDlWbjhpdmJDbkM3M0ZVZFdmZEVQNVg5MnNhbWRhMktzaFNHbWFhU3hITWtVNUdEcEFwNmdlN0Z0a3JISjJTbUxRNGU3LXlhRmRLcmxKZWVQLU5xcU5ld3BIQzlIN1BVc0NiZTd1aDktLXdVVU9CVUZSNTc0eQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Newsroom - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPc2FsM2VJNEtqQnRSQnJsUmlnUHRuYXlDNmRWUXFOeDhwUENWazVVWW1lVEI5b2Jwa0pyTXZydTJLTHQ0dWNwdGFaSG91dGxBenBKNDF2ejJwRFJvbkpxa1R4VGlIRjV1d1JSR3NjQXMzMGJWY1hfMGNvUlIxUHFBZ2paSkU?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Jobs - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1JR0FwWmR2RkdiR2ZXVS1OMk1DQWEyT01Uejc1ZHVxR1JPenNEaW1RekVzaGJpaFJ0LTBMZU1QcjQ1cy1yLWI3QVFWeHBtNEtDaEtRX1VwUmdoTWZZenhIRlZqanhTaERrNFY5eTFMWC10LV9vMWc?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Anthropic’s Transparency Hub - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5oaWQ3b1QxT19BOHNjZy02SG83UUxTeHV2YVUyM3NMTjlyOW56S0F3VTh5d2RQQmN4bFJGMk80Rk5xY3JGdFg2d1E0WEViaDJ2eFIxY0JtTDhzSW1JNnUyMEdQYjlKakFqVU1TcQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Responsible Agents and the Future of AI - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5hZVhKUkdRYlFSd1UyV0x1aGVycHhmQjkzaUNhQ252ZFZKcldZZDZiUGFVM0QyUHRhQ3VzMWMyaldxdUxhR1B4cU80MGFKRFhrT3Q5ZldXdEVTalllY005d1pKMA?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Responsible Scaling Policy Updates - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdkhHLTk4V0tfYW1QYmM5eGlzbzhjOUZOZ0F3cHlCSkw2b0JJU2J2bjJBb1plcDEtcmZzSWZUdXc1dzFXZDduX3ZXSklIbmZYcEZMdldRb0w0TnN6R1dEX2lUY2drM0Q2WkI0VGJLNnYxZVRuNEMwRWh6MDZ1NHNsQWVXOTB3V05GT1BWMDFnTEZ6bWpEZkFMSF9DUlExOC15TUNNNXR3UThsY3VzeDU4QTdGTFF0UTNhQjJr?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Building Products on Claude Opus 4.6 A Customer Success Story with Shortcut and Hex - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNHo5YS1ScG1VZ3YzcE41dm16azRVOVVzODRVdDRia1FoYlAzXzBkTkc3Sl80clZveXZKSHBIb200MEdYZjEyNTJQdGo1aDUycnhfd1VnWHYyMHJIdDROaVpRY1hJZV9FcXljX2lDME5RSUVRVkdlXzhpX2RhU2VKMzFPVHNueTVnYkdqM2puNXRFTWNOak1qemMzVXliWjN3SmxxcmJDeW9NSktheXVTaUNRTGVXemd0SHc?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Jobs - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPR2Y0QVFiM1lBWWM0dGFJOHRGU1d4bjBhNGFQcE5KcG9jYUpPRnpPYWhTaWhWQllSeVFPZWpaWEpDUEtVMmlPQUY2LUdrbUJyUzAxaUJXVDFzR2ZEVGk5LWJ1bFpncjJnTEFwRTdYbFpJdTB5X0k4VDVDXzVMZUh5QTBHOEh6aWR3a0hDOEZiT1E4QXRPNEE?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Jobs - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQOU11X2tUYlJYVkNwUWxDZHlmQmhXMnB5dk5Lc3JhNmFmYzlmbUhfS3Z4ODc1T1NqMzNWeElFT29DN3lXVF9RWHRLS0ZPSUYxdnotSGNMZTYyUTNDa2lQVDdKUkotQUk3ejJBN29LYVBpN1psbXNjcWxSbmZWMEN5WkxQUlJmMnU3S0lFT3N3cGxYVGxQNmthYzhzay1Ha3ZSNTZ1LUhJMjlQZlVaSTZNTTZ3U3dTeW5RQl9oS3V5YTc4SWFPM3h2azlSZXhFd1o0M0s3U3Z5OFI2LTFyUGdUV1BGLWd1eHFQRXdVVHFzdnpXMFFmeWlJZHF5eVFSVVNMRVR4Q3FwcHpQWE5PZmpmUkQ1elhoTlM4cGlxREg2d2F3UUxLQmJlX3haRQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "From 0 to 1: How Zingage Built AI-Powered Home Care on Claude | Webinars - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbzNfV3B6ZmdYTVB0X1VmbHYyT2JSUjlxckt2aGU2RGlBRUl0dk1oeXVYVnVKcl9IemlMWVdLOUJsQWZBdWEyU1JSQVFOMHcyN1hnNHBjcTQ3bkJRLUtwaGV6VGlOb01yVVFKMW4zMzNESGxrWTJBVXN4SzFNR1p6UXBkUlJtRFRaN0NxdUs2MlA5REw1UUlBZWplS3g3TWhLY2ViemhHc1JRVW1sb2lHSVBnT09jVGI3R0MtZWkwUWQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "AI Learning Resources & Guides from Anthropic - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1hUklaNHZ0eG5UNHdPaFJRc1NnTGI1d0dQRXliNkhTWWZ5dTZUQmY4RXotVzVEeFVna1Z2RnBOOEh6WHZBbzRveHlKQy0zUVE0a1hyanlrWEFYYUpKM0paUkcyeXBwUkxnLVE0OElKWWlETS1DMU5mNGNR?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Jobs - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBITjNXUElua3dSMmRjcW1YVGpveUIydVhFR051NTRMRXpyWUJrU29BcHktaUc1M1NOMWdrdUpWLVNOa0Y3RVJ6VmxHczBQSGs4eDJXTHNTVG14ajNEcWFPRW83MlBRdTRjUnc?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "India Country Brief: The Anthropic Economic Index - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1FdDhtRFhYSWlybFlhV282TkZiM1VaNVV4eGQ2SEttZE9nVTJ4X0xFMFpkYmFneDAxYXl5QnU4eVlXcVE1ZnVJUno1X2stMHIwcnViVzM4aFZ4b0JBazJVbHVTdE5ubVBQSWxRTmh3?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Overview - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE91UGcwV1FDSFVwY2tFVHRJV29Md3EwTzg4SE92cEFERV9NNGRJTlhtNU9yZ0NfOG9STk54VThfRWdVcHlYNUpVdURB?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Jobs - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcEJxbGdUYzFWdzUwSGNLd1FhQnNpZ2VJT3JHUFFLdHFDY3RzMG1QT1hxSU1TSHhobDFBSE4tYWNwQ0t0dXZxRngwVE1zcVprS3dDVGRUR1BvbGN5ZE1UOFBrRkN2ZzNreEo4ZTJ1RUcxM1R5OW5DbXFsamVSbFh6QWxZUQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Claude’s Constitution - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAydVpWTXJQYTR2c3BpenZOMUR1UXJjR3J5bERneDRFOU9SeDV4MUxIZ1ZrbExCZllmeVFWeThsZmR0Q3FRNWdOdlV1VHRtS0ZXYXBubEFNOW83RmdWZUVUM0h4aElXUFFkQXBqWXh3?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "2026 Agentic Coding Trends Report - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9PNWxXQzdvR0FFVnR3LVc4TjJyaXVGT3lvZm5CMktkY3RrOHB6b2tRa2RNaXFaOF9CTUlJNVNrT2xtNmc5RU9hMndFejZVeW9HOTVMUkNJb3JZbVp5NnNJb2JwN1JKR3BHODdYbG1RRWNhZTA?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bessemer"
+    },
+    {
+      "title": "Anthropic Academy: Claude API Development Guide - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQjUzTGtfOVRIV1ktRHdRY3R3bDV4alBHLXRlUk1XeUk2OHRRWVBHNGdnb0M1VzFvdUpTeHhqS3hVQVVhS28wbVlCNVg5aFdPOE10Q1BjQjZHT3hzd0FHTERrUGIzSDNpMndpTVlIdDJRTjROU2lZUUhibVZXT0hoY0Z3X0Y2QUh3Slpqb2dvdGNfVnJISlE?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Jobs - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9sSGpQWnJJcGQ5Q0Z0TExQMW5Hd05wWWhBdVNoOUR5SHdMV0M1Q09NR1Bwa0trcTVpU2pJOXEzRy1QWUhRZkdDeGxDamQwT2NNMHVEcUk3em5jdUcwUlY2VTJMb0NjbzQ4?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Economic Futures - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBBSjJKbEQxd01UdHdMbUtOUEFVWUlvN0ZrTHhCdFVpbUo2S1ozWjRQMW1aVzNpUXhMa2FCTk02MHRodl9CVHUtMmY3R2NFSzJyMUdQOGs2Q2VZc2JCUy1ka3EzVmVSTkcwSm51TUVzWQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Careers - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5LT0hCR0xVZXJqQThfTzFwV0h6dk5oeWg1d2xZTEpRdXc2bGxCTmxVRWNpV0dDdUg0WFltZjJBbHVoVzFQUDNhOWxkTFVHODVQMVRSV2ZxQ3ZHRnlBOGYtU1Q4QTNaTWs2d2pfMk9n?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
     },
     {
       "title": "GPT-5.2 derives a new result in theoretical physics - OpenAI",
@@ -828,5 +1045,5 @@
       "source": "news"
     }
   ],
-  "generated_at": "2026-02-16T13:12:03.434Z"
+  "generated_at": "2026-02-16T13:12:48.351Z"
 }
