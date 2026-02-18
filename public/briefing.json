@@ -1,5 +1,5 @@
 {
-  "summary": "## QUICK BRIEF\n\nOpenAI dominates today with major releases: GPT-5.2 achieving breakthrough theoretical physics results, GPT-5.3-Codex-Spark for agent engineering, and new Lockdown Mode security features. Anthropic counters with Sonnet 4.6 release and lands Infosys enterprise partnership. Meanwhile, India emerges as the day's biggest AI infrastructure story with $200B+ investment commitments from government and Adani, plus Sarvam's ambitious open-source push to non-traditional devices. The enterprise AI market is consolidating around production-ready agent tools and security controls.\n\n## COMMUNITY PULSE\n\nBased on the news flow, key discussion themes emerging:\n\n- **OpenAI's Codex/Agent Infrastructure** - Heavy focus on \"Shell + Skills + Compaction\" for long-running agents, indicating production deployments hitting real-world complexity challenges. Community wants better rate limits, API controls, and cross-platform sync.\n\n- **GPT-5.2 Physics Breakthrough** - Unprecedented: an AI model deriving genuinely new theoretical physics results. This crosses the threshold from \"tool\" to \"research collaborator\" and will drive academic/research consulting demand.\n\n- **Security & Controls Wave** - Lockdown Mode, Elevated Risk labels, and European Parliament blocking AI on devices shows enterprise security concerns hitting critical mass. Procurement and compliance becoming gatekeepers.\n\n- **Model Retirement Anxiety** - OpenAI retiring GPT-4o and other models causing production system concerns. Version management and migration support becoming critical enterprise issues.\n\n- **Open Source vs Closed Debate** - Calls for open-sourcing o4-mini, Cohere's multilingual models, and Sarvam's open approach versus OpenAI's closed stance creating philosophical split in enterprise choices.\n\nOverall sentiment: Excitement about capabilities meeting reality of production complexity. Security and operational stability concerns rising faster than expected.\n\n## KEY DEVELOPMENTS\n\n- **OpenAI Ships GPT-5.2 and GPT-5.3-Codex-Spark** - GPT-5.2 achieving original theoretical physics results marks a genuine capability jump beyond pattern matching into novel discovery. GPT-5.3-Codex-Spark specifically targets agent engineering workflows with improved code generation. For consulting: clients will ask \"can AI replace our research team?\" The answer involves repositioning researchers as AI collaborators rather than replacements. These models enable higher-value consulting engagements around research acceleration rather than basic automation.\n\n- **Anthropic Releases Sonnet 4.6 + Infosys Partnership** - Anthropic's Sonnet update comes with strategic enterprise partnership with Infosys to build \"enterprise-grade\" AI agents. This directly challenges OpenAI's enterprise dominance and validates the agent-first approach. Infosys partnership matters because it brings implementation capacity at scale. For consultancies: expect clients to ask for multi-vendor strategies. The days of \"just use ChatGPT\" recommendations are over; enterprises want architectural choices.\n\n- **India Launches $200B+ AI Infrastructure Push** - Government targeting $200B in AI investment by 2028, with Adani pledging $100B for data centers specifically. Sarvam simultaneously launches open-source models designed for feature phones, cars, and smart glasses—addressing India's device diversity. This isn't just funding announcements; it's coordinated industrial policy. For consulting: Southeast Asia and emerging market opportunities just got real. Clients with global operations need localization strategies that go beyond translation.\n\n- **Mistral AI Acquires Koyeb for Cloud Ambitions** - Mistral's first acquisition signals European AI players building vertically integrated stacks to compete with US hyperscalers. Koyeb brings deployment infrastructure, indicating Mistral wants to own the full model-to-production path. This follows the pattern: leading AI companies must control infrastructure or risk becoming commodity model vendors. For consulting: infrastructure choices now have strategic implications. Clients locked into single-vendor stacks face competitive disadvantages.\n\n- **OpenAI Introduces Lockdown Mode and Elevated Risk Labels** - New security controls allow enterprises to restrict AI capabilities and flag high-risk operations. European Parliament simultaneously blocks AI tools on lawmaker devices citing security. This convergence of security features and institutional restrictions shows enterprise adoption hitting governance walls. For consulting: security and compliance practices around AI deployment are now table stakes, not afterthoughts. Expect RFPs requiring detailed AI security architectures.\n\n- **Memory Constraints Becoming AI Deployment Bottleneck** - TechCrunch reports running AI models increasingly constrained by memory, not compute. This explains why SpaceX veterans raised $50M specifically for data center interconnects. As models grow and agents run longer sessions, memory architecture becomes the limiting factor. For consulting: infrastructure recommendations need memory-first thinking. Cost models that assume compute as primary expense will underestimate deployment costs.\n\n- **Cohere Launches Open Multilingual Models** - Cohere's new model family targets non-English enterprise applications, addressing the gap where most AI tools remain English-centric. This competes directly with OpenAI and Anthropic on multilingual capabilities while maintaining open-source positioning. For consulting: language support is becoming a differentiator. Clients operating globally need strategies beyond \"translate prompts to English.\"\n\n## WHAT THIS MEANS FOR TP\n\n**Immediate Service Opportunities:** Three distinct consulting plays emerge today. First, the India infrastructure push creates urgent demand for AI strategy consulting in emerging markets—companies with operations in India, Southeast Asia, or Africa need localization strategies beyond simple translation. Sarvam's focus on feature phones and embedded devices shows the opportunity isn't just cloud-based enterprise AI. Second, the security wave (Lockdown Mode, Parliamentary restrictions, Elevated Risk labels) means every enterprise AI deployment now requires security architecture consulting upfront. Third, OpenAI's model retirements and the multi-vendor landscape (Anthropic/Infosys, Mistral/Koyeb, Cohere multilingual) create demand for vendor strategy consulting—enterprises need architectural guidance to avoid lock-in while maintaining capability.\n\n**Strategic Risks and Preparations:** TP needs perspective on the agent engineering complexity emerging from OpenAI's Codex documentation (\"Shell + Skills + Compaction\"). Production AI agents face challenges most consultants haven't encountered: long-running state management, cross-session context, and operational debugging. The consulting market will split between firms that understand production agent engineering and those still recommending ChatGPT wrappers. Additionally, the memory bottleneck story signals infrastructure recommendations need updating—clients following compute-first guidance will hit unexpected walls. TP should develop memory-architecture assessment capabilities.\n\n**Client Talking Points:** When clients ask about GPT-5.2's physics breakthrough, the message is: \"AI is transitioning from productivity tool to research collaborator, which changes how you should think about R&D investment and IP generation.\" On security concerns: \"The European Parliament restriction and OpenAI's Lockdown Mode signal that uncontrolled AI deployment is ending—governance architecture matters from day one, not after incidents.\" On the India opportunity: \"The next wave of AI adoption won't look like Silicon Valley implementations; it requires strategies for diverse devices, languages, and infrastructure constraints.\" And critically: \"Single-vendor AI strategies are now strategic liabilities—you need architectural flexibility as capabilities and partnerships shift rapidly.\"",
+  "summary": "## QUICK BRIEF\n\nAnthropic just raised $30B at a $380B valuation and launched Claude Sonnet 4.6, while OpenAI countered with GPT-5.2 claiming new theoretical physics breakthroughs and GPT-5.3-Codex-Spark for developers. India is making aggressive moves with $200-300B in AI infrastructure commitments from government and Adani, while homegrown players like Sarvam push open-source multilingual models. The infrastructure arms race is intensifying — Mistral acquired Koyeb for cloud capabilities, and memory constraints are becoming the primary bottleneck for running AI models at scale.\n\n## COMMUNITY PULSE\n\nUnable to provide specific Reddit/HN discussion metrics as raw data didn't include community platform content with scores and comment counts. The source material was primarily press releases and corporate announcements rather than community discussions.\n\n**Sentiment observation**: The news cycle shows heightened M&A activity and massive funding rounds, suggesting institutional confidence despite market jitters mentioned in IT stock coverage. Developer communities appear focused on tooling practicalities (rate limits, API issues, caching) rather than model capabilities.\n\n## KEY DEVELOPMENTS\n\n- **Anthropic raises $30B at $380B valuation with Sonnet 4.6 release** - This Series G makes Anthropic the second-most valuable AI company after OpenAI. The simultaneous launch of Claude Sonnet 4.6 alongside major enterprise partnerships (Infosys for telecom/regulated industries, Rwanda government for health/education, opening Bengaluru office) signals aggressive global expansion. For consulting firms, this validates the enterprise agent buildout thesis and creates immediate opportunities in regulated sector implementations where Claude's constitutional AI approach provides compliance advantages.\n\n- **OpenAI ships GPT-5.2 and GPT-5.3-Codex-Spark, introduces Lockdown Mode** - GPT-5.2 reportedly derives novel results in theoretical physics, suggesting reasoning capabilities are reaching research-grade utility. GPT-5.3-Codex-Spark targets developer workflows with improved long-running agent capabilities. The new Lockdown Mode and Elevated Risk labels indicate OpenAI is hardening enterprise security posture. The \"Skills\" and \"Conductor\" features suggest OpenAI is building orchestration layers for complex workflows — directly competing with the consulting integration work many firms provide.\n\n- **India commits $200-300B to AI infrastructure with multiple initiatives** - Government targeting $200B by 2028, Adani pledging $100B for data centers, and domestic players like Sarvam (targeting feature phones/edge devices) and Emergent (claiming $100M ARR after 8 months) show India positioning as a complete AI stack player. Sarvam's focus on open-source multilingual models for edge deployment could democratize AI access in emerging markets. This creates consulting opportunities in India market entry, localization strategies, and edge deployment architectures.\n\n- **Mistral acquires Koyeb in first acquisition, infrastructure consolidation accelerates** - Mistral's purchase of cloud infrastructure provider Koyeb signals European AI companies need vertical integration to compete with hyperscalers. This follows the pattern of AI companies realizing distribution and deployment capabilities matter as much as model quality. The \"memory game\" article highlighting memory as the primary constraint for AI workloads reinforces why infrastructure control is strategic. Consulting implication: clients need guidance on build-vs-buy infrastructure decisions as the landscape consolidates.\n\n- **Cohere launches open multilingual model family** - Another major player betting on open-source and multilingual capabilities, competing directly with Sarvam's approach. The convergence on open multilingual models suggests the market is fragmenting between English-first closed systems and multilingual open alternatives. Enterprise clients serving global markets now have viable alternatives to English-centric models, but integration complexity increases with model diversity.\n\n- **European Parliament blocks AI on devices citing security, WordPress.com adds AI assistant** - The EU institutional AI ban shows regulatory skepticism persists at highest levels even as consumer products integrate AI everywhere (WordPress, Amazon Fire TV). This divergence between consumer adoption and institutional caution creates consulting opportunities in risk assessment, compliance frameworks, and phased adoption strategies for regulated clients.\n\n- **Ricursive Intelligence raises $335M at $4B valuation in 4 months** - Extreme capital velocity for an AI company focused on \"radically different\" approaches suggests investors are funding moonshots alongside incremental improvements. The speed of this fundraise (4 months to unicorn+ status) indicates FOMO capital is still flowing despite broader market uncertainty.\n\n## WHAT THIS MEANS FOR TP\n\n**Immediate service opportunities**: The Anthropic-Infosys partnership for regulated industries and the Rwanda government deal demonstrate that enterprise AI agent implementation is the current hot zone — particularly in telecom, healthcare, and education sectors where compliance and safety are critical. TP should develop packaged offerings around Claude implementation for regulated industries, emphasizing constitutional AI for compliance workflows. The India expansion from multiple angles (Anthropic, OpenAI presence, government investment, local champions) creates entry consulting opportunities for Western firms and localization services for Indian firms going global.\n\n**Strategic positioning shifts**: The infrastructure bottleneck (memory constraints, data center investments) means deployment architecture consulting becomes more valuable than model selection advice. Clients need help navigating the build-vs-buy decision as vendors vertically integrate (Mistral-Koyeb) and infrastructure becomes strategic rather than commodity. TP should develop infrastructure planning capabilities and partnerships with regional data center providers. The bifurcation between closed English-first systems and open multilingual models means enterprise architecture decisions now have geopolitical and market access implications — this elevates consulting from technical to strategic.\n\n**Risk preparation**: OpenAI's \"Skills\" and orchestration features directly threaten mid-tier consulting integration work. As model providers build workflow orchestration into their platforms, the value of basic integration consulting decreases. TP needs to move up the value chain to business process transformation and change management, or down into specialized vertical implementations where domain expertise creates defensibility. The European Parliament's AI device ban signals that regulatory fragmentation will continue — clients will need ongoing guidance navigating contradictory compliance requirements across jurisdictions. The extreme fundraising velocity (Ricursive's 4-month path to $4B, Anthropic's $30B round) means competitive landscapes can shift faster than typical consulting engagement cycles.",
   "sources": [
     {
       "title": "India’s Sarvam wants to bring its AI models to feature phones, cars and smart glasses",
@@ -140,6 +140,202 @@
       "score": 0,
       "comments": 0,
       "source": "techcrunch"
+    },
+    {
+      "title": "Introducing Claude Sonnet 4.6 - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE96MHBnTm5LSGN3SDFIcy12QWhqOG5nMHhRdnAxZm00QTFHOW5fZ1ZJd3phQmRuOGNMU0lPenBSTUp5YzFnSDBzbFNaYWlGTEw4NHY3YV9WWU9vZVR0?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Claude Sonnet 4.6 System Card - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1EYWxpMFllYi04UkRKYUc0MmdBckplOFJNQ1Ywekg0YW5NQktBLXlRaUNRejVvaWttRG1XTDlUMFRxdjRtVHVJaE9QZTM1WTJJOEY3X28yMjRNRnRhMkVpaA?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Anthropic and Infosys collaborate to build AI agents for telecommunications and other regulated industries - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5MVVlaV1RBOS0xWkYzRXhjaHM5SVc3SFV1RkExNEVtNk5JMjBackp6NDFzN2pvakI4MThEWWx3eFE5RnJveHBWcVhjdlozZjh2Y3ZIT2JXUm9kU2Zl?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Anthropic and the Government of Rwanda sign MOU for AI in health and education - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1aQkVHQ2VjTWRuY1FtUENGT01iSU5mRzM0ZElKOE4tMHVWSjhxU2h6YXZaVlo2S21EZmVjYV9RU1ZGSzVZRGRETmU3UnhqT05OX2hzMjE4T3QtUENLSzFZSw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "India Country Brief: The Anthropic Economic Index - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1FdDhtRFhYSWlybFlhV282TkZiM1VaNVV4eGQ2SEttZE9nVTJ4X0xFMFpkYmFneDAxYXl5QnU4eVlXcVE1ZnVJUno1X2stMHIwcnViVzM4aFZ4b0JBazJVbHVTdE5ubVBQSWxRTmh3?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Anthropic opens Bengaluru office and announces new partnerships across India - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0wckxXSHp1UXlwOGhNNVM5eXhzWEQyaTFMUzJZZDNPOU1fSDA2RlpzcFpEMXVXQW5kTjNGZzZOZG5ySWE0dko5X3lUVzdJems2S29BZlJrN1pwelFBVzJGWFgyWFRaYXJqTUQzUVhTaERVckZTSjBDRlhjLXNRUQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Chris Liddell appointed to Anthropic’s board of directors - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1tbm5JcGxGZFk2VU0xdEpudTJpbVdzTk8yaE1lbHlGOXBZdmNqVGNKS1JVWllWejFiSmZJNFFsNjVqSFVXX2lESHhmRVJ3WEI3ZC03NDR1TUZtVDVkNE5rdnNIOW8xQTRLZ2tGRUNzN2tfMU9mcS11VllR?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Anthropic partners with CodePath to bring Claude to the US’s largest collegiate computer science program - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1USWwzTlYxR0RTbXR2eDI4Y0tHZDM3VzZrbkplMjdrSUlIaG00NkEtZHFYQW9xVlRCaUlYa1NLS2pfcElMVVFEekMyZ2dSMTdieVU2cE5jd18zN1pPRUZRU0VsTVBkZjFGQ0E3d1l3?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Anthropic raises $30 billion in Series G funding at $380 billion post-money valuation - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaXY3cUsxbGhpVW9tUHAyc0MwNFlEOUJjRVFXYVBHNTBzZDNkakxyTW4yenQ0N3NUMGk0Zk1KbHVyVmprSWtJQzk3dGZjRUQ1QWhvbi00UnBjWlhsb0lPQnFYcDQxUW9BWFMteEVfekdvSG5acDRHU1pDQXB0M2M2WlhqclE1VGJfSUNXOXRZYmI2THlDYWp4MzlUcGdlWnB1enJpUXVUclBvZU5O?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Covering electricity price increases from our data centers - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBUZlJZd1hSbDZKNDAtaEFoNG90LXd0Y2Z3Y3dTdWdkSUNCWTl5dE12VFpzQzg3VkVacUZQOWdXLUtBN2VYTmtubVBMdEhBTmhNclZkTXp5RXI0REJsVUNSbFVMVUtBM0tvU1NNYVlZZk00VENBaVE?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Anthropic is donating $20 million to Public First Action - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE54V0E2RGhnX2NrZlRfaVJ4YVdiV0FuT1R2VHg1Z1RMQ0hjNWphWGlsdlpicE5tN1d4eXJ5UE5UVVlMd25RTy1nazlTcE5xLUxpNEp3MVczUXphVFRLZ3dWQXlkVlQ1UmdZ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Claude Sonnet 4.6 - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxONTZZdVdwTHh3REt1Z3ktMVZRa2Jmd1BVMkdYMWczUXVBT1NBVUk1MFJPYnJJZE0tR0xORXJMaloxZ1ZVUkVCNlZJSkNwSk91cnJfTEZfRDRtaXgxNTRnWU96d2R2XzU5ZEV0dDlmcVZfR2dxZVJuc05JU25lc0l4bnFVZldUeHJhWEE3Y1RkTTJIdkIybFByR3o5LThBU19ZV1pHZnlqOTF3R1ppV0xkRExvZWR5Zm5Mc2FTZDQ5QmQycWJob1RjVGNkOFpMbXpseTRZTmYzUHhsNzZBdkJUTTRGOUt6c2RkWDN5OFVCNnJYcDk4QTNnS3RXVEU0RkxMdTV3cXFxMUd0TGlfWDI1bURENXRxeTJNSFZvSVFsUExmcEJaR0tCRVpCbjJvSDQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Jobs - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPb0xtWDl4MThLNEszc1IwNUdCZkE0RkVxZGRSOEtyeGdvckctYW50blhLUUVmMW1Db3dnUDlWbjhpdmJDbkM3M0ZVZFdmZEVQNVg5MnNhbWRhMktzaFNHbWFhU3hITWtVNUdEcEFwNmdlN0Z0a3JISjJTbUxRNGU3LXlhRmRLcmxKZWVQLU5xcU5ld3BIQzlIN1BVc0NiZTd1aDktLXdVVU9CVUZSNTc0eQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Jobs - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1JR0FwWmR2RkdiR2ZXVS1OMk1DQWEyT01Uejc1ZHVxR1JPenNEaW1RekVzaGJpaFJ0LTBMZU1QcjQ1cy1yLWI3QVFWeHBtNEtDaEtRX1VwUmdoTWZZenhIRlZqanhTaERrNFY5eTFMWC10LV9vMWc?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Jobs - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ORkJHSTcwR1djY0taNEo2MmJLN1k1WWlaS0RwTXUtVkFRS1I5dzRBSXlWbXZBOGFCLU5CU0JoSWRkdWlCdF9SY0gyejd6NUVnWEVjUndOdl9va2R6b1NreGZGVXNUZ1NkVTBhVXZ0Q2toUUVLZHk3YTRvTQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Jobs - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAtOUxUQnBWWWN0VXBpWVo1Z2JCejVVSmlpTXNlaU9qTGxRR0tDSUUzVU8xVGZIX3lndlJIY2RFYjNNbWVDMkxlOHBsSVpTUHVEb0pJd0xNLTA2Zk96M3FpbUdGc2U?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Jobs - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5FWEhTSktjMG1IRmtscWN1Z09sLWlNMGROaExVbVptR2I1eUk2U1hZWklYbUJ5b2FpcTlWY3pQU0QzMTZpeUd1bnRMYWZWa0RUUVVOUTJfRWNWMGpLcEM0NEdsV0k0RzBxd3BRRElCTFFKYjNBamJScU9B?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bessemer"
+    },
+    {
+      "title": "Jobs - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCaHhycEgtaGJLMDdZOTdHTldfNm91c0l0Qnlla2Z6V2trMm4yNy00d3NibHRfdUYxRjdSYlp1SHJvdFV3M2cteFNHTE9IZEotSUlTak1VMzlZYl9TZ1NJUHFVVXRrNU1oLWZEUQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Building Products on Claude Opus 4.6 A Customer Success Story with Shortcut and Hex - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNHo5YS1ScG1VZ3YzcE41dm16azRVOVVzODRVdDRia1FoYlAzXzBkTkc3Sl80clZveXZKSHBIb200MEdYZjEyNTJQdGo1aDUycnhfd1VnWHYyMHJIdDROaVpRY1hJZV9FcXljX2lDME5RSUVRVkdlXzhpX2RhU2VKMzFPVHNueTVnYkdqM2puNXRFTWNOak1qemMzVXliWjN3SmxxcmJDeW9NSktheXVTaUNRTGVXemd0SHc?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "From 0 to 1: How Zingage Built AI-Powered Home Care on Claude | Webinars - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbzNfV3B6ZmdYTVB0X1VmbHYyT2JSUjlxckt2aGU2RGlBRUl0dk1oeXVYVnVKcl9IemlMWVdLOUJsQWZBdWEyU1JSQVFOMHcyN1hnNHBjcTQ3bkJRLUtwaGV6VGlOb01yVVFKMW4zMzNESGxrWTJBVXN4SzFNR1p6UXBkUlJtRFRaN0NxdUs2MlA5REw1UUlBZWplS3g3TWhLY2ViemhHc1JRVW1sb2lHSVBnT09jVGI3R0MtZWkwUWQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Claude Sonnet 4.6 - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAzbXkzZXlKN1A0eUFvWnkzMVJwRmhkNVltYlp6QnNVWlgzVFVFZ0tFZzlZelFSMjlKbGhwdHg0M1JrdDhNOXFRallLSV9WQmpwZmdDcE9NTmpIcWxRWkdFbm1wal9PVXNJTkoyTWZmWTVKUDZVMVFZSFlET21GZw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Anthropic raises $30 billion in Series G funding at $380 billion post-money valuation - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNTEQ3MWtLbjhlZHBydXd6ZHRHNnBGcGE4akN4R3pnQURXNFBWV1l3UXo3aWR2cjhBcE11WXA4cUhOZ29CaVUyZ3gyUWhPQ1R2aTZ1bExoMHVxV3FpOVZGV0x2SFpiSy1LaE5nTGd1eUZBMk1lYWotT2R0ZE42ZEswZm04dG0xbWl2LXdhM0dna2ppaTNNX3BsUUZiaFM3ZXUxaUxEdDdwMHdGRV9CQmZ2S1lhbVhRV09qeFBEV3hEMlJvcEkyMkl1LVRZcV9QRmtSU0V2SHF6NERsSGxRa2FDekc4YWFMclBwOV91NEJXR0ZZZw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Jobs - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcFE4UHN3anc3SGh6MzREbkNQZl82X2pDVlktbzdGRDhFYjhfY3RHZFoyUkpQNm1NYkMtWkdISmVBSUlJa29vazNQaGtXbk14SnRMZUNaWVpuWjFjNVFJR2U5YlhES0J1ZVFINFBWTzdtTEc4LTNGUlgzMmJHQ3Q2S09OQW0xUQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "How to transform work with Claude in Excel and PowerPoint - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9SS1FjRms2Vkd1bXhUWGxydEx4Q3dWVXVuSUYwZVpNczZXem91X1o2amFzLUd1ZWZsLXlPYXRUWkVfa2kzREtQZG1jVjRkdUlQVktLZHBLWkFpb0dneEYwaXRXRkpaME5EUlpSa21MRldaM2c?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Claude’s Constitution - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAydVpWTXJQYTR2c3BpenZOMUR1UXJjR3J5bERneDRFOU9SeDV4MUxIZ1ZrbExCZllmeVFWeThsZmR0Q3FRNWdOdlV1VHRtS0ZXYXBubEFNOW83RmdWZUVUM0h4aElXUFFkQXBqWXh3?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Jobs - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9sSGpQWnJJcGQ5Q0Z0TExQMW5Hd05wWWhBdVNoOUR5SHdMV0M1Q09NR1Bwa0trcTVpU2pJOXEzRy1QWUhRZkdDeGxDamQwT2NNMHVEcUk3em5jdUcwUlY2VTJMb0NjbzQ4?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Jobs - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxNSkhpc2duV2dveVF1ZUVmWmVTeVJ6UWl4RTNPdHJrdzA4bDQyczNKMmtacDlnYmpSelp5alBIcmxsTlMtN0luQmY3cThQR2tRekVLNU1ydWdLTk1pWVhxenRySjhZc1FicXFNMVNnMWFpMGtGM1luRzQ5WERxdWdDVmo4ZUZlQl9UazNEOEcxWElKVkdkNUFOV3J4aFR6R1pVdVFBSVVZVzdrVUU1VXoyV3RtQVJPaGZfbGdSU080Rl90ejJXSERiLWpOREhEZU9LR3BZNV9LdFRKMGN5SUJLZ3lPNTItLUVUa09kajFYeXdaUUNTZmhDZm5FV0FCaVZnSWk1ZnpXVmJscldJdG82ZGtPWWYxdTI2UHhCa255dk9ROHRadE1UOFR5cE9iU2M5aXZ6czFic1c2a3FUY2NxR05vTng0Z1E0MGVobHdTWFpKOGZsRy1xOVh6by1RS1ZEMFc2bWxn?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Careers - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5LT0hCR0xVZXJqQThfTzFwV0h6dk5oeWg1d2xZTEpRdXc2bGxCTmxVRWNpV0dDdUg0WFltZjJBbHVoVzFQUDNhOWxkTFVHODVQMVRSV2ZxQ3ZHRnlBOGYtU1Q4QTNaTWs2d2pfMk9n?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
     },
     {
       "title": "Senior Manager, Procurement Help Desk - OpenAI",
@@ -828,5 +1024,5 @@
       "source": "news"
     }
   ],
-  "generated_at": "2026-02-18T13:11:51.488Z"
+  "generated_at": "2026-02-18T13:12:32.163Z"
 }
