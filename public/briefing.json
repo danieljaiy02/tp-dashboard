@@ -1,5 +1,5 @@
 {
-  "summary": "## QUICK BRIEF\n\nIndia just became ground zero for AI expansion. OpenAI secured an $850B+ valuation while partnering with Reliance, Tata, and Pine Labs for infrastructure and distribution across the subcontinent. Anthropic launched Claude Sonnet 4.6 and opened a Bengaluru office, while Google released Gemini 3.1 Pro with record benchmarks. Meanwhile, massive compute deployments are underway — G42/Cerebras bringing 8 exaflops to India, and General Catalyst committing $5B over five years. The battle for the Indian AI market is intensifying as major players establish local presence, partnerships, and infrastructure simultaneously.\n\n## COMMUNITY PULSE\n\n*Note: Specific Reddit/HN discussion data with scores and comment counts was not included in the provided dataset. The news feed consists primarily of press releases and announcements from major AI companies.*\n\nThe narrative emerging from today's news cycle shows:\n- **Heavy focus on India expansion** - Every major AI lab announcing partnerships, offices, or infrastructure deals simultaneously suggests coordinated market entry timing\n- **Infrastructure over applications** - Emphasis on compute capacity, data centers, and foundational partnerships rather than consumer-facing products\n- **Enterprise and regulated industry targeting** - Anthropic's telecom/regulated industry focus with Infosys signals enterprise B2B strategy\n- **Localization as competitive advantage** - Multiple announcements about regional partnerships (JioHotstar, Pine Labs) indicate platform plays\n- **Benchmark competition intensifying** - Google's \"record benchmark scores — again\" phrasing suggests ongoing marketing battle with Anthropic's Sonnet 4.6 launch\n\n## KEY DEVELOPMENTS\n\n- **OpenAI's India Blitz** - OpenAI announced massive India expansion including partnerships with Reliance for AI search on JioHotstar, Tata for 100MW data center capacity (with 1GW target), and Pine Labs for fintech integration. This comes as the company finalizes a reported $100B deal at $850B+ valuation. This represents a fundamental shift from API-first strategy to integrated platform partnerships in emerging markets. For consulting firms, this signals that major enterprises in developing markets are now priority customers for frontier AI labs, creating opportunities for implementation partners who understand local regulatory and business contexts.\n\n- **Anthropic Launches Claude Sonnet 4.6 + India Expansion** - Anthropic released Claude Sonnet 4.6 with full system card documentation, opened a Bengaluru office, partnered with Infosys for AI agents in telecommunications and regulated industries, and signed an MOU with Rwanda's government for health/education applications. The simultaneous product launch and geographic expansion shows Anthropic positioning for enterprise deployments in emerging markets. The Infosys partnership specifically targets regulated industries, suggesting enterprise agent implementations are moving from experimentation to production in sectors with complex compliance requirements.\n\n- **Massive Compute Deployments in India** - G42 and Cerebras announced 8 exaflops of compute deployment in India while Reliance unveiled a $110B AI investment plan. General Catalyst committed $5B to India over five years, and Nvidia deepened early-stage investments in Indian AI startups. This infrastructure buildout creates a complete AI ecosystem from compute to applications. For consulting practices, this means Indian enterprises will have local inference capacity and won't need to rely on US-based APIs, fundamentally changing the economics and latency considerations for AI implementations in the region.\n\n- **Google's Gemini 3.1 Pro Benchmark Battle** - Google released Gemini 3.1 Pro claiming \"record benchmark scores — again\" in what appears to be direct response to Anthropic's Sonnet 4.6 launch. The timing and phrasing suggest intensifying competition on objective performance metrics. This benchmark race matters for consultants because clients increasingly request specific models based on leaderboard performance, but real-world performance often diverges from benchmarks. The gap between marketing claims and production reliability creates advisory opportunities.\n\n- **OpenAI Infrastructure Announcements** - Beyond partnerships, OpenAI released documentation on \"Lockdown Mode,\" \"Elevated Risk labels,\" prompt caching optimization (201-level content), and multi-agent capabilities. The company also published EVMbench for evaluating AI agents on smart contract security. These operational and safety features signal maturation of the platform for enterprise deployment. The focus on security evaluation, risk labeling, and advanced prompt techniques indicates OpenAI preparing for regulated industry adoption.\n\n- **Agent Memory and Inference Optimization** - Reload announced shared memory for AI agents, while Mirai (from Reface/Prisma co-founders) focuses on improved on-device model inference. These infrastructure plays address two critical bottlenecks: agent context management across systems and local inference efficiency. For consulting firms, shared agent memory solves the \"context switching\" problem in multi-agent workflows, while on-device optimization enables privacy-sensitive use cases that can't send data to cloud APIs.\n\n- **YouTube and Reddit AI Feature Tests** - YouTube is testing conversational AI on TVs while Reddit experiments with AI-powered shopping search. These consumer-facing implementations show how established platforms are integrating AI into existing user experiences rather than creating standalone AI products. The pattern of embedding AI into familiar interfaces provides a playbook for enterprise implementations — augment existing workflows rather than replacing them wholesale.\n\n## WHAT THIS MEANS FOR TP\n\nThe India expansion wave creates immediate opportunities for firms with cross-border capabilities. Every announced partnership (OpenAI-Reliance, Anthropic-Infosys, Nvidia's startup investments) will require implementation partners who understand both the AI technology and local business contexts. TP should consider: Can we facilitate US/EU clients' AI strategies in emerging markets? Do we have relationships with the Indian system integrators who will deliver these implementations? The Anthropic-Infosys partnership for regulated industries specifically signals demand for compliance-aware AI implementations in telecom, healthcare, and financial services globally, not just in India.\n\nThe simultaneous release of Claude Sonnet 4.6 and Gemini 3.1 Pro, both claiming benchmark superiority, reinforces that model selection is becoming more complex. Clients will increasingly ask \"which model for which use case?\" rather than defaulting to a single provider. TP should develop evaluation frameworks that go beyond benchmarks to assess real-world performance on client-specific tasks. The infrastructure announcements (Lockdown Mode, Elevated Risk labels, prompt caching optimization) suggest enterprises need guidance navigating security features and cost optimization techniques, not just initial implementations.\n\nThe agent-focused announcements (Reload's shared memory, OpenAI's multi-agent docs, EVMbench for smart contract security) indicate the industry moving from single-model interactions to orchestrated agent systems. This creates consulting opportunities in agent architecture design, workflow orchestration, and cross-agent context management. TP should develop perspectives on when shared memory versus isolated agents makes sense, and how to evaluate agent reliability in production. The on-device inference focus from Mirai also signals growing demand for hybrid architectures that balance cloud and local processing — an advisory opportunity for privacy-sensitive industries like healthcare and legal services.",
+  "summary": "## QUICK BRIEF\n\nIndia has emerged as the dominant AI story today with massive deployment announcements: OpenAI secured $100B funding at $850B valuation while forging partnerships with Reliance, Tata, and Pine Labs; Reliance alone committed $110B to AI infrastructure; and G42/Cerebras are deploying 8 exaflops of compute capacity in-country. Meanwhile, Anthropic launched Claude Sonnet 4.6 with improved capabilities and Google released Gemini 3.1 Pro claiming record benchmarks. The combination of massive capital flows into India and new model releases signals a fundamental shift in global AI infrastructure strategy.\n\n## COMMUNITY PULSE\n\nNo Reddit or Hacker News data was provided in the raw feed today. The data consists entirely of official announcements from major tech companies, consulting firms, and AI labs, suggesting either a weekend/holiday period or the data collection focused exclusively on corporate news sources rather than community discussions. This limits our ability to gauge grassroots developer sentiment and emerging concerns that typically surface in these forums before hitting mainstream coverage.\n\n## KEY DEVELOPMENTS\n\n- **India becomes AI's next battleground with unprecedented investment** - OpenAI partnered with Tata for 100MW data center capacity (targeting 1GW), Reliance for JioHotstar search integration, and Pine Labs for fintech applications, while announcing a broader India initiative. Reliance separately unveiled a $110B AI investment plan, and G42/Cerebras committed 8 exaflops of compute deployment. This represents the largest concentration of AI infrastructure announcements for a single country, indicating India's emergence as a critical market for both model deployment and compute capacity. The enterprise implication is clear: multinationals are betting India will be a massive AI services consumer, not just a talent source.\n\n- **OpenAI's valuation surges to $850B+ in $100B funding round** - This makes OpenAI more valuable than most S&P 500 companies despite unclear profitability paths, reflecting investor conviction that foundation model providers will capture the majority of AI value creation. The funding scale enables aggressive geographic expansion (see India push) and extended R&D runway. For consulting firms, this validates the strategy of building practices around OpenAI's ecosystem, but the valuation premium also suggests clients will face sustained pricing pressure from OpenAI as they defend their market position.\n\n- **Anthropic releases Claude Sonnet 4.6 with enterprise partnerships** - The new model includes improved capabilities with partnerships announced with Infosys for telecom/regulated industries and Rwanda's government for health/education applications. Anthropic also opened a Bengaluru office and published their \"Economic Index\" for India, signaling serious enterprise ambitions beyond developer tooling. The Rwanda government partnership is particularly notable as it establishes a template for national AI deployments in emerging markets—a potential consulting opportunity segment that didn't exist six months ago.\n\n- **Google claims Gemini 3.1 Pro achieves record benchmarks** - Google continues its pattern of announcing benchmark-topping models, though the market has grown skeptical of benchmark gaming versus real-world performance. The announcement timing alongside OpenAI and Anthropic releases suggests coordinated competitive positioning rather than breakthrough innovation. For enterprise buyers, this creates continued evaluation paralysis as model capabilities ostensibly improve monthly but practical differentiators remain unclear.\n\n- **BCG publishes $200B agentic AI opportunity assessment for tech service providers** - This represents traditional consulting firms quantifying the AI services market and positioning for the shift from integration work to agent deployment. BCG's hiring push for AI architects and data scientists (multiple postings in the feed) indicates big consultancies are aggressively building AI implementation capabilities. This is a direct competitive threat to specialized AI consultancies as enterprises may default to established relationships rather than seeking specialist firms.\n\n- **General Catalyst commits $5B to India investments over five years** - Adding to Nvidia's deepening early-stage presence in India's AI startup ecosystem, this signals that venture capital is following infrastructure deployment. The combination of compute capacity, hyperscaler partnerships, and VC funding creates conditions for a wave of India-native AI companies. For consultancies, this means monitoring Indian AI startups as potential partnership or acquisition targets, particularly those solving problems relevant to other emerging markets.\n\n- **AI memory and agent coordination tools emerge** - Reload launched to provide shared memory for AI agents, while OpenAI documentation expanded multi-agent capabilities and project management features. These infrastructure pieces address the practical challenges of deploying agent systems at scale—state management, coordination, and handoffs. The tooling maturation suggests we're moving from proof-of-concept agent demos to production deployments that require operational sophistication.\n\n## WHAT THIS MEANS FOR TP\n\nThe India announcements represent a massive consulting opportunity that TP should evaluate carefully. When hyperscalers and AI labs make this level of infrastructure investment in a market, they create immediate demand for implementation partners who understand local business contexts. The specific partnerships—Reliance/JioHotstar, Pine Labs fintech, Tata data centers—reveal where enterprise AI adoption will happen first: consumer tech platforms, financial services, and infrastructure. TP should consider whether establishing referral relationships with these anchor partners makes sense, or whether the better play is working with second-tier Indian enterprises who will need help catching up to these leaders' AI capabilities.\n\nBCG's $200B market sizing and aggressive hiring for AI roles is a direct competitive signal that demands response. Traditional consultancies have brand recognition, existing C-suite relationships, and cross-selling leverage that specialized AI firms lack. However, they also have legacy business models, slower decision-making, and less technical depth. TP's positioning opportunity is being the firm that combines strategic thinking with actual implementation capability—but only if we can prove that combination delivers faster time-to-value than either big consultancies (who subcontract technical work) or pure implementation shops (who lack business strategy skills). Every client conversation should now include a clear articulation of why a specialized AI consultancy delivers better outcomes than BCG + an implementation partner.\n\nThe model release cadence from OpenAI, Anthropic, and Google creates a specific advisory opportunity: helping enterprises build model-agnostic architectures and evaluation frameworks. Clients are drowning in benchmark claims and struggling to translate model improvements into business value. TP could differentiate by offering \"AI evaluation as a service\"—systematic testing of new models against client-specific use cases with clear ROI analysis. This positions TP as the trusted advisor who cuts through vendor noise, while also generating recurring revenue as new models launch monthly. The emergence of agent coordination tools (Reload, OpenAI multi-agent features) suggests the market is ready for production agent deployments, which means TP should be developing reusable agent frameworks and coordination patterns that can be deployed across multiple clients rather than custom-building for each engagement.",
   "sources": [
     {
       "title": "UAE’s G42 teams up with Cerebras to deploy 8 exaflops of compute in India",
@@ -140,6 +140,230 @@
       "score": 0,
       "comments": 0,
       "source": "techcrunch"
+    },
+    {
+      "title": "Data Centres as Strategic Infrastructure: Unlocking Value for NZ Inc - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNa0NQWnloZThNcUxfNldkZG92TzBBa293Z1dUZFVFSTJMY3pPSVhsc2owV3lhWFJaSk03dzhwLUJjNHNaQ3ZHOS1SMVZoOGt1SzcxR1NDVzl2Z1VibXRaeHBGdHJBb1BpRXFZQU1GQ1B3aEtqblNNNmlrVVlNUFdWSk5GY0M?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Global IT Data Scientist Senior Specialist in London, United Kingdom | データサイエンスと分析 at BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPOVhncHBXaERWUlBFekxITERKU2JiemdXaU1FSkI2Q1FYQ0JlRlcwbFUzWl9ydzJjTkxTd1ZobjExbllXdVY3dVRKQ204THhhV0djaW9oQ0xUX21QU3ZHbWh5NDFTMFJOLU14N2NTOFZ3LXoyR1FVYXR1NFowUDVOM29reXgtVk5jR2c?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Playbook for National AI Strategy and Implementation - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdldGR2t0YTlBQW1SVFJmZVc3YTVjWHZJOC02Y3Q4OUtrYmcxTTVTWmVzLWItVGJlejNsXzR5V05JMFVRajZpME0tYWhpZkVZN1JRaWhsNnBSQ0xmOEdwNm15Y0Izc09GS3lhVUhCNXd0NUp4TlpTdXozaUhoWlJSN3QxaVp0R000SldJRndfR2RHUnFJZzdjNzJjWlk?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Global IT Data Scientist Senior Specialist in London, United Kingdom | Data Science and Analytics at BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNzJXM1BFdU1vcTBLRzZXWWwyWkpTTldWc29HWkZvUXlqTFpmWUFaR0dQdk02TUpoaTJkM1Faelo0XzFORVNPMnlZeGtPejZqWWhMbFpqVFZoZGFKZzFMNG5USGZkQWhWeG1fLThuRF9xTXFhMTY3by1tZlVLcGRaaVM3X1NldlRld3Vfczl2QQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Enrique Gonzalez - BCG Expert | BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBWTkhBMGVZWFJaWXZZaUlEV2VMZTFBSjl5U2hyZ3p6QnlIb0RrbnJqdEJ5U1NhY05SX3ZHYXRMdU1zY3pFcWxqVlZ3WFJKY2hKaU5EZlVvcWdPTmZRQU9EZnEyaFhtYWhS?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "The $200 Billion Agentic AI Opportunity for Tech Service Providers - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOLW9VQmI4bDRudC1hUE5RS0kyY2oyX1NwclNubzRXUGo2bWp1N1BJaU9tT3R3ejk0cElqc2R4RkpGMkVBWWpBcEZsTzAxdjlYMTF0dzhsOTFYR21fWUNnV1U3UWFRblBqR2k4SHBoLVpBZ2hPZ1RiRnpZYWotRFEtM2tjTnNubzJqQ05XQU5TNA?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "AI Science Institute Postdoctoral Fellow, United States - BCG X - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSUZYZFVlSUNlSk5rQ2V3TTJMdmYtbjNnRFVwY3ZzQ01DQTdlc1dDNnBXX1JwVlFCSHF0TGkwMmpZME5hWnVoWG5sdVZoblZIekRiMjNXX1hrNWtrOTRlMnZlRmhIRGYwb0RqV0N4enhCS09OR1VYWWdHTEJ6VUhkNEMzSHFsMXNxaUpqVmhlTUIwSU9RWDFJUHBpQUkwNmo0alE?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "BCG Platinion | Senior IT Architect - AI in Toronto, Ontario, Canada | テクノロジー&エンジニアリング at BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9oT1VUUjFXNUlXQ0gzbjhqMzlzRGw3QjZyQWd0QXNmbk9NMmdWT2h6YXFvZnBMVE5kWWNYMV9xSnktUlFvTkNHR005MWZKc1Y1S1EzMUwzTXRRVE90QVJuMzRBcFZyQ19T?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "BCG Platinion | Senior IT Architect - AI Platforms in Toronto, Ontario, Canada | Technology and Engineering at BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcGJxNGU4ak5xZEI5WWswVVUyM2RPZDNnRG0tUzJDM2c0eWw0UEpjUDR3WTNGUklycENEWnUtUVdDVThmS25IX1RmLXZyY3ViTDA4SnYxY2p4ZHU1bFh4VUI1WDFMYzYzVENxQUY3WTVSZzIyVFB6RmJqQ3VPVUNOejFtRUthZUlhaHk4eElTZ3NJQjVIb0psMVpB?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "How Emerging Market Banks Can Finance Adaptation and Resilience - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcGM0UVg3cFpVb0lISXNBRWNhRHBQMFZGb3pBd1k2ZlJOcklTTG45OC1OdGR2Qzl6bGxMOTdVeFV1T1A5Vlo0X0stMmtBTTF4N25MTXR2RnlTV1g5OGlWUnhVOE94UTc1QjhheG9kSXJ4Z21OdXR6OHU0cDF0aGluSlBvVXExRlVaWHc?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Beyond Headcount: The Role of CHROs in Cost Transformation - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBITEdVZlRMX0lOYzllTjJEVXpTdTYtS2J6WDY2aExOYkZSTmpJNzVFRlZMNnZGNkd2eGc5djMzaGFDUzJHa0JDaEhjVnVIZmpidUxNMjhOY3VUTE82TnpOMXljVDlmd0lQelRQLXotUjU4c2FCUXdSLVlFS00?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "AI Science Institute Postdoctoral Fellow, United States - BCG X - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMXJ5Y2VvZjBWTFNZZHM3M3B3UTBFb2ZONzVlTHNPNHVsVU1EWVVZVGl4Vk5IdGdOUzdNOUVBMXV3a2U5ank4M3JMajBvaTQyM1hnMEczTF9FZ1FReHAwNnAtUDZNYzlVTzlhWnlxYzhHaGtLWGl3eTJRbW4zekpXUC1YdmlUY3hCV0ZrZzd3NFhneklXZkxIbnZ5VGhJUWItcVE?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "IT Consultant - Oslo | BCG Platinion in Oslo, Norway | テクノロジー&エンジニアリング at BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA4aGdGTkxFZG1qOU9ocXAwb3hKTktQWXF0SFIzUVNHQjRITTBXOVcxQXh4dTdHOXY3MnpIVWpqaGd3Ul9mY1NkWFhKeUtHZnZvVHU5UDc5MnhSRTlSUUw3SVpMMUtMa0xj?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Jobs in the Middle East - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUGtsZUZJV0RZUEpfTU5IOVltZXBRRmU2el82bXVIMkdBcGgxa29GcldveDRMYTVDMi1ickN5YjRKZTNTcVNqTGJucWpES0VaVWZJXzBYWUJsRVMyXzcxRWxkaUVDQ1BtRW5fQmFRbjQwSVAxaGF2MmNWdjEwc3Jvb2lHNk5HdWpPV2VEekhlWElOaWs?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Where Science and Strategy Meet to Transform Health Care - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORHhlZnVxaHBOT2dSOXVlUGJGRjlnV2tKVDNhUUEtMExpNGtCc19sbXdraWRSTV9XQWNndmxlX01GMkp1Z0lJd3dtVEpwWTg1S3Z0ZlI5ajhoLXVwcHhzTXFUQzkxbU5HTWpfaWxfUzdOYXoycHRRV0dMVWtoT0VFSXNLU2VvOVhIZjB3em1FMFA3b2lHTGp1RWdHVFFuNTFwTTZIai1kMzFZMU40bWlIYzR4YUo1QU90dzlZWmpmeGlZOFZ3LUpsSw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Careers at BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQMDBYcE9ULWNBLWFKbU5jOURfR1FrZVNWSUo4bFZQVk9qbkkzajNvbHpDeFZlRmZHLWZqdDRaTVJTUmtDSGhmeTdLT1lIYW1DbjBCNl9xYllYYkRHS1ktbjFEOHN5NXN0OVpZd0RQaXFHZnVGLVlZckh4d0dUMm9kcVVKeE1mZzM2bHhHcG1aWjF0T2ZUdE5QMWVxTkkyWXMwSG9SR2s5ZHU3S29TV09VREJvaUVhWXliSEdMdDZNS0lVNm5yMnRDb2U3aHBOSktpZDBlNDlfbmkwZDE4NjhLLTRGRjRnMDBJLVBzWnB0c3VfcFlEMU1PUEQwUVM3S29vcVFtanJzdFBtQ1ltNXpBN1ZCZlQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Careers at BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMkZvUFVNZGJfaVRnS1k5emc5VTJ5R2EzSlBCcTJBQmVkemN0UV9Ic1RmNF9rdzMyQk1nblJfMEV5ZllQYW5tMHVxNk5kLTdkVThBNG1taF83SE9HYnN3WEJQYWFxWkdkUDkyOTZteDhHUDhNb08yQXJiYUVzdl9sZktSeWMyV19hbllfZkdMS0YyR09PN3o5c0dlVTUyaFMwUE04bWtiSGxBNlRQdzE0RVJVRjBVaWQzQ0E?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Expert Consultant, Financial Modeling & Data Analytics Specialist (Restructuring & Transformation) - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNemRSUFh6X0V5N3JuRG1ZYVQtNDVpcE9tQmZtbFF4MzFzWmxHUHAzSFBLMlNacXJ4amxwYjBSb3FPQWRiNzc3d1d6LWFBWFpHWHZxUjl4MHlfMDdlUVZVQXJITlp1QTlENEx3cDZoTHN0VVplRDFDZVFrUUdidXQ1YjBIRGc4YjAzWEQwLVNZMEFYLWd2eFlUajNYXzFHek5WZmVSaVhXRVJrT1M2MGYtRUdjQjFhWFd3ZkNKYXlaa21iNTVTcTR1V0R1UQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Worldwide Search Results Page - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNDdjenZvNkk4ODFLMlpwdXc3bGZyWUlEOVJyeWJTZHlNVlYxNjZXLVVlempxYXVwX0dhQ3F2NzFRSlNvY202dVNiNFkwV0VqZ2tBcnFJa0VHVGpoZnFTdWFDY1hPSmtnUmhPcEJUR1ZuUnBVRDZ1bWEwc1RlZG91UHdmSjBMN3kyekYxalNPQ3F2VzBnbmV4b1d3V0V5Znh4Y0Qwa0dkZw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Worldwide Search Results Page - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPVTViX2VpYTg4Z2h5bGJyY2tRdEFJMGY2bzFsYV83eHl4YXcwclBZUG1mVU9qS1p6OTRJdEwwQWl0TzhjRGVBM0lfRWxETi1rLVJBUkFfcml6VGlDVE44NF9kTkYzeDNCb3gycTB1ZW1jakV2VU15RlkzS2FnVDJiRjNRbHQzNmFFSDNOUmVIYnoyYmVBNi1RaDhfUlc0Rkw3SlI2YWF2Z3FLRW95bTROU2FKdF9SLTVvRGozSXd4UC1RUkp4VWFvZThhS1RVUnl4Rmd0R0lKbHMwYTZ3bjdVREpuY2RZZDVFOWpjVzNmN2FnTjE0S25rLVFNeWJVamNUOWpZ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Consulting Jobs - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObHdvVkFVSDZnbWo2S2lMM1FDb3Q0a3NubTZaZjdvUFJ3RHNaY3NfQ1RNTmo4RUVDRWhLVkpzWEtSV21obGJ5X3dOLUJNM0lKMEdzM20ySkN3cmRRM2RDc1hISlo1NTJVMlhYX1V6NzVldFBQeG9TWkhQaFM0WnMxa1MzS3NOMGxaRVNueEg2YUUtT1kwSFlaNEl3X3hjOWdSUHFHM1Z6WDhQS2o5WVVWVkVWWG5waGQxMXZyel9DX2h2Y1VRS1BMelNmSXRlbWI1TV9B?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Careers at BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9wWGdvcUd4a3h6TUlEdXBxaE14eGZ1YXEyLVZDUGJHTnczUFRYRElubDVaRzRHVWxlZ3FvVjlZZWNHaGVRNldvdUdKQktkSHlVd3oxM2VFNjdzaHlkc3FGbWNxZ1Rmd2hCUmZuQmNyM0gzNTdRM05IRVJ3?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Consulting Jobs - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQ2Nka1ZSeTF2Rl9QU1VpZHlFNV9uVUJWZW16eFFHanR1YjlDU1dneURpQXFUWjBVUHVuaHgxR3k4cmM4WU1BXzZUYXRiWTJ2emtHRk84ektsWi0tNDJnNG9xekt4RWhDaXRhX3lpdnhQVXJ2OG9xQlNNOEdZR2VNLUphbGg?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Worldwide Search Results Page - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTW9DSVlOYThMdnFlVlpON2ZXcXJzVTdkQmVtZnY5VTZjV0Y2SWN2TU5RdFRzRm1iVjFQVDVVaDhDdFo1dXRhT296TXBCd1hJVGRlZlJnN3F3X3VYdjhYZjltamx2MEwxZU1GR1hLTTRldHZWMDRDeGFDeVlHMkF0cG5WNFpuVEpaOUl4R2RESHpYWkg0SjRudXUtQ2Via1V4di1wOFVWRDdtUQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Careers at BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPLTBoSkkzSF9aaWZSUmlZMm5rTnpWaG9nNURDRzg2SkZWMnZGWnhUaTBaUkphSkdEa1g1WVFidGMtaFBlNVRlMDlzNWZDME5RV1JXdkRncy1tMm43VFpSbTdfVmFXTzRQLWJRWnBCdlJPNjlEekVVaWE0VV9YVHNlLVV2SlM3Y3R0NTdLQV8teVpBWmdMcjVCelFfVmMwRFNFTmstQjRCWGhIckZvMk9nVFhyZUY4VjFkWXgxbzFCeVpMeGl5N2RTS0E0TmYxUl9uMVo4bA?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Worldwide Search Results Page - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOY2Q3UEhWdGpkMmtJbDRrMnhXV3hJWDBEWnE4YjUxQjVFX2dJRzM0OGJ6QVJockxzZXYyMUtYbW5GeE1NQlFWRlZLbk9sajdJUFBlMmxDWHhYSjJLQnZkbUNwMHN5T1E1bGxHVWtzVHZLRTFFNlF0Nm53dmdfMVZKSldHaUJqUHVybVM5VTdBdHRDVFdMbzNWVmFTMHkxNmZkaE93bFp3?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "8th BCG Spain Women's Boot Camp in Madrid, Spain | Consulting at BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQc04xODRWOEhyU1Uta1VqcW1RRlg2ZVY5WHJ0V1dzNVRxamR2czYwbEUwUTBFQS1PX0UwRWJNMVhYLWJSclFLMEVuRnlOeEVWYVM5UGZhaFB1OVA2Z0RYMzVqYTYxRnhuRGdBdU5nUVhBMHlaT253QXRLUTFURmJnRQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "BCG X Global People and Development Senior Specialist – X Build, AMR - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQWEY1QllxSVdmalRHb2IzajBZRko3YVNpVEpZMVFKQkdCOVFQT3c2Y3JzNzhjbnNrOExkdTQwaFJUN3N2TkxlSDdlOFBtVlQ1SW9jMWU1Y2doSDB5WDN5eElqVU5qRjNid2J0SW9STjl0VElZU1lQNkQtWV9BRXBjakIzMWNtOHlzRm5MOEpKNy1yUFFTalF6VG5MVGZaUWxERnVmNzFRRUhjTTBnN2o2a0NWUmpoeHR1TlVianZWUVYyMnBFZTlaNGc1N3B0dnR3M2hPNlJINDdEZ2daRDBSc0Nudzcxa0NNLTl4eWptX0pJd190a3lvcDlwZm9lV0ROVDUwU1d0Ykw5SWZfNXpMdm9CVld0MWZscmlyOEJZdw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Consulting Jobs - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdE1vN0cyT09FbnpxMG1FTzRTQjhFYm9vYzhiU2dDN3RldlNoV1BYZV9IaUhNTUZDMHpwRUlHamJjQ0tzRVpEMEVWRlo1OG9taDZHTlRFTk9pZmJvMWIzNkdPUENxdTh2MlhTX3pKMFdxMUNiZnlrSHZJVm5KbVd3NTE3Rkh5VXpBdHc?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Careers at BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcWRkT3NGdWh5Uk1UQ0dIZG5TOEV0bzBxZjc0N2U1eTBWR1AtejRORjdyMk11dnVDb3hUa252eDYycWhrREJndDFLUFFRam9HaUxBcE04cnhzdl8zNmhVM0w0bTJYemhCMzFrY0VxMlhGOXZEeEMtbFZ4NG1iaEs4UDZzXzc4WDBJYmFSYnpWX0pMcVhS?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Careers at BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPS2I2S19sQVJscDlfWkVtcjM3NW80ZUNYdU5pajREQ0lqSFZmX1FnU1B5a212aTk3SmZBaE1nN3g3ZDFybmJzS2pDaGlYSWdWVkhsYjhCMmRsbS1FUndsOE9kdC1Sb0o2VDVPdUhFM1g1WGVMaWJnTzlDU2FVMndLQmxXQQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Careers at BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMXpob3Q0SWpRc3EwOXphTWpGWHpvakl2M2pUX0VHMjAyVVJKNzRwbWxlcUZKTDhJU05WSlBJQXN1X1lVYkt3WThtbjZrQXowdXJhZUQ1eU5adGF3UDZ6Vmx4U3pqTG5RLVdFejFObzBhSkRyT3JiWnFfMFNUdFNGbzBlQkxsUmlwZTZ6TDhCclNrbnRjdURQMGNod2R2eWQ5WWNjbVlSa2VkZ0NxRExmVm43ODYyZHpvQjh2QQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
     },
     {
       "title": "Gemini 3.1 Pro - Model Card - Google DeepMind",
@@ -1024,5 +1248,5 @@
       "source": "news"
     }
   ],
-  "generated_at": "2026-02-20T13:13:07.305Z"
+  "generated_at": "2026-02-20T13:13:53.128Z"
 }
