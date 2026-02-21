@@ -1,5 +1,5 @@
 {
-  "summary": "## QUICK BRIEF\n\nIndia is emerging as the next major AI battleground with massive capital commitments: G42/Cerebras deploying 8 exaflops of compute, General Catalyst pledging $5B, Peak XV raising $1.3B, and Nvidia deepening startup investments. OpenAI reports 18-24 year-olds drive nearly 50% of ChatGPT usage in India, while local players like Sarvam launch competing products. Meanwhile, BCG pegs agentic AI as a $200B opportunity for tech service providers, and Google releases Gemini 3.1 Pro with record benchmarks. The technical community is debating whether current LLM architectures have staying power, with Yann LeCun calling them \"nearly obsolete\" in a viral HN discussion.\n\n## COMMUNITY PULSE\n\n- **Yann LeCun says today's LLMs are nearly obsolete** (124 pts, 140 comments) - Massive debate on whether transformer architectures have fundamental limitations. Community split between believers in scaling laws and those anticipating architectural shifts. Critical for consultants advising on long-term AI strategy investments.\n\n- **Intel Neural-Chat-7B tops LLM leaderboard** (37 pts, 64 comments) - Discussion focused on smaller models competing with giants, with skepticism about benchmark gaming. Community noting Intel's return to AI relevance. Signals potential cost advantages for enterprise deployments.\n\n- **Chinese AI models dominate Hugging Face benchmark** (6 pts, 0 comments) - Low engagement but significant topic duplication suggests important development. Community appears to be processing implications of Chinese model quality rapidly improving.\n\n- **Switzerland releases AI model trained on public data** (5 pts, 3 comments) - Interest in sovereign AI and public data training approaches. European regulatory compliance angle generating quiet attention.\n\n- **LLMs running at 13 watts without performance loss** (3 pts, 0 comments) - Efficiency breakthrough getting surprisingly little traction, possibly drowned out by bigger news. Could be major for edge deployment economics.\n\n**Overall sentiment**: Technical skepticism is rising about current architectures while enterprise deployment questions dominate. Community increasingly focused on efficiency and alternatives to mega-models.\n\n## KEY DEVELOPMENTS\n\n- **India becomes global AI investment magnet** - G42/Cerebras committing 8 exaflops of compute infrastructure, General Catalyst pledging $5B over five years, Peak XV raising $1.3B focused on AI, and Nvidia expanding startup partnerships. This represents the largest concentrated AI infrastructure buildout outside the US/China. For consulting firms, this signals a new tier-1 market for AI advisory services and a potential talent arbitrage opportunity as Indian engineers gain hands-on experience with frontier deployments.\n\n- **OpenAI closing $100B round at $850B+ valuation** - Reported financing would make OpenAI one of the most valuable private companies globally, despite ongoing business model questions. The extreme valuation suggests investors betting on AGI timelines shortening or winner-take-most dynamics. Consulting implication: clients will increasingly ask whether they should build custom models or just integrate with the giants - the capital gap is now insurmountable for most competitors.\n\n- **BCG identifies $200B agentic AI opportunity for tech service providers** - Major consultancy quantifying the market for AI implementation services, validating the consulting opportunity but also signaling intensifying competition from traditional players. The \"agentic AI\" framing (autonomous AI systems taking actions) represents the next wave beyond chatbots. This is the service category TP operates in, and BCG's public positioning suggests they're making aggressive moves into this space.\n\n- **Google's Gemini 3.1 Pro achieves record benchmark scores** - Latest model refresh continues the benchmark arms race, with Google repeatedly claiming \"record\" performance. Pattern suggests model capabilities advancing faster than enterprise ability to implement previous generations. Creates consulting opportunity around helping clients skip generations and avoid technical debt from rushing to adopt models that will be obsolete in 6 months.\n\n- **Yann LeCun declares current LLMs \"nearly obsolete\"** - Meta's Chief AI Scientist creating public debate about transformer architecture limitations, suggesting fundamental shifts coming in how AI systems work. While potentially self-serving (Meta working on alternatives), this from a Turing Award winner carries weight. Enterprise clients may start questioning whether to pause major LLM investments pending architectural changes.\n\n- **OpenAI reports youth domination in India** - 18-24 year-olds driving nearly 50% of ChatGPT usage in India, far higher than other markets. Suggests AI-native workforce emerging faster in developing markets, with implications for global talent strategies. Companies expanding in India will have workforces with fundamentally different AI literacy than Western counterparts.\n\n- **YouTube tests conversational AI on TVs, Reddit tests AI shopping** - Consumer platforms integrating AI into core experiences signals mainstream adoption accelerating. The TV integration particularly notable - moving AI beyond phones/computers into ambient computing. For enterprise: consumer AI literacy rising fast, creating pressure to match sophistication in B2B tools.\n\n## WHAT THIS MEANS FOR TP\n\nThe India investment wave creates an immediate opportunity: companies expanding there need AI strategy adapted to a market with different infrastructure, talent pools, and regulatory environments than the US. With OpenAI reporting half of Indian ChatGPT users being 18-24, clients entering that market will face workforces with higher baseline AI literacy than their existing operations - they'll need guidance on managing this capability gap. TP could develop India-specific AI implementation playbooks covering talent strategy, infrastructure partnerships (given the G42/Cerebras buildout), and regulatory navigation. The sheer capital commitment ($5B from General Catalyst alone) means hundreds of companies will be funded that need implementation partners.\n\nBCG's public positioning on the $200B agentic AI opportunity is both validation and warning. It confirms the market TP is targeting is massive, but signals the big consultancies are mobilizing aggressively into this space with their brand weight and client relationships. TP's advantage is agility and specialized expertise, but must be prepared for clients asking why they shouldn't just use their existing BCG relationship. The counterargument: BCG is still building these capabilities (note all the AI architect job postings), while TP is already doing this work. Speed to value matters when capabilities are advancing monthly. However, watch for BCG and others to start acquiring specialized firms like TP to rapidly build these practices.\n\nThe LeCun \"LLMs are obsolete\" debate creates a specific client advisory opportunity. Executives are seeing this headline and will ask whether to pause investments. The nuanced answer - current LLMs are enormously valuable for defined use cases, but avoid architectural lock-in and maintain optionality for next-gen approaches - is exactly the kind of strategic guidance clients pay for. TP should proactively reach out to clients with major LLM initiatives to address this concern before they freeze projects. The technical reality: transformers likely have years of commercial value remaining even if research pivots, but enterprises should architect with abstraction layers that allow model swapping. This is a service offering: \"future-proof AI architecture review.\"",
+  "summary": "## QUICK BRIEF\n\nIndia is rapidly becoming the center of global AI investment, with UAE's G42 deploying 8 exaflops of compute, General Catalyst committing $5B, and Peak XV raising $1.3B specifically targeting Indian AI. Meanwhile, Yann LeCun's assertion that today's LLMs are \"nearly obsolete\" (124 points, 140 comments on HN) is sparking fierce debate about the future of language models. OpenAI's reported $100B funding round at $850B valuation signals continued mega-capital concentration, while BCG's analysis projects a $200B opportunity in agentic AI for tech service providers.\n\n## COMMUNITY PULSE\n\n- **Yann LeCun says today's LLMs are nearly obsolete** (124 pts, 140 comments) - Community deeply divided between those seeing this as visionary (LeCun advocating for world models and embodied AI) versus defenders of current transformer architecture. Sentiment leans skeptical of abandoning LLMs entirely, with many noting incremental improvements still delivering value.\n\n- **Intel Neural-Chat-7B achieves top ranking on LLM leaderboard** (37 pts, 64 comments) - Surprise that Intel, traditionally a hardware company, is competitive in model development. Discussion centers on whether this represents genuine innovation or benchmark optimization. Community interested in efficiency implications.\n\n- **Chinese AI models storm Hugging Face's chatbot benchmark leaderboard** (6 pts, 0 comments) - Limited engagement suggests either benchmark fatigue or concern about discussing geopolitical AI developments. Notable that Chinese models are now dominating open leaderboards.\n\n- **Switzerland releases its own AI model trained on public data** (5 pts, 3 comments) - Interest in sovereign AI approaches and government-funded model development. Discussion touches on data sovereignty and whether national models are strategically necessary.\n\n- **AI researchers run LLMs at 13 watts without performance loss** (3 pts, 0 comments) - Efficiency breakthrough getting minimal attention despite massive implications for edge deployment and operational costs.\n\nOverall sentiment: Technical skepticism mixed with pragmatic interest in efficiency and deployment realities. Less hype, more \"show me the results.\"\n\n## KEY DEVELOPMENTS\n\n- **India becomes AI's new battleground with $14.3B+ in announced investments** - UAE's G42 partnering with Cerebras for 8 exaflops of compute deployment, General Catalyst committing $5B over five years, Peak XV raising $1.3B for AI-focused investments, and Nvidia deepening early-stage startup engagement. This represents a fundamental geographic shift in AI infrastructure investment, moving significant compute and capital away from US/China concentration. For consulting firms, this signals new enterprise clients in Indian markets will have access to frontier infrastructure, creating demand for implementation expertise in regions previously considered secondary markets.\n\n- **OpenAI closing $100B raise at $850B+ valuation** - Reports indicate the round is finalizing, which would make OpenAI more valuable than Oracle or Intel. ChatGPT's usage statistics reveal 18-24 year-olds account for nearly 50% of Indian users, suggesting consumer adoption patterns differ dramatically by geography. The valuation reflects investor belief in the API/platform business model rather than just the chatbot product. For enterprise consulting, this consolidates OpenAI as the default integration partner, but also creates urgency for clients to develop multi-vendor strategies given concentration risk.\n\n- **BCG quantifies agentic AI opportunity at $200B for tech service providers** - Major consultancy's analysis specifically targets the services market opportunity, not just product revenue. This validates the shift from model development to implementation and orchestration as the primary value capture mechanism. The report likely focuses on workflow automation, customer service transformation, and enterprise process redesign. This is direct validation that consulting margins exist in AI deployment, not just in selling access to models.\n\n- **Google releases Gemini Pro with record benchmark scores** - Another benchmark-topping release, continuing the pattern of monthly capability improvements from major labs. The \"again\" in the headline suggests benchmark chasing is becoming routine rather than newsworthy. What matters: each increment makes more enterprise use cases viable, but also shortens the window where custom solutions provide competitive advantage. Clients need strategies that assume continuous capability improvement rather than stable model generations.\n\n- **Yann LeCun argues current LLM architectures are approaching obsolescence** - AI pioneer and Meta chief scientist claims transformer-based LLMs are near their limit, advocating for world models and different approaches to achieve AGI. Whether accurate or not, this creates strategic uncertainty for enterprises making long-term architectural commitments. The 140-comment debate shows even technical practitioners are split. For consulting firms, this emphasizes the importance of architecture flexibility and avoiding lock-in to specific paradigms.\n\n- **Efficiency breakthroughs enabling LLMs at 13 watts and on legacy hardware** - Researchers demonstrated running models at lightbulb-level power consumption without performance degradation, while others got models running on Windows 98 systems. These aren't just technical curiosities—they prove the current compute requirements are software inefficiency rather than fundamental limits. For edge computing, IoT, and mobile applications, this unlocks entirely new deployment models. Clients investing in data center infrastructure should understand much of that compute may become unnecessary.\n\n- **Switzerland and China advance sovereign AI model development** - Switzerland released a government model trained on public data; Chinese models now dominate Hugging Face benchmarks. The trend toward national and regional models reflects both data sovereignty concerns and strategic technology independence. For multinational consulting clients, this means fragmented model landscapes by geography, with compliance and localization implications. The consulting opportunity is in multi-model orchestration strategies that work across jurisdictions.\n\n## WHAT THIS MEANS FOR TP\n\nThe India investment wave creates immediate consulting opportunities but requires quick positioning. With $14B+ flowing into Indian AI infrastructure and OpenAI revealing half of Indian ChatGPT users are 18-24, there's a generational adoption curve happening faster than in Western markets. TP should develop India market entry materials focused on helping US/European clients establish AI operations in India, and conversely helping Indian enterprises adopt AI at scale. The presence of G42, Cerebras, and Nvidia means clients will have access to frontier compute—the bottleneck will be implementation expertise and process redesign, which is exactly TP's wheelhouse.\n\nBCG's $200B quantification of the agentic AI services market validates the consulting business model but also signals intense competition from established players. The key differentiation is speed and specialization—TP can move faster than BCG on emerging use cases and go deeper on automation execution. The efficiency breakthroughs (13-watt LLMs, running on legacy hardware) should inform every client conversation: enterprises over-investing in infrastructure based on current compute requirements are making expensive mistakes. TP's value prop should emphasize flexible, efficient architectures that adapt to rapidly improving efficiency rather than scaling iron.\n\nYann LeCun's obsolescence argument, while debated, introduces strategic risk for clients building multi-year roadmaps around current LLM architectures. TP's consulting posture should shift from \"implement this specific model\" to \"design systems that accommodate architectural shifts.\" This means emphasizing API abstraction layers, multi-model strategies, and avoiding deep integration with any single vendor's approach. The fact that Chinese models now lead benchmarks while Switzerland releases sovereign models reinforces this—clients need strategies that work across a fragmented, geographically distributed model landscape. The consulting opportunity is in building that architectural resilience, not in optimizing for today's leading model.",
   "sources": [
     {
       "title": "Switzerland releases its own AI model trained on public data",
@@ -700,6 +700,132 @@
       "score": 0,
       "comments": 0,
       "source": "bcg"
+    },
+    {
+      "title": "Associate- Sustainability(S&R) - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5jV1pFWlJqMFZvcHlrSVJXOEFPZ0lRb3pvWVpUSXZUQms4bjBOTTFoSWFYN0pSWXRXcXpwdXBpeEo4N3Z1X2lIbUJHV0owd1dYMWlDOXR4WEx3Z3MwWmFKdFhsQ2ozbEFSNTNyUk8zck8?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Want More Out of Your AI Investments? Think People First - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbnlWUW05WlJGRko3S2tuaGpNLWFSZmYtOV9xbk1YWU5obE5YcVZ4MjZSQllzU2hSeEpqUHZsM1dHOVVlSmlOOXhyZ282ald6RmxGck1WbUFEN0FiV3FmTWVYYVlhV3hUZG54c0o5NkM3c2RBenNhbXp1SlYwR25VcmlzZW9Ec2R5cmZZM25Daw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Life Sciences’ AI Momentum Requires a Workforce Redesign - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNmVsRHFTWGpvS3RxMXB0dk1qVmZ0cWlVM0xsa1YzN3NOSk5VUnI0LUhvSDNhemF1cVRUcXZwSEc1S2xwNVk5NnRiTjdUQlBCVy1xOXFJZFRoaGRZbDN5TEdMeG5DeDFBd3JIYXp2dk5zZTRLcTNFX29Hc2lUUjVSU1dRbUVpVU5XekU0em9IVzR6c2M3dkktZVBhYmpIZw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "US Consumer Health Update - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9IWklRbG9OWl9kU1JhTkttYVNLNWN2NGYweVMwb01MU1dXWGhLRGxfZkdqNTkzNHFCeU5JaFQyZi1XS1RJbEpFWW1iNUM5T2RrNzktT2x1emZueEExdGZJbUZHb2pYWkdH?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Is Your Telco Winning the Race to Autonomous Networks? - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcGVOeUltbGJwRzJQYk5vdHcyUmVIVnJMb09kV0M2QnJNUkxhNEtzR2NaVHJhTUNXR1VIbUJpZjZlQmZEQVZhM2hsbUk5TU9tWkJFNHNwV2pRYnhkUy04ZHppbTRtRkhVMXMwcG9yUXVNVlRYZ29rbFZHaTlHWHgzMWFGa19OcE05STFoSQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Takeaways from Bain's 2026 M&A Report - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdklmYTlRNW5YTlBGcmJ4TDQ0akdVRU1TN1RpT1F2emlPU1k3UzBNdWtKLWQyNmxabDJJWndZTGNMdlExVjNJUHNmem1FRXlhZWhveFNvRk9KcTdDbndkQUI1OGFTZUlMcmZ3cTNqWnVVNlNyQXZXSmY3bVpmUXZuY2dwX2NFQQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bessemer"
+    },
+    {
+      "title": "Key Insights from Bain’s 2026 Paper & Packaging Report - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMVVzTzgtNmJ2RWhxWHUyTXNwN2lvVFZ1ZTM3MFVTeTlZRktlVXozaURsdUptYlQ0d2VMVTJwZjBKeTJyM2JWZ0lUV1pReVJRRTZtTWNnaDdZb3N1TWRzbUt2azdicUx3dzRabkZ2bmd4cUJDNTZwOGtKU28tTDYwZGRwMzIxTWU2X1pZNDd5TEFRdnI1SWVoQkdR?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Fernando Valdes - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE12RXpsMVVDUEtMSGtLX184UU4wemxvR1BBLTVJX0dNSFM0OW5hamp6VmtOazJpNUQtZmVsbXQ4aFpmdk5WT0h0dEhWUF8tNXJucGR1VVllcWZQUWxpTW44R1VKR3I?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Rodrigo Jimenez - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1EV2NjVXhuMDRFZnR0djZJY2F2c3loSmFJVC1yTEF2QUFkeWxjME1UcE1NekY3NlNBZkFTN1JfYWhNOG5QS3pBWmlob01JcFc0eFRIMUZVV1NXZw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Megafund Capabilities on a Mid-market Budget with Gryphon’s David Andrews - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYmJIeXlLcDJWX3ppOHhJTzhZN3VJMzRyZVctNWlfQ3dubFBHbWdqMDQ1ejgzbm8tZ3VQR0hPSXZOeVRrbWU0ZW4xcGRCWGV1Z3hfdWFhUjYtYkdCV0Uxa2xoaGw4d0h5em9MV1pudGRmSXlPdHdQYnlBell1WVJiTmVVTEtlbXFwZEpQZ3lfUHd1S2RjLWxVZENZbVlybUlsWElYWHp2emhzaDR0LVVmZg?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Bain & Company appoints Tom de Waele as regional managing partner for Europe, Middle East and Africa - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQaXFuN25wRTZ3OEo3Ym9hTWlNNEVHV3I3a1hrYk1GeGJCM0dzZkFDMHBhNXhDc3BVbkhHNnJuOEdxYnFwWGdHdWdoa20weHpyanlhd21ibFdscFpQUHY2RXRvR2JKRXJPS1JkcEtGMGlIaXdRU0Rpcldxc1p2QW9ycVctUEtGaFF3VXNUS3R6LThVdVVOWGRrMi1OeDlpU0dZU1ZCbE4xS0NfMzNaZTd5dXU4d3FzVWlUNGhtUnUwcGVJeUdobmI2QVU0VWlWeWluR3hqZThtS0ZXR25NTklyalhMYmlEdmJ3TkZoNGhLWGM?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Rich Wilson - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9FTURBT2pEM3lXSUlsZWEzN0NJS09HQktWTEE1NHI5WHk0ZnI4OEstczl3VlNmYkNSNWNUVng4WVhqT05SME9OZllnZmhyZHVfY05wYg?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Six Threats Demand a New Playbook for Banks in Wealth and Asset Management - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVGNaZ0pkLTdmVzN1MmMwMElvZDBLSGdjZnhUR3I3dFlrendJSWRtZFlRUUJjM0FZUk9TcVVKWi1lUG4wLUZyVjlTX1BUalhidUp6T3UtZDhpbWNEUnY0ZHpVWlo4YnNNMTFOUzBQSmxhOHZkY1V3aFd6VVplV1NYaC1ZMzFMRUhCdFJ3Umx5b1VjaUttWVlla3RMbkRURXZUMThEWTI4QjM?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Beyond Payments, the Real Prize in SME Commerce Is Ecosystem Control - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNc2tzLVYzdGRsVUxkQWxEQTFQa2xfMUxHNVg1dWxOMlY4c1ljUUlPS0UwdXNvcG5DUE56UUFNakhMMUg5YXJHYTBoOUpkLXEwWGJuS0F1V0ZFLVprVHFvUm5PSGVSajdwT0Jab0ZDeVlGV1p1bE9Tc3czWllkRTNwVUpvNmlUSDdzNExuOHhwOHlCbWlXdzhmaUpRM2Q1Rm8?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "2026 Stanford Sophomore/Junior Coffee Chats - In-person - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOFhDNWdZRFRIeGNfTWZOUE0yajdhNmhQVUdoMV9MQlN2OHcySElrb1dsbTFmWEJPUVBWb0daanBaaFFqZXYtS1gxcUJTaTkyWnJxY3MwRWhSRmVsUGFHb1ltTldQd1BpSlRVZFZVeG8zbHlFWEVuTXB1Q0ZhOHo2M1NnS2V4OXJJUkg0d004NTBtNkczUWplRXBTMVlOU0E?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Data Associate, Pricing - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBoVmhfdy00V0ZsMmRPbGhEcmFCb0NrNHV1U044X293WXEzVy1ERnoxYWswWGpWTkVLT3loOEhTWWN6Y2FWWEFmQk03NjRtU3hNU0lwMEU0U285MWVHSkdMcV9BWTh1UElEREZEZHh4MTY?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Execs Aren’t Prepared for the Post-Quantum Cybersecurity Risks They Know Are Coming - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSy00M0dHNTAzMk1zUTdNb21weEJ4UVNCTGwybzltclVpbXdmYnZFejdkSkVKX3hKZXRSeXgySjJtaTE4U2VWOHNQUVhFbGl3cmlEMjNRSUhkMDNzLVBaMERGTXVlUFo5akFkel9HMVQyTlpnTmJTaTlLZW9ZdV9KaEtEU0RRdm5HX3hzUC1YRUFNMDBoWHJKVkFWVjRaUERNdWdXT2JxRkRkb3lqLXlTNHFYX2dhUTRwWUdmdklWdno4UQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Human Resources Analyst - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1zeXFEdWVmXy1uTmZJR29KdkhQZVo2ZE11cEFhdlM3SmVSeGNoa3JtOHYzRGRFd3U5a2h4U2NtRHJaRjk0UTRQdG5xaTl5anZyUW9Ma2I4b1hSUEl5aU5PSjFyLVhqZ1VqV21kV09FZnA?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
     },
     {
       "title": "Gemini 3.1 Pro - Model Card - Google DeepMind",
@@ -1577,5 +1703,5 @@
       "source": "news"
     }
   ],
-  "generated_at": "2026-02-21T13:17:17.345Z"
+  "generated_at": "2026-02-21T13:18:05.900Z"
 }
