@@ -1,5 +1,5 @@
 {
-  "summary": "## QUICK BRIEF\n\nIndia has become the dominant story in AI today, with OpenAI, G42/Cerebras, General Catalyst, Nvidia, and Peak XV collectively deploying over $100B in capital and infrastructure into the market. OpenAI announced dedicated India operations while revealing that 18-24 year-olds make up nearly 50% of ChatGPT usage there—a demographic signal that could reshape product strategy globally. Meanwhile, Google released a new Gemini Pro model claiming record benchmarks, and OpenAI is reportedly closing a $100B funding round at an $850B+ valuation, cementing its position as the most valuable private AI company.\n\n## COMMUNITY PULSE\n\nNo Reddit or Hacker News discussion data was provided in today's raw feed—only news articles and OpenAI developer community posts. The developer community activity shows increased focus on:\n\n- Multiple technical implementation discussions around Codex, real-time APIs, and agent frameworks\n- Several bug reports regarding dashboard access and model availability\n- Growing interest in structured logging, batching optimization, and token management\n- Questions about physical execution of AI plans and local reasoning models\n- Performance degradation reports for Sora 2\n\nOverall sentiment appears technically focused with some frustration around platform stability issues.\n\n## KEY DEVELOPMENTS\n\n- **India becomes AI's primary emerging market battleground** - OpenAI launched dedicated India operations, G42/Cerebras are deploying 8 exaflops of compute, General Catalyst committed $5B over five years, Peak XV raised $1.3B doubling down on AI, and Nvidia deepened its startup ecosystem presence. This represents the largest coordinated capital deployment into a single emerging market in AI history. For enterprise consulting, this signals that Indian engineering talent and market validation will become crucial for scaling AI implementations globally—clients should consider India partnerships not just for cost but for accessing cutting-edge deployment expertise.\n\n- **OpenAI's $100B funding at $850B+ valuation nears completion** - This would make OpenAI the most valuable private company in tech history, surpassing its previous $157B valuation and putting it ahead of companies like Salesforce in market value. The deal validates the enterprise transition strategy and suggests investors believe AGI-level capabilities are closer than public discourse indicates. For consulting businesses, this means enterprise clients will increasingly benchmark AI investments against OpenAI's capabilities, making \"OpenAI-native\" architecture design a critical service offering.\n\n- **Demographic shift: 18-24 year-olds dominate ChatGPT usage in India at 50%** - This age concentration is unprecedented for enterprise software and suggests AI adoption patterns will be fundamentally different from previous technology waves. Unlike SaaS that spread top-down through enterprises, AI is being learned bottom-up by a generation that will soon enter the workforce with native fluency. Consulting implication: companies need to prepare for junior employees arriving with more sophisticated AI skills than their managers, requiring inverted training models and new governance frameworks.\n\n- **Google releases Gemini Pro with \"record benchmark scores—again\"** - The \"again\" qualifier in the headline suggests benchmark gaming has become routine, raising questions about evaluation methodology reliability. Google's pattern of announcing benchmark victories that don't translate to clear practical advantages indicates the industry needs better evaluation frameworks. For consultants, this means steering clients away from benchmark-driven vendor selection toward task-specific performance testing and integration complexity assessment.\n\n- **Sarvam launches Indus AI chat app as India-specific models proliferate** - Local language AI models are fragmenting the assumption that English-first models will dominate globally. This follows the broader trend of regional AI development in the Middle East (G42), China (multiple players), and now India. Consulting opportunity: multinational clients will need strategies for navigating heterogeneous AI ecosystems rather than assuming single-vendor solutions, particularly for customer-facing applications in diverse markets.\n\n- **YouTube experimenting with conversational AI on TVs; Reddit testing AI shopping search** - Platform companies are embedding AI into existing high-traffic surfaces rather than launching standalone AI products. This \"AI as feature\" approach contrasts with OpenAI's \"AI as platform\" strategy and suggests the next phase is ambient integration rather than destination apps. For enterprise consulting, this means identifying where AI can enhance existing workflows rather than replacing them—the \"Copilot everywhere\" model is winning over standalone AI tools.\n\n- **OpenAI introduces Codex meetups, EVMbench for smart contract security, and expanded prompt caching** - The EVMbench launch specifically targeting blockchain security evaluation shows OpenAI moving into vertical-specific validation tools. Combined with expanded developer community programs (Codex meetups, Veterans program), this indicates OpenAI is building an ecosystem play beyond just API access. For consultants, understanding OpenAI's developer ecosystem will become as important as understanding AWS's—clients will need guidance on when to build on OpenAI infrastructure versus alternatives.\n\n## WHAT THIS MEANS FOR TP\n\nThe India developments create an immediate consulting opportunity around global AI deployment strategy. With major infrastructure being built in India specifically, clients with international operations need guidance on whether to architect AI systems regionally (with India as a development hub) or centrally (with global distribution). The demographic data showing 50% usage by 18-24 year-olds should trigger client conversations about workforce readiness—specifically, how to prepare mid-level managers for reporting relationships where junior staff have superior AI capabilities. This is a classic change management challenge that AI-native consulting firms can own before traditional change consultancies understand the technical depth required.\n\nThe $100B OpenAI funding and $850B+ valuation fundamentally shifts the \"build vs. buy\" conversation. At this scale, OpenAI has resources to out-develop most enterprise internal AI teams, making the default answer \"buy/integrate\" for all but the most differentiated use cases. TP should position services around intelligent OpenAI integration rather than competing with or avoiding it—the market has spoken on where development resources are concentrating. This includes developing expertise in OpenAI's expanding ecosystem (Codex, EVMbench, new developer tools) as specialized knowledge that enterprises won't build in-house.\n\nThe proliferation of regional AI models (Sarvam in India, G42 in Middle East) combined with platform embedding (YouTube TV, Reddit shopping) suggests the consulting value is shifting from \"which AI to use\" to \"how to orchestrate multiple AIs across contexts.\" TP should develop frameworks for multi-model governance, particularly for clients operating internationally or across diverse customer segments. The benchmark inflation problem (Google's \"record scores—again\") also creates an opening for independent AI evaluation services—helping clients test realistic performance rather than relying on vendor benchmarks. This could be packaged as \"AI vendor diligence\" similar to technical due diligence in M&A contexts.",
+  "summary": "## QUICK BRIEF\n\nIndia has become the most important AI battleground today, with OpenAI, Anthropic, Google, Nvidia, and UAE-backed G42 all announcing major moves simultaneously. OpenAI reports 18-24 year olds represent nearly 50% of ChatGPT usage in India, while competitors rush to deploy infrastructure (8 exaflops from Cerebras/G42) and capital ($5B from General Catalyst, $1.3B from Peak XV). Anthropic launched Claude Sonnet 4.6 with record benchmarks and opened a Bengaluru office, while OpenAI is finalizing a $100B raise at $850B+ valuation — the largest AI funding round ever.\n\n## COMMUNITY PULSE\n\nUnfortunately, the data provided doesn't include Reddit or Hacker News discussions with scores and comment counts. The feed consists primarily of company announcements and news articles without community engagement metrics. To provide this section accurately, I would need access to actual Reddit posts with upvotes/comments or Hacker News submissions with points/discussion counts.\n\n**Trend observation from news**: The overwhelming focus on India suggests the tech community is likely discussing market expansion strategies, compute infrastructure competition, and whether this represents a genuine market opportunity or just FOMO-driven capital deployment.\n\n## KEY DEVELOPMENTS\n\n- **India becomes AI's hottest market in 24 hours** - Every major AI company announced India initiatives simultaneously: OpenAI revealed 18-24 year olds are 50% of Indian ChatGPT users and launched \"OpenAI for India,\" Anthropic opened a Bengaluru office with Infosys partnerships for telecom AI agents, G42/Cerebras committed 8 exaflops of compute, General Catalyst pledged $5B over five years, Peak XV raised $1.3B focused on AI, and Nvidia deepened startup ecosystem involvement. This coordinated rush suggests India's combination of young, tech-savvy users, lower labor costs for AI implementation, and growing enterprise appetite has reached critical mass. For consulting firms, this signals clients will ask about India strategies within weeks.\n\n- **Anthropic releases Claude Sonnet 4.6 with record benchmarks** - New model achieves best-in-class performance scores across multiple evaluations, accompanied by detailed system card and transparency documentation. Anthropic also announced cybersecurity capabilities for defenders, agent autonomy measurement frameworks, and a Rwanda government MOU for health/education AI. The focus on regulated industries (telecom with Infosys, government partnerships) and transparency positions Anthropic as the \"enterprise-safe\" choice compared to OpenAI's consumer growth focus. Consulting angle: enterprises nervous about ChatGPT's brand will ask for Claude implementation roadmaps.\n\n- **OpenAI closing $100B round at $850B+ valuation** - If completed, this would be the largest AI funding round in history and values OpenAI higher than most Fortune 500 companies despite questions about path to profitability. The company is simultaneously launching India operations, introducing \"Codex Meetups,\" EVMbench for smart contract security, and expanding its Academy for Veterans program. The valuation suggests investors believe AGI timeline is compressing, but also raises questions about whether current revenue ($3-4B estimated) justifies the multiple. For consultants: clients will ask if they're behind the curve if they haven't deployed GPT-4 class models yet.\n\n- **Google's Gemini Pro hits new benchmark records \"again\"** - Google claims Gemini Pro has set new benchmark scores, though the phrase \"again\" in the headline suggests potential skepticism about benchmark gaming or moving goalposts. This follows a pattern of Google announcing benchmark victories while struggling with market perception compared to OpenAI and Anthropic. The timing alongside Anthropic's Sonnet 4.6 release suggests an escalating benchmark war that may not reflect real-world enterprise performance differences. Consulting implication: clients need guidance on evaluating models beyond benchmarks for their specific use cases.\n\n- **Sarvam launches Indus AI chat app as India competition intensifies** - Local Indian AI company launches consumer chat app just as major US players flood the market, while the broader creator economy shifts away from ad revenue models toward direct commerce and fintech. YouTube experiments with conversational AI on TVs, Reddit tests AI shopping search, and the narrative emerges that AI will make indie filmmaking \"faster, cheaper, lonelier.\" The India angle: local players may understand cultural/linguistic nuances better than Western models, but face massive compute and capital disadvantages. For consulting: multinational clients may need localization strategies that go beyond translation.\n\n- **Enterprise AI infrastructure investments accelerate** - InScope raised $14.5M for AI-powered financial reporting automation, demonstrating investor appetite for vertical-specific AI applications even as general-purpose models dominate headlines. The pattern suggests a maturing market where AI application layer (solving specific business problems) attracts capital alongside foundation model development. This splits the market into \"build your own\" versus \"integrate existing\" — most enterprises will choose integration, creating consulting demand for implementation partners.\n\n- **Anthropic emphasizes safety and measurement frameworks** - Released research on measuring AI agent autonomy in practice, cybersecurity capabilities for defenders, and detailed system cards for Sonnet 4.6. The transparency hub and constitutional AI approach position Anthropic for regulated industry adoption (telecom, healthcare, government). This contrasts with OpenAI's aggressive consumer growth and suggests two viable enterprise go-to-market strategies: move fast and dominate versus move carefully and win regulated sectors. Consulting firms need to articulate which approach fits which client profiles.\n\n## WHAT THIS MEANS FOR TP\n\nThe India gold rush creates immediate opportunities and risks. Every enterprise client with international operations or India-focused strategies will ask about AI deployment there within 30-60 days — TP should develop a point of view on India-specific implementation challenges (data residency, local language models, cost arbitrage for AI-enabled services) before clients ask. The capital commitment is real ($5B+ announced in one day), which means India won't be a theoretical market for long. Consider whether TP should establish relationships with Indian implementation partners or simply help US clients evaluate vendor claims.\n\nThe Claude Sonnet 4.6 release shifts the enterprise conversation from \"why use Claude instead of ChatGPT?\" to \"which model for which use case?\" — this is consultative territory where TP adds value. Anthropic's focus on regulated industries (telecom, healthcare, government via Rwanda MOU) and transparency documentation makes it the safer enterprise choice for risk-averse clients, while OpenAI's scale and ecosystem make it better for fast-moving deployment. TP should develop capability assessment frameworks that help clients match model capabilities to their risk tolerance and use case requirements, rather than defaulting to whoever has the best benchmark scores this week.\n\nThe $850B OpenAI valuation and infrastructure arms race (8 exaflops from G42/Cerebras) signal the market believes AGI timelines are compressing and compute will be the constraining resource. This creates urgency for clients who haven't started serious AI implementation — FOMO will drive consultant demand over the next 6-12 months. However, the verticalization trend (InScope for financial reporting, telecom-specific agents from Anthropic/Infosys) suggests generic \"AI strategy\" consulting is commoditizing fast. TP's value will come from either deep vertical expertise or implementation excellence, not high-level AI roadmaps. The India focus, benchmark wars, and funding frenzy all point to a market entering the \"implementation at scale\" phase — strategy work is becoming table stakes, and execution capability will differentiate consulting firms.",
   "sources": [
     {
       "title": "India’s Sarvam launches Indus AI chat app as competition heats up",
@@ -140,6 +140,160 @@
       "score": 0,
       "comments": 0,
       "source": "openai"
+    },
+    {
+      "title": "Making frontier cybersecurity capabilities available to defenders - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBvaU1YUDA5TzFVT0tfOGtOcUM4ZnZtRkR1WFZFVWlMcjVCUTFOUDZqRzVuTkh1QTRFcTRZQkkyM3JldkxzcjFEdkZPNW16TndPY2JEVW9BSUJpR2o3TFJLaA?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Measuring AI agent autonomy in practice - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1wWUdIaldIcHlJalJEdXQtVjBKUTlVYUo4dWtadTRreGhBNGlqdjN0QWxLSFFZZWpvTjJmalZsbUZEcnBFZHJHMzJLeUVyall1ZkdGb3ZQc1VqTXh1TkJyYWczM085QmMxUzZr?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Introducing Claude Sonnet 4.6 - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE96MHBnTm5LSGN3SDFIcy12QWhqOG5nMHhRdnAxZm00QTFHOW5fZ1ZJd3phQmRuOGNMU0lPenBSTUp5YzFnSDBzbFNaYWlGTEw4NHY3YV9WWU9vZVR0?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Anthropic and Infosys collaborate to build AI agents for telecommunications and other regulated industries - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5MVVlaV1RBOS0xWkYzRXhjaHM5SVc3SFV1RkExNEVtNk5JMjBackp6NDFzN2pvakI4MThEWWx3eFE5RnJveHBWcVhjdlozZjh2Y3ZIT2JXUm9kU2Zl?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Anthropic and the Government of Rwanda sign MOU for AI in health and education - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1aQkVHQ2VjTWRuY1FtUENGT01iSU5mRzM0ZElKOE4tMHVWSjhxU2h6YXZaVlo2S21EZmVjYV9RU1ZGSzVZRGRETmU3UnhqT05OX2hzMjE4T3QtUENLSzFZSw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "India Country Brief: The Anthropic Economic Index - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1FdDhtRFhYSWlybFlhV282TkZiM1VaNVV4eGQ2SEttZE9nVTJ4X0xFMFpkYmFneDAxYXl5QnU4eVlXcVE1ZnVJUno1X2stMHIwcnViVzM4aFZ4b0JBazJVbHVTdE5ubVBQSWxRTmh3?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Anthropic opens Bengaluru office and announces new partnerships across India - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0wckxXSHp1UXlwOGhNNVM5eXhzWEQyaTFMUzJZZDNPOU1fSDA2RlpzcFpEMXVXQW5kTjNGZzZOZG5ySWE0dko5X3lUVzdJems2S29BZlJrN1pwelFBVzJGWFgyWFRaYXJqTUQzUVhTaERVckZTSjBDRlhjLXNRUQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Claude Sonnet 4.6 System Card - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1EYWxpMFllYi04UkRKYUc0MmdBckplOFJNQ1Ywekg0YW5NQktBLXlRaUNRejVvaWttRG1XTDlUMFRxdjRtVHVJaE9QZTM1WTJJOEY3X28yMjRNRnRhMkVpaA?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Jobs - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMzJleVhCWnowaVdMS1g5NUpFb09qclNkQkJWT1pyVHJVY0Qxa2NfSnJYbmNseVFkaHRiM3M5ak9jRU5PUzFzX2FvbWt4cWEwNE41ZG5xcXplbDVfdUl4Ny1WbU81WDFiTnlJSzJKQWJZcHQwb01iVFgzTGhfQWhYM28wWXpXU3dRWkVOb0NpaXl1VWFhLVllSlhn?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Anthropic’s Transparency Hub - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTUpaZ1pURW1pVUsydXp5N0RCRVFYVnhnSkQ4dmZIWVRyaTJ1Ul9sT2pYc3BfaExDVFV3STJBMnZzT2lCbVB6MU9PeDZBa2VfaGc0Y1RZOGtaeG4taXRud3NlVjN4R3BFSzdIbDRiTDBhM2N3R1lsQjdESFNtQmU0Z2FsSFl5U2tEWV9FcHh4NHROaG9BWmlGWVZB?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Jobs - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAtOUxUQnBWWWN0VXBpWVo1Z2JCejVVSmlpTXNlaU9qTGxRR0tDSUUzVU8xVGZIX3lndlJIY2RFYjNNbWVDMkxlOHBsSVpTUHVEb0pJd0xNLTA2Zk96M3FpbUdGc2U?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Claude Sonnet 4.6 - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcVI0SmFaTG9ETC0wT3FfbzVkbTRqS0ZOMjlIMmFhZjg2ZXVQS0d0Z3VVVnoxaEFhTkFRal9IMUh4cVNZWFlfQ0Y3dEtONDZwYy1YUXJZMXdNNkYxSGtWdC1kTXVkVVBiZmhvNDFqdUp1cjhLdURmMVBjNDk1d0p5b1A3bTNXUFRoUmQ2YVlMWQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Newsroom - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOYm1fZ1Q5TlJzRzR0d3Rod2gtUHNaRE9obmZ5XzBQLWM4Y0Z6Qk85aTduTHJpTllldlFtM01IT1BqUnczY05QeGlET3RjRlBWa1FDX0ZYb1pseGJvTjJLcDVydGI4VVhLQ0FMQ0JsM3hoYkIwQ3hwdy1WcnVCcDloMzhBMnBqdkJYSGxzY0MzV2NxVmxHYkg5aXNOMV96UmdxalNCUzBHSURBYUlHU2EyOWozTmRoZzVfQnVFMGtyTjJkY1V5bzdIV2JVUjJ6RlByUjUxbmo2bUZCaDZ5aWhLWFduczc3ZGxneEpRbDNjeC1oRlV0cnZTbFozakw2UQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Building Products on Claude Opus 4.6 A Customer Success Story with Shortcut and Hex - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNHo5YS1ScG1VZ3YzcE41dm16azRVOVVzODRVdDRia1FoYlAzXzBkTkc3Sl80clZveXZKSHBIb200MEdYZjEyNTJQdGo1aDUycnhfd1VnWHYyMHJIdDROaVpRY1hJZV9FcXljX2lDME5RSUVRVkdlXzhpX2RhU2VKMzFPVHNueTVnYkdqM2puNXRFTWNOak1qemMzVXliWjN3SmxxcmJDeW9NSktheXVTaUNRTGVXemd0SHc?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Jobs - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQV2hBM3lIVTZRQkl1RkxyRzBXRnhjVWZkdlVDcHhGQW02d1dQODdPYlJtLUh0bUFpYWFWaXZ0M2lIOUREa3dGWkNNQU5Sc0tQcnVqZ0t0WTF4Um04VVFlZDVIVGFsVHNkZ0N2T3dtREs3V2JjbE4ya0RvT25EUXVBR2xlZ244R3l3U3JvN3B4VV9KaHliZkplQ2tSYkd5dUxFb1oydHBEWi1yMW9Mc0ZyRkxiM2hCVGVqS3lfd0w2czVNYkVjeHhSUWlQWldxQW1mNnRYZ0MxMW5lbjBvNTBmVVVZNEtKU3R4Mm11T0EtSks2VExtWDhnT2JkWUNzYnZ1U015SzlRdGtOTTFUT1B0Z29uWXF1UFpfenBlVHYwc09aVmRDUWZCVXNFd3VrSFk?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Claude Sonnet 4.6 - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE55elJyN0ZndFZRX01MLTVRcTd6Z3pYektWYzdCMW9JTmpZN0JLS2pBQlF2cS1GXzM4RTNNUWpPXzNaUElRZ0tjZFNqR1R2MnVFempWUXpaYks2WXRMcTJOZ1RSc0dpeEV2WjdzeDNaSl9JUHdjTHVBUg?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Jobs - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVkJnSWFnc3R6UWZ4TXpVQkl6Ym5qSldtMUl5YXBWRC1ncUFRLXhuVXpBb0dpbEtNNllnRll6REhhYk56dGJ6THE5cTl4XzZ3R2FuTnlyMEE3QTJMbDEzLVBTTFVvaTExVU5mTkc4MXM2a0Z6VDFZWjlpQ1BLQXBfWkR6R2JSclQxOElxbVZfeDM2NUt2c2NMb0xWbVg?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Jobs - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaV96a3hZYkxUZGJWUXg0NUNSUzlUMzFha2FjY1pORTNPR1Fad1d4cmp0S0J2bjRZYUpiYkdsRW9RUmZIZnYtRXlVTFl3STFyOGlNUmxBQy1zMzJyTVlwTUY0OTJvS3ZZLVh3NW9YcG1qUzhDQnN2RVlYbFZrOXlMSUJUaTNQaGJlRFpGblpzaw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Claude’s Constitution - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBUMDY5WFhiZTBRREJnQkZnY24xUlJiSmQ3cU1LV1lyVGVmRWswMjUzUDJucU16Zm8yZFRSYWZ1VTRJS0JnLUlFSEJsd0RxZFNrSThxS2dNSlVzTVRkSmRJdW01b2MxUjNydEtLdGZrUWRjVTdOQjJV?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Claude Code in an Hour: A Developer's Intro - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQlJwd0NNbXNLX1ZVd3ZEWWt1S1ZFZFVud0ZBVmZMbHFnbzVjMWhiNDl2a1F6V3ViR3NwVWRtdERCUUVSeXFDNlBoRWVRSy1XcWdwTlU1M3NwYUM2ZFlvNG9jb1UzcWNoeWZES1JMMVpsUUpXTmRGNHFCSF9hdTl3T0pNc3U4bzRSWDVHWUpXVG9pWlpoM0NfVUV4ZERCOGdjcXFxbTFMYm5tVHpTbXFHWS0xX2FCV3NsZzl6cDRMcGV4dw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Jobs - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZVQwd1lWd2RBeU5MdFpXeG9zVFhSUGN0Vi01UkNKcmdJQ0hJc0QxcTNyU2hWMWdvOFNDVjdYQlZpOWJweUNGRld2RjJyR3Q3ZWtVdzBRWldHRmdGQVFiQ3VIN05BLXhnZndoRGN1SzZwZEdGSFpucVpjc2NhR1VBMDhB?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Jobs - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBnNVJObENTNlNKUXdfZEo4UHJ0Y1FYSmxVWVlta1E2bVpjdW56WENzSm5pbk5RZUFXaHNFV1F4TW1fSE5Va1hYNHJKZENYdnQ4ZEhoQ0FRU3FLblVMbmtDdDRybTdfWDB1TU9FOEdKeExlRUhFQnZnZ0VmMTE?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bessemer"
     },
     {
       "title": "Our First Proof submissions - OpenAI",
@@ -835,5 +989,5 @@
       "source": "news"
     }
   ],
-  "generated_at": "2026-02-21T13:11:47.019Z"
+  "generated_at": "2026-02-21T13:12:35.314Z"
 }
