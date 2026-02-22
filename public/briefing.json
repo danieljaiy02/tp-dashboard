@@ -1,5 +1,5 @@
 {
-  "summary": "## QUICK BRIEF\n\nOpenAI is making a major India push with localized products and infrastructure partnerships, while Google claims new benchmark records with Gemini Pro. The company also revealed that nearly 50% of ChatGPT users in India are 18-24 year-olds, signaling a generational shift in AI adoption. Meanwhile, Microsoft's gaming chief is pushing back against AI content flooding, and OpenAI disclosed it debated calling police about a suspected shooter's chats — raising urgent questions about AI safety protocols and liability exposure for consulting firms deploying these systems.\n\n## COMMUNITY PULSE\n\nNo Reddit or Hacker News discussion data was provided in today's feed. The available data consists primarily of official announcements from OpenAI, TechCrunch articles, and developer community posts. Key sentiment indicators from the available sources:\n\n- **Developer community activity** shows increased focus on production deployment issues (realtime API problems, token counting, error rates on Codex Cloud)\n- **Job postings surge** from OpenAI (40+ new positions) suggests aggressive scaling, particularly in enterprise partnerships and deployment engineering\n- **Safety concerns emerging** with the shooter chat disclosure sparking likely debate about moderation responsibilities\n- **India market excitement** evident across multiple announcements and VC commitments\n\n## KEY DEVELOPMENTS\n\n- **OpenAI launches India-focused ChatGPT** - Rolling out localized features targeting India's 18-24 demographic (nearly 50% of Indian users). This matters because it shows AI giants are fragmenting into regional products rather than one-size-fits-all solutions. For consulting firms, this signals clients will need localization strategies, not just deployment strategies, especially in emerging markets where AI adoption patterns differ significantly from Western markets.\n\n- **Massive infrastructure buildout in India** - UAE's G42 partnering with Cerebras to deploy 8 exaflops of compute in India, while General Catalyst commits $5B over five years and Nvidia deepens startup ecosystem involvement. Peak XV raised $1.3B focused on AI. This represents a fundamental shift in global AI infrastructure geography. Enterprise clients with international operations need to understand how compute proximity will affect their AI strategy, and there's a clear consulting opportunity in helping companies navigate this new multi-polar AI landscape.\n\n- **Google claims benchmark dominance with Gemini Pro** - New model achieves \"record benchmark scores — again\" in what's becoming a weekly benchmark arms race. The quotation marks in the headline suggest fatigue with endless benchmark claims. This matters because enterprises are getting benchmark-blind, creating opportunity for consultants who can translate technical specs into actual business value and help clients cut through the hype to find models that actually solve their problems.\n\n- **OpenAI disclosed police debate over suspected shooter's chats** - Company internally debated whether to contact law enforcement about a suspected Canadian shooter's conversations. This is a watershed moment for AI liability and duty-to-warn obligations. Consulting firms deploying chatbots now face questions about their own monitoring responsibilities, liability exposure, and whether they need legal frameworks for handling similar situations. This will drive demand for AI governance consulting, but also creates professional liability risk for consultants who get it wrong.\n\n- **Microsoft gaming CEO vows no \"endless AI slop\"** - Direct pushback against AI-generated content flooding from a major platform holder. This signals a potential turning point where platform gatekeepers start actively filtering AI content, which could impact clients building AI-powered content strategies. The term \"AI slop\" entering executive vocabulary at Microsoft level indicates the backlash is moving from early adopters to mainstream platforms, requiring consulting firms to help clients build authentic AI strategies that won't get filtered or penalized.\n\n- **Google VP warns two types of AI startups won't survive** - While specific types aren't detailed in the headline, this represents increasing consolidation signals from major players. Combined with the massive India funding and infrastructure moves, we're seeing the market bifurcate between well-capitalized infrastructure plays and everyone else. Mid-market AI companies will get squeezed, creating distressed asset opportunities and buy-side consulting work.\n\n- **OpenAI expanding multi-agent capabilities and enterprise tooling** - Multiple updates to multi-agent systems, prompt caching, hosted tools, and enterprise features like admin keys and domain allowlists. The pace of platform feature releases suggests OpenAI is racing to build enterprise moats before competitors catch up. For consulting firms, this creates a land-grab opportunity — clients need help navigating rapid feature changes and integrating new capabilities before they become table stakes.\n\n## WHAT THIS MEANS FOR TP\n\nThe India developments create immediate geographic arbitrage opportunities. Clients with operations in emerging markets need consulting on regional AI strategies — not just language/cultural adaptation, but fundamentally different approaches based on younger user demographics and different infrastructure constraints. Tiger Pinnacle should develop expertise in multi-region AI deployment strategies, particularly for clients expanding into Asian markets. The 8 exaflops deployment and VC commitments suggest India will become a major AI hub within 18 months; getting ahead of this with India-specific service offerings could differentiate TP from competitors still focused solely on US/EU markets.\n\nThe shooter chat disclosure is a wake-up call on liability exposure. Every chatbot deployment TP does now carries potential duty-to-warn implications. This creates both opportunity and risk: opportunity because clients desperately need governance frameworks and monitoring protocols, but risk because TP could face liability if a client's AI system is involved in a harmful incident and TP didn't adequately advise on safety protocols. We should immediately develop a standard AI safety and monitoring framework to include in all implementations, potentially with legal review. This could become a competitive advantage — \"AI deployment with built-in safety governance\" — while also protecting the firm from downstream liability.\n\nThe Microsoft \"AI slop\" stance and Google's startup survival warnings both point to market maturation and quality filtering. Clients who rushed into generic AI content generation or built wrapper businesses are about to face a reckoning. This creates consulting opportunities in AI strategy pivots — helping clients move from \"AI for AI's sake\" to genuine value creation. The benchmark fatigue signals enterprises are ready for consultants who can cut through hype. TP's positioning should emphasize practical implementation over theoretical capabilities, with case studies showing measurable ROI rather than benchmark scores. The talking point: \"While everyone else chases benchmarks, we deliver business results.\"",
+  "summary": "## QUICK BRIEF\n\nIndia has emerged as the single biggest story in enterprise AI today, with Anthropic, OpenAI, and major VCs all making billion-dollar commitments to the market. Anthropic just launched Claude Sonnet 4.6 with record benchmark scores while opening a Bengaluru office, and revealed that 18-24 year-olds account for nearly 50% of ChatGPT usage in India. Meanwhile, serious concerns are surfacing about AI's role in public safety after OpenAI debated calling police about a suspected shooter's chats, and the energy debate continues as Altman defends AI's power consumption. Google's VP also warned that certain categories of AI startups face existential risks.\n\n## COMMUNITY PULSE\n\n*Note: No Reddit/HackerNews discussion data was provided in today's feed. The data consists primarily of press releases and official announcements from AI companies.*\n\nThe absence of community discussion data today is notable — typically we'd see active debate on major model releases and India expansion announcements. This suggests either a data collection issue or that these stories haven't yet permeated developer communities. The India angle and Anthropic's new model would normally generate significant HN discussion.\n\n## KEY DEVELOPMENTS\n\n- **Anthropic launches Claude Sonnet 4.6 with record benchmarks** - Anthropic's latest model achieves new performance highs just as the company massively expands its enterprise presence. The timing alongside their Infosys partnership for building AI agents in telecommunications and regulated industries signals Anthropic is making a serious play for enterprise deployments beyond tech companies. The model's system card and transparency documentation suggest they're emphasizing compliance and auditability — critical for regulated industry adoption.\n\n- **India becomes the battleground for AI supremacy** - Anthropic opened a Bengaluru office, partnered with the Government of Rwanda for health/education AI, and released an India Economic Index. OpenAI announced \"OpenAI for India\" while revealing massive youth adoption (50% of ChatGPT users are 18-24). UAE's G42 and Cerebras are deploying 8 exaflops of compute in India, General Catalyst committed $5B over five years, Peak XV raised $1.3B doubling down on AI, and Nvidia is deepening its startup ecosystem push. This isn't just market expansion — it's a recognition that India represents both the largest untapped enterprise market and a critical talent base.\n\n- **OpenAI debated calling police over suspected shooter's chats** - This raises massive questions about AI platforms' role in content moderation, legal liability, and public safety obligations. For consulting firms, this signals that clients will increasingly need crisis protocols for when their AI systems encounter potentially dangerous content. The liability framework is undefined, and enterprises deploying conversational AI need policies yesterday.\n\n- **Energy consumption debate intensifies as Altman defends AI** - Sam Altman argued humans use lots of energy too, attempting to reframe the AI power consumption narrative. This matters because enterprise clients are starting to face ESG scrutiny over AI deployments. The defensive posture suggests this is becoming a material business concern, not just an environmental talking point.\n\n- **Google VP warns two types of AI startups won't survive** - While the specific startup categories weren't detailed in the feed, this executive warning from Google signals market consolidation ahead. Combined with the massive capital deployment to India and Anthropic's regulated industry push, we're seeing the AI market bifurcate: scale players with deep pockets versus specialized vertical solutions.\n\n- **Microsoft's gaming CEO pledges no \"endless AI slop\"** - The explicit rejection of low-quality AI-generated content from a major Microsoft division is significant. It indicates even AI-bullish companies recognize that indiscriminate AI usage damages brand value. This validates the consulting message that AI implementation requires quality controls and human oversight, not just deployment.\n\n- **Anthropic releases new cybersecurity capabilities and agent autonomy metrics** - They're making frontier cybersecurity tools available to defenders and published frameworks for measuring AI agent autonomy. These are table stakes for enterprise adoption — clients need both security assurances and clear metrics for agent behavior. The fact Anthropic is productizing these suggests they're ahead on enterprise readiness.\n\n## WHAT THIS MEANS FOR TP\n\nThe India expansion story creates immediate consulting opportunities that Tiger Pinnacle should pursue aggressively. Every major AI player is placing billion-dollar bets on the Indian market simultaneously, which means enterprises operating in or with India need India AI strategies — not next quarter, now. TP should develop specific service offerings around: helping US enterprises navigate Indian AI partnerships, advising Indian companies on AI adoption roadmaps, and facilitating connections between the ecosystems. The General Catalyst $5B commitment and Peak XV's $1.3B raise mean there's enormous capital seeking deployment opportunities, and consulting firms who position as India AI bridges will capture deal flow.\n\nThe OpenAI shooter chat situation and Microsoft's \"AI slop\" stance underscore a critical shift: enterprises now face reputational and legal risks from poorly governed AI deployments. TP should immediately develop crisis response protocols for clients, including content moderation escalation procedures, legal notification frameworks, and brand protection guidelines. The market is moving from \"should we deploy AI?\" to \"how do we deploy AI without catastrophic downside?\" This is classic consulting territory — risk mitigation, governance frameworks, and policy development. Package this as \"AI Governance Readiness\" assessments and you're solving the problem executives are losing sleep over.\n\nAnthropic's regulated industry push with Infosys and their transparency documentation reveal where the enterprise money is flowing: companies that can prove compliance, auditability, and security. TP should emphasize these capabilities in client conversations and consider developing industry-specific AI governance frameworks for healthcare, finance, and telecom. The Claude Sonnet 4.6 launch with record benchmarks also means clients will ask about migration strategies — there's consulting revenue in helping enterprises evaluate and switch between frontier models as capabilities evolve. The energy consumption debate Altman is fighting suggests ESG-conscious enterprises need help calculating and defending their AI carbon footprints; that's another service line to develop.",
   "sources": [
     {
       "title": "Sam Altman would like remind you that humans use a lot of energy, too",
@@ -140,6 +140,153 @@
       "score": 0,
       "comments": 0,
       "source": "techcrunch"
+    },
+    {
+      "title": "Making frontier cybersecurity capabilities available to defenders - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBvaU1YUDA5TzFVT0tfOGtOcUM4ZnZtRkR1WFZFVWlMcjVCUTFOUDZqRzVuTkh1QTRFcTRZQkkyM3JldkxzcjFEdkZPNW16TndPY2JEVW9BSUJpR2o3TFJLaA?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Measuring AI agent autonomy in practice - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1wWUdIaldIcHlJalJEdXQtVjBKUTlVYUo4dWtadTRreGhBNGlqdjN0QWxLSFFZZWpvTjJmalZsbUZEcnBFZHJHMzJLeUVyall1ZkdGb3ZQc1VqTXh1TkJyYWczM085QmMxUzZr?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Introducing Claude Sonnet 4.6 - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE96MHBnTm5LSGN3SDFIcy12QWhqOG5nMHhRdnAxZm00QTFHOW5fZ1ZJd3phQmRuOGNMU0lPenBSTUp5YzFnSDBzbFNaYWlGTEw4NHY3YV9WWU9vZVR0?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Anthropic and Infosys collaborate to build AI agents for telecommunications and other regulated industries - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5MVVlaV1RBOS0xWkYzRXhjaHM5SVc3SFV1RkExNEVtNk5JMjBackp6NDFzN2pvakI4MThEWWx3eFE5RnJveHBWcVhjdlozZjh2Y3ZIT2JXUm9kU2Zl?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Anthropic and the Government of Rwanda sign MOU for AI in health and education - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1aQkVHQ2VjTWRuY1FtUENGT01iSU5mRzM0ZElKOE4tMHVWSjhxU2h6YXZaVlo2S21EZmVjYV9RU1ZGSzVZRGRETmU3UnhqT05OX2hzMjE4T3QtUENLSzFZSw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Anthropic opens Bengaluru office and announces new partnerships across India - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0wckxXSHp1UXlwOGhNNVM5eXhzWEQyaTFMUzJZZDNPOU1fSDA2RlpzcFpEMXVXQW5kTjNGZzZOZG5ySWE0dko5X3lUVzdJems2S29BZlJrN1pwelFBVzJGWFgyWFRaYXJqTUQzUVhTaERVckZTSjBDRlhjLXNRUQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "India Country Brief: The Anthropic Economic Index - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1FdDhtRFhYSWlybFlhV282TkZiM1VaNVV4eGQ2SEttZE9nVTJ4X0xFMFpkYmFneDAxYXl5QnU4eVlXcVE1ZnVJUno1X2stMHIwcnViVzM4aFZ4b0JBazJVbHVTdE5ubVBQSWxRTmh3?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Claude Sonnet 4.6 System Card - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1EYWxpMFllYi04UkRKYUc0MmdBckplOFJNQ1Ywekg0YW5NQktBLXlRaUNRejVvaWttRG1XTDlUMFRxdjRtVHVJaE9QZTM1WTJJOEY3X28yMjRNRnRhMkVpaA?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Building Products on Claude Opus 4.6 A Customer Success Story with Shortcut and Hex - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNHo5YS1ScG1VZ3YzcE41dm16azRVOVVzODRVdDRia1FoYlAzXzBkTkc3Sl80clZveXZKSHBIb200MEdYZjEyNTJQdGo1aDUycnhfd1VnWHYyMHJIdDROaVpRY1hJZV9FcXljX2lDME5RSUVRVkdlXzhpX2RhU2VKMzFPVHNueTVnYkdqM2puNXRFTWNOak1qemMzVXliWjN3SmxxcmJDeW9NSktheXVTaUNRTGVXemd0SHc?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Jobs - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMzJleVhCWnowaVdMS1g5NUpFb09qclNkQkJWT1pyVHJVY0Qxa2NfSnJYbmNseVFkaHRiM3M5ak9jRU5PUzFzX2FvbWt4cWEwNE41ZG5xcXplbDVfdUl4Ny1WbU81WDFiTnlJSzJKQWJZcHQwb01iVFgzTGhfQWhYM28wWXpXU3dRWkVOb0NpaXl1VWFhLVllSlhn?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Anthropic’s Transparency Hub - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTUpaZ1pURW1pVUsydXp5N0RCRVFYVnhnSkQ4dmZIWVRyaTJ1Ul9sT2pYc3BfaExDVFV3STJBMnZzT2lCbVB6MU9PeDZBa2VfaGc0Y1RZOGtaeG4taXRud3NlVjN4R3BFSzdIbDRiTDBhM2N3R1lsQjdESFNtQmU0Z2FsSFl5U2tEWV9FcHh4NHROaG9BWmlGWVZB?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Jobs - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAtOUxUQnBWWWN0VXBpWVo1Z2JCejVVSmlpTXNlaU9qTGxRR0tDSUUzVU8xVGZIX3lndlJIY2RFYjNNbWVDMkxlOHBsSVpTUHVEb0pJd0xNLTA2Zk96M3FpbUdGc2U?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Newsroom - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOYm1fZ1Q5TlJzRzR0d3Rod2gtUHNaRE9obmZ5XzBQLWM4Y0Z6Qk85aTduTHJpTllldlFtM01IT1BqUnczY05QeGlET3RjRlBWa1FDX0ZYb1pseGJvTjJLcDVydGI4VVhLQ0FMQ0JsM3hoYkIwQ3hwdy1WcnVCcDloMzhBMnBqdkJYSGxzY0MzV2NxVmxHYkg5aXNOMV96UmdxalNCUzBHSURBYUlHU2EyOWozTmRoZzVfQnVFMGtyTjJkY1V5bzdIV2JVUjJ6RlByUjUxbmo2bUZCaDZ5aWhLWFduczc3ZGxneEpRbDNjeC1oRlV0cnZTbFozakw2UQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Jobs - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxOb2lBTWxCdHhSSGQyaE1mT0FteVNQV25KQnJvRTdmOG9YaUEtR2djN3pKNHZ2cDhOTUE1N2RVcVFjSlFyOFlFWXRrTWtLel8zOF9mUkdzNUZLTGtrRkJrd3BldHBJMEJ6MDVKTWtjM2tNUTRFNmFvWm1NRFphc2MzUElHd0ZPXzlTbXhFZ3pPMlhEQzNHQXZ5QjM2X2tNZDRiYVhGUWJEZUdwTW9RZEliVUtCTksyOTJEa1pVdFZPdjl1VFFqYTFwUXo1OEFtZldLcEFUbE9Sbi0xaVB5ZjlSem9FQUJiYTdZZzlHOFZpWTNyYUExcW5EdjVGa2F0NVpQRU1mNkx4cGNOWHlxVkNrTUtfTFRKcFk3ZktxWXVUamhTbzZzWFhaWXNfNnktX0NBMGdlUjZOUElBSVh2NnJhZklqN19jN1RIYXFoQWRHdGJKajFIeVhydWRfZ0tiZzNKWE5xR0htcFZxYmc2T1MxT245SnJDbW8?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Claude Sonnet 4.6 - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE55elJyN0ZndFZRX01MLTVRcTd6Z3pYektWYzdCMW9JTmpZN0JLS2pBQlF2cS1GXzM4RTNNUWpPXzNaUElRZ0tjZFNqR1R2MnVFempWUXpaYks2WXRMcTJOZ1RSc0dpeEV2WjdzeDNaSl9JUHdjTHVBUg?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Anthropic’s AI for Science Program Official Rules - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1rZFUxVmdKY1N2QUE3TUNaQWotclp0NG1QdkJyVlhSSE93WmhQbzJDX0RoblZOdS00ZTZuRFVTVGU2MUJHQ0dTLXJTTkxoT3dxSlh1cVhSN1RNTUdFbUp6emx3UXc?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Claude’s Constitution - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBUMDY5WFhiZTBRREJnQkZnY24xUlJiSmQ3cU1LV1lyVGVmRWswMjUzUDJucU16Zm8yZFRSYWZ1VTRJS0JnLUlFSEJsd0RxZFNrSThxS2dNSlVzTVRkSmRJdW01b2MxUjNydEtLdGZrUWRjVTdOQjJV?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Jobs - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1vNVRwMjRwVmVlazE0X2RuakRac1ktd2IyNFNxaTlibjh3OURJYVB3Y09oUUxYM2Z2UWh0cWtBOWhiQi1fZXdrOF9mSUJpT0gyQ3htZTRNSXFocFdXTnJ4bVo3MnEzbDJOXzBF?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Jobs - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZVQwd1lWd2RBeU5MdFpXeG9zVFhSUGN0Vi01UkNKcmdJQ0hJc0QxcTNyU2hWMWdvOFNDVjdYQlZpOWJweUNGRld2RjJyR3Q3ZWtVdzBRWldHRmdGQVFiQ3VIN05BLXhnZndoRGN1SzZwZEdGSFpucVpjc2NhR1VBMDhB?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Jobs - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBnNVJObENTNlNKUXdfZEo4UHJ0Y1FYSmxVWVlta1E2bVpjdW56WENzSm5pbk5RZUFXaHNFV1F4TW1fSE5Va1hYNHJKZENYdnQ4ZEhoQ0FRU3FLblVMbmtDdDRybTdfWDB1TU9FOEdKeExlRUhFQnZnZ0VmMTE?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bessemer"
+    },
+    {
+      "title": "Claude Code in an Hour: A Developer's Intro - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTGRidkpEWjY1dGNnNkVBNVZYUVIyMzVqZFE5bkR2TnRNa1hLVkxISGdLRVNjU0JINEoxeWRxWFVZTDJGdXg1aWVZQWlpZnFIRzF3Ylpmb2FxdjlWZmNRd0pBZVNUaC1Ha1BzYXBCRm52dFhRczdkUEZLVzdwRGo4R1Fn?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
     },
     {
       "title": "Advancing independent research on AI alignment - OpenAI",
@@ -835,5 +982,5 @@
       "source": "news"
     }
   ],
-  "generated_at": "2026-02-22T13:11:47.507Z"
+  "generated_at": "2026-02-22T13:12:34.546Z"
 }
