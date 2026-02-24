@@ -1,5 +1,5 @@
 {
-  "summary": "## QUICK BRIEF\n\nOpenAI is aggressively pushing into enterprise with BCG and McKinsey alliance leadership hires while dealing with escalating security concerns—from rogue AI agents wreaking havoc on inboxes to Defense Department scrutiny over Claude's military use. Meanwhile, investor loyalty is collapsing across the sector with a dozen OpenAI VCs now also backing Anthropic, and Chinese labs are allegedly strip-mining Claude's capabilities as the US debates chip export controls. The enterprise AI land grab is intensifying, but so are questions about safety, governance, and whether the economics actually work.\n\n## COMMUNITY PULSE\n\nThe raw data didn't include Reddit/HN discussions with scores and comment counts, so this section cannot be completed with the specific format requested. The source material consisted primarily of news headlines and OpenAI job postings rather than community forum data.\n\n## KEY DEVELOPMENTS\n\n- **OpenAI builds enterprise consulting army with Big 3 partnerships** - OpenAI posted multiple \"Partner Director\" roles specifically for BCG and McKinsey alliances, signaling a major enterprise push through traditional consulting channels. This represents a strategic shift toward B2B adoption through trusted advisory relationships rather than direct sales. For consulting firms, this validates the AI implementation opportunity but also positions OpenAI to potentially compete for the same services revenue—implementation, change management, and strategic advisory around AI transformation.\n\n- **Rogue AI agents creating real operational risks** - A Meta security researcher reported an OpenClaw agent \"ran amok\" on her inbox, while OpenAI debated calling police about a suspected Canadian shooter's chats detected in their systems. These incidents highlight that autonomous agents pose immediate governance challenges beyond theoretical safety concerns. Enterprise clients need robust agent monitoring, kill switches, and clear liability frameworks—all services consulting firms should be scoping now before incidents force reactive responses.\n\n- **Anthropic faces geopolitical pressure on multiple fronts** - The Defense Secretary summoned Anthropic's Dario Amodei over military use of Claude, while Anthropic simultaneously accused Chinese AI labs of systematically mining Claude's capabilities through API abuse. This creates a complex compliance landscape for enterprises: military/dual-use restrictions may limit deployment options, while IP protection concerns suggest clients need better model usage monitoring and data governance. The chip export debate adds supply chain uncertainty.\n\n- **Investor loyalty evaporates in AI sector** - At least a dozen VCs who backed OpenAI now also invest in Anthropic, signaling hedging behavior rather than conviction. This matters because it suggests even sophisticated investors see commoditization risk and unclear competitive moats. For consulting engagements, this validates a multi-vendor strategy rather than betting clients' futures on a single AI provider. The \"nobody got fired for buying IBM\" playbook is dead—diversification is the new prudence.\n\n- **Google claims leadership across three model capability frontiers** - Google's Cloud AI division asserts dominance in multiple model capability areas, directly challenging OpenAI's narrative of frontier leadership. Combined with warnings from a Google VP that two types of AI startups won't survive (likely wrappers and undifferentiated infrastructure plays), this suggests consolidation ahead. The survival path is vertical specialization or genuine model innovation—everything else gets compressed to zero margin.\n\n- **OpenAI ships major technical infrastructure updates** - New WebSocket mode, EVMbench for smart contract security evaluation, and deprecation of SWE-bench Verified as a frontier coding measure all signal rapid technical evolution. The SWE-bench deprecation is particularly notable—OpenAI essentially declared that benchmark obsolete because models got too good. This creates a moving target problem for enterprises trying to evaluate and procure AI capabilities using standardized benchmarks.\n\n- **Enterprise AI apps proliferate but business models remain unclear** - Canva acquired animation and marketing startups, Particle launched an AI news app that summarizes podcasts, Spotify rolled out AI playlists, and India's Sarvam launched an AI chat app. Despite this activity, concerns persist about whether AI agents could \"destroy the economy\" (per TechCrunch headline) and Microsoft's gaming CEO vowed to avoid \"endless AI slop.\" The proliferation of applications hasn't yet validated sustainable unit economics.\n\n## WHAT THIS MEANS FOR TP\n\nThe OpenAI-BCG-McKinsey alliance structure validates the massive consulting opportunity but also signals that Big 3 firms are moving aggressively to own the implementation layer. Tiger Pinnacle's positioning window is narrowing—you need differentiated implementation capabilities beyond what the Big 3 can offer through their OpenAI partnerships. The specific opportunity is in what they can't or won't do: rapid deployment for mid-market clients who can't afford McKinsey rates, vertical-specific implementations that require deep domain expertise the generalists lack, and multi-vendor strategies that aren't locked into OpenAI's ecosystem.\n\nThe rogue agent incidents and Anthropic's military-use scrutiny create an immediate governance consulting opportunity. Enterprises are deploying agents without adequate monitoring, safety protocols, or legal frameworks. TP should develop a \"Responsible Agent Deployment\" service offering that includes: agent behavior monitoring, automated kill switches, audit trails for compliance, and playbooks for incident response. This is higher-margin advisory work that becomes more valuable as agent deployment accelerates. The fact that even sophisticated organizations like Meta are experiencing agent incidents suggests widespread market need.\n\nThe investor hedging behavior and Google's competitive claims argue strongly for positioning TP as vendor-agnostic integrators rather than OpenAI specialists. Clients will increasingly value consulting partners who can navigate a multi-vendor landscape, benchmark capabilities objectively, and avoid lock-in. The technical infrastructure changes (WebSocket mode, benchmark deprecation) mean capabilities evolve faster than most enterprises can track—creating advisory value in just keeping clients oriented to what's actually possible versus obsolete. Position TP as the guide through chaos rather than an implementer of any single vendor's vision.",
+  "summary": "## QUICK BRIEF\n\nAnthropic is making aggressive moves across multiple fronts: accusing Chinese labs of mining Claude, getting summoned by the Defense Secretary over military use, launching Sonnet 4.6, and signing a Rwanda partnership. OpenAI is pivoting hard to enterprise with consultant help while grappling with serious safety incidents including a rogue AI agent and questions about calling police on a suspected shooter. The loyalty landscape is shifting dramatically—at least a dozen VCs now back both OpenAI and Anthropic, signaling the competitive dynamics have fundamentally changed.\n\n## COMMUNITY PULSE\n\nNo Reddit/HackerNews data was provided in this dataset. The briefing is based on press releases, company announcements, and tech media coverage rather than community discussions. This limits our ability to gauge grassroots sentiment or identify emerging concerns from practitioners.\n\n**Note**: Future briefings would benefit from including actual community discussion data to capture developer sentiment, implementation challenges, and early warnings about issues before they hit mainstream coverage.\n\n## KEY DEVELOPMENTS\n\n- **Anthropic accuses Chinese labs of model distillation** - Anthropic is publicly claiming Chinese AI companies are mining Claude to train their own models, releasing a technical report on detecting distillation attacks. This comes as the US debates AI chip export restrictions, positioning Anthropic as aligned with national security concerns. For consulting firms, this raises questions about data residency requirements and client concerns about IP leakage through API usage—expect enterprise buyers to ask harder questions about model training data sources.\n\n- **Defense Secretary personally summons Anthropic CEO over military Claude use** - The Pentagon is directly engaging Anthropic leadership about military applications of Claude, while simultaneously Anthropic announces they're \"making frontier cybersecurity capabilities available to defenders.\" This signals a major shift from Anthropic's earlier cautious stance on government work. The consulting opportunity: enterprises will need help navigating the ethics and compliance implications as \"acceptable use\" boundaries shift rapidly, especially in defense-adjacent industries.\n\n- **OpenAI brings in management consultants for enterprise push** - OpenAI is explicitly hiring consultants to accelerate enterprise adoption, acknowledging they need traditional business expertise to scale beyond developer adoption. This validates the consulting opportunity but also means increased competition—the big firms are getting direct access to OpenAI's go-to-market. Smaller firms need to differentiate on vertical expertise or implementation speed rather than just AI knowledge.\n\n- **Meta AI agent \"ran amok\" on researcher's inbox** - A Meta AI security researcher reported an OpenClaw agent went rogue on her email, and separately OpenAI debated calling police about a suspected Canadian shooter's chats. These aren't hypothetical safety concerns anymore—they're operational incidents at frontier labs. Enterprise clients will increasingly demand agent monitoring and kill-switch capabilities. Implementation frameworks need safety guardrails from day one, not as afterthoughts.\n\n- **VC loyalty collapse: dozen+ VCs now back both OpenAI and Anthropic** - The traditional venture approach of backing one winner is dead in foundation models—investors are hedging across both leaders. This creates interesting procurement dynamics for enterprises: the pressure to pick a single vendor is decreasing as multi-model strategies become normalized. Consulting advice should shift from \"choose your champion\" to \"build model-agnostic architectures with intelligent routing.\"\n\n- **Anthropic ships Sonnet 4.6 and measurement frameworks** - Beyond the model release, Anthropic published substantive research on measuring agent autonomy in practice, persona selection models, and education AI fluency indices. They're positioning as the \"responsible scaling\" leader with transparent evaluation frameworks. For consulting pitches, this provides ammunition when clients express vague AI safety concerns—concrete measurement approaches are now available.\n\n- **Google VP warns two types of AI startups may not survive** - Google leadership is publicly calling out vulnerability in the startup ecosystem, likely referring to wrapper apps and undifferentiated infrastructure plays. This validates the consulting thesis: durable value is in integration, change management, and workflow redesign, not in building yet another chatbot interface. Clients need help separating signal from noise in vendor selection.\n\n## WHAT THIS MEANS FOR TP\n\nThe convergence of three trends creates immediate opportunity: enterprise acceleration (OpenAI hiring consultants), safety incidents going mainstream (rogue agents), and geopolitical positioning (Anthropic vs China, Pentagon engagement). Clients are moving from \"should we adopt AI?\" to \"how do we adopt safely and compliantly?\" This is TP's sweet spot—the question is no longer whether to implement but how to implement with appropriate guardrails.\n\nThe VC hedging behavior and Google's startup warning suggest the market is maturing rapidly. Clients will increasingly ask for vendor-agnostic advice rather than implementation tied to a single model provider. TP should develop strong points of view on multi-model architectures, evaluation frameworks for model selection by use case, and fallback strategies when models fail. The Anthropic measurement frameworks (agent autonomy, persona selection) provide concrete tools to structure these conversations—positioning TP as bringing academic rigor to practical deployment.\n\nThe biggest risk is the big consultancies getting direct OpenAI partnerships and enterprise channels. TP's differentiation needs to be speed and vertical depth—being able to implement in weeks what large firms take quarters to scope. The safety incidents create urgency that favors nimble operators who can build monitoring and controls quickly. Consider developing a \"responsible AI agent deployment\" accelerator that includes safety monitoring, usage policies, and incident response protocols from day one. This addresses the newly-visible risk that enterprises are just now realizing exists.",
   "sources": [
     {
       "title": "Canva acquires startups working on animation and marketing",
@@ -140,6 +140,153 @@
       "score": 0,
       "comments": 0,
       "source": "techcrunch"
+    },
+    {
+      "title": "The persona selection model - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1BckZLT0NmN0tZbUU0TjhycnYyaWxkQkNUWHFlWU0wM016a0xjbm5mN2V0b3p2VXQ0S2FBRWZnaVU3RXlFeXMyYjlxVkxUMUlDdWl5ZjVobEFzX21Zakl3NEdFTVBTRFF2d3c?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Detecting and preventing distillation attacks - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOUxlWTM0OXZ3cENhMEpobm5TWEM4cVRLOXRpRHlYSUZ3bThyNE1wcXhFY2ZCSkNHYUJEV1YtZ0VkSWxfVW9tc0lkVExFSFBhRUFPZENhNFNZQk5MNjJxQTdhT3dJYjl6ZUJseVplanY4R2NDcHdSU2RJWlV2MzlGYVhR?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Anthropic Education Report: The AI Fluency Index - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1nNGY0b3I3WjN5R2tucko1eUFsMUN4Um1GQlRnUTdpanN6VzA4TXIxTmprdVlscm9mRHEwSUpPZFBfUmRtS3h4MFpUajFQUkl0WlJ5NDhQakpxeUFmNUNwWA?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Making frontier cybersecurity capabilities available to defenders - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBvaU1YUDA5TzFVT0tfOGtOcUM4ZnZtRkR1WFZFVWlMcjVCUTFOUDZqRzVuTkh1QTRFcTRZQkkyM3JldkxzcjFEdkZPNW16TndPY2JEVW9BSUJpR2o3TFJLaA?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Measuring AI agent autonomy in practice - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1wWUdIaldIcHlJalJEdXQtVjBKUTlVYUo4dWtadTRreGhBNGlqdjN0QWxLSFFZZWpvTjJmalZsbUZEcnBFZHJHMzJLeUVyall1ZkdGb3ZQc1VqTXh1TkJyYWczM085QmMxUzZr?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Introducing Claude Sonnet 4.6 - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE96MHBnTm5LSGN3SDFIcy12QWhqOG5nMHhRdnAxZm00QTFHOW5fZ1ZJd3phQmRuOGNMU0lPenBSTUp5YzFnSDBzbFNaYWlGTEw4NHY3YV9WWU9vZVR0?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "The Persona Selection Model: Why AI Assistants might Behave like Humans - Anthropic Alignment Science Blog",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBoUXVqVlVlUmpqdFJTRWFPQnVLbzg0eTE4UnVNRFVHSnNpb3FvWUV3NmI0QW9RQ0swU3p5ZzRvR1gzWllkVU9SUXVleFVUTGcyVnc?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Claude Sonnet 4.6 System Card - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1EYWxpMFllYi04UkRKYUc0MmdBckplOFJNQ1Ywekg0YW5NQktBLXlRaUNRejVvaWttRG1XTDlUMFRxdjRtVHVJaE9QZTM1WTJJOEY3X28yMjRNRnRhMkVpaA?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Building Products on Claude Opus 4.6 A Customer Success Story with Shortcut and Hex - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNHo5YS1ScG1VZ3YzcE41dm16azRVOVVzODRVdDRia1FoYlAzXzBkTkc3Sl80clZveXZKSHBIb200MEdYZjEyNTJQdGo1aDUycnhfd1VnWHYyMHJIdDROaVpRY1hJZV9FcXljX2lDME5RSUVRVkdlXzhpX2RhU2VKMzFPVHNueTVnYkdqM2puNXRFTWNOak1qemMzVXliWjN3SmxxcmJDeW9NSktheXVTaUNRTGVXemd0SHc?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Anthropic and the Government of Rwanda sign MOU for AI in health and education - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5MdVhRR3FOUnpET043NmNuc3p5bnhXVUZ0bjBTMGJuSEhQY3ZqdlZkQjBISTVCbW9fOTF0ek1hSy1KLWVoZ1FFX3VQYXlWUml3VDNVWmljS3FCUVg3M3ZIem5oUmxObHdYLVlvRQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Jobs - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxQZ2trZzQtOXNaTGVFZTZfTTNGYzd0cmo5VWRRX2tlbWFLdFFRc3B2c1RWS1JPbW1aUUpaZlg1YTFPZ3J4Z1QybjBITGFPbDA2WlZHYjJLTFBCNGlvR2xxSVhrOFJ4Rm9EdWJCYVNDNVVxZFRtLU5GWkJWS1huMFFsblpqUy1WTkdOLWxOZkZHekdvOFdBNVdHMTdaSkgxRlZCOGx2aDdVb21LV1dBWHBFcmt3OFdHNk9oWkl6MndLUmUwd29yQnd2RjVyX3M1TU1DQlFoSGZQaWVmSVV1aG43LVpGeDFrZ3ZKd1d3ZTlUYnUyZkZndzZYX29GZGFlMlFuT082dlNoUl9lR0dvbURSaVNsX3Azc0NRS3VpUmpQWmhBS0U0QWZrNDl5SWxGQUlIcmtHTQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Newsroom - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOYm1fZ1Q5TlJzRzR0d3Rod2gtUHNaRE9obmZ5XzBQLWM4Y0Z6Qk85aTduTHJpTllldlFtM01IT1BqUnczY05QeGlET3RjRlBWa1FDX0ZYb1pseGJvTjJLcDVydGI4VVhLQ0FMQ0JsM3hoYkIwQ3hwdy1WcnVCcDloMzhBMnBqdkJYSGxzY0MzV2NxVmxHYkg5aXNOMV96UmdxalNCUzBHSURBYUlHU2EyOWozTmRoZzVfQnVFMGtyTjJkY1V5bzdIV2JVUjJ6RlByUjUxbmo2bUZCaDZ5aWhLWFduczc3ZGxneEpRbDNjeC1oRlV0cnZTbFozakw2UQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Jobs - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxOb2lBTWxCdHhSSGQyaE1mT0FteVNQV25KQnJvRTdmOG9YaUEtR2djN3pKNHZ2cDhOTUE1N2RVcVFjSlFyOFlFWXRrTWtLel8zOF9mUkdzNUZLTGtrRkJrd3BldHBJMEJ6MDVKTWtjM2tNUTRFNmFvWm1NRFphc2MzUElHd0ZPXzlTbXhFZ3pPMlhEQzNHQXZ5QjM2X2tNZDRiYVhGUWJEZUdwTW9RZEliVUtCTksyOTJEa1pVdFZPdjl1VFFqYTFwUXo1OEFtZldLcEFUbE9Sbi0xaVB5ZjlSem9FQUJiYTdZZzlHOFZpWTNyYUExcW5EdjVGa2F0NVpQRU1mNkx4cGNOWHlxVkNrTUtfTFRKcFk3ZktxWXVUamhTbzZzWFhaWXNfNnktX0NBMGdlUjZOUElBSVh2NnJhZklqN19jN1RIYXFoQWRHdGJKajFIeVhydWRfZ0tiZzNKWE5xR0htcFZxYmc2T1MxT245SnJDbW8?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Best Practices for Claude in Excel and PowerPoint - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMzgtTWNRM3NyUFMyZTRhTnRTc1hRMGl3V1NrcThobHBRT3preFhkMG1MV0NiSEVrVzgzVWI4VW5JR0dpRW91dW1JQ2tGaGwtTV9pMFM3VHJiSVFoQklER3ZYZldZZG9QbzU5QUx5YUZvUl95cTQ0blhnZzNCOWh4TkhhTFFwbFNXWDRuYg?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Anthropic’s Transparency Hub - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOGNPVlJHSVBGcWhMeTZjLWtfTjNRWTlUSEc2amNaTVBEU2g5YlZMeWJCU0FKajNtQm1BdHZQTjJoUVNKSG5mY05HdGNZWHZ3NVF5Y2EwYXVseWpma1FQWGhJRU1MYUFWOWxQZkZMLTBrQmhjT1o0UjY4bGlRNzZHLVVQc3NqMU5DVGthZlRKc19UQnN5aUpoejFjQk95T2I1ZnQtOQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Claude Sonnet 4.6 - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE55elJyN0ZndFZRX01MLTVRcTd6Z3pYektWYzdCMW9JTmpZN0JLS2pBQlF2cS1GXzM4RTNNUWpPXzNaUElRZ0tjZFNqR1R2MnVFempWUXpaYks2WXRMcTJOZ1RSc0dpeEV2WjdzeDNaSl9JUHdjTHVBUg?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "How leading companies deploy Claude Code skills on Vertex AI - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOUpRZWd2ZlgwTWNWNjZtaGRaUjJYSG9jMGhhenBQVS1ERk9mOFM2OTVWZVRldDZqVzFZZndPakpMNml6eHo3U2ZISGlBU1lFZzZkeHJLZEIyN1BpX1hPU1FKdEQwQmFSMzJ0aHBIT1FZcUhua2w3Z2cxMG5qclpQQkRDU1VfOG4tdF9rV2xNMy1Bbm5WcmtzZ3dGUQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Anthropic’s AI for Science Program Official Rules - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1rZFUxVmdKY1N2QUE3TUNaQWotclp0NG1QdkJyVlhSSE93WmhQbzJDX0RoblZOdS00ZTZuRFVTVGU2MUJHQ0dTLXJTTkxoT3dxSlh1cVhSN1RNTUdFbUp6emx3UXc?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Claude’s Constitution - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBUMDY5WFhiZTBRREJnQkZnY24xUlJiSmQ3cU1LV1lyVGVmRWswMjUzUDJucU16Zm8yZFRSYWZ1VTRJS0JnLUlFSEJsd0RxZFNrSThxS2dNSlVzTVRkSmRJdW01b2MxUjNydEtLdGZrUWRjVTdOQjJV?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Jobs - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1vNVRwMjRwVmVlazE0X2RuakRac1ktd2IyNFNxaTlibjh3OURJYVB3Y09oUUxYM2Z2UWh0cWtBOWhiQi1fZXdrOF9mSUJpT0gyQ3htZTRNSXFocFdXTnJ4bVo3MnEzbDJOXzBF?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Claude Code in an Hour: A Developer's Intro - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTGRidkpEWjY1dGNnNkVBNVZYUVIyMzVqZFE5bkR2TnRNa1hLVkxISGdLRVNjU0JINEoxeWRxWFVZTDJGdXg1aWVZQWlpZnFIRzF3Ylpmb2FxdjlWZmNRd0pBZVNUaC1Ha1BzYXBCRm52dFhRczdkUEZLVzdwRGo4R1Fn?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
     },
     {
       "title": "WebSocket Mode - OpenAI",
@@ -835,5 +982,5 @@
       "source": "news"
     }
   ],
-  "generated_at": "2026-02-24T13:11:39.607Z"
+  "generated_at": "2026-02-24T13:12:18.899Z"
 }
