@@ -1,5 +1,5 @@
 {
-  "summary": "## QUICK BRIEF\n\nThe consulting world is consolidating around AI transformation services as both McKinsey and BCG formalize major partnerships with OpenAI, signaling a land grab for enterprise AI implementation work worth potentially $200B. Meanwhile, Chinese AI models are dominating open benchmarks while facing US accusations of mining Western AI systems, creating a geopolitical dynamic that will complicate enterprise deployment decisions. Switzerland's release of a public-data-trained model and Yann LeCun's dismissal of current LLMs as \"nearly obsolete\" suggest the next phase of AI may favor different architectures and data strategies than today's dominant players.\n\n## COMMUNITY PULSE\n\n- **Yann LeCun says today's LLMs are nearly obsolete** (124 pts, 140 comments) - Deep technical debate about whether current transformer architectures hit fundamental limits. Community split between believers in scaling laws and those expecting architectural revolution. Matters because enterprise clients need guidance on whether to double down on LLMs or hedge bets.\n\n- **Intel Neural-Chat-7B tops LLM leaderboard** (37 pts, 64 comments) - Discussion focuses on open-source model competition heating up and whether specialized smaller models can compete with frontier giants. Skepticism about benchmark gaming vs real-world performance. Signals continued demand for deployment-ready alternatives to OpenAI/Anthropic.\n\n- **Chinese AI models storm Hugging Face benchmark** (6 pts, 0 comments) - Low engagement despite significance suggests HN audience fatigued by China AI stories, but the performance gains are real and creating enterprise concerns about IP and compliance.\n\n- **Switzerland releases public-data AI model** (5 pts, 3 comments) - Small but engaged discussion about sovereign AI and training on public vs scraped data. Represents growing trend of governments wanting domestic AI capabilities.\n\n- **LLMs running at 13 watts without performance loss** (3 pts, 0 comments) - Efficiency breakthrough getting little attention, but critical for edge deployment and cost reduction in enterprise settings.\n\nOverall sentiment: Technical skepticism is rising about current architectures while practical deployment concerns (efficiency, cost, sovereignty) gain attention.\n\n## KEY DEVELOPMENTS\n\n- **McKinsey and BCG both announce OpenAI \"Frontier Alliance\" partnerships** - The two largest strategy firms simultaneously formalizing enterprise AI implementation partnerships represents a major market signal. These aren't technology partnerships—they're go-to-market alliances positioning consulting firms as the implementation layer between OpenAI's technology and Fortune 500 transformation. BCG specifically quantifies a $200B opportunity for tech service providers in agentic AI. This validates the enterprise transformation consulting model but also means competition for implementation work will intensify rapidly as every major consultancy races to similar partnerships.\n\n- **Anthropic accuses Chinese labs of systematically mining Claude responses** - This isn't just IP theft drama—it's evidence that Chinese AI development is now advanced enough to use Western models as training data rather than just copying architectures. For enterprises, this raises real questions about data residency and whether prompts/responses to AI systems constitute IP leakage. The timing is notable as US debates restricting AI chip exports, suggesting regulatory environment will tighten around cross-border AI usage.\n\n- **Defense Secretary personally summons Anthropic CEO over military Claude use** - When cabinet-level officials start calling AI CEOs directly, it signals government is moving from observation to active involvement in AI deployment decisions. This likely precedes new guidance or restrictions on AI use in sensitive sectors. For consulting firms, this means compliance and governance frameworks will become mandatory components of any enterprise AI project, especially in regulated industries or government-adjacent work.\n\n- **Switzerland launches sovereign AI model trained exclusively on public data** - This represents a emerging pattern: governments building domestic AI capabilities using legally unambiguous training data. The public-data-only approach sidesteps copyright issues but limits capability. For consulting, this signals a coming market for helping organizations navigate the tradeoff between using powerful but legally murky models versus weaker but compliant ones. Expect more clients asking about \"clean data\" training options.\n\n- **OpenAI bringing in consultants for enterprise push** - The irony of OpenAI needing consulting help to sell to enterprises shows how different building AI technology is from selling transformation services. This confirms the consulting value prop: enterprises don't just need tools, they need implementation expertise, change management, and business process redesign. However, it also means OpenAI is learning the consulting playbook and may eventually compete more directly.\n\n- **Yann LeCun declares current LLMs nearly obsolete** - The chief AI scientist at Meta publicly dismissing the entire transformer/LLM paradigm isn't just academic posturing—it's Meta telegraphing a strategic bet on different architectures. For enterprises currently investing millions in LLM implementations, this raises uncomfortable questions about technical debt and whether today's solutions will need replacing in 2-3 years. Consulting firms need a position on architectural longevity when advising on multi-year AI investments.\n\n- **Guide Labs debuts \"interpretable\" LLM architecture** - New approaches to AI explainability keep emerging because enterprises genuinely need it for regulated use cases. The fact that startups are still founding around interpretability suggests current leading models don't solve this problem adequately. This is a consulting opportunity: helping clients determine which use cases require interpretability and architecting hybrid solutions that use different models for different risk profiles.\n\n## WHAT THIS MEANS FOR TP\n\nThe McKinsey-BCG-OpenAI alliance announcements are the week's biggest signal for boutique AI consultancies. When the giants formalize partnerships and BCG publishes \"$200B opportunity\" reports, they're not just positioning—they're mobilizing massive sales and delivery machines. This will raise enterprise buyer awareness but also expectations around scope and speed. TP's differentiation can't be \"we do AI transformation\" anymore—it needs to be specific: faster deployment cycles, vertical specialization, or avoiding the big-firm overhead. The positive read is that these announcements validate the market and will create demand overflow, since McKinsey can't serve every mid-market company. The risk is that \"AI transformation\" becomes commoditized consulting faster than expected.\n\nThe geopolitical developments—Chinese model competition, Anthropic accusations, Defense Secretary involvement—mean governance and compliance are becoming mandatory components of enterprise AI, not optional add-ons. Every client conversation should now include questions about data residency, model provenance, and regulatory exposure. This is actually opportunity: most enterprises are unprepared for the compliance complexity, and TP can build expertise faster than generalist firms. Consider developing a specific framework for helping clients assess AI regulatory risk across jurisdictions, especially for companies with international operations or government customers.\n\nThe technical skepticism from LeCun and the emergence of alternative architectures (interpretable models, efficiency breakthroughs, smaller specialized models) suggests the \"just use GPT-4 for everything\" era is ending. Clients will increasingly need help architecting heterogeneous AI systems—using different models for different tasks based on cost, latency, interpretability, and compliance requirements. This is a consulting skill that takes time to develop and doesn't favor scale, which plays to TP's strengths. The Switzerland sovereign AI story, while small, represents a trend worth monitoring: enterprises asking about models trained on \"clean\" data or wanting private deployments. There's likely a market emerging for helping organizations evaluate and implement these alternatives to the major commercial APIs.",
+  "summary": "## QUICK BRIEF\n\nThe consulting battleground for enterprise AI just intensified as OpenAI announced both McKinsey's Frontier Alliance and BCG's expanded partnership, signaling the hyperscalers are done building solo. Meanwhile, Anthropic finds itself in military hot water as the Defense Secretary summons CEO Dario Amodei over Claude's military applications, while simultaneously battling Chinese labs accused of mining Claude's outputs. Yann LeCun's declaration that current LLMs are \"nearly obsolete\" (124 pts, 140 comments on HN) is sparking intense debate about what comes next, just as BCG pegs agentic AI as a $200B opportunity for tech service providers.\n\n## COMMUNITY PULSE\n\n- **Yann LeCun thinks today's LLMs are nearly obsolete** (124 pts, 140 comments) - The AI godfather's provocative take is driving heated debate about whether we're hitting architectural limits or just beginning. Community split between \"he's been saying this for years\" and \"transformers really are showing their limits.\" Matters because it signals potential paradigm shifts clients will ask about.\n\n- **Intel Neural-Chat-7B tops LLM leaderboard** (37 pts, 64 comments) - Intel's unexpected benchmark win has the community questioning benchmark gaming vs. real capability. Discussion focuses on whether traditional chipmakers can compete in the foundation model race. Indicates enterprise clients may have more vendor options than assumed.\n\n- **Chinese AI models storm Hugging Face leaderboard** (6 pts, 0 comments) - Despite low engagement, the story itself is significant given geopolitical tensions. Silence might indicate community fatigue with benchmark wars or concerns about discussing Chinese AI progress.\n\n- **Switzerland releases AI model on public data** (5 pts, 3 comments) - Small European nation going sovereign AI route. Community sees this as template for data sovereignty approaches, relevant for clients in regulated industries or non-US markets.\n\n- **AI researchers run LLMs at 13 watts** (3 pts, 0 comments) - Energy efficiency breakthrough gets minimal traction, suggesting community is either skeptical or the methodology isn't peer-validated yet. Worth monitoring as enterprise TCO concerns mount.\n\n- **Ask HN: Are we ready for embodied robotic agents?** (1 pt, 1 comment) - Low scores on practical deployment questions reflect gap between hype and readiness. Community isn't biting on robotics yet, indicating it's still early for most enterprise use cases.\n\n**Overall sentiment**: Fatigue with benchmark wars and model releases, genuine interest in architectural debates and efficiency gains. The community wants substance over hype.\n\n## KEY DEVELOPMENTS\n\n- **McKinsey and BCG both announce major OpenAI partnerships** - McKinsey launches \"Frontier Alliance\" while BCG expands its OpenAI relationship, both positioning themselves as exclusive implementation partners for enterprise AI transformations. This isn't just partnership announcements—it's the Big 3 consultancies publicly declaring AI consulting as a core competency and locking in preferential access to frontier models. For smaller firms like TP, this means the enterprise pitch is shifting from \"should we do AI\" to \"which implementation partner and stack do we choose,\" fundamentally changing the sales conversation.\n\n- **Anthropic faces dual pressure: Defense scrutiny and Chinese mining allegations** - Defense Secretary personally summons Dario Amodei over military Claude usage while Anthropic simultaneously accuses Chinese labs of mining Claude outputs to train competing models. This creates a fascinating tension: Anthropic wants to be the \"safety-first\" provider but is being pulled into defense applications it's uncomfortable with, while also dealing with IP theft concerns that could impact API access policies. Enterprise clients using Claude need to understand these geopolitical entanglements affect platform stability.\n\n- **BCG quantifies agentic AI opportunity at $200B for tech service providers** - Major consultancy putting hard numbers on the agent economy, specifically calling out the opportunity for implementation partners and system integrators. The report likely defines what \"agentic AI\" means in BCG's client conversations, setting market expectations. This validates the agent consulting opportunity but also means competition is about to get fierce as every tech services firm pivots toward this number.\n\n- **OpenAI \"calls in the consultants\" for enterprise push** - Beyond the McKinsey/BCG announcements, this signals OpenAI recognizes it can't scale enterprise alone. They're essentially admitting the last mile of enterprise AI requires change management, integration expertise, and domain knowledge they don't have. Creates opportunity but also means every deal will have consultancy involvement—can't bypass them to work directly with OpenAI anymore.\n\n- **Guide Labs launches \"interpretable LLM\"** - New startup promising transparency in model reasoning, addressing the explainability problem that blocks AI adoption in regulated industries. If legitimate, this could unlock healthcare, finance, and legal use cases currently stuck in compliance hell. Worth technical evaluation as it could become a differentiator for compliance-heavy client work.\n\n- **Meta AI security researcher reports OpenClaw agent \"ran amok\" on her inbox** - Real-world agent failure story from inside Meta. These operational horror stories are exactly what enterprise buyers fear and will increasingly ask about in consulting conversations. Every pitch needs an answer to \"what happens when it goes wrong\" backed by incident response frameworks.\n\n- **Google VP warns two types of AI startups \"may not survive\"** - While article details aren't provided, this typically means thin wrappers around foundation models and undifferentiated infrastructure plays are at risk. Validates focusing on domain expertise and integration complexity rather than model access as the consulting value proposition.\n\n## WHAT THIS MEANS FOR TP\n\nThe McKinsey/BCG-OpenAI partnerships are the most strategically significant development. These aren't technology deals—they're market positioning moves that redefine who gets to play in enterprise AI consulting. The implication: large enterprises will increasingly view AI transformation as requiring both a foundation model provider AND a tier-1 consultancy, making it harder for boutique firms to compete on pure AI expertise. TP's response should be hyper-specialization: own specific verticals or use cases so deeply that even McKinsey engagement teams need to subcontract that expertise. The \"we're AI experts\" positioning is now table stakes that won't win deals alone.\n\nThe Anthropic-Defense situation creates an immediate talking point for risk-aware clients, particularly those in regulated industries or with government exposure. There's a consulting service opportunity here: helping clients conduct vendor risk assessments that account for geopolitical entanglement, not just technical capabilities. As AI platforms get pulled into national security debates, procurement teams need frameworks for evaluating platform stability beyond uptime SLAs. This could be packaged as \"AI Vendor Geopolitical Risk Assessment\" services.\n\nThe $200B agentic AI figure from BCG simultaneously validates the opportunity and signals incoming competition. Every consultancy will now have an \"agent practice\" within quarters. TP's window to establish agent expertise and case studies is probably 6-9 months before the market gets saturated with me-too offerings. Priority should be landing 2-3 agent implementations immediately—even at lower margins—to have reference architectures and lessons learned before the rush. The firms that can show \"we've already done this and here's what breaks\" will win against firms selling theoretical frameworks.",
   "sources": [
     {
       "title": "Switzerland releases its own AI model trained on public data",
@@ -686,6 +686,125 @@
       "score": 0,
       "comments": 0,
       "source": "bcg"
+    },
+    {
+      "title": "Private Equity Outlook 2026: Gaining Traction - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMUlBVGJ1bDV2QXdiV29LQk1RQnh0SG9WOHJ3Q3FtT1hESUNTVjQyTVBxM3FLX3ZzZ3VKYTV3QVFnYWk0cG5OUURSMm5tdkxOZWFWN21kUDVrYkNMQ1FIUmY1Wl9rYVpfVzZWSjNKQXlSbldRVTBkNklIT1hUSDV2MGluT2prbWpQcE5iV0RiQWJDeVU?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Want More Out of Your AI Investments? Think People First - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbnlWUW05WlJGRko3S2tuaGpNLWFSZmYtOV9xbk1YWU5obE5YcVZ4MjZSQllzU2hSeEpqUHZsM1dHOVVlSmlOOXhyZ282ald6RmxGck1WbUFEN0FiV3FmTWVYYVlhV3hUZG54c0o5NkM3c2RBenNhbXp1SlYwR25VcmlzZW9Ec2R5cmZZM25Daw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Life Sciences’ AI Momentum Requires a Workforce Redesign - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNmVsRHFTWGpvS3RxMXB0dk1qVmZ0cWlVM0xsa1YzN3NOSk5VUnI0LUhvSDNhemF1cVRUcXZwSEc1S2xwNVk5NnRiTjdUQlBCVy1xOXFJZFRoaGRZbDN5TEdMeG5DeDFBd3JIYXp2dk5zZTRLcTNFX29Hc2lUUjVSU1dRbUVpVU5XekU0em9IVzR6c2M3dkktZVBhYmpIZw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "US Consumer Health Update - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9IWklRbG9OWl9kU1JhTkttYVNLNWN2NGYweVMwb01MU1dXWGhLRGxfZkdqNTkzNHFCeU5JaFQyZi1XS1RJbEpFWW1iNUM5T2RrNzktT2x1emZueEExdGZJbUZHb2pYWkdH?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Welcome to a New Era in Private Equity - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTkRjVmFLOTlRb1llenFqVDh6OTcyc2gxblBhbUx1aUxnX0tjQlAyTjlvWUtBWGM1dWhGa2cxOUtNeXgtVXQwSVktdkRoTjhuQVBHVWkzU2lpVjFSMHYzSm9Wc3hlT1pSOEwybFlDN0NMX3NCeXRuMnBIODltR2gwR3EzYXVOY21nTnZaazVn?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Key Insights from Bain’s 2026 Paper & Packaging Report - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMVVzTzgtNmJ2RWhxWHUyTXNwN2lvVFZ1ZTM3MFVTeTlZRktlVXozaURsdUptYlQ0d2VMVTJwZjBKeTJyM2JWZ0lUV1pReVJRRTZtTWNnaDdZb3N1TWRzbUt2azdicUx3dzRabkZ2bmd4cUJDNTZwOGtKU28tTDYwZGRwMzIxTWU2X1pZNDd5TEFRdnI1SWVoQkdR?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "2026 Paris Webinar | La stratégie au cœur de la transformation des services financiers - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQVExZUROM2cxWk8wZkt5RVd1TlVnSXFwR2NKZ3NqWWY1WWJGQjZ6Rk5SR0l6WHZXNVRCcG9RNlgwRzcyQmRnb0Y3SFprZjkxVFpUWGREZzlpUHJ2N1lDWVprZUdpSEpPSzFIQzdDZzNoUzhGQWZuRlRQOGVEaEI3MDJINWVDTlFqQ1MxTkRkRmJIcU9YWmY2RWN2QlM5VjQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Bain & Company appoints Tom de Waele as regional managing partner for Europe, Middle East and Africa - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQaXFuN25wRTZ3OEo3Ym9hTWlNNEVHV3I3a1hrYk1GeGJCM0dzZkFDMHBhNXhDc3BVbkhHNnJuOEdxYnFwWGdHdWdoa20weHpyanlhd21ibFdscFpQUHY2RXRvR2JKRXJPS1JkcEtGMGlIaXdRU0Rpcldxc1p2QW9ycVctUEtGaFF3VXNUS3R6LThVdVVOWGRrMi1OeDlpU0dZU1ZCbE4xS0NfMzNaZTd5dXU4d3FzVWlUNGhtUnUwcGVJeUdobmI2QVU0VWlWeWluR3hqZThtS0ZXR25NTklyalhMYmlEdmJ3TkZoNGhLWGM?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Rich Wilson - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9FTURBT2pEM3lXSUlsZWEzN0NJS09HQktWTEE1NHI5WHk0ZnI4OEstczl3VlNmYkNSNWNUVng4WVhqT05SME9OZllnZmhyZHVfY05wYg?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Six Threats Demand a New Playbook for Banks in Wealth and Asset Management - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVGNaZ0pkLTdmVzN1MmMwMElvZDBLSGdjZnhUR3I3dFlrendJSWRtZFlRUUJjM0FZUk9TcVVKWi1lUG4wLUZyVjlTX1BUalhidUp6T3UtZDhpbWNEUnY0ZHpVWlo4YnNNMTFOUzBQSmxhOHZkY1V3aFd6VVplV1NYaC1ZMzFMRUhCdFJ3Umx5b1VjaUttWVlla3RMbkRURXZUMThEWTI4QjM?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Is Your Telco Winning the Race to Autonomous Networks? - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcGVOeUltbGJwRzJQYk5vdHcyUmVIVnJMb09kV0M2QnJNUkxhNEtzR2NaVHJhTUNXR1VIbUJpZjZlQmZEQVZhM2hsbUk5TU9tWkJFNHNwV2pRYnhkUy04ZHppbTRtRkhVMXMwcG9yUXVNVlRYZ29rbFZHaTlHWHgzMWFGa19OcE05STFoSQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "2026 Stanford Sophomore/Junior Coffee Chats - In-person - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOFhDNWdZRFRIeGNfTWZOUE0yajdhNmhQVUdoMV9MQlN2OHcySElrb1dsbTFmWEJPUVBWb0daanBaaFFqZXYtS1gxcUJTaTkyWnJxY3MwRWhSRmVsUGFHb1ltTldQd1BpSlRVZFZVeG8zbHlFWEVuTXB1Q0ZhOHo2M1NnS2V4OXJJUkg0d004NTBtNkczUWplRXBTMVlOU0E?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Data Associate, Pricing - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBoVmhfdy00V0ZsMmRPbGhEcmFCb0NrNHV1U044X293WXEzVy1ERnoxYWswWGpWTkVLT3loOEhTWWN6Y2FWWEFmQk03NjRtU3hNU0lwMEU0U285MWVHSkdMcV9BWTh1UElEREZEZHh4MTY?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Accountant, Global Investment Services - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB3ZU5RY3hscUU1YW1GaTh0VnJXMzFfQzlqdE4yLWN3VjJIanZLRnRfMGpCMHB3NjdMVWhaVHVaQXZEWk1KdE81S19pT2puSTl5aWtkWFZreVJpNUw5aXJoQXJlRl85dXhVbDZMenpDbXg?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Execs Aren’t Prepared for the Post-Quantum Cybersecurity Risks They Know Are Coming - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSy00M0dHNTAzMk1zUTdNb21weEJ4UVNCTGwybzltclVpbXdmYnZFejdkSkVKX3hKZXRSeXgySjJtaTE4U2VWOHNQUVhFbGl3cmlEMjNRSUhkMDNzLVBaMERGTXVlUFo5akFkel9HMVQyTlpnTmJTaTlLZW9ZdV9KaEtEU0RRdm5HX3hzUC1YRUFNMDBoWHJKVkFWVjRaUERNdWdXT2JxRkRkb3lqLXlTNHFYX2dhUTRwWUdmdklWdno4UQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Bain & Company’s Global Private Equity Report 2026: Executive Summary - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOFB0ZGQ5S3ozdk9KaUY3MV9LNXV4Q2dYZDZkTGl0WDhueWI3Z0RZSkpIdGJrdXpUOFJ6NnV5MmgzenV2NG9RbFNTR3pFbk5MMmJVZXpmVmVhdlJPbDJ5cGZhdXY1WkRDVTV1UzZCSHdqSldwRW9WLVRQZFdZeWVBcnpxaXFMNy1GOHlrTFFfUklINzMzOTc0c3cydEllWkF0eGdpa2pSUjd0eGFf?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Human Resources Analyst - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1zeXFEdWVmXy1uTmZJR29KdkhQZVo2ZE11cEFhdlM3SmVSeGNoa3JtOHYzRGRFd3U5a2h4U2NtRHJaRjk0UTRQdG5xaTl5anZyUW9Ma2I4b1hSUEl5aU5PSjFyLVhqZ1VqV21kV09FZnA?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
     },
     {
       "title": "Accelerating discovery in India through AI-powered science and education - Google DeepMind",
@@ -1549,5 +1668,5 @@
       "source": "news"
     }
   ],
-  "generated_at": "2026-02-24T13:16:58.745Z"
+  "generated_at": "2026-02-24T13:17:48.304Z"
 }
