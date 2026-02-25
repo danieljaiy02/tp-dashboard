@@ -1,5 +1,5 @@
 {
-  "summary": "## QUICK BRIEF\n\nOpenAI is going all-in on enterprise with major consulting partnerships (McKinsey, BCG, Bessemer) and new developer tools, while its COO admits AI hasn't penetrated business processes yet. Meta just struck a massive up-to-$100B AMD chip deal and is racing toward \"personal superintelligence.\" Meanwhile, Anthropic is fighting a Pentagon dispute, launching enterprise agent plug-ins, and accusing Chinese labs of mining Claude—while MatX raised $500M to challenge Nvidia's chip dominance. The message is clear: the AI infrastructure war is heating up while enterprise adoption remains the biggest unsolved problem.\n\n## COMMUNITY PULSE\n\nBased on the provided data (primarily news headlines rather than community discussions), key themes emerging:\n\n- **OpenAI enterprise push meets reality check** - Multiple partnership announcements (McKinsey, BCG) alongside COO's admission that enterprise penetration is minimal. Community sentiment appears split between excitement over new tools (Realtime API updates, Codex features) and frustration over basic issues (moderation appeals, OAuth problems, scanning tools).\n\n- **Infrastructure scaling concerns** - Developers reporting elevated error rates for Enterprise customers, Realtime API issues, and MCP timeout problems suggest growing pains as OpenAI scales. The gap between marketing (new enterprise features) and reality (stability issues) is notable.\n\n- **Meta's chip strategy shift** - The AMD deal signals serious doubts about Nvidia dependency, potentially validating concerns about supply chain concentration that have been circulating in technical communities.\n\n- **Agent security anxieties** - Meta researcher's story about OpenClaw agent \"running amok\" in her inbox crystallizes emerging fears about agent reliability in production environments.\n\n- **Model compression interest** - Multiverse Computing's free compressed model release suggests growing demand for efficient deployment options, particularly relevant for cost-conscious enterprises.\n\n## KEY DEVELOPMENTS\n\n- **OpenAI mobilizes consulting giants for enterprise conversion** - Hired Partner Directors for McKinsey and BCG alliances while COO publicly states AI hasn't penetrated enterprise processes yet. This is a candid admission that closes the multi-billion-dollar gap between lab capabilities and business value capture. For consulting firms, this validates that implementation expertise—not just technology access—is where the money is. The timing suggests OpenAI recognizes it can't crack enterprise alone and needs services partners to translate capabilities into business outcomes.\n\n- **Meta commits up to $100B to AMD chips while pursuing 'personal superintelligence'** - This represents the largest known AI chip deal outside Nvidia and signals a strategic hedge against single-vendor dependency. The \"personal superintelligence\" framing is marketing, but the infrastructure commitment is real—Meta is building capacity for models that run on user devices or edge infrastructure. For consultants, this means advising clients on multi-vendor chip strategies and preparing for a world where powerful AI runs locally, not just in centralized clouds.\n\n- **MatX raises $500M to challenge Nvidia's dominance** - Another well-funded Nvidia challenger emerges, following Cerebras, Groq, and others. The pattern is clear: there's massive capital betting that Nvidia's margins and supply constraints create an opening. For enterprise clients, this means chip diversity is coming whether they want it or not—consultants need frameworks for evaluating novel accelerators and managing heterogeneous infrastructure.\n\n- **Anthropic launches enterprise agent plug-ins while fighting Pentagon and Chinese mining** - Rolling out pre-built integrations for finance, engineering, and design tools while simultaneously battling government over AI access policies and accusing Chinese labs of stealing training data. The plug-in launch is pure enterprise GTM—Anthropic learned from OpenAI that custom integrations are bottlenecks. The geopolitical battles show AI companies are now operating in a regulatory minefield where every technical decision has national security implications.\n\n- **Nimble raises $47M for real-time web data access for AI agents** - Addresses a critical agent limitation: most models work with stale training data or can't reliably access current web information. Real-time data access is essential for agents handling tasks like market research, competitive intelligence, or dynamic pricing. This infrastructure layer matters because it determines whether agents can actually replace human workflows or just augment them. Expect more specialized infrastructure plays like this as agent adoption grows.\n\n- **OpenAI shipping developer infrastructure rapidly** - WebSocket Mode, EVMbench for smart contract security, expanded file input types (docx, pptx, xlsx), prompt caching improvements, and gpt-realtime-1.5 all launched. The velocity suggests OpenAI is racing to build a complete platform before competitors catch up. For enterprises, this creates a moving target problem—anything you build today might be obsolete in weeks. Consultants need strategies for building on evolving foundations without constant rewrites.\n\n- **New Relic and Canva make infrastructure acquisitions** - New Relic launching AI agent platform with OpenTelemetry tools positions them as the observability layer for agent operations. Canva acquiring animation/marketing startups shows platform players building AI-native creative suites. These horizontal platform moves matter because they determine which vendors can offer end-to-end solutions versus who needs integration partners.\n\n## WHAT THIS MEANS FOR TP\n\nThe OpenAI-consulting firm partnerships are the most significant development—they validate that AI implementation is a services business, not just a technology sale. OpenAI hiring Partner Directors for McKinsey and BCG acknowledges what we've known: enterprises don't buy GPT-4 and magically transform their operations. They need implementation partners who understand their business processes, change management, and integration complexity. This creates immediate opportunity for TP to position as the boutique alternative—faster, more technical, without the big firm overhead. The key message: \"McKinsey will sell you a six-month study; we'll have your first agent deployed in six weeks.\"\n\nThe enterprise penetration gap is real and enormous. OpenAI's COO admitting AI hasn't penetrated business processes yet is remarkable—it means the race is still early. TP should be talking to clients about being \"enterprise AI pioneers\" rather than \"fast followers.\" The companies that figure out agent deployment, workflow integration, and change management now will have 18-24 months of operational learning before competitors catch up. This is the window to build defensible advantages. We should be offering \"AI integration sprints\"—rapid pilots that prove value and build internal capabilities.\n\nThe infrastructure fragmentation (AMD's Meta deal, MatX funding, multiple chip vendors) creates both risk and opportunity. Risk: clients will face decision paralysis about which platforms to standardize on. Opportunity: TP can offer \"AI infrastructure strategy\" services—helping clients build vendor-agnostic architectures that can adapt as the landscape shifts. With Nvidia's dominance eroding, enterprises need guidance on multi-vendor strategies, model portability, and avoiding lock-in. This is particularly relevant for clients considering on-premise or hybrid deployments where chip selection has long-term implications. The smart play is building abstraction layers that let clients shift workloads between providers as economics and capabilities evolve.",
+  "summary": "## QUICK BRIEF\n\nEnterprise AI deployment remains stubbornly slow despite model advances — OpenAI's COO admits \"we have not yet really seen AI penetrate enterprise business processes.\" Meanwhile, the infrastructure wars intensify: Meta commits up to $100B to AMD chips chasing \"personal superintelligence,\" while Nvidia challenger MatX raises $500M. Both OpenAI and Anthropic are making aggressive enterprise plays through consulting partnerships (McKinsey, BCG) and new agent platforms, even as Anthropic battles Pentagon restrictions and accuses Chinese labs of model theft through distillation attacks.\n\n## COMMUNITY PULSE\n\nBased on the source data (primarily company announcements rather than community forums), key themes emerging:\n\n- **Enterprise adoption skepticism** - OpenAI's own COO publicly acknowledging lack of enterprise penetration validates widespread concerns about the implementation gap between capability and deployment\n- **Agent security concerns growing** - Meta AI researcher reporting OpenClaw agent \"ran amok\" on her inbox highlights real risks that will resonate with cautious enterprise buyers\n- **Distillation attack awareness rising** - Anthropic's accusation against Chinese AI labs brings model IP protection into mainstream conversation, critical for enterprises evaluating vendor relationships\n- **Infrastructure diversification accelerating** - Meta's massive AMD deal signals reduced Nvidia dependence is becoming strategic priority across industry\n- **Consulting as distribution channel** - OpenAI hiring Partner Directors for McKinsey and BCG alliances shows Big Tech treating consultancies as essential enterprise gatekeepers\n\nOverall sentiment: Cautious optimism mixed with implementation anxiety. The gap between technical capability and business process integration is the dominant concern.\n\n## KEY DEVELOPMENTS\n\n- **OpenAI COO admits enterprise AI penetration remains minimal** - Brad Lightcap's public acknowledgment that AI \"has not yet really seen penetration in enterprise business processes\" is a remarkable admission from a company valued at $300B. This validates what many implementers already know: the gap between demos and deployed systems remains massive. For consulting firms, this confirms the market opportunity lies in implementation services, not just model access. It also suggests OpenAI sees consulting partnerships as critical to closing this gap, hence their aggressive hiring of alliance directors.\n\n- **OpenAI forms strategic alliances with McKinsey and BCG** - Two separate Partner Director positions (one for McKinsey, one for BCG) signal OpenAI is treating management consultancies as their primary enterprise distribution channel. This is a direct play for the implementation services layer — acknowledging that Fortune 500s trust their existing consulting relationships more than tech vendors. For mid-tier consultancies like TP, this creates both opportunity (rising tide lifts all boats as enterprises invest in AI transformation) and threat (Big 3 consultancies gain privileged access to cutting-edge capabilities and co-marketing).\n\n- **Meta commits up to $100B to AMD chips, diversifying from Nvidia** - This isn't just a procurement decision; it's Meta declaring intent to build \"personal superintelligence\" while reducing dependence on Nvidia's near-monopoly. The deal validates AMD's AI chip credentials and signals that hyperscalers are willing to invest in multi-vendor strategies despite potential performance tradeoffs. For enterprise buyers, this increases negotiating leverage and suggests AMD-based inference may become a viable cost optimization strategy within 12-18 months.\n\n- **Nvidia competitor MatX raises $500M for AI chips** - A half-billion raise for an AI chip startup mid-cycle indicates deep conviction that the semiconductor layer remains winner-take-most. MatX is betting on purpose-built inference chips versus Nvidia's training-optimized architecture. For consultancies, this matters because client infrastructure decisions made today (Nvidia vs. alternatives) have 3-5 year lock-in implications. The fragmentation of the chip market also creates new complexity requiring expert guidance.\n\n- **Anthropic launches enterprise agent platform with finance/engineering/design plug-ins** - This is Anthropic's bid to become the enterprise agent company, directly competing with OpenAI's Codex push. The domain-specific plug-ins (finance, engineering, design) suggest they're targeting horizontal workflows rather than industry-specific use cases. The timing — simultaneous with their Responsible Scaling Policy 3.0 update — positions Anthropic as the \"safe enterprise choice.\" For consultancies, domain plug-ins could reduce custom integration work but also commoditize some implementation services.\n\n- **Anthropic accuses Chinese AI labs of mining Claude through distillation attacks** - This brings model IP protection into the enterprise conversation at a critical moment. If Chinese labs can successfully distill Claude's capabilities into their own models, it raises questions about the defensibility of any model's competitive moat. For enterprises, this amplifies data residency and vendor concentration concerns. For consultancies, it creates opportunity in helping clients develop multi-model strategies and intellectual property protection frameworks around their prompt engineering and fine-tuning investments.\n\n- **Nimble raises $47M to give AI agents real-time web data access** - The agent ecosystem is rapidly building out critical infrastructure pieces. Nimble's focus on real-time web data (vs. static training data) addresses a key limitation of current LLMs. This matters because effective enterprise agents need current information for tasks like market research, competitive intelligence, and regulatory monitoring. For consultancies, the proliferation of agent infrastructure providers (Nimble for data, various providers for security, orchestration, etc.) creates integration complexity that requires expert navigation.\n\n## WHAT THIS MEANS FOR TP\n\nThe enterprise implementation gap OpenAI's COO acknowledged is the single most important consulting opportunity in the market today. While OpenAI partners with McKinsey and BCG to reach Fortune 500s, there's a massive mid-market and lower-F500 segment that needs implementation expertise but won't pay Big 3 rates. TP should position explicitly against this gap: we help companies actually deploy AI into business processes, not just run pilots. The service mix should weight toward implementation over strategy — helping clients with agent scaffolding, security frameworks, multi-model orchestration, and workflow integration.\n\nThe consulting partnership arms race (OpenAI + McKinsey/BCG, Anthropic pushing enterprise agents) validates the thesis that model providers can't close the last mile alone. However, it also means TP needs differentiation beyond \"we implement Claude/GPT.\" The differentiators should be: speed (we move faster than Big 3), vertical depth (we understand specific industries deeply), and pragmatic multi-vendor approaches (we're not locked to one model provider). The Anthropic distillation accusations strengthen the case for multi-model strategies — clients shouldn't bet everything on one vendor's moat.\n\nInfrastructure fragmentation (Meta/AMD, MatX fundraise, Nvidia alternatives) creates a new consulting wedge: helping enterprises make smart infrastructure bets with 3-5 year implications. Most companies lack the expertise to evaluate AMD vs. Nvidia vs. emerging alternatives for their specific workload mix. TP could develop an \"AI infrastructure advisory\" practice helping clients optimize for their cost/performance/vendor diversity requirements. This requires deep technical chops but commands premium rates because infrastructure decisions are high-stakes and hard to reverse.",
   "sources": [
     {
       "title": "India’s AI boom pushes firms to trade near-term revenue for users",
@@ -140,6 +140,146 @@
       "score": 0,
       "comments": 0,
       "source": "openai"
+    },
+    {
+      "title": "Frontier Safety Roadmap - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBDdnU3VGY3a3o3REZhaVRHRmRJblRVbzhyRzRZeHhXVTRrT1dxYlJ4UEhtSU9Oa0V0a2RiOVJYeWtlb3p2NnZsZDJ2VHZWOWViQTNpbl9jWGNzYm43RllLTFJJWkc0V0hJX3J6cQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Responsible Scaling Policy Version 3.0 - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBoQmxUV1R3ZFVyeGJzNFlEV1djcXAxMWxDbDhHRjdvVnlUbmJTeEZVS0lwQ0JiN3Bob3FMbXZ0NTRzN2xQYXhIVmx3V3JRdDJGdVpkR0kyV2hmM280MHV4WmR1Wm1yWXEwQm1MMg?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "The Persona Selection Model: Why AI Assistants might Behave like Humans - Anthropic Alignment Science Blog",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBqMjRabUdwTkhGSnJOb2p2eUViU1Q1SjdvT1BkUUcxZ3BHSWNfN2Q5LU1YSlVGb0N1QlZIV0lXc1dRbU0tdWhXUUNQakdXcEZVOC04?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "The persona selection model - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1BckZLT0NmN0tZbUU0TjhycnYyaWxkQkNUWHFlWU0wM016a0xjbm5mN2V0b3p2VXQ0S2FBRWZnaVU3RXlFeXMyYjlxVkxUMUlDdWl5ZjVobEFzX21Zakl3NEdFTVBTRFF2d3c?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Detecting and preventing distillation attacks - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOUxlWTM0OXZ3cENhMEpobm5TWEM4cVRLOXRpRHlYSUZ3bThyNE1wcXhFY2ZCSkNHYUJEV1YtZ0VkSWxfVW9tc0lkVExFSFBhRUFPZENhNFNZQk5MNjJxQTdhT3dJYjl6ZUJseVplanY4R2NDcHdSU2RJWlV2MzlGYVhR?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Anthropic Education Report: The AI Fluency Index - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1nNGY0b3I3WjN5R2tucko1eUFsMUN4Um1GQlRnUTdpanN6VzA4TXIxTmprdVlscm9mRHEwSUpPZFBfUmRtS3h4MFpUajFQUkl0WlJ5NDhQakpxeUFmNUNwWA?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Anthropic’s Responsible Scaling Policy (version 3.0) - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE01bW04RlA4ZmcxcUtQbzRFaEFOeHVKWmV1c202VDlZOXhMeld6NF9XSFJmd2tvNHcyZGxSNmw0NFJvTXFvSUNnb3VZUllvTmo5QkVaMGdKRE54QUZITnozWHVqZEdPMlB1?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Making frontier cybersecurity capabilities available to defenders - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBvaU1YUDA5TzFVT0tfOGtOcUM4ZnZtRkR1WFZFVWlMcjVCUTFOUDZqRzVuTkh1QTRFcTRZQkkyM3JldkxzcjFEdkZPNW16TndPY2JEVW9BSUJpR2o3TFJLaA?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Measuring AI agent autonomy in practice - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1wWUdIaldIcHlJalJEdXQtVjBKUTlVYUo4dWtadTRreGhBNGlqdjN0QWxLSFFZZWpvTjJmalZsbUZEcnBFZHJHMzJLeUVyall1ZkdGb3ZQc1VqTXh1TkJyYWczM085QmMxUzZr?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Jobs - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWS1GYm9BNnpEUzM0U19iVWZxY1lDbndlVHVYLVdEVHlMTEVqYTFOdC1TMmZtcHROUEZrMGE5MkpWNUIxLXI3R0wwUEROdVNoMDRtMzJLVGR6eHJuQUYyd1pXa2pnc0l6VGdTaHBtRW1JS2IxWGtINC1ncFhZQWNrMlJoMndvNkZKQ3dSMlFxVHd4VjlzVktZQ3ozcGg?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Anthropic at Google Cloud Next 2026 - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9yQ09mbjY3OU9PRkpqWlBMODZTeXY0VjdZTTBGVDJVRFRtTlJFX3RHWkxjQWV3ZDJ2ZkV4SDVONVJrZTJILU4tVHFNSV9PZHdRaVYzZy1ubnkteF9CV3B1c1hKZDlIRml5Mi02VmRibzBaSVZGRXU4?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Jobs - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxOb2lBTWxCdHhSSGQyaE1mT0FteVNQV25KQnJvRTdmOG9YaUEtR2djN3pKNHZ2cDhOTUE1N2RVcVFjSlFyOFlFWXRrTWtLel8zOF9mUkdzNUZLTGtrRkJrd3BldHBJMEJ6MDVKTWtjM2tNUTRFNmFvWm1NRFphc2MzUElHd0ZPXzlTbXhFZ3pPMlhEQzNHQXZ5QjM2X2tNZDRiYVhGUWJEZUdwTW9RZEliVUtCTksyOTJEa1pVdFZPdjl1VFFqYTFwUXo1OEFtZldLcEFUbE9Sbi0xaVB5ZjlSem9FQUJiYTdZZzlHOFZpWTNyYUExcW5EdjVGa2F0NVpQRU1mNkx4cGNOWHlxVkNrTUtfTFRKcFk3ZktxWXVUamhTbzZzWFhaWXNfNnktX0NBMGdlUjZOUElBSVh2NnJhZklqN19jN1RIYXFoQWRHdGJKajFIeVhydWRfZ0tiZzNKWE5xR0htcFZxYmc2T1MxT245SnJDbW8?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Best Practices for Claude in Excel and PowerPoint - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMzgtTWNRM3NyUFMyZTRhTnRTc1hRMGl3V1NrcThobHBRT3preFhkMG1MV0NiSEVrVzgzVWI4VW5JR0dpRW91dW1JQ2tGaGwtTV9pMFM3VHJiSVFoQklER3ZYZldZZG9QbzU5QUx5YUZvUl95cTQ0blhnZzNCOWh4TkhhTFFwbFNXWDRuYg?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Building Products on Claude Opus 4.6 A Customer Success Story with Shortcut and Hex - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNHo5YS1ScG1VZ3YzcE41dm16azRVOVVzODRVdDRia1FoYlAzXzBkTkc3Sl80clZveXZKSHBIb200MEdYZjEyNTJQdGo1aDUycnhfd1VnWHYyMHJIdDROaVpRY1hJZV9FcXljX2lDME5RSUVRVkdlXzhpX2RhU2VKMzFPVHNueTVnYkdqM2puNXRFTWNOak1qemMzVXliWjN3SmxxcmJDeW9NSktheXVTaUNRTGVXemd0SHc?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Anthropic’s Transparency Hub - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOGNPVlJHSVBGcWhMeTZjLWtfTjNRWTlUSEc2amNaTVBEU2g5YlZMeWJCU0FKajNtQm1BdHZQTjJoUVNKSG5mY05HdGNZWHZ3NVF5Y2EwYXVseWpma1FQWGhJRU1MYUFWOWxQZkZMLTBrQmhjT1o0UjY4bGlRNzZHLVVQc3NqMU5DVGthZlRKc19UQnN5aUpoejFjQk95T2I1ZnQtOQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Responsible Scaling Policy Updates - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9IMmxLOFh6RzlzdlNiYmFYb240M05BOFFDYVc5ajhzbE5Vb2lkNklYNS1hbGVlQlUtV21EZE9YdEdpTldUV3o0Z2hWY0s5YzZkR0FGbW1FaUFVeS03emQ4eExHU3VEYUNUeHp1OTdhSFJaRFQ0TFdkRA?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "How leading companies deploy Claude Code skills on Vertex AI - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOUpRZWd2ZlgwTWNWNjZtaGRaUjJYSG9jMGhhenBQVS1ERk9mOFM2OTVWZVRldDZqVzFZZndPakpMNml6eHo3U2ZISGlBU1lFZzZkeHJLZEIyN1BpX1hPU1FKdEQwQmFSMzJ0aHBIT1FZcUhua2w3Z2cxMG5qclpQQkRDU1VfOG4tdF9rV2xNMy1Bbm5WcmtzZ3dGUQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Claude’s Constitution - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBUMDY5WFhiZTBRREJnQkZnY24xUlJiSmQ3cU1LV1lyVGVmRWswMjUzUDJucU16Zm8yZFRSYWZ1VTRJS0JnLUlFSEJsd0RxZFNrSThxS2dNSlVzTVRkSmRJdW01b2MxUjNydEtLdGZrUWRjVTdOQjJV?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Claude Code in an Hour: A Developer's Intro - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTGRidkpEWjY1dGNnNkVBNVZYUVIyMzVqZFE5bkR2TnRNa1hLVkxISGdLRVNjU0JINEoxeWRxWFVZTDJGdXg1aWVZQWlpZnFIRzF3Ylpmb2FxdjlWZmNRd0pBZVNUaC1Ha1BzYXBCRm52dFhRczdkUEZLVzdwRGo4R1Fn?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Jobs - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZGtraEl1em5ULUpPdGJwRFl4ajRPNEQxNkdRc3V6Sm1EN21IMWxHZjh2Ul9tZGJrS3czWnF3MnphLVowLWl1MV9KV0VFUFZUNXh4dENlMVN5NG03dzI1bVc3WERRUXhCV3VEVEEyNzBtR1Zfb0pjZG40VmpDbDR1eWJ2T1JxVGc?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
     },
     {
       "title": "Arvind KC appointed Chief People Officer - OpenAI",
@@ -828,5 +968,5 @@
       "source": "news"
     }
   ],
-  "generated_at": "2026-02-25T13:11:57.161Z"
+  "generated_at": "2026-02-25T13:12:42.569Z"
 }
