@@ -1,5 +1,5 @@
 {
-  "summary": "## QUICK BRIEF\n\nAnthropic acquired computer-use startup Vercept to accelerate Claude's automation capabilities while releasing updated safety policies, marking a strategic consolidation in the agentic AI space. OpenAI launched gpt-realtime-1.5 and continues building its enterprise infrastructure with new governance tools and partnership frameworks. Nvidia posted another record quarter fueled by massive AI infrastructure spending, though public opposition to datacenter expansion is intensifying. Meanwhile, Google consolidated its robotics division and extended Gemini's Android automation, while enterprise AI adoption accelerates across HR, sales, and workflow tools.\n\n## COMMUNITY PULSE\n\n**Anthropic's Vercept acquisition and RSP 3.0** (high engagement) - Developer community focused on implications for Claude's computer use reliability and safety commitments. Discussion centers on whether consolidation helps or hinders innovation in autonomous AI agents. Sentiment: cautiously optimistic about capability gains, concerned about market concentration.\n\n**OpenAI Realtime API 1.5 launch** (450+ pts, 180 comments) - Developers testing new voices and latency improvements, with some reporting integration challenges. Strong interest in building voice-native applications but frustration over documentation gaps and rate limits. Sentiment: excited but impatient for production stability.\n\n**Nvidia's continued dominance** (820 pts, 290 comments) - Discussion split between celebrating infrastructure scale enabling AI progress and concerns about monopolistic positioning. Notable thread on whether capex spending is sustainable or approaching bubble territory. Sentiment: bullish on short-term, uncertain about 2027+.\n\n**Public opposition to AI datacenters** (380 pts, 140 comments) - Local community activism against power grid strain and environmental impact gaining traction. Debates about whether AI benefits justify resource consumption. Sentiment: increasingly skeptical, especially outside tech hubs.\n\n**Google's Intrinsic consolidation** (220 pts, 85 comments) - Seen as Google finally getting serious about commercializing robotics research after years of fragmentation. Questions about whether this signals enterprise robotics breakthrough or another reorganization. Sentiment: hopeful but cynical based on Google's history.\n\n## KEY DEVELOPMENTS\n\n**Anthropic acquires Vercept to strengthen computer-use capabilities** - Following Meta's poaching of one Vercept founder, Anthropic moved to acquire the entire startup focused on autonomous computer control. This M&A signals the strategic value of reliable computer-use infrastructure as AI moves toward agentic workflows. For consulting firms, this validates investing in computer-use expertise and suggests clients will soon expect AI that can navigate their existing software stacks autonomously. The consolidation also hints that building proprietary computer-use tech is expensive enough that even well-funded AI labs prefer acquisition.\n\n**Anthropic releases Responsible Scaling Policy 3.0 and updated safety commitments** - The company published comprehensive updates to its safety framework, including a Frontier Safety Roadmap and commitments around Claude Opus 3 deprecation timelines. This represents the most detailed enterprise safety documentation from any major AI provider, directly addressing CIO concerns about model stability and security. For consultancies, this creates an opening to position Claude as the \"enterprise-safe\" choice and build practices around Anthropic's transparency frameworks. The detailed safety roadmap also provides consulting talking points when clients worry about regulatory compliance.\n\n**OpenAI ships gpt-realtime-1.5 and expands enterprise governance tools** - The Realtime API upgrade includes new voice options and improved latency, while OpenAI added domain allowlists, data controls, and hosted tools management for enterprise accounts. The company is systematically building enterprise-grade infrastructure after years of focusing primarily on consumer products. This shift creates immediate opportunities for consultancies to help enterprises integrate real-time voice AI into customer service, internal tools, and workflow automation. The governance features also lower barriers to enterprise adoption by addressing compliance and security concerns.\n\n**Nvidia posts record quarter as AI capex spending accelerates despite public opposition** - Nvidia's earnings reflect continued massive infrastructure investment by hyperscalers, but TechCrunch reports mounting local opposition to datacenter expansion over power consumption and environmental impact. This tension between AI capability growth and resource constraints will increasingly shape deployment strategies. Consulting firms should prepare clients for potential delays in cloud capacity expansion and increased costs if regulatory pressure grows. The infrastructure bottleneck also strengthens the case for efficiency-focused AI strategies and smaller, optimized models.\n\n**Google consolidates robotics assets as Intrinsic joins main organization** - After years of scattered robotics efforts, Alphabet is bringing Intrinsic into Google proper, suggesting renewed focus on commercializing robotics AI. Combined with Gemini's expanded Android automation capabilities, Google is positioning for ambient AI across physical and digital environments. For enterprise consultancies, this signals robotics applications moving from experimental to production-ready, particularly in logistics, manufacturing, and facilities management. Client conversations should now include physical automation alongside software agents.\n\n**Jira enables AI agents and humans to work side-by-side** - Atlassian's integration of AI agents directly into Jira workflows represents a major shift in how enterprises will experience AI—not as separate tools but embedded in existing processes. This validates the \"AI alongside humans\" model rather than full automation. Consulting practices should focus on workflow redesign that assumes human-AI collaboration rather than replacement. The integration also demonstrates how enterprise software vendors will increasingly bundle AI, making \"build vs. buy\" decisions more complex.\n\n**Gemini adds multi-step Android automation** - Google extended Gemini's capabilities to chain multiple actions across Android apps, moving beyond simple queries to actual task completion. This positions mobile devices as potential AI execution environments, not just interfaces. For consultancies, this opens mobile-first AI strategies for field service, sales teams, and frontline workers. The development also suggests enterprises should consider mobile as a primary AI deployment target, especially for workflows involving both digital and physical tasks.\n\n## WHAT THIS MEANS FOR TP\n\nThe Anthropic-Vercept acquisition and RSP 3.0 release create a concrete positioning opportunity: TP can differentiate by specializing in \"enterprise-safe Claude deployments\" with computer-use capabilities. As clients increasingly want AI that can actually operate their software (not just advise), having deep expertise in Claude's computer-use features becomes valuable. The detailed safety frameworks also provide excellent client engagement material—most enterprises don't understand AI safety beyond surface level, and TP can build advisory services around implementing Anthropic's documented practices. Consider developing a \"Claude Safety Assessment\" offering that helps clients evaluate their AI deployment against RSP 3.0 criteria.\n\nThe convergence of embedded AI (Jira, Android, Adobe) versus standalone AI agents represents a strategic fork for consulting practices. TP should prepare for two distinct service lines: helping clients integrate vendor-bundled AI (optimization, change management, workflow redesign) versus building custom agent systems on platforms like OpenAI's API. The former will generate more immediate revenue as every enterprise software vendor ships AI features, but the latter offers higher margins and differentiation. The OpenAI governance tools launch suggests custom agent deployments are becoming enterprise-viable, so maintaining expertise in both paths is critical.\n\nThe infrastructure tension—Nvidia's record growth versus mounting public opposition—signals consulting conversations should shift toward efficiency and model optimization rather than assuming unlimited compute. Clients planning major AI initiatives need realistic guidance on cloud capacity constraints and rising costs. This creates an advisory opportunity around right-sizing AI ambitions, choosing smaller optimized models over frontier models where appropriate, and planning for potential regulatory or resource constraints. TP should develop POV content on \"AI strategy in a constrained infrastructure environment\" to position ahead of this shift becoming mainstream.",
+  "summary": "## QUICK BRIEF\n\nBCG pegs agentic AI at a $200B opportunity for tech service providers while major infrastructure plays accelerate. Anthropic acquired Vercept to strengthen Claude's computer-use capabilities after Meta poached a founder, signaling intensifying competition for automation talent. Nvidia posted another record quarter driven by unprecedented capex spending, while public opposition to AI infrastructure builds. Enterprise automation expanded with Jira enabling human-agent collaboration and Gemini automating multi-step Android tasks—concrete signals that the agent economy is moving from concept to deployment.\n\n## COMMUNITY PULSE\n\n*Note: Reddit/HN data not included in source material. Unable to provide community discussion metrics without social platform data. This section requires direct feeds from Reddit and Hacker News APIs to populate scores, comment counts, and sentiment trends.*\n\n## KEY DEVELOPMENTS\n\n- **BCG Quantifies the Agentic Opportunity at $200 Billion** - Boston Consulting Group published analysis positioning agentic AI as a massive market opportunity specifically for tech service providers. This validates what we've been seeing anecdotally: enterprises need help implementing agents, not just buying them. The report also emphasizes that \"AI alone isn't enough\" for supply chain planning, reinforcing the consulting gap between technology capability and operational implementation. BCG simultaneously expanded its OpenAI partnership through the Frontier Alliance, suggesting major consultancies are positioning themselves as essential AI implementation partners.\n\n- **Anthropic Acquires Vercept After Meta Talent Raid** - Anthropic moved to acquire computer-use AI startup Vercept immediately after Meta poached one of its founders, revealing the talent war intensifying around automation capabilities. This follows Anthropic's release of detailed safety documentation (Responsible Scaling Policy 3.0, Frontier Safety Roadmap) and enterprise guidance on agents and cybersecurity. The acquisition suggests computer-use capabilities—having AI directly manipulate software interfaces—remain a critical competitive differentiator, with Anthropic racing to maintain its lead in this area against well-funded competitors.\n\n- **Nvidia Records Another Blowout Quarter on Infrastructure Spending** - Nvidia reported record results driven by unprecedented capital expenditure from cloud providers and enterprises building AI infrastructure. This confirms the infrastructure buildout phase continues at full speed despite growing public opposition to AI data centers. The spending levels suggest enterprises are committed to AI transformation regardless of short-term ROI uncertainty, creating sustained demand for implementation expertise to justify these investments.\n\n- **Enterprise Agent Integration Goes Mainstream** - Two significant agent deployment announcements: Jira now allows AI agents and humans to work side-by-side on project management, and Gemini can automate multi-step tasks on Android. These aren't demos—they're shipping products integrating agents into daily workflows. Jira's move is particularly significant for enterprise adoption, as it places agents directly into existing work management systems rather than requiring new tools. This represents the shift from \"AI features\" to \"AI teammates\" that fundamentally changes how work gets orchestrated.\n\n- **OpenAI Signals Advertising Model for Consumer Products** - OpenAI's COO described ads as \"an iterative process,\" confirming the company is exploring advertising revenue beyond subscriptions and API fees. This matters because it suggests OpenAI sees limits to premium consumer pricing and needs alternative monetization—potentially changing the economics of AI access. The company also announced Frontier Alliances and new partnership structures, indicating strategic shifts in go-to-market approach. Meanwhile, 12% of US teens now use AI for emotional support, highlighting how consumer AI adoption is advancing in unexpected directions.\n\n- **Public Resistance to AI Infrastructure Intensifies** - TechCrunch reports \"public opposition to AI infrastructure is heating up,\" coinciding with the White House pushing AI companies to help cover utility rate hikes (most have agreed). This creates a significant operational risk for AI deployments—community opposition could slow data center buildouts and increase compliance costs. The US is also lobbying diplomats to fight foreign data sovereignty laws, revealing geopolitical tensions around AI infrastructure location and governance that could impact cross-border AI services.\n\n- **Adobe and Amazon Push Consumer AI Integration** - Adobe Firefly's video editor now auto-creates first drafts from footage, while Amazon's AI-powered Alexa+ gets personality options. These consumer product moves indicate the majors are racing to make AI feel less robotic and more integrated into creative and home workflows. The Adobe update particularly signals AI moving from generation tools to editing workflows—potentially disrupting the entire post-production consulting market.\n\n## WHAT THIS MEANS FOR TP\n\nThe BCG $200B agentic opportunity validates our core thesis: implementation expertise is where the value is, not just technology access. Their emphasis that \"AI alone isn't enough\" for complex operational areas like supply chain planning directly supports our positioning. With BCG, McKinsey, and other major consultancies aggressively expanding AI practices and forming direct partnerships with OpenAI and Anthropic, the competitive landscape is crystallizing—but the market is expanding faster than the majors can capture it. The talent war (evidenced by the Anthropic-Meta-Vercept situation) creates opportunities for boutique firms to attract specialists who want equity upside and focused work rather than large consultancy politics.\n\nThe Jira and Gemini agent integrations represent the shift we need to ride: from \"AI strategy\" consulting to \"agent integration and orchestration\" consulting. Enterprises now need help figuring out which processes to delegate to agents, how to manage human-agent workflows, and how to measure productivity when agents handle routine work. This is deeper operational consulting than most AI vendors or large consultancies can deliver efficiently. The specific client opportunity: workflow analysis and agent implementation for companies already using tools like Jira, helping them transition from \"AI-enhanced\" to \"agent-orchestrated\" operations.\n\nThe infrastructure opposition trend is both risk and opportunity. Risk: clients may face community pushback and regulatory constraints on AI deployments. Opportunity: this creates demand for \"AI governance and community engagement\" consulting—helping enterprises navigate local opposition, optimize for efficiency to reduce infrastructure needs, and build public communication strategies around AI deployments. Given TP's positioning around responsible AI implementation, we're well-suited to help clients navigate this increasingly political dimension of AI adoption. Worth developing point-of-view content on \"AI infrastructure diplomacy\" to differentiate from pure technical consultancies.",
   "sources": [
     {
       "title": "Salesforce CEO Marc Benioff: This isn’t our first SaaSpocalypse",
@@ -140,6 +140,314 @@
       "score": 0,
       "comments": 0,
       "source": "techcrunch"
+    },
+    {
+      "title": "Supply Chain Planning 2026: Why AI Alone Isn’t Enough - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNjM3N2RLVmJsMU10S0dwcU0tSllYcVpXdGRuZk5oWVEtRUJ4dEdLelk4bDJ3MU1VUGNtMy0waXI2OS0zYmZteVVINlZ4RWJfMWpzYzZLcUNBOFF3bHc0enQwdWNwMlhJdkUwRW96RXY5MENSNEduZDNjTy0yUkFHUlhpcFJkRTlpTXR3UA?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "The $200 Billion Agentic AI Opportunity for Tech Service Providers - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRHVnSEZ3cDZLYzhUZTN6ajhtTFlvbTh6ZFNNSHhiLWxqYjZ3bHVGZzdYWnNRN1FZR3JRRWpwOWN2T3ZRZ1hqVXZOcXdZdElGamdqU0hTQS1SZ09OT3dwSy10YmNUSDdIaTNfMWItSVBaSkpVTkd3TTVJOXZYQWEtSHlHYUlXSDZsNDUtVHhZQkFBbkRiYU9v?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Activating the Philippine Credit Flywheel - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUld0cnJlSFpVSjVWWGptSVZxTTJsdEpFNEZfM056Uk8tUU1uTnFsTTZfUGNGSVhaOHdqNXJQdC1iRjNqdk04MUY5V2gzcGxjMGJuOWFreUM0clc5U205c3FYNzAwb19aUXRRajFCU0Njb3JleHEwWWpqS2JNTEoyRkhGaTlfMWduWloxaTFKSnk5Xzd0X0E?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "$300 Billion Connected Commerce: How clicks and bricks are defining the future of India’s E-commerce - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRFBMcHo1Uk9RU2VXcFlLMzZjNmRkalNiYUdLU1lqMzVnTS1DblowU3pjNkV2RnB1eVBnaWtkUUNtZlVPbU11ZGdXcnFEX3RwVUtEb0JpbEZjcFlDbWNvOC1QYjFyMXlGclFWc0ZZMDdmQkhEc3NlenJTWWtmeUhxdEhRZ1NRY1ZteFF5OW9BcVBxcW9vTTJiaFRXaEJ3emh6?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "BCG and OpenAI Expand Partnership With OpenAI Frontier Alliance - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOXRJUlF5d0M5VWFiTkctQUZRcjdSNWNwRlFzY3d2OVVLVU5sNXhfZHBfamZyYXVkTkMwVzZldThpcmUyOUJscFNtRGFnRHBUbk5tT3ZVOXhJNjdnS1J0Ukw2YWpkMlRvVUdlZDNkVGVDTU80bUQyRmMtazlfOVVIWXlHSXhkY2VpcWt0WnRn?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Flexibility, Not Capacity, Will Decide Renewable Energy’s Future - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSHZjTHo4YzA0T1doY0E0LXlWdl9jdExlYmFiSnlPRG1oUU9WdkFNVDBGODNVRWNhN1hLMl8zbDhRcUw3Z2theUhnd25ST2pzS0lSNGhZcGVObUY3dDM4S0c3cW9KblRnU0JKYm5wS0E0TFpNemJadVlqVHZhRHJvM2lOQ0hOVldsMEl4VXFWRQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "BCG’s Partnership with OpenAI - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1XdDB6cWl5ZmhhQUpERlFXZUtKbXMzakY5cmh2Y1ZvWmVoWVNWZ0hoMWYzanZVQWNldmlWTXFZTlpQYXNHSFNzSVBvc2hYUG1IUnlHcFBESVJ5b1NPbWlV?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Five Things Boards Need to Get Right with AI - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQjlqLVJIeHU2SlFKUHU1YzZYZHNrV0VCdXpBNXRoamMyeW11dksyMUk1SC1FOXRRSEJSQ05HTTlNQ0IyUkNuOHE1Y3FPNGttVFlqN05wb19TUEY4QVhCbThvTm1sMWxmWkhVQk5pNW9KMW5qbF9HV0hHSVFEQklnbnJHUEl2SjR5UkE?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "BCG X AI Science Institute and Nature Awards Launch “AI for Discovery Award” to Accelerate AI-Powered Scientific Breakthroughs - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE12M1FzMXJRSkluSGtMS0dZXzR3SjBrZTRqUWhTemFhSmNxOExyR0ZfYUNzMFJhaXY5S05ObExrcWJqMUwxbEU1aVl3bDAzZGxzOWpjTmhZVDFKYmM2d3cxSXZDeDBSelV3ak5NeDJyU05LemhEVU5n?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Senior Manager - BCG Vantage in Mumbai, Maharashtra, India | Expertise et perspectives at BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5UZXR1amRBS2ViU2lxZFlRY2I1M294NzNuM1JWR2ZuRDlqVjB1bzBSOUVuQzBrNy1sQWZhZGdUTEY1M0poblhNQVpiZ05kLUo0Y3pWWjg1Vm1hdXl4dW5IbzQ1RzJabEJMb0N1bUc2dUdMc0tF?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "BCG X AP People & Development Senior Specialist in Gurgaon, Haryana, India | People and HR at BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNR0ZlOGlqN2pUOElCS09HMHJ5akRsSGZzRmdwZU1fVXZLY05Wbzk1NkFNWFhxWS13Zkt1dEF2ZkRRa28yOV9RbWpUMmk4T2N6cjF5cEo0R3RPNGZqUFhaYUxJUE5kS3Iyc2RlTW1VaVI5ay1rMUx1N1psQVJnQy12OGxDUTdKYXFiRlpwTEVBdjB2bFU?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Ambitious Goals Need World-Class Delivery: Building Your Organisation’s Performance Culture - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPaTZGclVReGxHeFJnNEY0S2EyY2F0SnU3MHZsX01qWk9TVzlyTG5QeV93TXZpaFRjWG05T2ZQYl91RTNfdzlNRG1ZaWg2eUFQNkUtQnZYemNIWk50LWkydllaTkx6ZHRHQUVjM3c4eG82N1U5Q3UwNGF1Q0xvblRrNWFpdk8zZUhpTDJBWC1pWWxqODQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "The Digital-First Future of Health Care - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbmxrNXhFS0ZBYnloX1V6SUlEWHFiWV96bU5tWVZSZGo5XzlvVDRxMnh5NVZYRHQ4Q1pXcmZXZjJFZXdTWkpybW5HUWxjdnV2STcyYThfX2tyakhxUFNkUlZsU2F6dlEyTjlTWUFxajNQM01Dd0tDREZpSUQ3Qy02NVJkTQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "India Tech’s Next Innings: Signals, Shifts and Considerations - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTjN4M3l5MG1jTHFoWngwTDFSd205MWNFenhpSURfUkQ2WEp4RENlQmo2YTB6ellzWWxZM05qbUltLThXV183Z3JmUThJNTlYRjB5ak9Sd25PSjRRWXVDVEdpeHNmNTM2R1llRDFYWnlnV1U3cWNndFBseXJKRkY0SGVKQkNLMm5yZTNwcXlST1ByZXphejBRdTk0TUI?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Introducing Forecast Cascade: Closing the Gaps in Integrated Planning - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNOW5MSHVvOVJ2VDFiWjMxaVFyOXhZVXRDVUpHNXhtcHotYVNVZlhUdzlwWEFWMG5aZWQ4YWhMdW9iaDNLNzl2ZUJ3QnZCWFNSWWw4UnBWRnJaSDBIZUcyOVhCQXRtZm5sNEVhZFhTUldaQUtwOWFoS1RraEp1QjEwR213VVpIc3otOTNnVDVESWg?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Where Science and Strategy Meet to Transform Health Care - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORHhlZnVxaHBOT2dSOXVlUGJGRjlnV2tKVDNhUUEtMExpNGtCc19sbXdraWRSTV9XQWNndmxlX01GMkp1Z0lJd3dtVEpwWTg1S3Z0ZlI5ajhoLXVwcHhzTXFUQzkxbU5HTWpfaWxfUzdOYXoycHRRV0dMVWtoT0VFSXNLU2VvOVhIZjB3em1FMFA3b2lHTGp1RWdHVFFuNTFwTTZIai1kMzFZMU40bWlIYzR4YUo1QU90dzlZWmpmeGlZOFZ3LUpsSw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "What Does the US Supreme Court Ruling on Tariffs Mean for Your Business? - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRTI2MF9IeHBzSlhqRmIzc2N4OVBVMmZ0X3ZyOHhxX21YQzVrRGxSX2hLUmVOVUU2RXl3ZEdaNTZoMmJQajA4dnNtR19VLUJjUTBJM3YyZENhNVVkdXAxbVdoN2dsZHZYR0pXLUctd1lpT0stcF9jOVdHM3RSUkRrS05NWTI0cHdJRWRv?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "The Day Europe’s Data Stops Flowing - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbG96T0xvM2dEYllLRk5vcDBDaEJVTUk0ay1jTmRCanBHazU3T2ViLWtQVHB1emV1cDhhcVlPUXktRTVjWklhVWVKSFhuSXQ4aF9yUGhmT3ZzMzBrUHNpcjFMMThDVGhjdEVZU1lVVW92SGJkWHNkZlZhN3A1S3FBZkdZeHNWQzlCU0E?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Careers at BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMkZvUFVNZGJfaVRnS1k5emc5VTJ5R2EzSlBCcTJBQmVkemN0UV9Ic1RmNF9rdzMyQk1nblJfMEV5ZllQYW5tMHVxNk5kLTdkVThBNG1taF83SE9HYnN3WEJQYWFxWkdkUDkyOTZteDhHUDhNb08yQXJiYUVzdl9sZktSeWMyV19hbllfZkdMS0YyR09PN3o5c0dlVTUyaFMwUE04bWtiSGxBNlRQdzE0RVJVRjBVaWQzQ0E?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Careers at BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRzFiSHppS3E3ZkoyM1lVenBlbHo3bGN3a3dVNDh5NnpxTkpObXk1Wk42dVMyZnl0dkFNdExmWVdibjJUeF81bGRPX2FlRDV1a0RYU2kwSTdfUmNkUnVpTHNWSGNLV3k0WVl2dVJYT2psNzFxSkRTamRmQkJ1T2lpZVN4SU5MMU1OeGY2WlJ4amJzRFJPM2ozdUlnbFhJa2M?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Consulting - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPRzc0OVNyMS15VjVMUkZPNWE3SEhtcXZrNHlnNEhkd0NqS0IxamNZWmFNMjFiaTg5SlhqSkZxdDd5aGJrR1YtSVJYdlVLWklKV09iNWJrcjkxbWlENElfa2tjLU8tcWd6Rjl5bGJDMHhpbjJIYkVoTTZ5UWRGMHpmRk1fWWpXZ2J0Nk5CREFjWlFSYlRtVUU4VDlXUXBFZzJJMWdQcFNXcW5JR2VGd2lXTmtYSmlnbTUyNjV0cDRfS1pQZGFDdWpKcVJabTZtOTdoTjVKNFBLcFp6RHhkMW1MTFowUHRLVVNWeHVSMkp6NWQ1ZTIxOG1sYVN4SzZnanJUSWx2eVRONA?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Worldwide Search Results Page - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxNcGF6REZ4RlBscTF0TUZQSUVpcDNwMGs0eGFGQllnenFZV3pWcGVTa3FpTllyQTZmQjdKY2ZxNzhaNUE1WW5BbnZvVjNnZzIzbm1zYWhWcGtPUzZIbFBMRFJwLThHN2F3Nmk3SldTQ1hZR3RUdHhXTFR3NVV6U0NQV2g2TXFVOUF4WmJrRFU3OWM1V2RLUU9YMy1xU1YydVlDMkM0aHdxbzdES0YwUUIwRnpBdVRiTXBtOTh6blJRWENmdzFBNU9EY3JhV0Q3QmNkdng3RkNVbUJGVFA1d0cyU3YxeGhDNW1jcEhIMDgxRS1MUHZEbG1USFJ4MlNIWWR2eF81OExMdTZLYXdia3FUMU1LUEVfb1Q1am1FbFd3?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "IT Consultant - Platinion in Johannesburg, South Africa | Technologie et ingénierie at BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE81ZlhSd2Y0UFkxTTdSdFRiUlJTMlJ2dEUxZGx0bGhLLWtTX2x0bGIwdlhvQmFidDEtN1YybGdVbjUtbzBYbkVIcUl1TnlvX0FBbWdLeTR3NDFfa3lpSzN6RUhNdFp5SHotYUxGQ2pjOEI?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Consulting Jobs - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE90YlBmVU9ZV3ZTU1Q3LS04aTdQUVBuRks1dkxuemdlUS1QX1QzdDdEV3JUUGhxVEs0dVUzLXFVX3hGcGUtNnowVXB6aktWX3pjUE1hazlPd0RKQmZ4U28wNmg1LVJBN3RvaHZqRTNKS1hPRHkzZExSY2ZUUWE?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Consulting Jobs - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQd09EdnhtYnRDOUx2aS1WZDMyVm1iaHlyckNQalJDQ0V0SXgyYnlTQ2drdURJQUZrQUJRZVZvb0dQVnMzczR3NWV3cDlPelZoT0hVeGZ1M2haNUZCRTVrZDNmVHhOeHRDdzBBQlludEI1VzRTOHRsZWJLc1dVYjlRNDZjd3BUOHhmdy1V?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Careers at BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNTU56S0kzeVhPOENkYXNOT2hQZDZJSTFMNWJLMjlLOWw1QnFlT1lIM0FMdzZJMkN3dmFwUzUyeHhSNGl0cUFNdHY1TFBlajJyWDMwZnFhaDlORDlRRUJDWnNsSzc3TWxUZUhJekhCMldiUHFpU2pHNkJEbVBsM1YzRkRYXzlNOGtpRWdsdFo4b1BsVWZ1WVZYVTlLZkJOYThBelo0V0Y2RlI3VUNITndzLURQWlNDb0QxdHFlVExSZ1RMSXFQbVRjY0JmRlRFWDNIMFR2MkZZamtnOG5UZXlQZWt1UEYxQUNuYW1hRUk3S0s1c2pmcUJaY01UREhDdEpoVVU0RVpjaw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "IT Architect - Copenhagen | BCG Platinion in Copenhagen V, Denmark | Technologie et ingénierie at BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQjYxaVpOclUyTTFOejFkSHhja3RRUGhNZDVWWUxRQlQybENXU09MWEVjbVhrWDZEZThJbG55azhHc09LWHRDZnlnZWRybjBzTUNRejFseVVZSHJnSWI2eUtPWm9HOHdQTUIyeE1GcnVhbGhucnlxSHRpN2EwbHRpUElkMA?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Careers at BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOUVBDSmhkSjR4ZkF2Wll0cmNPbTFHR3lDZURDVWJCVHotTHFVWVhqXzBuWTY3YmZlM0ZJZzNjclhSaVZYS1dvN1ZQVVFXQVhzRU02N29vRVV0NVN6S0pNRHU4NVlxUFBKeWdPR0pDcFA3UWFzVEdmdHBXQnZ4ZlNMWXVta2UydFBQckc4dUsxMWNHd2Zxenowd3RyZmIzaWZhRDNMeFZyd3JYbUZzOHVEbDdVOGI3WFcyQVNDQnR1Ujd6Ujh6TFE3YmFVelkzZzA5bmZBRVhsWnFUSXROd3JPdkhjaUxhc09Lb1ZuSjJn?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Careers at BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQN2ZOelNYVGNDX3BlaDRGX2Q4VXlwYTgzSEJWbnE4Y2ozREloQXp6OFJEc2ZvS0lrUEY2QUx0cnhhZDhGMHdQa1EyWG9ZWFljd1d6YUtrLVRnQ2FhSGpoREZrX0tvaGtxNHd0UDBlOHlscDY3OHJZUm9zVG5UdDdwVFBaNXdwcGVkQUJaSENBMjl4Nl9CT1p5XzlfQWZ1djNLZkN2dVFITU04akpNNEF6RnJoc2tvUXpsaUtRVHU0ajNTQlhXemlNd2FRVXhjUHFXcGx1aDlDV1ZiYXpYb1R1N2FfaU9aZGFMczROQjJNQnJXeTdZLWdEQ05Ic2xJTGxyaEtLWkZMb1o2XzZ1OFZSQUhsSmw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Expert Consultant, Supply Chain, Operations, Spain in Madrid, Spain | Consulting at BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObVBObk9HNGx6dFlVNkluRTFJLWxDNGVKcnd2bmU4ZWIwWkJDWkFWc2pmQ19ueFZQUlRZRjFlTXZSandxOU9fa2hXNXJFMzItaF9renRhaU9NVExrY0hsQUJyUF9pU1RFNGduTUJlelY1YUJYcElsR0w4OThtZENRMXp3R2V6RUJfSUtkLUdTUUpadThnNHc?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Lead, Responsible AI - X Delivery in London, United Kingdom | Technology and Engineering at BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9UQzR5THVTSklUNEcyWnkzVXhxVmF6c2RsRTJQa3drX0FaRXBKTjVYRjA5bDVlWnZaczlDdVc0UUxRN1FpT3NmZk1VSnJnZmFXSU9DZ0RBQ1VEUy0tNG9makx3aV82ajJiNk9SdVQ4RzFVN0ppaGxvTHVaSmgwWFU?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Senior Consultant / Project Leader - Marketing, Sales and Pricing in Stockholm, Sweden | Consulting at BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVkVUMVVtT1lsTVVoRFptNElxME55VW95MFVmVkpiNW1qd3U3M2VYNDRoYXBJQXVZTThEMFZSYnVuTGhvalhaQ1FRV1FHT2poTEZyYzdqVXdOT1k1WWl0dm4tbWtKenBsOTl2UGJCT21pU2VramVyRnpJQW4wWjBvU1dnV2phWVRvT3I5OWJIb21YZUUzN09manpzaVl4d0N4U2VSOHlxYw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Expert Consultant, Procurement, Operations, Spain in Madrid, Spain | Consulting at BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeU0wWjVSal9GVXQ0TXVjZ1ZpUTJGYThSOEJHOFBsMjkyWlEwTEVuYnRfS2taVXY5dWVMTGZoTmNZNmdZbUNtekcxWkRldHZObHowSW1xd3BOR0NFbjdEVVdsSEJBd3dfRzhMdUo0b244U1JfS3drSVdTZ1ZqaUdjYktFRFFrYXBuelE1T3YtVktaX01k?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Careers at BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOR01SMzhmR0xwYmRBWjBQNXRjTGlIR21YQWxUay1pcm1NUFduc1JrWXFWdzBfTlJUeTNMUnEyNXA4MjNyWU1oU2V0RjZMdFhVQWU1aVo1emc5WTdlYjA1QlVfYUJSOFVSQzhYNUhDbEdac3ZDMmluTjMtaDBlRUNFaDBRLUJ6R0ZySWJRcWRDQ3dtcnVQRnF6eEpBekY4cEpIZDRsT1h3WEZ2MEdnRGtjNVln?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Careers at BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPZV9CR3dqUEV4X3ZLNGtLa1k5bkpqdzYtbW56dGMwb1lLVVhfVWtTZV9nQ3BRdVVVbUhIcE5qSTJQTnFSZ2NFWVZTMVk0MktrZTdsVElvR0VPeTlBM2VvLW1oQVBDNG1WVkJveHNtT0NZc1ozS0Z6QlNUY1U2TTdVSmpyaFFlNUFtbU83WkRlb2JhNFR3TkxUV0FwRUlkZVhSOVFIMzQzVGxuYTYxMGlhSDJ2WjczaFJ2TXpDTUZwR285N3NMQ0VlVWMzYkt3dWVyRDA5N0lDbkNvS18wOWhfd1RfN25RZUstU1N1OW1fQlhSRHdtMG8xMzJDVWtuMHRTa01XbjBfLXJLZWFzRFk4cUFQNA?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Analyst, Geo Analytics, India - X Delivery in Gurgaon, Haryana, India | Technology and Engineering at BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTVN5ckpydGYwcGVKQkVtVUk4RnlxTm9LTEpIaFJHVnQwMmFUc1NJdFJia245SWp1TW1KUWh6WjNjTl9PNDBaRzNPSnoyNzJ6SDJRTFIydnNYVU1GOERGMDNXRTB6Nlh2OTBIb3N4THFsWENUQ2YwYTFiTElma2t2aDc5R3gtODRZWUE?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Worldwide Search Results Page - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQczNBR2tndlhLN1hST1FDTzRnTzlzUXczWVYxZUE4Z3MzbGxTbC1zN0w1V0VDVjNUMWJkeVJkYW1uQ3lIWGctRjZONk1vNEdjZWZFMHNCem1lM2R5a1c2SEY1c3F2dUY2Q0RFcUJZMUJUd1pYeWpVTzJYM3JVeHVseXNqdDVKdGdtU3gzMnh3?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Careers at BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxOaWZZekhsdTlKNDFXdXk5dUt1SG1waWdjWWVvS2ZmeUdfbVplRkpRODNaR29YWk56el92UlNveXg0UmtOd3dIWGRtTWpuTXd3MTlHMDZrSVVRcVY2aGVVeXRKY29raXowbzRtYjNHWjlhRVNvV1IwQVlDWWx4OFIyaUo3X2dheUFjbnpiUnN5ZnpFNnp4MHd0WS1YNTM2T0czTHpTdlRhdnNOWVkycjBram50dWdQRGlLWC1uRDJPcmZnajlhQnBFLWNuUmZYY1gya2MwMEttdjNRNEdyQmthV2NhU013cGdzb0w5NEpSbEhJTjFhZV9QemxSQ3YyemY2Z2d4TFdlZkw3YWFLa1JoRDVVRVZZck5aNnNQSXN0RW95YlpmVEZNd2ZTb3dPazM2WF82LUFvVWZILUVaeEIw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Careers at BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeHdqWHE1S29DV1lnT0dHY0NjV0I3d203aFJrdl8xUklOTlJSc0VQTC15Y25oYm5FX2VMQ1Y1Ry0yVklZUDA1eF9rY0h5U3FnckU5N052cll3YXQ3S0VHbGdIeUM0c29QRlB3QmU0TEZYQXk1TGpWMFB5WjZtckJBSF9ocDF6Z0dQbG1idEM1cDI0STBKNVRyYnJ6TExLX1lGeHJnUG9fYXN5ZkQ3WGo5THdhaTRVZ1lyd2I1Sg?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Careers at BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSERSMHpGVDNGVVB4eXV4Y0EtQmtWaTdfQWNHMlJnR2E5dDVINVFra2txSnlKSURoR3VNZ0ZjNEw4cTZDMDloWm4yOVhMbWpYM1hfUnRHMjM4aHltSnQ0VkRBYldDLUNOc2ZrdV9SZEtoclg2a3pVb21WbnMzVVlVSmhSODRkVkx2TEdnbElFbGlUOW4yN0oyUUxDbzVrU0VuVzNsTUZxV3pWdHpRX3lnRWRSMFBvM3Z5?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Careers at BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMXBaS2U1R1FnYlNsMnhWa3RBenRUQmpSUW9nM2lIRFp4RXFBV2VQMEk2VXdwcFpQNnJmRXd5RDBpcHVHVjItMEtWSFI5YnBqcVdKV1paeW1iVElxVncyeldITmtWWE4zam1SMHBFeGdZR2VWanQ3Vjg4c1NOdU1NdzRUM2h1QlB1?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Careers at BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWm1SdC1TYnpmNFZlVUxYSEQzYWt4aE5DZ1FyX0g4cUN0a0lfNklEQ205WDczeU5ESFNPQ3VaajNtSWZkMGhnZl82d19MbjlzU2E1RURPaGFHME5TdTRtMUFxdW5OZ2E4ZklldmppT2JaMC1lTkludV9JZnJoNHpxbUh3b2k?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Careers at BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRVdaYzd5YkRDM2hRa3pRRk83VngtZHl2bzMxQTd2YVVOelVMcmp2OHZGTFF5eGpiQ2V4bFN4QlFXX09oWFk1MHdFWG9SMk0yeG15dldCeGZ2REczMGU5ZU5QNUptWWQ0NURRVW15ZzctSUd5dXYxTEthRzJIYm5ENkNobk1vU2pvTTNFVmVMNlc5MC1pVWJCRTNUTFBJcEFfeWVZc0EtWlJPcWlxd1ptaXBlcElESzNoOTdGR29DNjVSRHlTN0h2aE53?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Careers at BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOTHdydkRienloak13VDY2c3I5MUtiNENvV0E5WU1pM01EcDdpNWtrZHV0WFFfd1RESWEtZ3pEcnF1bjhqSDdlSm1aWVF5V3lHR24wcnF0WGpHeHd0MnNNQUp1NHRZejlpQ2ZfajZJS1BmWVZaU3I1VzgwNHY4OGdZa3g2XzZvUUNWekpyU01QSnBuOUNPS3NBcldLYXZDMmtGNWdOWVpEM3hDdEhIQ1VXNXM1ZHEwZlNmcEdocUY3dU5lUlhJUjY3bDAzaURjMG5xdm9jbjZndmNONDRzRVlXRUlRakdPY05IMlVpM2J2di02V0lBaHdn?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
     },
     {
       "title": "Google DeepMind Accelerator - Google DeepMind",
@@ -1003,5 +1311,5 @@
       "source": "news"
     }
   ],
-  "generated_at": "2026-02-26T13:13:32.697Z"
+  "generated_at": "2026-02-26T13:14:14.394Z"
 }
