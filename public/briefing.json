@@ -1,5 +1,5 @@
 {
-  "summary": "## QUICK BRIEF\n\nNvidia posted another record quarter riding the AI infrastructure wave, while Anthropic acquired computer-use startup Vercept to strengthen its position in agentic AI. OpenAI is testing a new gpt-realtime-1.5 model and expanding its partner program with \"Frontier Alliances,\" while COO confirms ads are coming. The enterprise AI stack is consolidating fast: Google absorbed Intrinsic robotics software, Jira now supports AI agents working alongside humans, and Salesforce's Benioff is downplaying talk of a \"SaaSpocalypse\" as AI reshapes the software landscape.\n\n## COMMUNITY PULSE\n\nBased on the data provided (primarily news releases rather than community discussions), key activity centers are:\n\n- **OpenAI Developer Community engagement** - Multiple active threads on Realtime API issues, Codex app feature requests, and API limitations. Developers are frustrated with moderation policies, authentication complexity, and tool-calling reliability. Strong demand for better debugging capabilities and local execution options.\n\n- **Platform stability concerns** - Reports of gpt-4o fine-tuned model failures, elevated error rates for Enterprise customers, and 401 authentication issues. Community seeking clearer SLA commitments and better status transparency.\n\n- **Codex adoption feedback** - Users requesting terminal-like UI, markdown preview, and better context verification. Desktop app showing incorrect usage metrics. Indicates early adoption phase with UX friction.\n\n- **Agentic workflow challenges** - Discussions about preventing documentation drift, context persistency, and multi-agent orchestration. Developers building production systems hitting architectural limits.\n\n- **Enterprise compliance questions** - Azure AD OAuth integration, healthcare addendum reviews, data sovereignty concerns. Procurement teams engaging with legal/compliance requirements.\n\nOverall sentiment: Cautiously optimistic but impatient. Developers want production-ready stability, not just feature velocity.\n\n## KEY DEVELOPMENTS\n\n- **Nvidia's record quarter validates AI infrastructure thesis** - Another blockbuster earnings report driven by enterprise AI spending. This confirms the infrastructure layer is where near-term revenue concentrates, while application-layer companies trade revenue for user growth (as noted in India market). For consulting firms, this means clients have budget for infrastructure projects now, but expect pressure on software/services pricing as they wait for ROI proof points.\n\n- **Anthropic acquires Vercept to accelerate computer-use capabilities** - Direct response to Meta poaching one of Anthropic's founders. The acquisition signals computer-use (AI agents controlling software interfaces) is becoming strategically critical, not experimental. Combined with Jira's agent integration and Gemini's multi-step Android automation, we're seeing the enterprise agent stack crystallize around specific use cases: workflow automation, software testing, and cross-application orchestration.\n\n- **OpenAI launches Frontier Alliances and gpt-realtime-1.5** - New partner program alongside improved real-time API suggests OpenAI is building an ecosystem moat beyond just model quality. The COO's confirmation that ads are coming \"iteratively\" indicates consumer monetization pressure, which typically precedes aggressive enterprise expansion. WebSocket mode and expanded file input types (docx, pptx, csv, xlsx) make API more viable for enterprise document workflows.\n\n- **Google consolidates robotics play by absorbing Intrinsic** - Moving Alphabet's robotics software into Google proper suggests renewed focus on commercialization after years of R&D mode. Connects to broader pattern of tech giants tightening their AI stacks rather than spinning out independent units. Enterprises should expect fewer standalone AI tools, more integrated platform offerings.\n\n- **Public opposition to AI infrastructure is intensifying** - As data centers and energy demands grow, community resistance is creating regulatory and operational friction. The White House pushing AI companies to cover utility rate hikes (most already committed) shows government mediating between AI growth and constituent concerns. For consulting clients, this means location strategy for AI deployments now includes community relations risk assessment.\n\n- **12% of US teens use AI for emotional support** - Consumer behavior shifting faster than enterprise adoption. This gap creates both opportunity (enterprises learning from consumer AI UX) and risk (security/governance practices lagging actual usage). Employees already using AI tools outside official channels—consulting engagements should start with AI usage audits, not greenfield strategy.\n\n- **Adobe Firefly video automation and Amazon Alexa personality options** - Creative tools automating first-draft production while consumer AI adds \"personality\" customization. Pattern: AI moving from task completion toward workflow orchestration and user experience personalization. Enterprise applications will follow—expect clients to ask about AI agents with company-specific \"personalities\" or brand voices within 6-12 months.\n\n## WHAT THIS MEANS FOR TP\n\nThe infrastructure-to-application gap is widening into a clear consulting opportunity. Nvidia's record quarter and the India market trading \"revenue for users\" show enterprises are spending heavily on infrastructure while application ROI remains unproven. TP should position at this intersection: helping clients extract value from infrastructure investments through practical application deployment. Specific play: \"AI Infrastructure ROI Acceleration\"—auditing existing AI spending, identifying quick-win applications, and building governance frameworks that enable experimentation without sprawl.\n\nThe acquisition and consolidation wave (Anthropic/Vercept, Google/Intrinsic) signals the agentic AI stack is stabilizing around computer-use, workflow automation, and platform integration. This creates a 6-12 month window where clients need help navigating fragmented tools before the market consolidates further. TP's differentiation should be cross-platform agentic architecture—designing systems that aren't locked into single vendor stacks. The Jira agent integration and Gemini's Android automation show agents will live *between* systems, not just within them. Consulting engagements should map client workflows across multiple platforms and design agentic orchestration layers that survive vendor consolidation.\n\nThe community pulse reveals a critical gap: developers building production systems are hitting reliability and debugging limitations that vendors aren't addressing fast enough. This creates a services opportunity around \"production-grade AI engineering\"—helping enterprises implement proper monitoring, error handling, fallback strategies, and context management for AI systems. The OpenAI developer forum complaints about tool-calling reliability, authentication complexity, and moderation policies show most vendors are optimizing for feature announcements over production stability. TP can win enterprise trust by being the \"make it actually work\" partner. Also note the teen AI usage stat—conduct shadow AI audits for clients to understand what employees are already doing before building official AI policies that get ignored.",
+  "summary": "## QUICK BRIEF\n\nAnthropic acquired computer-use startup Vercept and shipped major safety framework updates while releasing multiple enterprise integration guides. Nvidia posted another record quarter on massive datacenter spending, validating the infrastructure buildout thesis. Meanwhile, practical AI deployment is accelerating: Gemini now handles multi-step Android automation, Jira integrated AI agents directly into workflows, and Adobe Firefly can auto-edit video. The shift from demos to production deployments is happening faster than expected.\n\n## COMMUNITY PULSE\n\nLimited community discussion data available in today's feed, but several developer forum threads indicate key sentiment:\n\n- **OpenAI Realtime API Issues** - Multiple developers reporting elevated error rates and stability problems with gpt-realtime-1.5, suggesting the Realtime API may still have production-readiness challenges despite new features being added.\n\n- **Moderation Policy Concerns** - Developers questioning OpenAI's no-appeal moderation policy and its legal implications, reflecting growing friction around content controls as businesses integrate AI.\n\n- **Feature Requests for Codex/Atlas** - Active developer interest in terminal-like interfaces and browser automation, showing demand for more powerful local development tools beyond chat interfaces.\n\n- **Context Management Pain Points** - Multiple threads requesting context persistence and verification features, indicating that managing state across agent interactions remains a key developer challenge.\n\nOverall sentiment: Cautiously optimistic about new capabilities but frustrated with platform stability and governance clarity. Developers want more control and transparency.\n\n## KEY DEVELOPMENTS\n\n- **Anthropic Acquires Vercept for Computer Use** - Anthropic bought Vercept, a computer-use AI startup, after Meta poached one of its founders. This acquisition directly strengthens Claude's ability to control desktop applications, a capability Anthropic publicly released in beta late last year. For enterprise consulting, this signals that computer use (RPA on steroids) is becoming table stakes, not experimental. Expect clients to ask how AI can automate legacy desktop workflows within 6-12 months.\n\n- **Nvidia's Record Quarter Validates Infrastructure Thesis** - Nvidia reported another record quarter driven by unprecedented datacenter capex spending. This confirms that hyperscalers are betting billions on AI infrastructure despite unclear ROI timelines. For consulting firms, this means enterprise clients will face increasing pressure to justify why they're NOT investing in AI while their competitors and cloud providers are going all-in. The infrastructure is being built whether individual companies are ready or not.\n\n- **Gemini Launches Multi-Step Android Automation** - Google's Gemini can now automate complex, multi-step tasks on Android devices without user intervention. This is a significant leap from single-command assistance to actual autonomous task completion in consumer environments. For B2B consulting, this proves the technical viability of agent workflows in production and will accelerate enterprise expectations for similar capabilities in their own systems.\n\n- **Jira Integrates AI Agents into Workflow Tools** - Atlassian's Jira now allows AI agents and humans to work side-by-side within the same project management environment. This isn't a chatbot addon—it's agents as first-class workflow participants. This legitimizes the \"agent as team member\" paradigm for mainstream software and creates immediate consulting opportunities around change management, process redesign, and agent governance frameworks for companies using Jira or similar tools.\n\n- **Anthropic Ships Multiple Safety & Enterprise Resources** - Anthropic released Responsible Scaling Policy v3.0, Frontier Safety Roadmap, guides for Claude in Excel/PowerPoint, and multiple case studies. This coordinated release signals Anthropic is positioning for serious enterprise competition against OpenAI. The volume of enterprise-focused documentation suggests demand for implementation guidance is real and high—companies want to deploy but need frameworks for doing it safely and effectively.\n\n- **Adobe Firefly Auto-Edits Video from Raw Footage** - Adobe's AI video editor can now automatically create first drafts from raw footage, handling cuts, pacing, and basic composition. This moves creative AI from generation to actual production workflow automation. For consulting, this demonstrates how AI can handle subjective, creative judgment tasks at scale, not just analytical ones—expanding the scope of what clients should consider automatable.\n\n- **Public Opposition to AI Infrastructure Growing** - Multiple sources report heating public opposition to AI datacenter buildouts, likely over power consumption, environmental impact, and community disruption. This creates risk for clients' AI roadmaps dependent on cloud infrastructure scaling. Consulting firms should be prepared to discuss energy-efficient architectures, on-premise alternatives, and regulatory scenarios where datacenter expansion slows.\n\n## WHAT THIS MEANS FOR TP\n\n**Immediate Opportunities:** Three consulting plays are maturing simultaneously. First, \"agent operations\" is becoming a defined discipline—Jira's integration and Anthropic's computer-use acquisition mean clients need governance frameworks, process redesign, and change management for human-agent collaboration. TP should develop a structured offering around agent deployment methodology, starting with pilot identification and scaling to full operational integration. Second, the Anthropic enterprise documentation dump (Excel/PowerPoint integration guides, safety frameworks, case studies) reveals companies are struggling with practical implementation despite having access to capable models. There's a clear gap between \"we have an API key\" and \"we've redesigned workflows around AI capabilities.\" Third, the video editing and multi-step automation breakthroughs expand the aperture for automation discovery—client assessments should now include creative, subjective, and multi-stage processes previously considered \"too human\" for AI.\n\n**Strategic Positioning:** Nvidia's continued dominance and the infrastructure buildout create a consulting angle around \"infrastructure arbitrage.\" Large enterprises will increasingly question whether to wait for commoditization or invest now while capabilities are expanding. TP can position as the firm that helps clients make that build-vs-wait decision based on their competitive dynamics, not hype cycles. The growing public opposition to AI infrastructure also creates an advisory niche around energy-efficient AI architectures and on-premise deployment strategies for clients worried about cloud dependency or sustainability pressures.\n\n**Risk Watch:** The OpenAI Realtime API stability issues and developer frustration with moderation policies indicate platform risk is real and growing. For any client engagements dependent on specific vendor capabilities, TP needs contingency plans and multi-vendor strategies. The \"SaaSpocalypse\" framing from Salesforce's Benioff suggests enterprise software incumbents are preparing for disruption—which means clients may face confusing vendor messaging as traditional SaaS companies try to reposition. TP's value will be in cutting through that noise with independent technical assessment.",
   "sources": [
     {
       "title": "Salesforce CEO Marc Benioff: This isn’t our first SaaSpocalypse",
@@ -140,6 +140,167 @@
       "score": 0,
       "comments": 0,
       "source": "techcrunch"
+    },
+    {
+      "title": "An update on our model deprecation commitments for Claude Opus 3 - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5xbjF4a3FWLXdtUmxfZ1R4SkdpNXBhcHQwUmdZRzNoekVfSmlPSXlxV0JXVWNnaDd4dlpFa3Y3TGJPZk9hQlU5ZXlYVC1JaHFyWkdEVnJoVDBycEpScFVlM2hHREoyakx1VVUzbTBB?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Anthropic acquires Vercept to advance Claude's computer use capabilities - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9qWml2ckJCczJYcGdENnRWSkMyRk54Vko0TVdVTzdjbHRhblZsb1IyLW82SlRqajM4RHdMRk5OU3Vmek1Ga0dfS01STGJsSGg4dk9kY0c1Wkc4czQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Frontier Safety Roadmap - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBDdnU3VGY3a3o3REZhaVRHRmRJblRVbzhyRzRZeHhXVTRrT1dxYlJ4UEhtSU9Oa0V0a2RiOVJYeWtlb3p2NnZsZDJ2VHZWOWViQTNpbl9jWGNzYm43RllLTFJJWkc0V0hJX3J6cQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Responsible Scaling Policy Version 3.0 - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBoQmxUV1R3ZFVyeGJzNFlEV1djcXAxMWxDbDhHRjdvVnlUbmJTeEZVS0lwQ0JiN3Bob3FMbXZ0NTRzN2xQYXhIVmx3V3JRdDJGdVpkR0kyV2hmM280MHV4WmR1Wm1yWXEwQm1MMg?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Anthropic’s Responsible Scaling Policy (version 3.0) - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE01bW04RlA4ZmcxcUtQbzRFaEFOeHVKWmV1c202VDlZOXhMeld6NF9XSFJmd2tvNHcyZGxSNmw0NFJvTXFvSUNnb3VZUllvTmo5QkVaMGdKRE54QUZITnozWHVqZEdPMlB1?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "The Persona Selection Model: Why AI Assistants might Behave like Humans - Anthropic Alignment Science Blog",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBqMjRabUdwTkhGSnJOb2p2eUViU1Q1SjdvT1BkUUcxZ3BHSWNfN2Q5LU1YSlVGb0N1QlZIV0lXc1dRbU0tdWhXUUNQakdXcEZVOC04?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "The persona selection model - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1BckZLT0NmN0tZbUU0TjhycnYyaWxkQkNUWHFlWU0wM016a0xjbm5mN2V0b3p2VXQ0S2FBRWZnaVU3RXlFeXMyYjlxVkxUMUlDdWl5ZjVobEFzX21Zakl3NEdFTVBTRFF2d3c?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Detecting and preventing distillation attacks - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOUxlWTM0OXZ3cENhMEpobm5TWEM4cVRLOXRpRHlYSUZ3bThyNE1wcXhFY2ZCSkNHYUJEV1YtZ0VkSWxfVW9tc0lkVExFSFBhRUFPZENhNFNZQk5MNjJxQTdhT3dJYjl6ZUJseVplanY4R2NDcHdSU2RJWlV2MzlGYVhR?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Anthropic Education Report: The AI Fluency Index - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1nNGY0b3I3WjN5R2tucko1eUFsMUN4Um1GQlRnUTdpanN6VzA4TXIxTmprdVlscm9mRHEwSUpPZFBfUmRtS3h4MFpUajFQUkl0WlJ5NDhQakpxeUFmNUNwWA?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Making frontier cybersecurity capabilities available to defenders - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBvaU1YUDA5TzFVT0tfOGtOcUM4ZnZtRkR1WFZFVWlMcjVCUTFOUDZqRzVuTkh1QTRFcTRZQkkyM3JldkxzcjFEdkZPNW16TndPY2JEVW9BSUJpR2o3TFJLaA?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "The Briefing: Enterprise Agents - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdU1jQi1jWXIzZFNvVFJZLUhKNFlXN01XTGVrd1U1U3d4RXB6SWtYbE5GZnBid1BWSjduM3lIYXVoV0F6bkJQNV91WmVnQWxBVzZwS0RFLWZqRFp4czQ4RFk0emZJd0F6c2hHUG0zWERMWXNaLVNzcV9oeHJUekZwZHZxOA?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Jobs - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWS1GYm9BNnpEUzM0U19iVWZxY1lDbndlVHVYLVdEVHlMTEVqYTFOdC1TMmZtcHROUEZrMGE5MkpWNUIxLXI3R0wwUEROdVNoMDRtMzJLVGR6eHJuQUYyd1pXa2pnc0l6VGdTaHBtRW1JS2IxWGtINC1ncFhZQWNrMlJoMndvNkZKQ3dSMlFxVHd4VjlzVktZQ3ozcGg?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Anthropic at Google Cloud Next 2026 - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9yQ09mbjY3OU9PRkpqWlBMODZTeXY0VjdZTTBGVDJVRFRtTlJFX3RHWkxjQWV3ZDJ2ZkV4SDVONVJrZTJILU4tVHFNSV9PZHdRaVYzZy1ubnkteF9CV3B1c1hKZDlIRml5Mi02VmRibzBaSVZGRXU4?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Best Practices for Claude in Excel and PowerPoint - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMzgtTWNRM3NyUFMyZTRhTnRTc1hRMGl3V1NrcThobHBRT3preFhkMG1MV0NiSEVrVzgzVWI4VW5JR0dpRW91dW1JQ2tGaGwtTV9pMFM3VHJiSVFoQklER3ZYZldZZG9QbzU5QUx5YUZvUl95cTQ0blhnZzNCOWh4TkhhTFFwbFNXWDRuYg?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Building Products on Claude Opus 4.6 — A Customer Success Story with Shortcut and Hex - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNHo5YS1ScG1VZ3YzcE41dm16azRVOVVzODRVdDRia1FoYlAzXzBkTkc3Sl80clZveXZKSHBIb200MEdYZjEyNTJQdGo1aDUycnhfd1VnWHYyMHJIdDROaVpRY1hJZV9FcXljX2lDME5RSUVRVkdlXzhpX2RhU2VKMzFPVHNueTVnYkdqM2puNXRFTWNOak1qemMzVXliWjN3SmxxcmJDeW9NSktheXVTaUNRTGVXemd0SHc?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Anthropic’s Transparency Hub - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOGNPVlJHSVBGcWhMeTZjLWtfTjNRWTlUSEc2amNaTVBEU2g5YlZMeWJCU0FKajNtQm1BdHZQTjJoUVNKSG5mY05HdGNZWHZ3NVF5Y2EwYXVseWpma1FQWGhJRU1MYUFWOWxQZkZMLTBrQmhjT1o0UjY4bGlRNzZHLVVQc3NqMU5DVGthZlRKc19UQnN5aUpoejFjQk95T2I1ZnQtOQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Jobs - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQY0ltMWtaZl9NSDNHYXFPWmQ0QU1yWWljOHpQMzRRdTMzTGRzV3g4UUJndFByZmdaUFhyb2tjc3pfVEdzb1k3VlB4aW05bl9xM1ZGMElvWHIzcWpJRTJzdWlORDNOVll6RFZKaHhxLXZEVHgtODZDOU9Yc2V1SGVsNEc1bDRQNmY3THFsMGM1b3UzalN4N2F4SU9UTWsxN2NWSktrNWFyREU?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Responsible Scaling Policy Updates - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9IMmxLOFh6RzlzdlNiYmFYb240M05BOFFDYVc5ajhzbE5Vb2lkNklYNS1hbGVlQlUtV21EZE9YdEdpTldUV3o0Z2hWY0s5YzZkR0FGbW1FaUFVeS03emQ4eExHU3VEYUNUeHp1OTdhSFJaRFQ0TFdkRA?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "How leading companies deploy Claude Code skills on Vertex AI - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOUpRZWd2ZlgwTWNWNjZtaGRaUjJYSG9jMGhhenBQVS1ERk9mOFM2OTVWZVRldDZqVzFZZndPakpMNml6eHo3U2ZISGlBU1lFZzZkeHJLZEIyN1BpX1hPU1FKdEQwQmFSMzJ0aHBIT1FZcUhua2w3Z2cxMG5qclpQQkRDU1VfOG4tdF9rV2xNMy1Bbm5WcmtzZ3dGUQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Jobs - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVkJnSWFnc3R6UWZ4TXpVQkl6Ym5qSldtMUl5YXBWRC1ncUFRLXhuVXpBb0dpbEtNNllnRll6REhhYk56dGJ6THE5cTl4XzZ3R2FuTnlyMEE3QTJMbDEzLVBTTFVvaTExVU5mTkc4MXM2a0Z6VDFZWjlpQ1BLQXBfWkR6R2JSclQxOElxbVZfeDM2NUt2c2NMb0xWbVg?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Jobs - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBGdXhaX2FJVFJoU1I1aHQtbXA2ZUhRR29KRWlaRHR2Yk9IQ2dxbkpxbVMybzVJRWhSRzVDY3poU09GMWhIZHhKT1ZhUWJqM0VPYTBYdFd4Q1hnektwVTJRVDF1TlRkMjhpSWdCaUhoYzFBdlNpZ0ZJ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "From 0 to 1: How Zingage Built AI-Powered Home Care on Claude - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbzNfV3B6ZmdYTVB0X1VmbHYyT2JSUjlxckt2aGU2RGlBRUl0dk1oeXVYVnVKcl9IemlMWVdLOUJsQWZBdWEyU1JSQVFOMHcyN1hnNHBjcTQ3bkJRLUtwaGV6VGlOb01yVVFKMW4zMzNESGxrWTJBVXN4SzFNR1p6UXBkUlJtRFRaN0NxdUs2MlA5REw1UUlBZWplS3g3TWhLY2ViemhHc1JRVW1sb2lHSVBnT09jVGI3R0MtZWkwUWQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Claude Code in an Hour: A Developer's Intro - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTGRidkpEWjY1dGNnNkVBNVZYUVIyMzVqZFE5bkR2TnRNa1hLVkxISGdLRVNjU0JINEoxeWRxWFVZTDJGdXg1aWVZQWlpZnFIRzF3Ylpmb2FxdjlWZmNRd0pBZVNUaC1Ha1BzYXBCRm52dFhRczdkUEZLVzdwRGo4R1Fn?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
     },
     {
       "title": "Library for ChatGPT - OpenAI Help Center",
@@ -828,5 +989,5 @@
       "source": "news"
     }
   ],
-  "generated_at": "2026-02-26T13:11:57.481Z"
+  "generated_at": "2026-02-26T13:12:41.293Z"
 }
