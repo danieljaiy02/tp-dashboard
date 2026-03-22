@@ -1,5 +1,5 @@
 {
-  "summary": "## QUICK BRIEF\n\nThe AI landscape is fragmenting rapidly. Yann LeCun's assertion that today's LLMs are \"nearly obsolete\" (124 pts, 140 comments on HN) is driving intense debate while Chinese models dominate Hugging Face benchmarks and Switzerland releases sovereign AI infrastructure. Meanwhile, the business model shift is real: Cursor admitted building on Moonshot AI's Kimi, OpenAI acquired Astral and launched GPT-5.4 variants, and companies are offering AI tokens as compensation. The consulting implications are clear — clients need guidance on which architecture bets to make as the foundation model paradigm potentially enters its twilight phase.\n\n## COMMUNITY PULSE\n\n- **Yann LeCun says today's LLMs are nearly obsolete** (124 pts, 140 comments) - Deep technical debate split between those defending current transformers and those agreeing we need fundamental architecture changes. Many cite reasoning limitations and energy costs as existential issues.\n\n- **Intel Neural-Chat-7B tops LLM leaderboard** (37 pts, 64 comments) - Community surprised by Intel's AI competitiveness; discussion centers on whether this signals viable alternatives to Nvidia's dominance or just benchmark gaming.\n\n- **Chinese AI models storm Hugging Face benchmarks** (6 pts, 0 comments) - Low engagement despite significant development; suggests HN community may be experiencing China AI fatigue or uncertainty about benchmark validity.\n\n- **AI researchers run LLMs at 13 watts** (3 pts, 0 comments) - Energy efficiency breakthrough getting minimal attention, possibly because community is skeptical of performance claims or focused on bigger architectural debates.\n\n- **Ask HN: Are we ready for embodied robotic agents?** (1 pt, 1 comment) - Minimal traction suggests community consensus is \"not yet\" or broader disinterest in physical AI versus software applications.\n\n**Overall sentiment**: Skepticism about current paradigms mixed with uncertainty about what comes next. Energy and architecture concerns dominating over application-level excitement.\n\n## KEY DEVELOPMENTS\n\n- **Cursor admits building on Moonshot AI's Kimi** - Major revelation that one of the hottest coding tools wasn't built from scratch but leverages Chinese AI infrastructure. This matters for enterprise clients concerned about supply chain transparency and IP provenance. Expect increased due diligence requirements for AI tooling vendors and potential concerns about Chinese model dependencies in Western enterprise stacks.\n\n- **OpenAI acquires Astral, launches GPT-5.4 variants** - OpenAI is aggressively moving into developer tooling (Astral makes Python packaging tools) while simultaneously fragmenting its model lineup with mini and nano variants. The acquisition signals OpenAI wants to own more of the development workflow, not just the model layer. For consulting, this means OpenAI is becoming a competitor in some integration spaces while creating new implementation patterns clients will need help navigating.\n\n- **Switzerland releases sovereign AI model on public data** - First major Western nation to release a fully public-data-trained national model. This is the canary for AI sovereignty trends — expect EU members and other nations to follow. Clients in regulated industries or government sectors will increasingly face requirements to use sovereign or auditable AI, creating new compliance and implementation challenges.\n\n- **Nvidia GTC reveals NemoClaw and trillion-dollar infrastructure bet** - Nvidia is doubling down on proprietary AI infrastructure despite Wall Street skepticism (multiple sources note muted response). The NemoClaw framework and robotics demos (Robot Olaf) show Nvidia positioning for post-LLM world. Consulting angle: clients betting heavily on Nvidia-specific tooling may face lock-in risks if the market shifts toward more open or efficient alternatives.\n\n- **DoorDash launches Tasks app paying couriers to generate AI training data** - Gig economy meets synthetic data generation. This represents a new model for AI training data acquisition that could spread across industries. The business model innovation here is significant — turning your existing workforce into a distributed data labeling operation. Similar approaches could work for clients with field service, retail, or distributed operations.\n\n- **Jeff Bezos reportedly pursuing $100B manufacturing AI transformation fund** - If confirmed, this would be the largest single AI industrial bet ever made. Signal that AI's next phase is physical world transformation, not just software. For consulting: manufacturing clients will face pressure to modernize or be acquired; opportunities in due diligence, integration planning, and change management will be enormous.\n\n- **Cloudflare CEO predicts bot traffic exceeds human traffic by 2027** - By 2027, majority of internet traffic will be AI agents. This has profound implications for client digital strategies — everything from infrastructure scaling to fraud detection to customer experience needs rethinking. Also suggests authentication, bot management, and agent-to-agent commerce will become critical service lines.\n\n## WHAT THIS MEANS FOR TP\n\nThe Yann LeCun discussion and Swiss sovereign model release together signal a potential paradigm shift that creates immediate consulting opportunities. Clients who've invested heavily in current-generation LLM infrastructure are now facing architecture uncertainty risk. TP should develop a \"future-proofing AI investments\" assessment service that helps clients evaluate their current stack's longevity and plan migration paths. The specific play: audit existing LLM integrations, identify which are commodity functions (easily swappable) versus deep integrations (risky), and create contingency architectures. This becomes especially valuable for clients in regulated industries who may be forced toward sovereign models anyway.\n\nThe supply chain transparency issue raised by Cursor's Kimi admission creates a new service category: AI vendor due diligence. Enterprise clients increasingly need to understand the complete provenance of AI tools — which models they're built on, where training data originated, what dependencies exist. TP should position as the firm that helps clients navigate this complexity, especially for financial services, healthcare, and government clients with strict compliance requirements. This isn't just about Chinese models — it's about understanding the entire supply chain of AI capabilities.\n\nThe Bezos manufacturing bet and DoorDash's training data model reveal where AI consulting revenue will come from in 2025-2026: helping traditional businesses transform operations with AI, not just implementing chatbots. TP should shift pitch emphasis from \"AI automation\" (commoditized) to \"AI-enabled business model transformation\" (high-value). The manufacturing play is obvious, but the DoorDash model suggests opportunities in any business with distributed workforces or customer touchpoints — helping clients figure out how to generate proprietary training data from existing operations while delivering value to participants.",
+  "summary": "## QUICK BRIEF\n\nThe AI landscape is experiencing a significant geographic power shift, with Chinese models dominating Hugging Face leaderboards while Switzerland releases its first sovereign AI trained on public data. Meanwhile, Yann LeCun's declaration that current LLMs are \"nearly obsolete\" is sparking intense debate (124 points, 140 comments) about the industry's fundamental direction. On the infrastructure front, companies are achieving dramatic efficiency gains — running LLMs at just 13 watts — while Cursor's admission it built on China's Moonshot AI reveals the complex supply chain dependencies emerging in foundation models.\n\n## COMMUNITY PULSE\n\n- **Yann LeCun says today's LLMs are nearly obsolete** (124 pts, 140 comments) - Deep technical debate about whether current transformer architectures have fundamental limitations. Community split between LeCun's vision of neuro-symbolic systems and defenders of scaling laws. Heavy discussion about what \"obsolete\" actually means in context of massive commercial deployments.\n\n- **Intel Neural-Chat-7B achieves top leaderboard ranking** (37 pts, 64 comments) - Technical community analyzing how a 7B parameter model from Intel is outperforming larger competitors. Discussion focused on benchmark gaming concerns and whether smaller, optimized models signal the end of \"bigger is better\" era. Some skepticism about reproducibility.\n\n- **Chinese AI models storm Hugging Face's chatbot leaderboard** (6 pts, 0 comments) - Minimal engagement despite significance, suggesting either community fatigue with China AI news or uncertainty about implications. The silence itself is notable given geopolitical tensions.\n\n- **Switzerland releases sovereign AI model on public data** (5 pts, 3 comments) - Small but engaged discussion about data sovereignty and government AI strategies. Community viewing this as template for other nations seeking AI independence from US/China.\n\n- **AI researchers achieve 13-watt LLM performance** (3 pts, 0 comments) - Efficiency breakthrough getting surprisingly little attention. Community may be processing implications for edge deployment and cost structure.\n\n**Overall sentiment**: Technical skepticism is high. The community is questioning fundamental assumptions about LLM architectures, benchmark validity, and scaling economics. There's growing interest in efficiency and sovereignty over raw capability.\n\n## KEY DEVELOPMENTS\n\n- **Cursor built on Moonshot AI's Kimi model** - Major developer tool Cursor has admitted its new coding model is built atop China's Moonshot AI Kimi. This reveals how deeply Chinese foundation models are penetrating Western developer toolchains, often invisibly. For enterprises concerned about supply chain security and data residency, this represents a wake-up call about understanding their AI stack dependencies. The admission only came after scrutiny, suggesting many vendors may not be transparent about their model provenance.\n\n- **Yann LeCun declares current LLMs \"nearly obsolete\"** - One of AI's pioneers is arguing that transformer-based LLMs represent a dead-end architecture that lacks true reasoning capability. While provocative, this matters because it questions whether enterprises should continue massive investments in current-generation systems or hedge with next-generation approaches. The 140-comment debate shows the technical community is genuinely uncertain about whether we're at an inflection point or if LeCun is premature. This uncertainty creates opportunity for consultants who can help clients build flexible AI strategies that don't lock them into potentially obsolescent architectures.\n\n- **Switzerland launches sovereign AI model** - The Swiss government has released an AI model trained exclusively on public data, joining a growing movement toward national AI sovereignty. This signals that enterprise clients, particularly in regulated industries and government sectors, will increasingly demand models with clear data provenance and jurisdictional control. The trend toward \"data sovereignty AI\" creates consulting opportunities in model selection, deployment architecture, and compliance frameworks for organizations that can't rely on black-box commercial models.\n\n- **LLMs now running at 13 watts without performance loss** - Researchers have achieved dramatic efficiency improvements, running capable language models at the power consumption of a lightbulb. This fundamentally changes the economics of AI deployment, making edge and embedded applications viable while slashing cloud inference costs. For consulting practices, this opens entirely new use cases — from manufacturing floor AI to remote site deployment — that were previously cost-prohibitive. It also means clients' ROI calculations on AI projects need immediate revision.\n\n- **Chinese models dominate Hugging Face leaderboards** - Multiple Chinese AI models are sweeping independent benchmark rankings, with Intel's collaboration also performing surprisingly well. This represents a significant shift in technical capability from Chinese labs, which have historically lagged OpenAI and Anthropic. For enterprises, it raises questions about whether US model providers can maintain their premium pricing if Chinese alternatives offer comparable performance. It also complicates vendor selection for multinational clients navigating US-China technology restrictions.\n\n- **Nvidia GTC reveals NemoClaw and $1 trillion infrastructure bet** - Nvidia's conference showcased NemoClaw (their foundation model strategy) and aggressive infrastructure expansion plans, essentially betting $1 trillion that current AI architectures will scale. This directly contradicts LeCun's obsolescence thesis, creating strategic uncertainty. Wall Street's tepid response suggests investors see margin compression ahead as competition intensifies. For consulting firms, this means clients need scenario planning for both \"scaling continues\" and \"architectural shift\" futures.\n\n- **DoorDash pays couriers to record AI training data** - DoorDash's new \"Tasks\" app compensates gig workers for submitting videos to train AI models, revealing how companies are solving the data collection problem for physical-world AI. This \"humans training their replacements\" model has obvious labor implications but demonstrates practical paths to gathering ground-truth data for robotics and embodied AI. It's a template other industries could adopt for collecting domain-specific training data.\n\n## WHAT THIS MEANS FOR TP\n\nThe China AI story is accelerating in ways that directly impact client vendor selection and risk management. With Cursor built on Chinese models and Chinese systems dominating benchmarks, we need to prepare clients for difficult conversations about supply chain dependencies in their AI stack. This creates immediate consulting opportunities in AI vendor audits, model provenance verification, and building hybrid strategies that balance performance, cost, and geopolitical risk. The Switzerland sovereign AI move suggests government and regulated industry clients will increasingly demand these services.\n\nThe efficiency breakthrough (13-watt LLMs) and LeCun's obsolescence thesis point in opposite directions but both create opportunities. If LeCun is right, clients need architectural flexibility and migration strategies. If he's wrong and efficiency continues improving on current architectures, then edge deployment and cost optimization become the next battleground. TP should position to help clients build \"architecture-agnostic\" AI strategies — implementations that can adapt whether the future is scaled transformers, neuro-symbolic systems, or something else. The technical community's genuine uncertainty means clients will pay for guidance through this ambiguity.\n\nThe DoorDash data collection model and Switzerland's public-data approach both highlight that proprietary training data is becoming a key differentiator. Clients increasingly understand they can't just buy foundation models — they need strategies for collecting, curating, and leveraging domain-specific data. This creates substantial consulting revenue in data strategy, synthetic data generation, and building data moats. Combined with the sovereignty trend, there's a clear path to recurring revenue helping clients build and maintain their own specialized models rather than depending entirely on commercial providers. The \"build vs. buy vs. hybrid\" conversation in AI is maturing exactly where consulting firms thrive.",
   "sources": [
     {
       "title": "Switzerland releases its own AI model trained on public data",
@@ -525,6 +525,188 @@
       "score": 0,
       "comments": 0,
       "source": "bcg"
+    },
+    {
+      "title": "Associate (MCX) - Customer CoE - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9zMXhiZVd6YWIyd2J3d2h1Y05IbDRLYTVIWC1VTmdVaWdCc01pNXJFQW9iSl94UHI4RkRtRUMyUTlKN1ZVR0FqM3F1NUFvZnNvZUpsSF9jMzlVS3NlZ3o1Q0Y0QS0xRzc3R2pMeXp6bnk?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Is the Airline Industry Ready for Agent-Led Bookings? - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNEJpUENZNTQ4Z01zYUVKS2U3N2s0TWNmaXRWWUlCbFMtOU5OdTBwR3FsdWJPUC1jVDg4dktEZmUtN3h6VnpuRGdzTkM4Y29uVDhQVDZGOEZQQmhJem5UZlRpd3daS0tTVzVQWjRHWFEzV1NDWkczUVRIMjVFUDZldjQtbkFWaUZqb0dN?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Why Consumers Choose an AI Chatbot over a Search Engine - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYS1WWDlMd3VycVhNZ1J4aTdnUXdrWHJGZGpWc3hyTUhIenJ0YldBRkFINXVXRG84R29WRi13dzJqTmpGZkpWcHdKdm0ta1pQbU9HZ1MyTDVkaHlIamgtS0ZpVHpzaXNzMjlHM01jZmNEdlhDS0NmRkR4TnVoR1lieWhqNlNHZjVaMVdoaEhVSVdJdERkUVpQTWlWME1XZw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Nvidia GTC 2026: AI Becomes the Operating Layer - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOOXZRYWhaV0UwR1NDUTJfbGZaQ295dUNzVGp1Z09JeTk0R0JyQXp0aTNWeGtheGpYRDluQ0ktYzd4ZTcwbEFpdVQxYzJQQkFuQXNKVENhVXo3RkRKalZmT0c3UmxuVzRfRG5iNDNDMF84YU9rVVZzTjY3M0RqWmtBVFo0OA?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Nikhil Prasad - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9XbmhtdGhtOVJMRkRNWk9VRkxyVm40SVNCUGFlRWc2ZVZ1ek5WeFpzeEhYTGd5MGloYmNPZ0dMd1IzaGtZb0RVbUI5T243cm1pdTN2SlA4aw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Morten Asplin Gauslaa - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE42ckx5ejg2VXRBMWFUUEphd0NCbVhsWWExQVlHY3AxU1lnMzh4dkd0Y0dJc0luVzhFUzY5U2hqVmc2RDBhLVJ2NU9PcjJ4N3Eyd0NsX2owMThfVGJIQWNybkh3?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "US Consumer Health Update - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9IWklRbG9OWl9kU1JhTkttYVNLNWN2NGYweVMwb01MU1dXWGhLRGxfZkdqNTkzNHFCeU5JaFQyZi1XS1RJbEpFWW1iNUM5T2RrNzktT2x1emZueEExdGZJbUZHb2pYWkdH?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Engineer, TSG Information Security, Cyber Operations - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0taDJlb29LSmRJeXZxN0FxbnlwSnpBcmdnUmdhSzNHdkR5QUFRaW5wM1NIZGVaVF96Smg0V0VOTXJ0X196d055bS01RjVQQWg1cW9CcFVZNUtCS280M25pMTBzMVhlWDJiTDRaelVJVjI?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "What it’s really like to do a short-term office transfer at Bain - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTllESFU5YlUwLTBtaU5xZHR1MEVUeXJoa0JiQlNYaGNtUHBDZTRwcndTWmU3NXEtUDBHVHJROWV1ckd3TVNYVGlsYkwwLXBxTk1zWTNObkdvYXdIbWxQWVVYNnBURWRvT1Rfb0NVVnVwa1lMb2NmNWQxdWZnMmNzUEloTEtORnNuaDVDR2QtdndtYW9vc2NoelViUUxjYWRTXzV5Q0xNVjMzQVpwbmlfMEQ3M213SjN0Q0NV?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Project Leader- Data Science - Commercial Excellence, CORO CoE - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5WN1RtMVotQzZGeF9xdHl5enpoQjIwR2pyNldFdWNpbzY4dkRYX3dTUm1kTlllX2xNdG5RQ1dMSXpaaS1VWTdNWllVMkZIS0lKdzBBQzN1d0Znd1V3NzE5Y1BqTG1naXBUNTRUOGtoUS0?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Tenson Zhao - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE85T3Y2YUtSZmktcjdERTdmTmVGeHVDa19BUjBRS0RiWV9iN0ZTaEppbU1heDBvZ00zUFNsNDBQaHdmVzF4cDFrUkdiTHFDMTVxSDJSTA?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "ExperienceBain - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQd2NlbmtVbThPRXBDd1VINTJXMGdBU283QVRRRU10QlFVZUhkblJ0dkJLRERha0xvM1lteDVaVHZqQzJYZVh0a3JDZnZzQmNtVWVKcUE2Q0JmX1ZVbE9wQ3Rlcm5mbmhuMEVNTVpiZWlna2UtTnQyd0tKa0QzVmRYc0oyOVNPZTBocUc5cw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Julie Kim - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9jZnc1dF9fMHR3c250aGQ3bzk0YThhZk5FSVI4MXlhMUx5aTVrOEpxdmFWcHFtMGZNczRLU05GcnBTalY0TU5ERm52c3Q5bTBLNFE?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Tamsin Bury - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5CUnhNbXc5Z3ZHNU1hdkZKcVN0VkJTQkNSRnBCX01IS05seUEwYVRPU2FDdFBoZ1RWR01yLXFPVVFPNEtHVzdMclZZREJ3NUlYNC1fTA?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "2026 BASE: The BASE Experience Panel - Virtual - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQT3ZZd0F0R1BlWTh2WDQ5cllvcjg2aDVwRW81Rlp3bk5fZkhvelZTR1F1R0V1N1labklnSmt5MkpHSWZybE5oU2kwR1hyYlI5VjYyM1djZ3FaSklNX2RIaHRKTVF5VE92dE1BOTY2SGJVMnZKWVhkXzZKSkJSWERrQWtmT1R3OGNPZWlVTDZhWk5WT1NSU0hYalZYUGt0Z2s?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Luxury Jewelry in 2026: What Valentine's Day Told Us - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQ25BN2YzZDZyZzV3NVRnTGdHR1NfTTlTM1FfTmdpSDlWSjdTRUdwTEdiTTVhMnhQN1VzeDVVSUNHbm0xV3lCNlRJampaN0VqelhuS2Zub2oxVnpmVjlUX200SzRjZkpFWWg0THdMTzZuM01OT0YyLXZsU2ZiMFhEQUhZaG8tQXBCWDBYSUdNZzlPel85NmU4?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "2026 University of Florida Spring Coffee Chats: In-Person - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUTlSQVFFTjRyeHRrRlo1N1hzbTNsSjAzMnVqaHF5NEljajJleG1NQTVmUEJYaERZOTNySXpRVks1U20wajFLbVNmV3N5anJhRHlhLXVSVGlPWGN2OVVhRnJKS3VfNzI0ZlA3ekIwZFRIS1R6WDBqbTFEN0tLWHMtVGQ0R2NiRHg1N3RaY1VSM3hVV2xDcmdTcndyc0hWQ1k?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Customer B2B Pricing Practice Manager - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBNZDhUQ2k2bTNKeC1NNTBGbk1GUUV1amZuek9oSDVuR2NkTGhuXzdkcy1CNEY5MXUxXzNQQ0lXQmRweDNCN2tPS0pvcFpoYllCQ2N4OGlyU05XUWN0WnhxQlR3bEVsVVM1enRnOXhjUlM?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Saul Sandoval Navarrete - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9kMWJrU3lLdDJ4Rk16MzRxRkRJdEpCdnB1bUNwQ290V1llUlVHQnhqTDV5S2xCWkNfMFZJa2QzeE0xcXBPcDQ5WThjTUxNS3cyN3M2dUF1Y1dMSWFmNnVFNl93YlZPNFgwNVJYV2RvNA?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Energy Agenda 2026: Returns, Restructuring, and Resilience - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdW9FaHFwVXlMM3k2SDF5ekltR192WXRfakdXTDVMUXgzN29YVmZ1U1BBUnZEeXRpdU9SZ2tfNmo3YUZlODdEU2lDbi1fbEhXd1FGU1ZUY1gwY280S1JEUFo4dGFISEZ1VGROMmpINlpGUFkyUmJ0OHQ0V2xhVjhlRGNPQXVESUhlSUEzTXBaYw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Six Provocations to Future-Proof Your Bank - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1wTnM1X2JmTm9aTGVuenRpV2ZRRkhBVjVsRkhWXzBuZnZQR3puaW9tZW9mOGJuQU1BYjNqQU9GNmxaYWE0WG84R2NXM2I2RHEyT1hlWURzTWxzVXlLcE5mWW5USkJpVUpMRXM3Sk45UFg0RHBSc19UQVNDX2VIdw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "2026 Bain Breaks it Down: First Look at Bain - Virtual - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRGJ2cFBjR0xJYlNqSE5qd19DS2ZpdWI2QXZlMFN4VmdKaE5HNWFDTTRNZlVLdHhnQ2QzOURzSjFMQUZzRFBUbnU2UzNHaFgwS1ZSSEZVUUNKejcxR3dwM2RjZEtESFhhaXhmekZtbHI4M09GVmowNHJuT09HQVlsZk85S3BNeWlVeHduRkEyaVJQMXc1LTg1TVJzajFxSlU?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "2026 Bain Breaks it Down: NA Undergrad - Ask the ACs - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWC1wcTlqUmJoVHZiRFNJNXliMzJqUUthV3NwdHRxbmt1WUhlRURxU0pLaWJOVEFHRG96QXlDTkxWV3pDRjhIT2gzbktxMmNsUFB6aVhKaFdURG1qT01VR2wtVkpMWmNzN05XYi05RU9ZbUpOZG4zeW5ZNi1MdENPRUNRZTl4b0h2SXU3LW0zQmNQN3VOVWZ5YTBSYWx1Y0E?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "2026/1 Bain South America | Selection Process for AC & ACI - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNc2h6cDVDWktBUnlFZWJkcDJYVElYU0szU1JmOE5aNVhGX1lvRHRWU0ZSQUtBbEZYdkhRMlV6cVl6Y0h2WmN6WXhYVnJjM251VnllcHg3N1VPTlhGcElnQ2JzcWxYeFg0S0NQdFlpQVctRVY2VWhEYXVCV3daVTVZTElfMzFPTG9T?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Consultant - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQM1JxdmFSUjZmd3ZwbkxlSXBZUUxERElzNXBTZ3p3ZGhEZzBQVEZycmduMW1GcjhDN1lNRTZPSXRqMzZPbUZEYUNwRnFURUppb3lRV1FTT1NfdEkzeDB0dU43UklkcjRab3JSZGhDR1RYTGFxSk9iUUxidm9FYV9IaUlOdHVQLVk?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Istanbul office - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBfaHFRS20zZzEzaW11RU5HRUw0UUJPVk94djA4N0JzdTZvcldXdVBBalhCTzJMa1NGVnlrdktRQUJUSmtDdm1HZUxka2VwWEE?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
     },
     {
       "title": "What 81,000 people want from AI - Anthropic",
@@ -1269,5 +1451,5 @@
       "source": "news"
     }
   ],
-  "generated_at": "2026-03-22T23:46:39.597Z"
+  "generated_at": "2026-03-22T23:47:27.402Z"
 }
