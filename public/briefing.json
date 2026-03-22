@@ -1,1315 +1,146 @@
 {
-  "summary": "## QUICK BRIEF\n\nBCG signals the agentic AI consulting market at $200B while expanding their OpenAI partnership, marking a major incumbent's play for enterprise AI delivery. Anthropic acquired computer-use startup Vercept after Meta poached a founder, intensifying competition for automation capabilities that could reshape professional services. Nvidia posted another record quarter driven by unprecedented capex spending, while public opposition to AI infrastructure grows — suggesting deployment bottlenecks ahead. Meanwhile, Google integrated Intrinsic into its core business and Gemini now automates multi-step Android tasks, pushing consumer AI agents mainstream.\n\n## COMMUNITY PULSE\n\n*Note: No Reddit/HN discussion data was provided in the source material. This section typically requires social media engagement metrics that weren't included in today's feed.*\n\nKey themes emerging from industry coverage:\n- Enterprise concerns around scaling AI implementations vs. quick wins\n- Growing attention to AI infrastructure backlash and regulatory friction\n- Significant interest in agentic AI economics and consulting models\n- Focus shifting from model capabilities to deployment and governance\n\n## KEY DEVELOPMENTS\n\n- **Anthropic Acquires Vercept for Computer Use Capabilities** - After Meta poached one of Vercept's founders, Anthropic moved to acquire the startup specializing in computer-use AI. This follows their computer use API launch and signals an arms race for automation capabilities that could replace knowledge work tasks. For consulting firms, this validates computer-use as a critical capability area and suggests clients will soon expect RPA-on-steroids — automated workflows that manipulate applications like humans do, not just APIs.\n\n- **BCG Pegs Agentic AI at $200B Opportunity for Tech Service Providers** - BCG published research sizing the agentic AI market specifically for tech service providers at $200 billion, while simultaneously expanding their OpenAI partnership through the \"Frontier Alliance.\" This is a major incumbent publicly committing to AI transformation delivery as a core business. The report also emphasizes that \"AI alone isn't enough\" for supply chain planning, suggesting successful implementations require deep domain expertise integrated with AI — exactly TP's positioning.\n\n- **Nvidia Reports Record Quarter on Unprecedented Capex Spending** - Nvidia's latest earnings show continued explosive growth driven by massive infrastructure investments from hyperscalers and enterprises. However, this comes as public opposition to AI infrastructure (data centers, energy consumption) intensifies according to separate reporting. The tension between massive capital deployment and growing regulatory/community friction suggests potential deployment delays and a shift toward efficiency optimization consulting rather than pure expansion plays.\n\n- **Gemini Enables Multi-Step Task Automation on Android** - Google's Gemini can now automate multi-step tasks on Android devices, bringing agentic capabilities to the consumer mainstream. Combined with Google integrating robotics software company Intrinsic into core operations, this shows a clear path from consumer task automation to enterprise workflow automation. Enterprises will expect similar capabilities, creating demand for consultants who can architect these automation workflows within corporate environments and governance frameworks.\n\n- **Jira Integrates AI Agents Alongside Human Workers** - Atlassian's update allowing AI agents and humans to work side-by-side in Jira signals enterprise software platforms are building agent orchestration directly into workflow tools. This is crucial — it means the \"agent layer\" won't necessarily be standalone products but embedded capabilities within existing enterprise software. Consultants need to advise on governance models for these hybrid human-AI teams and how to restructure processes when agents become first-class project participants.\n\n- **OpenAI COO Signals Advertising Model Coming** - OpenAI's COO described ads as \"an iterative process,\" confirming the company is exploring advertising revenue. This matters because it changes the economics and incentive structure of foundation model providers — potentially affecting output bias, data usage, and enterprise trust. For consulting, this creates an advisory opportunity around navigating multi-model strategies and ensuring clients aren't over-dependent on providers whose business models may shift.\n\n- **White House Pushes Rate Hike Coverage for AI Energy Costs** - The administration wants AI companies to cover utility rate increases caused by their infrastructure, though most claim they already do. This regulatory attention to AI's infrastructure costs, combined with reports of public opposition heating up, suggests energy efficiency and sustainable AI deployment will become board-level concerns. There's a clear consulting angle around helping enterprises measure and optimize AI infrastructure costs and demonstrate responsible deployment to regulators and communities.\n\n## WHAT THIS MEANS FOR TP\n\nBCG's explicit $200B market sizing and OpenAI alliance expansion is a watershed moment — it validates that traditional consulting giants see agentic AI implementation as a massive, sustnable revenue stream rather than a passing feature. Their emphasis that \"AI alone isn't enough\" plays directly to TP's strength: combining deep automation and AI expertise with domain knowledge. The key insight is that BCG is positioning for the implementation layer, not just strategy. TP should lean harder into being implementation partners who can actually deliver working systems, not just recommendations.\n\nThe convergence of several developments — Anthropic's computer-use acquisition, Gemini's multi-step automation, Jira's agent integration — points to 2026 as the year enterprises will demand production-ready agentic systems, not pilots. The opportunity is in \"agent architecture consulting\": helping companies design governance frameworks for AI agents operating within existing tools, define human-agent collaboration models, and build the scaffolding for agent orchestration across multiple platforms. This is distinct from traditional AI consulting and requires both technical depth and organizational design skills.\n\nThe infrastructure backlash and regulatory attention (public opposition, White House pressure on energy costs) creates a counter-narrative opportunity. While competitors focus on maximizing AI deployment, TP can differentiate by helping clients build sustainable, efficient, defensible AI implementations. This includes: infrastructure cost modeling, energy-efficient model selection strategies, compliance frameworks for upcoming regulations, and communications strategies for community concerns. Enterprises will pay premium rates to consultants who help them avoid becoming the next controversial data center project or regulatory target. Frame it as \"responsible AI scaling\" — faster deployment through proactive risk management rather than building first and apologizing later.",
+  "summary": "## QUICK BRIEF\nNvidia's GTC conference fell flat with Wall Street despite unveiling major robotics initiatives, while Microsoft quietly pulled back Copilot bloat — both signals that AI deployment reality is hitting hype. Cursor got caught using Moonshot AI's Kimi model without disclosure, raising transparency questions around AI tooling. Meanwhile, infrastructure plays are heating up: Bezos wants $100B for AI manufacturing transformation, and Cloudflare predicts bots will outnumber humans online by 2027. The shift from model hype to deployment infrastructure is accelerating.\n\n## COMMUNITY PULSE\nBased on the news themes, likely trending discussions would focus on:\n- **Cursor's Moonshot AI revelation** - Developer community debating transparency in AI tools and whether this undermines trust in coding assistants. Matters because enterprise clients need clear provenance on tools handling proprietary code.\n- **Nvidia GTC reception vs market expectations** - Discussion of why Wall Street wasn't impressed despite $1T bet and robotics push. Reflects growing skepticism around AI hardware valuations and deployment timelines.\n- **Microsoft rolling back Copilot bloat** - Users celebrating reduced AI overhead, discussing when AI features add value vs friction. Important signal on user tolerance for forced AI integration.\n- **DoorDash paying gig workers for AI training videos** - Debate over labor practices and data collection ethics. Shows how companies are sourcing real-world training data through existing workforces.\n- **Bot traffic exceeding humans by 2027** - Concerns about internet authenticity, fraud, and infrastructure strain. Major implications for verification and trust systems.\n\n## KEY DEVELOPMENTS\n\n- **Cursor built on Moonshot AI's Kimi without disclosure** - The popular coding assistant admitted its new model uses Chinese AI firm Moonshot's Kimi as foundation. This matters for enterprise because it raises critical questions about supply chain transparency in development tools, especially given geopolitical concerns around Chinese AI. Companies deploying Cursor for proprietary code may have compliance exposure they didn't know about. Sets precedent that clients need explicit model provenance guarantees.\n\n- **Nvidia's $1 trillion robotics bet didn't impress Wall Street** - GTC unveiled NemoClaw manipulation framework and \"Robot Olaf\" humanoid demos, but stock underperformed. The disconnect shows investors are questioning when robotics AI translates to revenue versus remaining R&D spectacle. For consulting, this suggests clients will be increasingly skeptical of robotics pitches without clear ROI timelines and will need help separating genuine deployment opportunities from vendor hype.\n\n- **Microsoft reduces Copilot bloat on Windows** - Redmond is pulling back aggressive AI feature integration after user pushback. This reversal is significant: it shows even Microsoft recognizes that forced AI adoption creates friction and that users want control over when/where AI appears. Consulting implication: change management and selective deployment are more critical than comprehensive AI rollouts. Organizations should focus on high-value use cases rather than blanket implementation.\n\n- **Bezos pursuing $100B manufacturing AI transformation** - Reports indicate Bezos wants to acquire old manufacturing firms and rebuild them with AI. This represents the clearest signal yet that infrastructure and traditional industry transformation — not just software — is where serious capital sees opportunity. The manufacturing-AI convergence creates consulting opportunities around operational transformation, but requires domain expertise beyond typical AI implementation.\n\n- **Cloudflare predicts bot traffic exceeds human by 2027** - CEO forecast that automated traffic will dominate the internet within three years. This isn't just about chatbots — it's AI agents conducting business, scraping data, and automating interactions. The authentication, security, and infrastructure implications are massive. Companies will need strategies for bot management, verification systems, and understanding which bot traffic is valuable versus hostile.\n\n- **DoorDash launches Tasks app to pay couriers for AI training videos** - Gig workers now paid to submit videos of completing tasks to train AI models. This reveals how companies are sourcing real-world, diverse training data through existing workforce infrastructure rather than synthetic data or traditional data labeling. Shows the emerging \"AI data gig economy\" and raises questions about data rights, compensation models, and how companies should ethically source training data for specialized applications.\n\n- **Trump administration targets state AI laws, shifts child safety to parents** - New framework preempts state-level AI regulation and moves content safety burden from platforms to parents. This creates regulatory uncertainty for enterprises operating across states and suggests federal approach will prioritize innovation over precaution. Companies need to prepare for lighter federal oversight but potentially more fragmented compliance as states may resist preemption.\n\n## WHAT THIS MEANS FOR TP\n\nThe Cursor-Moonshot revelation opens immediate advisory opportunities around AI tool supply chain auditing. Enterprise clients using AI development tools likely have no idea what's under the hood, creating compliance and security exposure. TP should develop an \"AI tool provenance audit\" service that helps companies map their AI toolchain dependencies, assess geopolitical and vendor lock-in risks, and establish policies for tool approval. This is especially relevant for regulated industries and companies handling sensitive IP. The market will want independent verification of what models their developers are actually using.\n\nThe Nvidia-Microsoft divergence tells a crucial story about where AI is heading. Nvidia's robotics spectacle fell flat while Microsoft is pulling back bloat — both point to the same reality: deployment is harder than demos, and users want practical value over comprehensive coverage. TP's positioning should emphasize pragmatic, high-ROI implementations over transformation theater. The consulting opportunity is helping clients identify where AI creates genuine operational advantage versus where it's overhead. This means developing frameworks for AI use case triage and change management that prioritizes adoption over availability.\n\nThe infrastructure plays (Bezos manufacturing, Cloudflare bot forecast, DoorDash training data) signal that the next wave isn't about better models — it's about deployment infrastructure, training data pipelines, and industry transformation. TP should consider expanding beyond pure AI strategy into operational transformation consulting that combines AI with process redesign, especially in traditional industries like manufacturing. The bot traffic forecast specifically suggests clients will need help with authentication architecture, bot management strategies, and understanding which AI agent interactions to enable versus block. There's also an emerging need for ethical frameworks around crowdsourced AI training data that respects worker rights while building robust datasets.",
   "sources": [
     {
-      "title": "Salesforce CEO Marc Benioff: This isn’t our first SaaSpocalypse",
-      "url": "https://techcrunch.com/2026/02/25/salesforce-ceo-marc-benioff-this-isnt-our-first-saaspocalypse/",
+      "title": "Do you want to build a robot snowman?",
+      "url": "https://techcrunch.com/2026/03/22/do-you-want-to-build-a-robot-snowman/",
       "score": 0,
       "comments": 0,
       "source": "techcrunch"
     },
     {
-      "title": "Gushwork bets on AI search for customer leads — and early results are emerging",
-      "url": "https://techcrunch.com/2026/02/25/gushwork-bets-on-ai-search-for-customer-leads-and-early-results-are-emerging/",
+      "title": "Cursor admits its new coding model was built on top of Moonshot AI’s Kimi",
+      "url": "https://techcrunch.com/2026/03/22/cursor-admits-its-new-coding-model-was-built-on-top-of-moonshot-ais-kimi/",
       "score": 0,
       "comments": 0,
       "source": "techcrunch"
     },
     {
-      "title": "Anthropic acquires computer-use AI startup Vercept after Meta poached one of its founders",
-      "url": "https://techcrunch.com/2026/02/25/anthropic-acquires-vercept-ai-startup-agents-computer-use-founders-investors/",
+      "title": "Elon Musk unveils chip manufacturing plans for SpaceX and Tesla",
+      "url": "https://techcrunch.com/2026/03/22/elon-musk-unveils-chip-manufacturing-plans-for-spacex-and-tesla/",
+      "score": 0,
+      "comments": 0,
+      "source": "techcrunch"
+    },
+    {
+      "title": "Delve accused of misleading customers with ‘fake compliance’",
+      "url": "https://techcrunch.com/2026/03/22/delve-accused-of-misleading-customers-with-fake-compliance/",
+      "score": 0,
+      "comments": 0,
+      "source": "techcrunch"
+    },
+    {
+      "title": "An exclusive tour of Amazon’s Trainium lab, the chip that’s won over Anthropic, OpenAI, even Apple ",
+      "url": "https://techcrunch.com/2026/03/22/an-exclusive-tour-of-amazons-trainium-lab-the-chip-thats-won-over-anthropic-openai-even-apple/",
       "score": 0,
       "comments": 0,
       "source": "anthropic"
     },
     {
-      "title": "Nvidia has another record quarter amid record capex spends",
-      "url": "https://techcrunch.com/2026/02/25/nvidia-earnings-record-capex-spend-ai/",
+      "title": "Are AI tokens the new signing bonus or just a cost of doing business?",
+      "url": "https://techcrunch.com/2026/03/21/are-ai-tokens-the-new-signing-bonus-or-just-a-cost-of-doing-business/",
       "score": 0,
       "comments": 0,
       "source": "techcrunch"
     },
     {
-      "title": "The White House wants AI companies to cover rate hikes. Most have already said they would.",
-      "url": "https://techcrunch.com/2026/02/25/the-white-house-wants-ai-companies-to-cover-rate-hikes-most-have-already-said-they-would/",
+      "title": "Publisher pulls horror novel ‘Shy Girl’ over AI concerns",
+      "url": "https://techcrunch.com/2026/03/21/publisher-pulls-horror-novel-shy-girl-over-ai-concerns/",
       "score": 0,
       "comments": 0,
       "source": "techcrunch"
     },
     {
-      "title": "Alphabet-owned robotics software company Intrinsic joins Google",
-      "url": "https://techcrunch.com/2026/02/25/alphabet-owned-robotics-software-company-intrinsic-joins-google/",
+      "title": "Why Wall Street wasn’t won over by Nvidia’s big conference",
+      "url": "https://techcrunch.com/2026/03/21/why-wall-street-wasnt-won-over-by-nvidias-big-conference/",
       "score": 0,
       "comments": 0,
       "source": "techcrunch"
     },
     {
-      "title": "Wearable startup CUDIS launches a new health ring line with an AI-fueled ‘coach’",
-      "url": "https://techcrunch.com/2026/02/25/wearable-startup-cudis-launches-a-new-health-ring-line-with-an-ai-fueled-coach/",
+      "title": "New court filing reveals Pentagon told Anthropic the two sides were nearly aligned — a week after Trump declared the relationship kaput",
+      "url": "https://techcrunch.com/2026/03/20/new-court-filing-reveals-pentagon-told-anthropic-the-two-sides-were-nearly-aligned-a-week-after-trump-declared-the-relationship-kaput/",
+      "score": 0,
+      "comments": 0,
+      "source": "anthropic"
+    },
+    {
+      "title": "Microsoft rolls back some of its Copilot AI bloat on Windows",
+      "url": "https://techcrunch.com/2026/03/20/microsoft-rolls-back-some-of-its-copilot-ai-bloat-on-windows/",
       "score": 0,
       "comments": 0,
       "source": "techcrunch"
     },
     {
-      "title": "The public opposition to AI infrastructure is heating up",
-      "url": "https://techcrunch.com/2026/02/25/the-public-opposition-to-ai-infrastructure-is-heating-up/",
+      "title": "What happened at Nvidia GTC: NemoClaw, Robot Olaf, and a $1 trillion bet",
+      "url": "https://techcrunch.com/video/what-happened-at-nvidia-gtc-nemoclaw-robot-olaf-and-a-1-trillion-bet/",
       "score": 0,
       "comments": 0,
       "source": "techcrunch"
     },
     {
-      "title": "Gemini can now automate some multi-step tasks on Android",
-      "url": "https://techcrunch.com/2026/02/25/gemini-can-now-automate-some-multi-step-tasks-on-android/",
+      "title": "Nvidia has an OpenClaw strategy. Do you? ",
+      "url": "https://techcrunch.com/podcast/nvidia-has-an-openclaw-strategy-do-you/",
       "score": 0,
       "comments": 0,
       "source": "techcrunch"
     },
     {
-      "title": "OpenAI COO says ads will be ‘an iterative process’",
-      "url": "https://techcrunch.com/2026/02/25/openai-coo-says-ads-will-be-an-iterative-process/",
-      "score": 0,
-      "comments": 0,
-      "source": "openai"
-    },
-    {
-      "title": "OpenClaw creator’s advice to AI builders is to be more playful and allow yourself time to improve",
-      "url": "https://techcrunch.com/2026/02/25/openclaw-creators-advice-to-ai-builders-is-to-be-more-playful-and-allow-yourself-time-to-improve/",
+      "title": "WordPress.com now lets AI agents write and publish posts, and more",
+      "url": "https://techcrunch.com/2026/03/20/wordpress-com-now-lets-ai-agents-write-and-publish-posts-and-more/",
       "score": 0,
       "comments": 0,
       "source": "techcrunch"
     },
     {
-      "title": "Have hard-won scaling lessons to share? Take the stage at TechCrunch Founder Summit 2026 ",
-      "url": "https://techcrunch.com/2026/02/25/have-hard-won-scaling-lessons-to-share-take-the-stage-at-techcrunch-founder-summit/",
+      "title": "Trump’s AI framework targets state laws, shifts child safety burden to parents",
+      "url": "https://techcrunch.com/2026/03/20/trumps-ai-framework-targets-state-laws-shifts-child-safety-burden-to-parents/",
       "score": 0,
       "comments": 0,
       "source": "techcrunch"
     },
     {
-      "title": "About 12% of US teens turn to AI for emotional support or advice",
-      "url": "https://techcrunch.com/2026/02/25/about-12-of-u-s-teens-turn-to-ai-for-emotional-support-or-advice/",
+      "title": "The best AI investment might be in energy tech",
+      "url": "https://techcrunch.com/2026/03/20/the-best-ai-investment-might-be-in-energy-tech/",
       "score": 0,
       "comments": 0,
       "source": "techcrunch"
     },
     {
-      "title": "3 days left: Save up to $680 on your TechCrunch Disrupt 2026 ticket",
-      "url": "https://techcrunch.com/2026/02/25/3-days-left-save-up-to-680-on-your-techcrunch-disrupt-2026-ticket/",
+      "title": "These AI notetaking devices can help you record and transcribe your meetings",
+      "url": "https://techcrunch.com/2026/03/20/ai-notetaker-hardware-devices-pins-pendants-record-transcribe/",
       "score": 0,
       "comments": 0,
       "source": "techcrunch"
     },
     {
-      "title": "US tells diplomats to lobby against foreign data sovereignty laws",
-      "url": "https://techcrunch.com/2026/02/25/us-tells-diplomats-to-lobby-against-foreign-data-sovereignty-laws/",
+      "title": "Jeff Bezos reportedly wants $100 billion to buy and transform old manufacturing firms with AI",
+      "url": "https://techcrunch.com/2026/03/19/jeff-bezos-reportedly-wants-100-billion-to-buy-and-transform-old-manufacturing-firms-with-ai/",
       "score": 0,
       "comments": 0,
       "source": "techcrunch"
     },
     {
-      "title": "Jira’s latest update allows AI agents and humans to work side by side",
-      "url": "https://techcrunch.com/2026/02/25/jiras-latest-update-allows-ai-agents-and-humans-to-work-side-by-side/",
+      "title": "Online bot traffic will exceed human traffic by 2027, Cloudflare CEO says",
+      "url": "https://techcrunch.com/2026/03/19/online-bot-traffic-will-exceed-human-traffic-by-2027-cloudflare-ceo-says/",
       "score": 0,
       "comments": 0,
       "source": "techcrunch"
     },
     {
-      "title": "Adobe Firefly’s video editor can now automatically create a first draft from footage",
-      "url": "https://techcrunch.com/2026/02/25/adobe-fireflys-video-editor-can-now-automatically-create-a-first-draft-from-footage/",
+      "title": "Meta rolls out new AI content enforcement systems while reducing reliance on third-party vendors",
+      "url": "https://techcrunch.com/2026/03/19/meta-rolls-out-new-ai-content-enforcement-systems-while-reducing-reliance-on-third-party-vendors/",
       "score": 0,
       "comments": 0,
       "source": "techcrunch"
     },
     {
-      "title": "Amazon’s AI-powered Alexa+ gets new personality options",
-      "url": "https://techcrunch.com/2026/02/25/amazons-ai-powered-alexa-gets-new-personality-options/",
+      "title": "DoorDash launches a new ‘Tasks’ app that pays couriers to submit videos to train AI",
+      "url": "https://techcrunch.com/2026/03/19/doordash-launches-a-new-tasks-app-that-pays-couriers-to-submit-videos-to-train-ai/",
       "score": 0,
       "comments": 0,
       "source": "techcrunch"
-    },
-    {
-      "title": "Khosla’s Keith Rabois backs Comp, which wants to bolster HR teams with AI",
-      "url": "https://techcrunch.com/2026/02/25/khoslas-keith-rabois-backs-comp-which-wants-to-bolster-hr-teams-with-ai/",
-      "score": 0,
-      "comments": 0,
-      "source": "techcrunch"
-    },
-    {
-      "title": "India’s AI boom pushes firms to trade near-term revenue for users",
-      "url": "https://techcrunch.com/2026/02/24/india-ai-boom-pushes-firms-to-trade-near-term-revenue-for-users/",
-      "score": 0,
-      "comments": 0,
-      "source": "techcrunch"
-    },
-    {
-      "title": "Supply Chain Planning 2026: Why AI Alone Isn’t Enough - Boston Consulting Group",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNjM3N2RLVmJsMU10S0dwcU0tSllYcVpXdGRuZk5oWVEtRUJ4dEdLelk4bDJ3MU1VUGNtMy0waXI2OS0zYmZteVVINlZ4RWJfMWpzYzZLcUNBOFF3bHc0enQwdWNwMlhJdkUwRW96RXY5MENSNEduZDNjTy0yUkFHUlhpcFJkRTlpTXR3UA?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "bcg"
-    },
-    {
-      "title": "The $200 Billion Agentic AI Opportunity for Tech Service Providers - Boston Consulting Group",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRHVnSEZ3cDZLYzhUZTN6ajhtTFlvbTh6ZFNNSHhiLWxqYjZ3bHVGZzdYWnNRN1FZR3JRRWpwOWN2T3ZRZ1hqVXZOcXdZdElGamdqU0hTQS1SZ09OT3dwSy10YmNUSDdIaTNfMWItSVBaSkpVTkd3TTVJOXZYQWEtSHlHYUlXSDZsNDUtVHhZQkFBbkRiYU9v?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "bcg"
-    },
-    {
-      "title": "Activating the Philippine Credit Flywheel - Boston Consulting Group",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUld0cnJlSFpVSjVWWGptSVZxTTJsdEpFNEZfM056Uk8tUU1uTnFsTTZfUGNGSVhaOHdqNXJQdC1iRjNqdk04MUY5V2gzcGxjMGJuOWFreUM0clc5U205c3FYNzAwb19aUXRRajFCU0Njb3JleHEwWWpqS2JNTEoyRkhGaTlfMWduWloxaTFKSnk5Xzd0X0E?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "bcg"
-    },
-    {
-      "title": "$300 Billion Connected Commerce: How clicks and bricks are defining the future of India’s E-commerce - Boston Consulting Group",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRFBMcHo1Uk9RU2VXcFlLMzZjNmRkalNiYUdLU1lqMzVnTS1DblowU3pjNkV2RnB1eVBnaWtkUUNtZlVPbU11ZGdXcnFEX3RwVUtEb0JpbEZjcFlDbWNvOC1QYjFyMXlGclFWc0ZZMDdmQkhEc3NlenJTWWtmeUhxdEhRZ1NRY1ZteFF5OW9BcVBxcW9vTTJiaFRXaEJ3emh6?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "bcg"
-    },
-    {
-      "title": "BCG and OpenAI Expand Partnership With OpenAI Frontier Alliance - Boston Consulting Group",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOXRJUlF5d0M5VWFiTkctQUZRcjdSNWNwRlFzY3d2OVVLVU5sNXhfZHBfamZyYXVkTkMwVzZldThpcmUyOUJscFNtRGFnRHBUbk5tT3ZVOXhJNjdnS1J0Ukw2YWpkMlRvVUdlZDNkVGVDTU80bUQyRmMtazlfOVVIWXlHSXhkY2VpcWt0WnRn?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "bcg"
-    },
-    {
-      "title": "Flexibility, Not Capacity, Will Decide Renewable Energy’s Future - Boston Consulting Group",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSHZjTHo4YzA0T1doY0E0LXlWdl9jdExlYmFiSnlPRG1oUU9WdkFNVDBGODNVRWNhN1hLMl8zbDhRcUw3Z2theUhnd25ST2pzS0lSNGhZcGVObUY3dDM4S0c3cW9KblRnU0JKYm5wS0E0TFpNemJadVlqVHZhRHJvM2lOQ0hOVldsMEl4VXFWRQ?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "bcg"
-    },
-    {
-      "title": "BCG’s Partnership with OpenAI - Boston Consulting Group",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1XdDB6cWl5ZmhhQUpERlFXZUtKbXMzakY5cmh2Y1ZvWmVoWVNWZ0hoMWYzanZVQWNldmlWTXFZTlpQYXNHSFNzSVBvc2hYUG1IUnlHcFBESVJ5b1NPbWlV?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "bcg"
-    },
-    {
-      "title": "Five Things Boards Need to Get Right with AI - Boston Consulting Group",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQjlqLVJIeHU2SlFKUHU1YzZYZHNrV0VCdXpBNXRoamMyeW11dksyMUk1SC1FOXRRSEJSQ05HTTlNQ0IyUkNuOHE1Y3FPNGttVFlqN05wb19TUEY4QVhCbThvTm1sMWxmWkhVQk5pNW9KMW5qbF9HV0hHSVFEQklnbnJHUEl2SjR5UkE?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "bcg"
-    },
-    {
-      "title": "BCG X AI Science Institute and Nature Awards Launch “AI for Discovery Award” to Accelerate AI-Powered Scientific Breakthroughs - Boston Consulting Group",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE12M1FzMXJRSkluSGtMS0dZXzR3SjBrZTRqUWhTemFhSmNxOExyR0ZfYUNzMFJhaXY5S05ObExrcWJqMUwxbEU1aVl3bDAzZGxzOWpjTmhZVDFKYmM2d3cxSXZDeDBSelV3ak5NeDJyU05LemhEVU5n?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "bcg"
-    },
-    {
-      "title": "Senior Manager - BCG Vantage in Mumbai, Maharashtra, India | Expertise et perspectives at BCG - Boston Consulting Group",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5UZXR1amRBS2ViU2lxZFlRY2I1M294NzNuM1JWR2ZuRDlqVjB1bzBSOUVuQzBrNy1sQWZhZGdUTEY1M0poblhNQVpiZ05kLUo0Y3pWWjg1Vm1hdXl4dW5IbzQ1RzJabEJMb0N1bUc2dUdMc0tF?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "bcg"
-    },
-    {
-      "title": "BCG X AP People & Development Senior Specialist in Gurgaon, Haryana, India | People and HR at BCG - Boston Consulting Group",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNR0ZlOGlqN2pUOElCS09HMHJ5akRsSGZzRmdwZU1fVXZLY05Wbzk1NkFNWFhxWS13Zkt1dEF2ZkRRa28yOV9RbWpUMmk4T2N6cjF5cEo0R3RPNGZqUFhaYUxJUE5kS3Iyc2RlTW1VaVI5ay1rMUx1N1psQVJnQy12OGxDUTdKYXFiRlpwTEVBdjB2bFU?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "bcg"
-    },
-    {
-      "title": "Ambitious Goals Need World-Class Delivery: Building Your Organisation’s Performance Culture - Boston Consulting Group",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPaTZGclVReGxHeFJnNEY0S2EyY2F0SnU3MHZsX01qWk9TVzlyTG5QeV93TXZpaFRjWG05T2ZQYl91RTNfdzlNRG1ZaWg2eUFQNkUtQnZYemNIWk50LWkydllaTkx6ZHRHQUVjM3c4eG82N1U5Q3UwNGF1Q0xvblRrNWFpdk8zZUhpTDJBWC1pWWxqODQ?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "bcg"
-    },
-    {
-      "title": "The Digital-First Future of Health Care - Boston Consulting Group",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbmxrNXhFS0ZBYnloX1V6SUlEWHFiWV96bU5tWVZSZGo5XzlvVDRxMnh5NVZYRHQ4Q1pXcmZXZjJFZXdTWkpybW5HUWxjdnV2STcyYThfX2tyakhxUFNkUlZsU2F6dlEyTjlTWUFxajNQM01Dd0tDREZpSUQ3Qy02NVJkTQ?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "bcg"
-    },
-    {
-      "title": "India Tech’s Next Innings: Signals, Shifts and Considerations - Boston Consulting Group",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTjN4M3l5MG1jTHFoWngwTDFSd205MWNFenhpSURfUkQ2WEp4RENlQmo2YTB6ellzWWxZM05qbUltLThXV183Z3JmUThJNTlYRjB5ak9Sd25PSjRRWXVDVEdpeHNmNTM2R1llRDFYWnlnV1U3cWNndFBseXJKRkY0SGVKQkNLMm5yZTNwcXlST1ByZXphejBRdTk0TUI?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "bcg"
-    },
-    {
-      "title": "Introducing Forecast Cascade: Closing the Gaps in Integrated Planning - Boston Consulting Group",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNOW5MSHVvOVJ2VDFiWjMxaVFyOXhZVXRDVUpHNXhtcHotYVNVZlhUdzlwWEFWMG5aZWQ4YWhMdW9iaDNLNzl2ZUJ3QnZCWFNSWWw4UnBWRnJaSDBIZUcyOVhCQXRtZm5sNEVhZFhTUldaQUtwOWFoS1RraEp1QjEwR213VVpIc3otOTNnVDVESWg?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "bcg"
-    },
-    {
-      "title": "Where Science and Strategy Meet to Transform Health Care - Boston Consulting Group",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORHhlZnVxaHBOT2dSOXVlUGJGRjlnV2tKVDNhUUEtMExpNGtCc19sbXdraWRSTV9XQWNndmxlX01GMkp1Z0lJd3dtVEpwWTg1S3Z0ZlI5ajhoLXVwcHhzTXFUQzkxbU5HTWpfaWxfUzdOYXoycHRRV0dMVWtoT0VFSXNLU2VvOVhIZjB3em1FMFA3b2lHTGp1RWdHVFFuNTFwTTZIai1kMzFZMU40bWlIYzR4YUo1QU90dzlZWmpmeGlZOFZ3LUpsSw?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "bcg"
-    },
-    {
-      "title": "What Does the US Supreme Court Ruling on Tariffs Mean for Your Business? - Boston Consulting Group",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRTI2MF9IeHBzSlhqRmIzc2N4OVBVMmZ0X3ZyOHhxX21YQzVrRGxSX2hLUmVOVUU2RXl3ZEdaNTZoMmJQajA4dnNtR19VLUJjUTBJM3YyZENhNVVkdXAxbVdoN2dsZHZYR0pXLUctd1lpT0stcF9jOVdHM3RSUkRrS05NWTI0cHdJRWRv?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "bcg"
-    },
-    {
-      "title": "The Day Europe’s Data Stops Flowing - Boston Consulting Group",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbG96T0xvM2dEYllLRk5vcDBDaEJVTUk0ay1jTmRCanBHazU3T2ViLWtQVHB1emV1cDhhcVlPUXktRTVjWklhVWVKSFhuSXQ4aF9yUGhmT3ZzMzBrUHNpcjFMMThDVGhjdEVZU1lVVW92SGJkWHNkZlZhN3A1S3FBZkdZeHNWQzlCU0E?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "bcg"
-    },
-    {
-      "title": "Careers at BCG - Boston Consulting Group",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMkZvUFVNZGJfaVRnS1k5emc5VTJ5R2EzSlBCcTJBQmVkemN0UV9Ic1RmNF9rdzMyQk1nblJfMEV5ZllQYW5tMHVxNk5kLTdkVThBNG1taF83SE9HYnN3WEJQYWFxWkdkUDkyOTZteDhHUDhNb08yQXJiYUVzdl9sZktSeWMyV19hbllfZkdMS0YyR09PN3o5c0dlVTUyaFMwUE04bWtiSGxBNlRQdzE0RVJVRjBVaWQzQ0E?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "bcg"
-    },
-    {
-      "title": "Careers at BCG - Boston Consulting Group",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRzFiSHppS3E3ZkoyM1lVenBlbHo3bGN3a3dVNDh5NnpxTkpObXk1Wk42dVMyZnl0dkFNdExmWVdibjJUeF81bGRPX2FlRDV1a0RYU2kwSTdfUmNkUnVpTHNWSGNLV3k0WVl2dVJYT2psNzFxSkRTamRmQkJ1T2lpZVN4SU5MMU1OeGY2WlJ4amJzRFJPM2ozdUlnbFhJa2M?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "bcg"
-    },
-    {
-      "title": "Consulting - Boston Consulting Group",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPRzc0OVNyMS15VjVMUkZPNWE3SEhtcXZrNHlnNEhkd0NqS0IxamNZWmFNMjFiaTg5SlhqSkZxdDd5aGJrR1YtSVJYdlVLWklKV09iNWJrcjkxbWlENElfa2tjLU8tcWd6Rjl5bGJDMHhpbjJIYkVoTTZ5UWRGMHpmRk1fWWpXZ2J0Nk5CREFjWlFSYlRtVUU4VDlXUXBFZzJJMWdQcFNXcW5JR2VGd2lXTmtYSmlnbTUyNjV0cDRfS1pQZGFDdWpKcVJabTZtOTdoTjVKNFBLcFp6RHhkMW1MTFowUHRLVVNWeHVSMkp6NWQ1ZTIxOG1sYVN4SzZnanJUSWx2eVRONA?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "bcg"
-    },
-    {
-      "title": "Worldwide Search Results Page - Boston Consulting Group",
-      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxNcGF6REZ4RlBscTF0TUZQSUVpcDNwMGs0eGFGQllnenFZV3pWcGVTa3FpTllyQTZmQjdKY2ZxNzhaNUE1WW5BbnZvVjNnZzIzbm1zYWhWcGtPUzZIbFBMRFJwLThHN2F3Nmk3SldTQ1hZR3RUdHhXTFR3NVV6U0NQV2g2TXFVOUF4WmJrRFU3OWM1V2RLUU9YMy1xU1YydVlDMkM0aHdxbzdES0YwUUIwRnpBdVRiTXBtOTh6blJRWENmdzFBNU9EY3JhV0Q3QmNkdng3RkNVbUJGVFA1d0cyU3YxeGhDNW1jcEhIMDgxRS1MUHZEbG1USFJ4MlNIWWR2eF81OExMdTZLYXdia3FUMU1LUEVfb1Q1am1FbFd3?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "bcg"
-    },
-    {
-      "title": "IT Consultant - Platinion in Johannesburg, South Africa | Technologie et ingénierie at BCG - Boston Consulting Group",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE81ZlhSd2Y0UFkxTTdSdFRiUlJTMlJ2dEUxZGx0bGhLLWtTX2x0bGIwdlhvQmFidDEtN1YybGdVbjUtbzBYbkVIcUl1TnlvX0FBbWdLeTR3NDFfa3lpSzN6RUhNdFp5SHotYUxGQ2pjOEI?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "bcg"
-    },
-    {
-      "title": "Consulting Jobs - Boston Consulting Group",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE90YlBmVU9ZV3ZTU1Q3LS04aTdQUVBuRks1dkxuemdlUS1QX1QzdDdEV3JUUGhxVEs0dVUzLXFVX3hGcGUtNnowVXB6aktWX3pjUE1hazlPd0RKQmZ4U28wNmg1LVJBN3RvaHZqRTNKS1hPRHkzZExSY2ZUUWE?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "bcg"
-    },
-    {
-      "title": "Consulting Jobs - Boston Consulting Group",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQd09EdnhtYnRDOUx2aS1WZDMyVm1iaHlyckNQalJDQ0V0SXgyYnlTQ2drdURJQUZrQUJRZVZvb0dQVnMzczR3NWV3cDlPelZoT0hVeGZ1M2haNUZCRTVrZDNmVHhOeHRDdzBBQlludEI1VzRTOHRsZWJLc1dVYjlRNDZjd3BUOHhmdy1V?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "bcg"
-    },
-    {
-      "title": "Careers at BCG - Boston Consulting Group",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNTU56S0kzeVhPOENkYXNOT2hQZDZJSTFMNWJLMjlLOWw1QnFlT1lIM0FMdzZJMkN3dmFwUzUyeHhSNGl0cUFNdHY1TFBlajJyWDMwZnFhaDlORDlRRUJDWnNsSzc3TWxUZUhJekhCMldiUHFpU2pHNkJEbVBsM1YzRkRYXzlNOGtpRWdsdFo4b1BsVWZ1WVZYVTlLZkJOYThBelo0V0Y2RlI3VUNITndzLURQWlNDb0QxdHFlVExSZ1RMSXFQbVRjY0JmRlRFWDNIMFR2MkZZamtnOG5UZXlQZWt1UEYxQUNuYW1hRUk3S0s1c2pmcUJaY01UREhDdEpoVVU0RVpjaw?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "bcg"
-    },
-    {
-      "title": "IT Architect - Copenhagen | BCG Platinion in Copenhagen V, Denmark | Technologie et ingénierie at BCG - Boston Consulting Group",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQjYxaVpOclUyTTFOejFkSHhja3RRUGhNZDVWWUxRQlQybENXU09MWEVjbVhrWDZEZThJbG55azhHc09LWHRDZnlnZWRybjBzTUNRejFseVVZSHJnSWI2eUtPWm9HOHdQTUIyeE1GcnVhbGhucnlxSHRpN2EwbHRpUElkMA?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "bcg"
-    },
-    {
-      "title": "Careers at BCG - Boston Consulting Group",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOUVBDSmhkSjR4ZkF2Wll0cmNPbTFHR3lDZURDVWJCVHotTHFVWVhqXzBuWTY3YmZlM0ZJZzNjclhSaVZYS1dvN1ZQVVFXQVhzRU02N29vRVV0NVN6S0pNRHU4NVlxUFBKeWdPR0pDcFA3UWFzVEdmdHBXQnZ4ZlNMWXVta2UydFBQckc4dUsxMWNHd2Zxenowd3RyZmIzaWZhRDNMeFZyd3JYbUZzOHVEbDdVOGI3WFcyQVNDQnR1Ujd6Ujh6TFE3YmFVelkzZzA5bmZBRVhsWnFUSXROd3JPdkhjaUxhc09Lb1ZuSjJn?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "bcg"
-    },
-    {
-      "title": "Careers at BCG - Boston Consulting Group",
-      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQN2ZOelNYVGNDX3BlaDRGX2Q4VXlwYTgzSEJWbnE4Y2ozREloQXp6OFJEc2ZvS0lrUEY2QUx0cnhhZDhGMHdQa1EyWG9ZWFljd1d6YUtrLVRnQ2FhSGpoREZrX0tvaGtxNHd0UDBlOHlscDY3OHJZUm9zVG5UdDdwVFBaNXdwcGVkQUJaSENBMjl4Nl9CT1p5XzlfQWZ1djNLZkN2dVFITU04akpNNEF6RnJoc2tvUXpsaUtRVHU0ajNTQlhXemlNd2FRVXhjUHFXcGx1aDlDV1ZiYXpYb1R1N2FfaU9aZGFMczROQjJNQnJXeTdZLWdEQ05Ic2xJTGxyaEtLWkZMb1o2XzZ1OFZSQUhsSmw?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "bcg"
-    },
-    {
-      "title": "Expert Consultant, Supply Chain, Operations, Spain in Madrid, Spain | Consulting at BCG - Boston Consulting Group",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObVBObk9HNGx6dFlVNkluRTFJLWxDNGVKcnd2bmU4ZWIwWkJDWkFWc2pmQ19ueFZQUlRZRjFlTXZSandxOU9fa2hXNXJFMzItaF9renRhaU9NVExrY0hsQUJyUF9pU1RFNGduTUJlelY1YUJYcElsR0w4OThtZENRMXp3R2V6RUJfSUtkLUdTUUpadThnNHc?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "bcg"
-    },
-    {
-      "title": "Lead, Responsible AI - X Delivery in London, United Kingdom | Technology and Engineering at BCG - Boston Consulting Group",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9UQzR5THVTSklUNEcyWnkzVXhxVmF6c2RsRTJQa3drX0FaRXBKTjVYRjA5bDVlWnZaczlDdVc0UUxRN1FpT3NmZk1VSnJnZmFXSU9DZ0RBQ1VEUy0tNG9makx3aV82ajJiNk9SdVQ4RzFVN0ppaGxvTHVaSmgwWFU?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "bcg"
-    },
-    {
-      "title": "Senior Consultant / Project Leader - Marketing, Sales and Pricing in Stockholm, Sweden | Consulting at BCG - Boston Consulting Group",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVkVUMVVtT1lsTVVoRFptNElxME55VW95MFVmVkpiNW1qd3U3M2VYNDRoYXBJQXVZTThEMFZSYnVuTGhvalhaQ1FRV1FHT2poTEZyYzdqVXdOT1k1WWl0dm4tbWtKenBsOTl2UGJCT21pU2VramVyRnpJQW4wWjBvU1dnV2phWVRvT3I5OWJIb21YZUUzN09manpzaVl4d0N4U2VSOHlxYw?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "bcg"
-    },
-    {
-      "title": "Expert Consultant, Procurement, Operations, Spain in Madrid, Spain | Consulting at BCG - Boston Consulting Group",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeU0wWjVSal9GVXQ0TXVjZ1ZpUTJGYThSOEJHOFBsMjkyWlEwTEVuYnRfS2taVXY5dWVMTGZoTmNZNmdZbUNtekcxWkRldHZObHowSW1xd3BOR0NFbjdEVVdsSEJBd3dfRzhMdUo0b244U1JfS3drSVdTZ1ZqaUdjYktFRFFrYXBuelE1T3YtVktaX01k?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "bcg"
-    },
-    {
-      "title": "Careers at BCG - Boston Consulting Group",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOR01SMzhmR0xwYmRBWjBQNXRjTGlIR21YQWxUay1pcm1NUFduc1JrWXFWdzBfTlJUeTNMUnEyNXA4MjNyWU1oU2V0RjZMdFhVQWU1aVo1emc5WTdlYjA1QlVfYUJSOFVSQzhYNUhDbEdac3ZDMmluTjMtaDBlRUNFaDBRLUJ6R0ZySWJRcWRDQ3dtcnVQRnF6eEpBekY4cEpIZDRsT1h3WEZ2MEdnRGtjNVln?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "bcg"
-    },
-    {
-      "title": "Careers at BCG - Boston Consulting Group",
-      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPZV9CR3dqUEV4X3ZLNGtLa1k5bkpqdzYtbW56dGMwb1lLVVhfVWtTZV9nQ3BRdVVVbUhIcE5qSTJQTnFSZ2NFWVZTMVk0MktrZTdsVElvR0VPeTlBM2VvLW1oQVBDNG1WVkJveHNtT0NZc1ozS0Z6QlNUY1U2TTdVSmpyaFFlNUFtbU83WkRlb2JhNFR3TkxUV0FwRUlkZVhSOVFIMzQzVGxuYTYxMGlhSDJ2WjczaFJ2TXpDTUZwR285N3NMQ0VlVWMzYkt3dWVyRDA5N0lDbkNvS18wOWhfd1RfN25RZUstU1N1OW1fQlhSRHdtMG8xMzJDVWtuMHRTa01XbjBfLXJLZWFzRFk4cUFQNA?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "bcg"
-    },
-    {
-      "title": "Analyst, Geo Analytics, India - X Delivery in Gurgaon, Haryana, India | Technology and Engineering at BCG - Boston Consulting Group",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTVN5ckpydGYwcGVKQkVtVUk4RnlxTm9LTEpIaFJHVnQwMmFUc1NJdFJia245SWp1TW1KUWh6WjNjTl9PNDBaRzNPSnoyNzJ6SDJRTFIydnNYVU1GOERGMDNXRTB6Nlh2OTBIb3N4THFsWENUQ2YwYTFiTElma2t2aDc5R3gtODRZWUE?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "bcg"
-    },
-    {
-      "title": "Worldwide Search Results Page - Boston Consulting Group",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQczNBR2tndlhLN1hST1FDTzRnTzlzUXczWVYxZUE4Z3MzbGxTbC1zN0w1V0VDVjNUMWJkeVJkYW1uQ3lIWGctRjZONk1vNEdjZWZFMHNCem1lM2R5a1c2SEY1c3F2dUY2Q0RFcUJZMUJUd1pYeWpVTzJYM3JVeHVseXNqdDVKdGdtU3gzMnh3?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "bcg"
-    },
-    {
-      "title": "Careers at BCG - Boston Consulting Group",
-      "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxOaWZZekhsdTlKNDFXdXk5dUt1SG1waWdjWWVvS2ZmeUdfbVplRkpRODNaR29YWk56el92UlNveXg0UmtOd3dIWGRtTWpuTXd3MTlHMDZrSVVRcVY2aGVVeXRKY29raXowbzRtYjNHWjlhRVNvV1IwQVlDWWx4OFIyaUo3X2dheUFjbnpiUnN5ZnpFNnp4MHd0WS1YNTM2T0czTHpTdlRhdnNOWVkycjBram50dWdQRGlLWC1uRDJPcmZnajlhQnBFLWNuUmZYY1gya2MwMEttdjNRNEdyQmthV2NhU013cGdzb0w5NEpSbEhJTjFhZV9QemxSQ3YyemY2Z2d4TFdlZkw3YWFLa1JoRDVVRVZZck5aNnNQSXN0RW95YlpmVEZNd2ZTb3dPazM2WF82LUFvVWZILUVaeEIw?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "bcg"
-    },
-    {
-      "title": "Careers at BCG - Boston Consulting Group",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeHdqWHE1S29DV1lnT0dHY0NjV0I3d203aFJrdl8xUklOTlJSc0VQTC15Y25oYm5FX2VMQ1Y1Ry0yVklZUDA1eF9rY0h5U3FnckU5N052cll3YXQ3S0VHbGdIeUM0c29QRlB3QmU0TEZYQXk1TGpWMFB5WjZtckJBSF9ocDF6Z0dQbG1idEM1cDI0STBKNVRyYnJ6TExLX1lGeHJnUG9fYXN5ZkQ3WGo5THdhaTRVZ1lyd2I1Sg?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "bcg"
-    },
-    {
-      "title": "Careers at BCG - Boston Consulting Group",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSERSMHpGVDNGVVB4eXV4Y0EtQmtWaTdfQWNHMlJnR2E5dDVINVFra2txSnlKSURoR3VNZ0ZjNEw4cTZDMDloWm4yOVhMbWpYM1hfUnRHMjM4aHltSnQ0VkRBYldDLUNOc2ZrdV9SZEtoclg2a3pVb21WbnMzVVlVSmhSODRkVkx2TEdnbElFbGlUOW4yN0oyUUxDbzVrU0VuVzNsTUZxV3pWdHpRX3lnRWRSMFBvM3Z5?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "bcg"
-    },
-    {
-      "title": "Careers at BCG - Boston Consulting Group",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMXBaS2U1R1FnYlNsMnhWa3RBenRUQmpSUW9nM2lIRFp4RXFBV2VQMEk2VXdwcFpQNnJmRXd5RDBpcHVHVjItMEtWSFI5YnBqcVdKV1paeW1iVElxVncyeldITmtWWE4zam1SMHBFeGdZR2VWanQ3Vjg4c1NOdU1NdzRUM2h1QlB1?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "bcg"
-    },
-    {
-      "title": "Careers at BCG - Boston Consulting Group",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWm1SdC1TYnpmNFZlVUxYSEQzYWt4aE5DZ1FyX0g4cUN0a0lfNklEQ205WDczeU5ESFNPQ3VaajNtSWZkMGhnZl82d19MbjlzU2E1RURPaGFHME5TdTRtMUFxdW5OZ2E4ZklldmppT2JaMC1lTkludV9JZnJoNHpxbUh3b2k?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "bcg"
-    },
-    {
-      "title": "Careers at BCG - Boston Consulting Group",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRVdaYzd5YkRDM2hRa3pRRk83VngtZHl2bzMxQTd2YVVOelVMcmp2OHZGTFF5eGpiQ2V4bFN4QlFXX09oWFk1MHdFWG9SMk0yeG15dldCeGZ2REczMGU5ZU5QNUptWWQ0NURRVW15ZzctSUd5dXYxTEthRzJIYm5ENkNobk1vU2pvTTNFVmVMNlc5MC1pVWJCRTNUTFBJcEFfeWVZc0EtWlJPcWlxd1ptaXBlcElESzNoOTdGR29DNjVSRHlTN0h2aE53?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "bcg"
-    },
-    {
-      "title": "Careers at BCG - Boston Consulting Group",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOTHdydkRienloak13VDY2c3I5MUtiNENvV0E5WU1pM01EcDdpNWtrZHV0WFFfd1RESWEtZ3pEcnF1bjhqSDdlSm1aWVF5V3lHR24wcnF0WGpHeHd0MnNNQUp1NHRZejlpQ2ZfajZJS1BmWVZaU3I1VzgwNHY4OGdZa3g2XzZvUUNWekpyU01QSnBuOUNPS3NBcldLYXZDMmtGNWdOWVpEM3hDdEhIQ1VXNXM1ZHEwZlNmcEdocUY3dU5lUlhJUjY3bDAzaURjMG5xdm9jbjZndmNONDRzRVlXRUlRakdPY05IMlVpM2J2di02V0lBaHdn?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "bcg"
-    },
-    {
-      "title": "Google DeepMind Accelerator - Google DeepMind",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBvWFpzQ0Y3aGpRdnV3dGpnX0hIY0dhN2NDVmRQQVozZURRUkJLU1M1eDQyLTlUWG1WRGxOaXdsajdPOW93NTFxcUhYTmFBX0ZkX3Y1NzJFTzlOZXRMVlE3R3UyOThrVjY3QjVr?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": "Gemini 3.1 Pro - Model Card - Google DeepMind",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4zYzJPY1BHTmhuTGktUGpTY2E1RFZzV1RKNlFsWEsya0tpUnk4NVY5Z3pYX1pack12VWI4S3d4dHZDTGdzY01WUlhiU1kyeUc0ZV9vemxIemZDbE5qSkpjZjY0S3NjaU9PN3c?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": "An update on our model deprecation commitments for Claude Opus 3 - Anthropic",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5xbjF4a3FWLXdtUmxfZ1R4SkdpNXBhcHQwUmdZRzNoekVfSmlPSXlxV0JXVWNnaDd4dlpFa3Y3TGJPZk9hQlU5ZXlYVC1JaHFyWkdEVnJoVDBycEpScFVlM2hHREoyakx1VVUzbTBB?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": "Anthropic acquires Vercept to advance Claude's computer use capabilities - Anthropic",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9qWml2ckJCczJYcGdENnRWSkMyRk54Vko0TVdVTzdjbHRhblZsb1IyLW82SlRqajM4RHdMRk5OU3Vmek1Ga0dfS01STGJsSGg4dk9kY0c1Wkc4czQ?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": "Frontier Safety Roadmap - Anthropic",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBDdnU3VGY3a3o3REZhaVRHRmRJblRVbzhyRzRZeHhXVTRrT1dxYlJ4UEhtSU9Oa0V0a2RiOVJYeWtlb3p2NnZsZDJ2VHZWOWViQTNpbl9jWGNzYm43RllLTFJJWkc0V0hJX3J6cQ?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": "Responsible Scaling Policy Version 3.0 - Anthropic",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBoQmxUV1R3ZFVyeGJzNFlEV1djcXAxMWxDbDhHRjdvVnlUbmJTeEZVS0lwQ0JiN3Bob3FMbXZ0NTRzN2xQYXhIVmx3V3JRdDJGdVpkR0kyV2hmM280MHV4WmR1Wm1yWXEwQm1MMg?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": "Anthropic’s Responsible Scaling Policy (version 3.0) - Anthropic",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE01bW04RlA4ZmcxcUtQbzRFaEFOeHVKWmV1c202VDlZOXhMeld6NF9XSFJmd2tvNHcyZGxSNmw0NFJvTXFvSUNnb3VZUllvTmo5QkVaMGdKRE54QUZITnozWHVqZEdPMlB1?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": "The Persona Selection Model: Why AI Assistants might Behave like Humans - Anthropic Alignment Science Blog",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBqMjRabUdwTkhGSnJOb2p2eUViU1Q1SjdvT1BkUUcxZ3BHSWNfN2Q5LU1YSlVGb0N1QlZIV0lXc1dRbU0tdWhXUUNQakdXcEZVOC04?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": "The persona selection model - Anthropic",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1BckZLT0NmN0tZbUU0TjhycnYyaWxkQkNUWHFlWU0wM016a0xjbm5mN2V0b3p2VXQ0S2FBRWZnaVU3RXlFeXMyYjlxVkxUMUlDdWl5ZjVobEFzX21Zakl3NEdFTVBTRFF2d3c?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": "Detecting and preventing distillation attacks - Anthropic",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOUxlWTM0OXZ3cENhMEpobm5TWEM4cVRLOXRpRHlYSUZ3bThyNE1wcXhFY2ZCSkNHYUJEV1YtZ0VkSWxfVW9tc0lkVExFSFBhRUFPZENhNFNZQk5MNjJxQTdhT3dJYjl6ZUJseVplanY4R2NDcHdSU2RJWlV2MzlGYVhR?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": "Anthropic Education Report: The AI Fluency Index - Anthropic",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1nNGY0b3I3WjN5R2tucko1eUFsMUN4Um1GQlRnUTdpanN6VzA4TXIxTmprdVlscm9mRHEwSUpPZFBfUmRtS3h4MFpUajFQUkl0WlJ5NDhQakpxeUFmNUNwWA?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": "Making frontier cybersecurity capabilities available to defenders - Anthropic",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBvaU1YUDA5TzFVT0tfOGtOcUM4ZnZtRkR1WFZFVWlMcjVCUTFOUDZqRzVuTkh1QTRFcTRZQkkyM3JldkxzcjFEdkZPNW16TndPY2JEVW9BSUJpR2o3TFJLaA?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": "The Briefing: Enterprise Agents - Anthropic",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdU1jQi1jWXIzZFNvVFJZLUhKNFlXN01XTGVrd1U1U3d4RXB6SWtYbE5GZnBid1BWSjduM3lIYXVoV0F6bkJQNV91WmVnQWxBVzZwS0RFLWZqRFp4czQ4RFk0emZJd0F6c2hHUG0zWERMWXNaLVNzcV9oeHJUekZwZHZxOA?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": "Jobs - Anthropic",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWS1GYm9BNnpEUzM0U19iVWZxY1lDbndlVHVYLVdEVHlMTEVqYTFOdC1TMmZtcHROUEZrMGE5MkpWNUIxLXI3R0wwUEROdVNoMDRtMzJLVGR6eHJuQUYyd1pXa2pnc0l6VGdTaHBtRW1JS2IxWGtINC1ncFhZQWNrMlJoMndvNkZKQ3dSMlFxVHd4VjlzVktZQ3ozcGg?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": "Anthropic at Google Cloud Next 2026 - Anthropic",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9yQ09mbjY3OU9PRkpqWlBMODZTeXY0VjdZTTBGVDJVRFRtTlJFX3RHWkxjQWV3ZDJ2ZkV4SDVONVJrZTJILU4tVHFNSV9PZHdRaVYzZy1ubnkteF9CV3B1c1hKZDlIRml5Mi02VmRibzBaSVZGRXU4?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": "Best Practices for Claude in Excel and PowerPoint - Anthropic",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMzgtTWNRM3NyUFMyZTRhTnRTc1hRMGl3V1NrcThobHBRT3preFhkMG1MV0NiSEVrVzgzVWI4VW5JR0dpRW91dW1JQ2tGaGwtTV9pMFM3VHJiSVFoQklER3ZYZldZZG9QbzU5QUx5YUZvUl95cTQ0blhnZzNCOWh4TkhhTFFwbFNXWDRuYg?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": "Building Products on Claude Opus 4.6 — A Customer Success Story with Shortcut and Hex - Anthropic",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNHo5YS1ScG1VZ3YzcE41dm16azRVOVVzODRVdDRia1FoYlAzXzBkTkc3Sl80clZveXZKSHBIb200MEdYZjEyNTJQdGo1aDUycnhfd1VnWHYyMHJIdDROaVpRY1hJZV9FcXljX2lDME5RSUVRVkdlXzhpX2RhU2VKMzFPVHNueTVnYkdqM2puNXRFTWNOak1qemMzVXliWjN3SmxxcmJDeW9NSktheXVTaUNRTGVXemd0SHc?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": "Anthropic’s Transparency Hub - Anthropic",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOGNPVlJHSVBGcWhMeTZjLWtfTjNRWTlUSEc2amNaTVBEU2g5YlZMeWJCU0FKajNtQm1BdHZQTjJoUVNKSG5mY05HdGNZWHZ3NVF5Y2EwYXVseWpma1FQWGhJRU1MYUFWOWxQZkZMLTBrQmhjT1o0UjY4bGlRNzZHLVVQc3NqMU5DVGthZlRKc19UQnN5aUpoejFjQk95T2I1ZnQtOQ?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": "Jobs - Anthropic",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQY0ltMWtaZl9NSDNHYXFPWmQ0QU1yWWljOHpQMzRRdTMzTGRzV3g4UUJndFByZmdaUFhyb2tjc3pfVEdzb1k3VlB4aW05bl9xM1ZGMElvWHIzcWpJRTJzdWlORDNOVll6RFZKaHhxLXZEVHgtODZDOU9Yc2V1SGVsNEc1bDRQNmY3THFsMGM1b3UzalN4N2F4SU9UTWsxN2NWSktrNWFyREU?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": "Responsible Scaling Policy Updates - Anthropic",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9IMmxLOFh6RzlzdlNiYmFYb240M05BOFFDYVc5ajhzbE5Vb2lkNklYNS1hbGVlQlUtV21EZE9YdEdpTldUV3o0Z2hWY0s5YzZkR0FGbW1FaUFVeS03emQ4eExHU3VEYUNUeHp1OTdhSFJaRFQ0TFdkRA?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": "How leading companies deploy Claude Code skills on Vertex AI - Anthropic",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOUpRZWd2ZlgwTWNWNjZtaGRaUjJYSG9jMGhhenBQVS1ERk9mOFM2OTVWZVRldDZqVzFZZndPakpMNml6eHo3U2ZISGlBU1lFZzZkeHJLZEIyN1BpX1hPU1FKdEQwQmFSMzJ0aHBIT1FZcUhua2w3Z2cxMG5qclpQQkRDU1VfOG4tdF9rV2xNMy1Bbm5WcmtzZ3dGUQ?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": "Jobs - Anthropic",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVkJnSWFnc3R6UWZ4TXpVQkl6Ym5qSldtMUl5YXBWRC1ncUFRLXhuVXpBb0dpbEtNNllnRll6REhhYk56dGJ6THE5cTl4XzZ3R2FuTnlyMEE3QTJMbDEzLVBTTFVvaTExVU5mTkc4MXM2a0Z6VDFZWjlpQ1BLQXBfWkR6R2JSclQxOElxbVZfeDM2NUt2c2NMb0xWbVg?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": "Jobs - Anthropic",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBGdXhaX2FJVFJoU1I1aHQtbXA2ZUhRR29KRWlaRHR2Yk9IQ2dxbkpxbVMybzVJRWhSRzVDY3poU09GMWhIZHhKT1ZhUWJqM0VPYTBYdFd4Q1hnektwVTJRVDF1TlRkMjhpSWdCaUhoYzFBdlNpZ0ZJ?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": "From 0 to 1: How Zingage Built AI-Powered Home Care on Claude - Anthropic",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbzNfV3B6ZmdYTVB0X1VmbHYyT2JSUjlxckt2aGU2RGlBRUl0dk1oeXVYVnVKcl9IemlMWVdLOUJsQWZBdWEyU1JSQVFOMHcyN1hnNHBjcTQ3bkJRLUtwaGV6VGlOb01yVVFKMW4zMzNESGxrWTJBVXN4SzFNR1p6UXBkUlJtRFRaN0NxdUs2MlA5REw1UUlBZWplS3g3TWhLY2ViemhHc1JRVW1sb2lHSVBnT09jVGI3R0MtZWkwUWQ?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": "Claude Code in an Hour: A Developer's Intro - Anthropic",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTGRidkpEWjY1dGNnNkVBNVZYUVIyMzVqZFE5bkR2TnRNa1hLVkxISGdLRVNjU0JINEoxeWRxWFVZTDJGdXg1aWVZQWlpZnFIRzF3Ylpmb2FxdjlWZmNRd0pBZVNUaC1Ha1BzYXBCRm52dFhRczdkUEZLVzdwRGo4R1Fn?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": "Library for ChatGPT - OpenAI Help Center",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE40UTJPN25KdTVZalRJOFRYLVNnOEd6SUprSzB2WGFkZkM3c0NxXy1HZ0RVQ0Zpb3FfY2ZwYmNwb1B1Ul8xQVY2Z1M4ZF8wUmlfYVJHQ29iUW9FbU95WGZ5aGZWeHJTcGltS1BnT0psM1JYUQ?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": "Disrupting malicious uses of AI - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBRUUM3VFYtbG5Ed2l2WTQyX2xYZXQ5U1VuU0tCWmp3V2w3TlZmd05kMXNLWVhVZ3BxSXQtYVhpdUNkeXpqUVR6V2Z5RGgtTnZYSFpTazl6YURLbUZUdWVnc2NNTk8?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": "Arvind KC appointed Chief People Officer - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5UaFFCN3JWUS13YjlRcVJZTm84bWgtcmdmZXVSWXp4TzhRVlE4dkdaX3R5WnQyQmNoaERjVXpxNDlndUc4aWgtRWNJMlVKc19yb0d4SHVxSi1YNERmekNCSThobjM2VGc?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": "Long horizon tasks with Codex - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5QYU11Wnhfa1BZalBPeWE4cmNvd0Q5QzZVTE9FSTlpZnVsZGN6eXlzblp3Zm10a0pMNDNTdzRjWkRUWjFtTGZYZkZNUS16aHVqNkNIVFp5cVhUcVJLZTNYck9oRk1OZDViNWJxbkprQUNnZHFSQ0JYbFRvN2JiUQ?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": "WebSocket Mode - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9GX3BpQktlRFBqenNhQXVvamtXcHV2SXVybUhzNWo0bDJnUmNUc3hMa2dIakpMcWpHMDlUaU1sV0I0Qk1Ra0JZd0hGYXFRZHNQdzUtQ0FyaXRjR0JJc2t6ZHlvem1ScDd6bFRRRVNB?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": "Why SWE-bench Verified no longer measures frontier coding capabilities - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5hVUV3T2RydklrSjJicjJXSkhZWG1tV1k5MFNqb1JzNl8wMXNQWThIWkhPRXJMYXRPazU0SXFGeEV2MlYxajFxdjBnMlN6eE1LOWlpLXZVeEFFVXdZTTlKSzk2SGt1Sk9vVzFHRmdXSHpFWVl5RVVSclRn?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": "Introducing Frontier Alliances - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBlbnFkUm8tUHEyVkpubG1vUFlPZWZjalh1OFQzYURpcU90NU9xOC1yaFlid1l5R3JTM3BmMXhwLUFHd1FSUHV0UWFNbW1rQ2prVmp3Y3ZHTU9oUGJubUVvd1ZR?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": "ON INFINITE SETS WITH NO 3 ON A LINE 1. Introduction Theorem 1.1. There exists an infinite set A ⊆ R 2 with the following prop - cdn.openai.com",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5weXNoT0VTLXJHTUx6b25uNFhuNGZwem5ZSl9UMDQ2Vk9KVngtWjUyX2cxVDRVaWNUOTBkdDVHaV9LaHlhbVZsakU1SHU4dXl4T1N3OFY4XzltMk9uRkp0cmx3dWFmWmM3RUhn?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": "Strategy and Operations, Education - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORERHV0U2Z3RLX3NmVnN1cnExaEhZbWg1RWJ2aFdOb1YyN3FWZW1RdjJVcVV6V1h5eFhMWm0ycXBOUkF5NGx0THEtOG9OMG13QmJMbnF6U01Kb0dWbzBQSTV6UW53aEgwVlBiZVdIRlIxY1cyZVJpZTNyaEhtY0hpcg?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": "Partner Director, Head of Technology Partnerships - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZ0J1UWh5SFl3NVZGcFBwTWVmaDdWYV9HSDlkUE1EZlZkU056dlE3dW1DS1BXMlpPRkNZY0h4UTc3MnpQOWNsc3cza05qMGNQdmdJY2xObmplVU1qUzRKeVZPd003TU04Y3hnd3RVZ2R4SEN6UHEtT0ZWWTQyWXNxZTZSOUNKQVZTWFJBLXJMTWg2TEM5?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": "Head of Operations, Corporate Security - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONUlmdzh4dW9JUmZVRWRUdk5aQUZUeFg1cHhDQVZYd1NIcnZZZThHOTZ4cmJiOU9pVXNJSFk5U1NjWkNGcnZ5UWMzd3Y0UEoyLW1kdlFBVmhTUzZscGJfR1lpUVFWQ1JQY2ZFNWVzWTExUnAtUHNaWjFZNl9ZZnhocWc0TkVnQQ?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": "Research Communications Manager - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9LT0ZVMDlJYWRTUDJYSUNIMWxvSmFybkltWVliUmIycnVPMTl6NkhpQUN3cmlLeDE4YkwyUkFCSE80bTJFQVlkT0xRX3VVRlVsYTJ6bWlxdy1vbWp1Rm5HTG1MWWdMMzVncFV4b21FNHlEeVVTc1RkTWQ5U0VDQQ?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": "Partner Director, Global McKinsey Alliance - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZzViUEQ1cXdQd2d6bmJJdEdUckN4ODhFeUo5bDgxRmVrTWtfQm50NFpSbXNYclcwUGJseGFhcnpRUmkwUVVjMlJCbzJxYkprVEhiWFpEanBCQjBOWUEycjEwODN2X1lwWmdFS2h0NkVJdHlkMU43UG12b3JWRFFBQjd4UlFjNXYyRFpv?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "mckinsey"
-    },
-    {
-      "title": "Building Governed AI Agents - A Practical Guide to Agentic Scaffolding - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPemFLMGhMbTdEWW9ibk5xQVB6eEhsaktvZExSZk5QUkFndGZqcF9pLUJrSkxvcGp0LUtsVmRLeDRmTTdOai1ZS01LWVRacjJJbG1hM1AzUGJ6OEt0T0xJVUx6VW95Q2tzNWxKVUdnZjAzRnFCOGJ4RXVTY0Y4ZkV1TkQ4M3lUd09xVlhRcXVHSkFaRnJTamlocmIyVzZQRlJWaHpZYXFfMlJOM1RpWWRv?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": "Codex Meetups - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE42b2FXdW9WQVhhRGtsVWRDVWdwOTUtTWlsUWRIdmFXWDlHYmQ0TjM2Zkw4eHF1V2U1UVZvd29IVE9JNWlIMkpRLVdNS0NLTVZ2WkhHVmlleUloOFMxRF9xQ2hQQQ?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": "Elevated Error Rate for ChatGPT Conversations for Business and Enterprise Customers - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE44c0dvazNkVC12NDJXN1IwY01YcUR2VUVXTGg1eHZNUnFYOTh3NlVmSUhvbndVNG5WT3JScmIwczhCdEFYQTBxZ1JuVGRINVBlLUNkeHY0NDB4TEUyQ25aRHBQZE5EUFp3LXhmN2ZMSQ?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": "🚀 gpt-realtime-1.5 is live in Realtime API - OpenAI Developer Community",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQelRMWUotalNsVnBDU1EzN016VzJQQ0NsOXdQcjRNRlR2SXNxcVhxNm1wM0VCbVExYVpGdlZCVnpQYndPX3d5VzBRZ21HRTRUcXJlOEhvQlJ1VjlhNHBtdmpIUEhhQWg5VVZtRnRxdmNvRW9GU1lOR25NRHpJdXdaQ1BiaFZNUQ?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": "Credit Grants - OpenAI - platform.openai.com",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1uUmxqaWRhOW91WmIxVWZEcXluWlhGLU5TZ2U4aUdNRndWVEtNUU40MDRPY04zVzZKcm4tS09QS0VtQU9ldTJpZV9XOU1TY1N1NGgxWkZNV3BhcW9tYWFoZUVERWRlY1BrOU14ZGZMTHFOZ3FyZXYtS1FoUQ?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": "Profile user - OpenAI - platform.openai.com",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5aT2VXTkxaenhNRlpWNGlDRkxCMmQwTlFHZGtMTGc0TE9RVno4NHlnS2RTOEM0TldQSFBidFNscTJKNzgxZTA0M0pyRUVlWTdaUWxHWEZzWk10cHFycGc?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": "Projects - OpenAI - platform.openai.com",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0wMUNYUzdnanc1VzlBc0kzR2l6ZDdsbDA2QV9NcEJBUjNZUnMxWHRzd1Jvc2dyWTJIRllQR2lzV29uLVhOVVhiVE54ZUVLV0ZtdU9FM19fdWZfVi00R2E5Q0pVNmYzRktmLVE?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": "Admin Keys - OpenAI - platform.openai.com",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5pMnlwaHlVYU9obGxOYXE0WUlvdzJEcmdwc1lkeW1ON2RGSHpEYW52RFNhUUNTV2N3dUhtaktXNTAxSURNZE9JbEl0alVPRlNqNjE5bDlMcXBuSldOU1RVZnY1SlFtd3lSMnR5VA?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": " - platform.openai.com",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5QN0x3eFRybVZSLXlnUWl0ZlNJakctQUZ5Wk9nM1hCLXk2TlZnN1ZZWEF6NzNVaUpxMm9yUk5peHp5aFVia21Ja0NHZGVaQWZWeWk1SW1ST0VHRW5fclU3NElxY0JHeHV2WXhkc243LXM0QQ?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": "Product Manager, API Agents - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0zWXk0bFJfR25VSkJsNzlsdEJXR0h0Z0pWdWRMLU5qTXdaYkpERVhOMHJZY3oxWnE1UlFVb3hwenEtTkFvLTFvREJLeWxHN1ZyWjV4UjI5M0xIaW1jNnN5aksyZTIxdGZOOWhyLWxqY24tOWt1M3hj?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": "service health - OpenAI - platform.openai.com",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1RSjdOM3pFRVZveE9pSmFVNGgtRHJwaUtEQkF3aEE2RUxqdHJ2N0VLYjJIMXpUUFVQb3pBaDZxZHZ3bEV0TzhSalhvNmxHZUlIY2JkOVVoQnh5dlh3Vk9BN1hNZEtqM3M5YS1MTE1pQW9LZw?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": "Domain Allowlist - OpenAI - platform.openai.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWDdBSEVRQlpvRHJEWXhQS2hSbGJNamd6d3FudS1veW1OXzl3OV92Nm4tX2RlYkRwZWVDdlY5NW1vQ3JWOVhpdElGN0Jjb1Y2VmFER2hsVXBRYU9pLVczd3drSGMzeDYyNHBoUjhoMlEzUzN1OHNlTDY1cXlCRDNiQg?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": "data controls - OpenAI - platform.openai.com",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1LbzFmNGEwcVowU2l5LUlhZloxemE5anVQN1FlOXNtWTRBSkdibTV0SkVMdFJyT2pJZ2I5Vl8wM0RtYW55Q2N1QlRoOGpicEkxRUJQQnRid2xuSUNKRjV6X3RFa2Nmd09jUURkMG91SjE?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": " - platform.openai.com",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFByNnMxQ0YyaFZpdXdtemRWaC1xWUE5LVhqLW5qUUlYNEFsWDBXVVliWWlpektBenk3a1FZcEFFZEd4VUdRZ2JqM21yc19odkt0S0tqWFRNSk9LcnM3SnJRejc3SWsyYzQ?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": " - platform.openai.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5lMFZqOEhGcHhjQUxfOWYyZWpnRWVaanRIckg1RTFSRGU2Y1JlTEdYajVtN1UzLUtfX1d0ZkItNGg1S0lqM3QtckVuekxoaFhPYVcxX0p5ZHh6N3dJZjJLd2UtckNYQXN2M0oxdTFieEswRU45ZTFpd1FmYk1EdXM?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": "Our First Proof submissions - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5KcWJrek9IQmlpMDhxdXU1WUFNN3A0N1g4OGdJTkRxQlotNWg1QXd2UEJobnVvMTNMLTlUaWNKWXFIeGNEY2FZMjl2OHAwUjFkQy16bloyZmZHZnBSX3c?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": "Data controls - OpenAI - platform.openai.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbEVhdFhMeDlCQlNQNTF5TXRkVkpteWVEaU1vWUEwTHJ3dExPVVc5QkJxNWRFS0ZCUnJsNVhvYzcyRWY4cUQxRmRQSVdfemhXVVkxOVRXaGRNZEZRcHo4OHVvclNNZlJWSVRhcC1zSTJYOVRrR0NkcG1RZWh6dDBOUWprdzg?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": "Data controls -> Hosted tools - OpenAI - platform.openai.com",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQY2pFRmNET3F6MGZVSWY3S2I2RkRRVDkwdWczd2Ywd1RCSmlEc0lYU1V3d0lkRW91ZHJvUmtFUXZIZkVnRW1BbWE0LXhhWWJOZlFnck5aQXRQVmlDdWRZUUlNNThKNnhIUktJRG9vdDRObnYxcWNLSXR0RVFaWXZRZ19B?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": "Signals data - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9oNFUyMnVBal8weDNsQjdidmdKQTJRaWZQWTBqdVU0Nkp5MW1vV2F2Y2xCdGFlNjlmZGxIVldkNXpNanVsemxF?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": "Advancing independent research on AI alignment - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1EU3V2YlBTaGtKaEpIaVdrVFBHRkhPOVdEQ0xCcGR6ek5ieTZta2hpUzJNR3MzQUxXMUI3amNnaWNDdzZ6QkxpRWVINHA3MW1SV1hQZF9iQXlTaUdnYjBTNklwekIwcUpFcGJTejJDZWZrLW1tTkI1SA?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": "Director of Finance, Strategic Partnerships - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZ0hVSUpJX3BZM2hpTlR3MGNPWGNyNGt4N2RFX3BFRi1DdUlxOWNjX3BnVGVvX3pWdjRad095RWZWR3I5NnJPQlI2aEN3Sm8xM2dTOTNFV1QzRHRSM1dld0l6Y3B5ekVCNHRyNUJsMGwwemNUWUdDTnJtVjRpdVZUOUQ0SGExRzhCOFNKdw?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": "Early-Stage Ecosystem (IC) - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9tQjl5aVlrODBVLVktT0ZsUEYwLVZJbjVSTUpDTmU4TGlUR3otQmcxQ21mXzVhcmpOSzQyNWo1LXBPWWYtX3dfRFEtcVp5OHdCZ05HdTBrNS1RZUt0elFieGNBd1h3Mnd6S2t1aDg4SDItNFFwWnhv?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": "Growth, India - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9taWY1UEl1T2tIRjMzLTRpaE9HQXlXbTRpUnF5Y3Z2RUM0RGlmb1JHY2toTE5JQnU2X3Y3U1RXZ3hTci1TUlZKTUdWanRISmJUSi1vV1hCXy1PQjAwZ2ltQmNR?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": "Issues with gpt-realtime today? - OpenAI Developer Community",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5nMzZWY05EUGZabXlGYmJsYndTd3pGWUl3QmowdHZaN0UxLUlzUEpyQzUyTDBMdHFoUzMtRWVtbVpfTjF3NHM1ZkdwVHNHQldjUkdRTHZqajRLTU91dXpHeGNsaXp0MGZKZGcyWXBzUTlnREY0dEtuSA?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "bessemer"
-    },
-    {
-      "title": "Separate Privacy Toggle for Media Storage (Voice & Images) - OpenAI Developer Community",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZS0xRXhhQWRaQ2JVY3FscWVCeVdYN1hZd1huOUhiRHpaenphLUR3UDk2eWcxQm11WFE5WmdyWUtnMi1RUmYwUml5dUpwTXJDZXRHM3AyZ1dfemRfM0gxV29QYjZGcUVzTkVDV1V4UUlpOFN5d013ejFXaTV6ZkNFaXhaSk5QTDQ3c3VUd1VwTzVfb3FlR0djTQ?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": "Datacenter NetDeploy Lead - Stargate - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1Tc2NQTlBXSDc5U052Uy1BQ2otbXZnS3g3bTNGcUY4VDJpNnFDVVBXYW1KTzcwS0FreWQxUVZ2NnI0QWtFTkJablNka3ladWpNbUhqd2xQWXphRWRILWc3TWVWTUcwQ0k0WFpwLXU1TVNTOVZEcXpiVnQySVk?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": "OAuth using Azure AD and DCR - OpenAI Developer Community",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBaR0ZxYjBEdGhWbHlWWXF6azUyRXRiVmlhbFh0VDFKUFZ1NnF4cFMyQXJ6a0wyRGRGZU9kbDhQajdDZ3hPYldSLXhDMnJ5XzRoZy1lazJabHd4Q0dVOTBXdUREVE9pUWRmcWFNTHdHNDFMMHlveHc?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": "Site Operations Lead - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1QbDZCY3Y4T1ZVOTl0Mk9fYWozcW1FOUlQR2lidjZfNWw3bkswWmV6cEtDRnU0NTBrUy1OajFWTDFndk5KVnNDOVNoYnVrNWlPcDlvRnFTQUQzdk5Bd1FDZ1FXc0JiXy1UTmFoN25nSQ?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": "ChatGPT Tasks for Government - OpenAI Academy",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObElieDhIWVpTTWxDeGVaLUhTQkZMVnY1aVVJRjVFYmlZak43d1R2dUNiMHVJZVUwaXdLZTRUOTRONXdMR0I1OFBydFVHdFVVUHp6djZmY3RMQS13cTRXeGRIR3ZvcFBDN1RmZnlEQzNEOHFqazcyZS1OMXBVUGNZZk9YMHRCMFlmWmNZ?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": "Atlas Browser: Feature requests from the Developer Community - OpenAI Developer Community",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOR2tVbzRtMTh3S3MwYkMzdDd3ZFA1Nng2Qm03LTlIdmJyUkFFQ2dYWndiZkwwNFlmc0VTV3pja0xpYVJUYWFnckVtb0cxUi02anhsbm4xTnktZUVmRDJJbHotZzhhTXpwc2gyQllzX0dkVUgwa3N5QTBnS2dlVVZTcFF4UGdNOHI4Q21vTmlxSUhtR2k0OWp4cEhhc0lJTjVlZWJ5MjZ4OFE?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": "Questions for Independent Project - OpenAI Developer Community",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBuTl9Ud01nZG40bVM4S0xuUVZZUnVrXzlINzlOZmtDelpfUnZ2YjJtbHNwOHNRM1E4VExvNV9ic19zeXZNNEZLUXpLTHJOeVNNY2duS0h6UmR5QmRlanRMVXIwTEtNbkhISXJlVWRyUVlpbk1mZXY4OXY4aUc?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": "Cybersecurity checks - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5YN1N3UzNkUXl1My04WURuWVFXdTFjYVNDaUxydHlsWmdWQkpNS3IzQ2w2MERiUnc1aWE3bXVvM1hqZ0J5TDhPZ2FlNGlEU2lxWWlQM3NXWFJxX2FiN2p1Mjd0Mi1Hc0Jod0RlZTlVdkd1Tl9iZEdHX2N3ZGxaUQ?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": "Platform Engineering Manager, Forward Deployed Engineering (FDE) - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSFRTOHgzVlJQQkZZbTRsN2kzQmNING05eWlNQWR2UVA0aGVuSFJ4bFpSd29uazNqZ3RmQjNwVmN3eExveEJTYTBvUzd1UUlJLV91Z0NTNldvS1BPNEFPVlVwWTBYQndSb1N1MmkyUXU1RVhMQlJKa0NnbkhQeVpNZHNDSEs5dXNJdGdfRmlVLXp2QUlGcXNQM3JHakpJYTBrdFFBSnJ2akE?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": "Careers - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBaSEtjUEV4NnhVVU1ZbUl6NTk0dXdiUXNkNEQwM1Q1cks0WjI2SXg5Y3l5SWp5OFZkWjQ5b2tqdmVVSkJjdXpaMWpzblFERDZaQWt5QlM5czBCZVotN2c?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": "Administrative Business Partner (Business Leadership Support) - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaEVjY2lMSjNaUVdUUlNIaHMwT2VkN0s5dlp2LUpadm1RRHBhdkM0SllockFaMnVVV24zTGlSXzhiV1R5MTJ3OW9kT1lvWVdTaFNXVk41cTZKZDlZN2xvSGF5N2czSzNJeWN2QkhtaDlCdFlwME5fS2s5bmhHRmZ5Vm9yMkZITnJja0VjbUxMRmlhUDZJNlladDZGdXNkTmtmdlVzaEd3?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": "Partner Strategy & Operations - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE81RnVmaGhPNVREaGpxVWdsWk9XUGUyUTRTWHIzbjY3bmZTREQwMnhiUTlleEw3STFvRjVJRnVTZl9CcnotdkhrSUxCekNvWm91U1FCdmw3QmhhRm5TQVVsLXU4OFZsdGhUMG5Iak9UNHJxM04wWFhBNmY4TXI1QQ?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": "Platform Engineer, Forward Deployed Engineering (FDE) -SF - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNM0VHRVJSZmJ3Zzd2UVZwWGFiWHdDdTF1MDVKRVZHNXkwYW1YRlZIbjNVOF9HWEpqSjdPa2V3TmxHYTk4djFBZnhQVUZzdGx3ZDBMRzFoUTFsTzBLQmUtV0hIckVGQ2J0cy1zbmExaThZc1BnNXB6cUI0NXl1SG92WWRrdHdKekVNdzg3VTRWTmNBOExreG13di1HeU5PZw?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": "What are the new GPT Realtime voices? - OpenAI Developer Community",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPY2dwSnJLTVlEb2o2ZDJzei1BamNEbEpBb2I2amZOQ0poTWk1cVZMdEJpc0JsbUtLYWR3VFVJaTV5VWZreHRQQkhiUU1xSFcyTk52VVZWRTlSaG1FSzhqRXpTdTJ3YklBS3dvel9GYk9BZG95WVNoREFrY0t3LWN3dA?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": "Advancing independent research on AI alignment - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOc1B1UWpyeHEtTlZWTm82TTBUOEM0OVlMNklvZ2l6OUlrSjNxR01CbEY2VVc3VlQ2YnQ0Q2RfTEo4d0Y2Ti1zeDFjUDRDbmtEY3Q4Y1YxNFBmUDVIYXZLTFI4bEZBNF9oTzhNWG80QWM4b2NGS1ZNMUpsRy1QWWt3Tg?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": "Gpt-4o and gpt-4o-mini family fine-tuned models failing - OpenAI Developer Community",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQY0d1XzNFQVRVYXA0RU5WdjJUTWNJcG9LNkpOclBHMUhZa1ZRWVNNQXJlWHAyY25nX2w0N1JDLTI3N3ZCOGdReFNsZFc0d05HZ1JFeEJwMDRfTDg0d0lNZ3g0Z1B5dUJSZXVMRG9DRUVtMzVNRktXNDZBZS1rS19OOEUxd3NQUS04TU5Dak5qeHB1RU5WNXB4TEh3?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": "Moderation cannot be appealed, is this an OpenAI trick? Is it even legal? - OpenAI Developer Community",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWmo4a0l5bkNBNnhtZGNZRHFhZUR5c21xTjRjS2t3TzJKc3k1MHY4VVlGR0tqNEw0N1pJMjNPUU1rNWFJVVRxekhHSHRsby0xcGw3dU5nWHRlRVJDZy1KanBDbGtZTnVWaFlaLU9PbTVkOHV3RUUzUVlvQzkxODJheXUyTjZIVjd3cmZuX3ZCdVhub1RXU0tPYkhfQlBZcWk3NzVOcF80TGJnajVDSlE?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": "Data Scientist, Marketing Innovation - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWW4tS0FnMjNOM1FLVDR2Qm9VV3lTTG5NNjVGUU5FVGdnSUM2dTJlb2U5NUlxc3ZTRk5SYTZPZnZ1OTkyekphbUxuT1ZwblRGblRaS0tDZVdmUkhTN3JhOXFWQW9MbkNUbnZDRUM0VXc2ZVgzQy11alpDcm9LRmFBbzN6dw?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": "Add Agent Mode with Browser Automation to GPT Atlas - OpenAI Developer Community",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdEVFVjBuRVM4RzN0eXQwNFpWTUpxQVQzVlo2aHc3eHg2R0d5Vmt0UkRvd2xEUy1qM2V2a3VJRk9RdHNUYVZEaDkwc2FQQm8xZ3p5bGx0M2V0Vkc0MnB6TEo3ejF2cklUblQ0MFNnUzYxMXFpTVJHNkoyMjU4c2JQdVZ3REpJOGE0TjJQQjA3RVNmdnha?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": "Feature Request for Codex App: Terminal-like Look - OpenAI Developer Community",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSGVzWERleDBfN29rQzJ2Mmt3dlpWd3Nra3FIOHY0bFRFdXpoY2hlNG5RRlhxb1pERF9YTzF3S0ZWdWRBckNMdGNPSEFUcDh2STdMQ3EtRmc5b2MwRUZpd21Mbmo5bVZ5a2MtMUNGaGdJWEhmb2hscUZLZEdPQWhIT1BIeVp6dzBUOXg3cFBObFE?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": "Data access for your managed ChatGPT account - OpenAI Help Center",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQzhZbjVWNHQxaERaWlF6eDVoZDFPcmk3MjlYZUdNX2ZCSUVQWmhLbjhrYnZuZjJpLVRwbjJ0VEtQdG1FQjdYSTdiNUQyYmRQZlFRMUtKcFFYdlpHVlN0QTBjTFdwVmI0SGxWeWRRZ3lqb2xNb05tR05kRHdUVm9LUzhhLWNqaEZLTVN2X2xPemtOZ0RSS09J?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": "Using OpenAI API to Automate Membership Renewals & Engagement - OpenAI Developer Community",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQnlzbmtfTGpZVk51a2dka0FpZDNCOTFGQzluamZZcVQ4UEVlSy1PZWtzcDl5WFpkMWNaTkQ4SFpWSDNxeWRjZExUeUNSb3JaNXpyeXlMUnhYb1pEYVlVcnZ0a3NuRVd3Q0ZNVlhUMzFDc3F0Y3dBeUppU2haZGVfci00OHhJUldGaWdjQ1lEQ0JhUms3ZGJqN1lDbDlzaW8?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": "Recruiter, AI/ML Research - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBCeEM4ZmdERW5uTHgyaFlrSnhUTGREZUo1QXptZDhBOXppZi1rT0stMWltc25oWF8xNlp0di1BNERVNHlTbUU4VThhVEhMR3BCTmo3ZFc0RjVqQXBqMlU5cXlyeUV1Qi1CNjRwSFRhZzZWdkU?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": "Context Packages - A proposal for context persistency - OpenAI Developer Community",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMEN1Zi1VbklvMDhKYllRYTBuYmItX3BjcGZRWmxiaHJjelBaanlNUW5lcDFvYW1kXzJXQ05xX0dqN3NOYzJlU2FaUjJLS0JPTE9kQ0JlTS1wWmpadDhYbEpfSS1zb3B5bEhFS3pmdExJSHZBMkE2RVJvcnlMaXBIYThSdjJObXU5NzRlTEhEMDc1UVVf?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": "Software Engineer, Codex App - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBOOWtBdDJMUjkxYjdiTUNRcG1NeW5ZYnhGTWEydWFrTTRkeThsb2ppZHdLNGdBLXo1YXZUSVI1eHFJNlNueHViSEx6YkliSlE4WFlKMnRjQTFOSkR0MTVzT2JTeUdIUkY4RGpjcXZjYU5HZ254aFNxcg?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": "How to decide a level of reasoning? - OpenAI Developer Community",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBjUm1GRkw2MDhnQmZSb21YZHVuUHV0aHJXVTJsV3l2ZnpVOWtTbnZ6QlE1RFk4VjVyWkJfVHVIUHN6ME5VWUlqRFY2RDRtRFhCM0pMWXpkUnVoWXI4SVZfMGF6aFFOZW1ZRFd3UVVaN2pUNy16cHo1Q0NDNEdyZw?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": "Responses API now has expanded file input types: docx, pptx, csv, xlsx - OpenAI Developer Community",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNemRSN1g0aXdKeTFoQXZiSExiRXdkbUo0VmR4ejdsbDgwRDlPSXB0UEw1T3NWR29ZdW5tVWZ0RjZYT21sTHhBaF8ydlZmZjRLeGdURmdsc09kdlZmQWRVNjVXYmhhTFVQa0JFZkJNWEJwN1AyX0hFWHYtQnEzSUZ0QjNlV1BSR0thb0JKT2FqMFNyempvd1NwWUV3MjZ1UEl0X3hpSFQ4Rnk?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": "Spec: OpenAI Signals Launch - Google Docs - cdn.openai.com",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBhTkdxaEpwRk9RQ1lRaW9ZMTBVSEs5NlE5R2lyVTNfRzd0WW54d2pMdWlEX1I3OHk1U1lMUjZQUUJWNWxSelZKWHZ4WFFGdU0zQlltNXlOeHFScGp2RVFr?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": "Software Engineer, ChatGPT Infrastructure - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSHo0bllNWjFzUXVDVjkzbXY5VTVid1J2cWg0SnFVc3FvQlFuUmkzazJ4My01ZGFocnBiWkc5X29QbmZnbEJ1QXZYYTA1cS1FX2VBZlFJNVRWUVItNWRxZ1F0WGNnS09yXzRzZ1hDS3VEeFNDT254SkxOWG4wb0Z5LTV0em1LTG1fcWc?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": "Enterprise Product Manager, Indirect Procurement - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQLThUUW8zSEdDYVlENUc2VmIzTXlROTNZUzBDRlRZNWQ0M1VmWnVRUE5YRXVadUFPbVZ4M0preVI1eVAybWV5Wl9NaTJhYmMzOU5PSDdNNk5VV3dNVzZtZmNtX1F1eXBfN0ZCeHluOUctQzR0TENXRnVvUTBGeGxtalpXS0hHT0JJZkdUeWdORHpGMDg?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": "Multi-agents - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ZbUQ1anVpa1pXWmdEX2pmRWRKS0EyNjZGNmFZcWJCc1YwbEFnTHRTVFBLTkVUS0FGY1J5S0x0a2xjclJSaWx6aUdoNmhqMnNHZC1Hckk3cnl5cFBzVE1jMUVUQ2FPTDMzVVE?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": "Platform Engineer, Forward Deployed Engineering (FDE) - NYC - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOS1FGdHpGNlF3TjgtdWRDM0tUWFBSdGUwbWdoOXhjZXRqSWNNaEQxbkIwd01VVzh2d2xYTEJ3dnd6dkV2VWxRVVZjcFh3cjRnbGxqNTAtRk54SFpNUHl3NWRHTkt6OTRnZmNVQjlqT0g2SzZSeVBveDhmU1ZUODV5a3NtaDFmaTBHNlVHNkpCZU95TzZzVTZ1X3JlV1BGTVk?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": "Researcher, Frontier Cybersecurity Risks - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSl9udl9oU1dRMzJoa0NSdWZBcE5QYTQ0cnB0VTg0bGxQR2dmN25SUTczcnM1c1VsMnpoZ2V5eWpOZnBaWmFsWGlKVVdycV9kbUZaMkJrNjhlSC1PLUd0UlFMRGxfS21paTN6dkJodkFFcXNtUnRkRFVzWVVHdDkwMWR0Wm1tUk9U?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": "The future of OpenAI + OpenClaw: Anticipating secure local execution - OpenAI Developer Community",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQamFEM2F5d3FVc2hyWlZvNUdTNWp1UFpIeXBLR0dEdlhsQUtoZVJkRjVwdS1OLTZTX0ppTmVuOEpVSjBQbHd6RVRIbGpUMTVuZnVpa3FJR3g4NjFtRlhjY2U4X0o2bE00LXh6S1U2VUlYemF0SVB4Rno0Tm1LbHA0aGdpczByNG9TUk9qVW5pdVRNZll4RUxqdGI3S3hpUVFxbk5ZYVNyQQ?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": "Verify what is being pulled in the context - OpenAI Developer Community",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUnF2NFBiUXptMEdTODUtYUZ2MDhCaXgwV3FvTTFQd0lqSFk5Z2tqXzE2dmFVOHBHTWRwSjJ6VDR1VGoyWXNVZWR4VGUzekwtaGktYUZoR0FkVHNpMzdMNk9vNFZSM190ODJWU1lwOWVkMTBxU2lWNlA1T1Y2M0xDei0zQTJKWUV6?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": "Download data and methodology - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1CNnJpeUsxcjljMGJFd2YyblRIdy11WE8wUDZZSmtQN0NBX2Q2ZmVFSkJ5NDhFSERoODZHS3RMWTNCdXB4S0pmaDF1a1RuRGQwZE5J?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": "File inputs - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4za21nUUFTOVRWUzZLMnVBa3kweFJJUG8xSFRNbDFScWdzUGo4eWVfVUxxa2FSaTZTS1lLWlRSNUtha18yY1Z0Wjc4OWViQjBxUFg2MEdEd1dsa2lmbzhITzhCMThIM0VV?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": "Events - OpenAI Academy",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5oMHF1N29JVm9ydHNoRTdkZzFGQzdTOE94TDl0ZGFEZDN4Zk9hdTJyRm5hSEpnVTZzYXdWZlEtMko1Q2drR040WnY3QUZ0QTl4Vk1tS1ZsTnZKNkd0VUozMU8tN3FKTC1YakNmdDU0RjQ?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": "Scaling social science research - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9lRWlBb2R5bHR2a3owbzdaWHVIcThGX0JramhyT19Dck4ydm1walRCeFI3SVd2T3Zkc2VKNy1WV1k4N0k3UmxOaTNQUmV4WUQ2UmxjYlFncW9Bd0VoYUhpQk5CMVcyOEwwSVhHdkNLTkU?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": "Tool not getting called unless mentioning issue - OpenAI Developer Community",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQamxseWtYeEpOVVVYb0pUdkN1QUpGWmpkN0J1enpCN2lKVFlCQThCT0FTMEZ6N1p1eGNvUzNCeHVRNGV1Qmd6ejUyVXR0dEUtUWUzdmx0U1hIb0VWYjZuWFFyVVpLM0E5RHdvSzlpZGdVNDY3MmhmYXRkR3M3NHlnWms2OFBLLU1sQkxEakFMRQ?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": "Add native Markdown preview in the Codex macOS app - OpenAI Developer Community",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQajB5aFlRSlRVa2I4WDBkREdWQ0JVNm5TeThOdzhuYXhiSU5WZmhhVHEwdzNuaUQydkdTeVFtWE1abzA1ZXJOXzg4UUt0OE1aVi1ka2gySE5qZHJCMmE2QU9OWUdxVnRzc2dQZVp0TnI2VWFKTWNtS3pRU0RNX3hXT0o0SkdsVmZFU3NHc2JLUDhfR00?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": "Partner AI Deployment Engineer, Global Advisory Alliances - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQl9qNE1wX2dpTm5mX2U0ZXpnRDZSaldXVGNaVmJRd1ZOaWNNT2ctV1ZIY25ST1l4Q3B0QmZYa3RSVWF3d0t3VHVTVnFNSmkyNXMyWl93djVETUxUVjJVWE55MzFHSjhVaUR4QmVOQ1R2a0N1bXFYT1ZFTlFySi1LLWxWN3ZqdlJFMWNUYTFJMlZiUVA3WWJmbUNqRlJ5WWNG?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": "OpenAI Healthcare Addendum This Healthcare Addendum (together with the BAA, this “Healthcare Addendum”) is entered into by O - cdn.openai.com",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1hcjlVMk4yMERxdnZ0VkpCQVFwR0RiNkFxVkthUlVvQXdPY2VZUUNaaTU0YTdLaTQ0Qi1fVXVsbkxxT3lUcDdrWlJiNGVCV0dzS2tMM3RLakliNWJ0MkE?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": "How to make reasoning traces visible again - OpenAI Developer Community",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbUtleW82S01Bb3Ewek8xdWs5M3dlZ2duYlRZRTJYZndEb1JzWVFncWcwcjZpNVByWEZoTnRSd056ZWR1V0xsQlBzRkRaaWZLenF3VmJJUF9jT3pCVWs4Y1NPck5GQ2lnU3hIX0kxdHdlWlNieGNQZUc4TE9RU0hIcGQ1TW9wNG5H?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": "Responses Dashboard bug: \"prompts\" presets not saving hosted \"shell\" tool - OpenAI Developer Community",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWkdOZkRTN2pmSEhfZllHczNOX0VENEoyRElJVERhVlR1UjFxOVQ2Z1RhZHh3amNodFliUWx0ZXZEVEZ0cEZTaFlwaXpkREk5eHctbUxMN3dMZUlDVndKTnBWanZCZTNuS29OX2Mxdkh1Qnc3eFpwNGFyeGlrOUdLckhtMlFUWTgzS1dSU0ZVYmtKUkprR0NhRWJPNEs2WkhVeG5UaXo2NllBbUE?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": "Show: Preventing doc drift in agentic coding workflows - OpenAI Developer Community",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaG9qazZMUW8tMGdzdTZOaVZzcWJhZ0xzTWlqdHNaazhGREZ6eDVFVG1ZbTlac280MXJtSkVwZlItdWxzcFZoMTRIT0phSzRkTTVIMzYxRnNQZEczdEl1LW1OLVdmZE1GX3NYQVFBWkhsMzBZX3B0MTljc1VVTFg3Ul9MbWpTUkFnaXRpaC1kM2J6UDFySTRN?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": "Small Business AI Jam: Bellevue - Event - OpenAI Academy",
-      "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxOUjBhbHdBRzgxbG56VmVVU0dpRjNBTjVfUC1qQkgyZm1yS1FaNVBzRkhnbXVSQW80Rk9IRkpHdXdSclZ6NENsYW9UNGQtd3hleTRvb0V2RXFjN1VERVBnVWRqR0Z5NlRxSUdLX1ZRT1dIZ2g5MWlEU2ZhSVFncU1TaElxN0R4aTQ5QmZQMzlUNHdsaFJxMlVURGFfLWlqdll5Slc3cUJZQldUR1JhWXYyc213R2MyUmZ4ZEJvY2ZLNVpGZ3pHX1JJS3l1S3NyX0hFYVdTLURxbl8yeTlzT0dIR1BSQkRnYldWREUyYk84QUhoZVdXS1NNNzRCUnVoeXozaEpzOFpEZVBMdGZ2OHFqUm9MMXB5S3lDblE3NS16ZDFuTW9WSGhTU1RJTElqWlFFOUgzNTBKd1pGeVQwNkNXa0lLUURWRFN5cFNtX1gyM0tBRlc3dm5z?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": "Head of SaaS Enablement & Governance - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWmxsdGFMMGNPSmpBWmUtSGFmN2ZBbHRmSHB2ZU5idFVVWTVoT2JJNGFxcGl6VXdlQV9fQnNoNjBESVRndlJvZTJOTFB4Ti1SbkJQR0pOVW1XdWxwN1pmZDBScjlMNXpielM2d25Zd2tvRFV4WThIVjBjdEZnQTJYZkYyempfeEk?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": "Lead to Opportunity, Data Systems Engineer - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNak5STHY3VVhsTFFfN1NHVVhkb01aSXEyS2NwTXhYSXVoZ29CSENzRUhNMzNRQ3c1Ti15dVNZTDZnTzJMVkZsUnV0ZjJYX0FMODFxOEQ4TDlJWkdTV3p3SEd2dTV1cF93WHJ0UmtDQkh0eUFOOHdOMFQtSlJ4T0NqOGJKV05YSzYyckxv?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": "Use multiple accounts with account switching - OpenAI Help Center",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUFAxZjN1dHBEWi1IVWNMY2NCc2ZKakcyN2s5RV9nRUg0N0piNGRibEh0dko2Q3ZDMHI1TjR1UHVXUVFyTUpnRXRSSGRtcXR5djE4eEZ5ZzB2M2pRVFJTMXlKU010eHhGYjB0UVduRFdjM0hLWFJOWDVEMUgxZHJOYW9NYjM5bFA3YThtSGx6MUlacG9vcDZGM2FiTmw4UQ?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": "Creative Director, Launches - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5fbmc5SXhYY0ZuNDgwMHhvQ19iNHJENTJCdzF0WW84M3VqSEZSWHJMUzAxdkRnRnQ5RUVRNGlmU0NVdmE5aDIySlE4WkRLUERsaTRXMEw4Z3paWW1BQjBFQU9LV0prR2NYWjJkVXpQNFgyZnBRQ1dj?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": "ChatGPT Research Product Marketing Manager - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQWxhekpOclRiQ1hLOHRtWkwxUXc0VVE4c2NXUHlRUDBQYTRETlZDVXAtZGl6ZjB2bW10ZENTTzQyZllBSVZSaGNhRUN5bmdySHVTM1RaMlR5b083SGxCMzk3YVZES1pNcC1UalpuMTM2ekJORm9MYzBCQ3UwbjlTaWdmNWlyM0JLalA4ZQ?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": "Researcher, Automated Red Teaming - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBuVG9ZV0I3SHJ0XzdYbk50QXRGSjRWcDM1RFJ5cTNEYVBnamRIOHlTQmtOcTBmNGFLS1FCUm8yaUtoX2hqT055Q2c0VjZ1dHdja0pFcTYxWm1Nd0loUzNsbkVhY2tzbm9KWko3Z1MzeGpfSzFIWDZzUG50d0lSNW8?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": "VS Code Opens External Links from Codex Extension Without User Consent - OpenAI Developer Community",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcHBaN09DSHp5SC1paDhCTS1vdG9mRXNIS0lqOU5Ya2tVUmdYVHlmT1lvcjl5aUxNRGh2V1ZlemdFNTV2UVkxOTJPbHJBQVVVMDBHUU5Zb2F4LS1KeHNEem83QXJJLUlBcDBCbENMV01sa3FwNS10UjY3NW9oZWRQNUxOc2ZLem14ZFp5aVI3YS1UMl9fVE1LS3daekJTN0VQVk8ydHRWR0Jmd1diSmc?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": "B2B Marketing Lead, APAC - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5Xbm9rVFoyVG8yRlAtYmt2VFF4M1dkaUgzS3RrbkJySm1wYWZmOFJYVXZtNWRmZ1BQRW9yLWJ4YmpkNVk0N3lCNkg1c1N1STBibGZlRFBRY2tDdHh0aDhYclBxUjVSS2NJTTUtZHZR?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": "How can I contact support? - OpenAI Help Center",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZWFfNjhTUDlSbzBOMkFJQ0VEY3pGakNCc2lBcTd5bUwteGJnempaYk12YmVsUjdkeXFPcWJIS21mWDVwaklFaXVXalhWWnpWS2lUbjB3RGtIRVFWMEJzTXFUMEE0bS1tbm9zWEhjb3JnaUVkMmo1anhXWFI0bGtObVpxamprUEdqeG0zeW9hdEwzY0V3YVBVcVJKc0xnMjkxQmFRMnpXUGVLU0Ruc1c1b2RsUWpNenZmTHc?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "bessemer"
-    },
-    {
-      "title": "client.vectorStores.create failed with 401 - OpenAI Developer Community",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMkNfT0l0VWF6NDk4cUdLZWd2ajVkajVqWl9Xc3hmU0FFUFdIcWd1cjZLOVVVdVotVVJIak83TUVLUlRCTXZrcFBzby1mS0lDbldqNFlKbTdJZXlsSmF1amxzLVdPMU1FTkVOM29sWk40Z045ZlM0UEZOdC16dWNEekdJdjIxRloyUDE0cw?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": "Head of Education, Enterprise - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1KY2JvVFVyRjdjZndISURaZ3ZRVUlJSjhmREN4QmhJNTdRcDF5ems5STRxNmE2N1lsTFhnZzVxeTlEblduZ2dUQjluWWk1RWdDcFZnTWtFT01OdkdYYVlfeG9KS3o4WVpKVDhsclc4XzBZdENYXzgyeUFn?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": "Codex Desktop shows 0% usage left when using extra credits - OpenAI Developer Community",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMEFsdnA0bFQxVkF6bzRCdnRmMFB5anJpZ2l1WjV4Mnk2RGM5M2dSVm1oZC1iVUgxV3llYk5GbjdIRUw2LTZ5QjdMTVVrN2l3RVF0NjBXVTIyLXB0QlJWRngza285ZVdVUE04ajZxTy10WmFrWWNQejZKMjRKZjRlX04xcmhrdFJYcmhaRFUwVGVlR19zZUNoSVlTT0k?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": "Websockets for Responses API - OpenAI Developer Community",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9UbFFVTEFxREN4a1pYMnExa2ZZMVNWRWU3N3FBQkIydDZ3elBRckN4bWVKSC1PVlUtcERUbEIwVVRUYnlFcDNsbmoyV1QwWVpvZm5jSUN3ZHJOWXhaWDJnenZZTnZsRGVVS2xRVzNxeVo2amJzTUE?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
-    },
-    {
-      "title": "Random 384 dimension embeddings from text-embedding-3-small - OpenAI Developer Community",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVWlFc1lhbHNtelJGcExsQ3EwdXZ1NVZYZW9kcmVTcTNiSHI3ZDBNSDJiVHZ4MHlhTGZXWUc0Q3U2SEhRME41STBzT0Z2NlR2MDBYV1Zad3d2UVQ1VTRZa25rZEg2akN6TDFjeENfUGpUcXk4aGR5MnA2NFFGd3FSSWdCd2dIdXJKUEw2amZOTzZHamk4NUtJRVRtYm9WVXc?oc=5",
-      "score": 0,
-      "comments": 0,
-      "source": "news"
     }
   ],
-  "generated_at": "2026-02-26T13:14:55.132Z"
+  "generated_at": "2026-03-22T23:41:32.817Z"
 }
