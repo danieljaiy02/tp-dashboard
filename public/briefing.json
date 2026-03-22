@@ -1,5 +1,5 @@
 {
-  "summary": "## QUICK BRIEF\n\nOpenAI acquired Astral and shipped GPT-5.4 variants while expanding enterprise tooling across Excel, PowerPoint, and Codex. Cursor admitted their coding model was built on Moonshot AI's Kimi, not developed in-house. Nvidia's GTC conference unveiled NemoClaw (open-source robotics framework) but failed to impress Wall Street despite aggressive infrastructure bets. Meanwhile, Anthropic is deepening Pentagon ties despite Trump's public dismissal, and Bezos reportedly wants $100B to acquire manufacturing firms for AI transformation.\n\n## COMMUNITY PULSE\n\nNo Reddit/HackerNews data was provided in this dataset. The raw feed consists primarily of press releases, corporate blog posts, and help documentation from OpenAI, Anthropic, and TechCrunch articles. Key sentiment indicators from article titles:\n\n- **Cursor controversy** - Industry discussing transparency around AI model origins after Cursor revealed their coding assistant uses Moonshot AI's foundation rather than proprietary tech\n- **Nvidia GTC reception** - Mixed sentiment on billion-dollar infrastructure announcements versus actual market movement\n- **Compliance concerns** - Growing scrutiny around AI vendors' security and compliance claims (Delve accusations)\n- **Enterprise tooling race** - High interest in practical AI integrations (Excel, PowerPoint plugins from both OpenAI and Anthropic)\n- **Government AI relationships** - Confusion around Pentagon-Anthropic partnership status versus public political statements\n\n## KEY DEVELOPMENTS\n\n- **OpenAI acquires Astral** - Major developer tooling play acquiring the Python packaging company behind uv and Ruff. This signals OpenAI's serious push into the developer infrastructure layer beyond just models, competing directly with GitHub Copilot's ecosystem. For consulting firms, this means OpenAI is building end-to-end developer workflows that could become mandatory client toolchains within 12-18 months.\n\n- **GPT-5.4 mini and nano released** - OpenAI shipping smaller, faster variants alongside their flagship models creates new architectural possibilities for enterprise deployments. The \"mini\" and \"nano\" tiers likely target edge computing and cost-sensitive applications. This matters because clients who've been priced out of GPT-5 implementations now have viable options, expanding the addressable market for AI transformation projects significantly.\n\n- **Cursor admits Kimi foundation** - The coding assistant everyone's been recommending was built on Moonshot AI's Chinese model, not developed independently. This transparency crisis highlights due diligence gaps in the AI vendor landscape. Consulting implication: clients need third-party architecture reviews before committing to AI coding tools, creating a new service vertical around AI vendor vetting and risk assessment.\n\n- **Anthropic-Pentagon relationship alive despite Trump** - Court filings reveal DoD and Anthropic were \"nearly aligned\" on partnership terms just a week after Trump declared it dead. This contradiction signals that federal AI procurement is proceeding independently of political theater. For government-focused consulting, this means defense AI opportunities remain viable despite headline noise, but require navigating parallel political and procurement realities.\n\n- **Nvidia unveils NemoClaw robotics framework** - Open-source simulation and training platform for humanoid robots, plus \"Robot Olaf\" demo. Wall Street wasn't impressed despite the $1T infrastructure bet, suggesting markets are saturated with Nvidia promises. The consulting angle: robotics is shifting from hardware-first to AI-first development, but enterprise clients should wait for proof points before committing to Nvidia's robotics stack versus alternatives like Figure or Tesla's Optimus ecosystem.\n\n- **Bezos eyes $100B manufacturing AI transformation** - Reported interest in acquiring legacy manufacturers to rebuild them with AI represents the \"buy and transform\" playbook going mainstream. This validates the thesis that AI consulting should target acquisition targets and PE firms, not just incumbent operators. If Bezos executes this, it sets a template for industrial AI transformation that consulting firms need frameworks to replicate at smaller scales.\n\n- **DoorDash pays couriers to train AI with video submissions** - Gig economy platforms are turning workers into involuntary data labelers through \"Tasks\" app. This represents a new data acquisition model that's cheaper than traditional labeling services. For consulting, this raises ethical questions about AI training data sourcing that clients will face—especially in regulated industries where data provenance matters for compliance.\n\n## WHAT THIS MEANS FOR TP\n\nThe OpenAI-Astral acquisition fundamentally changes the consulting landscape. Within 18 months, \"AI implementation\" won't mean choosing between Claude and GPT—it'll mean choosing entire developer ecosystems with locked-in toolchains. Tiger Pinnacle needs to develop expertise in these full-stack AI platforms now, not just prompt engineering or model selection. The immediate opportunity is helping clients audit their current AI vendors (the Cursor revelation shows this due diligence gap is real and costly) and architect vendor-agnostic solutions where possible. Create a \"AI Vendor Risk Assessment\" service that examines model provenance, data handling, and vendor lock-in exposure.\n\nThe GPT-5.4 mini/nano releases open a significant market expansion opportunity. Companies that couldn't justify GPT-5 costs can now implement AI workflows, but they lack the architectural expertise to choose the right model tier for each use case. TP should develop decision frameworks and cost modeling tools that map business processes to appropriate model sizes—this is high-margin consulting work that clients desperately need. The Bezos manufacturing story suggests approaching PE firms and M&A advisors with \"AI transformation due diligence\" services for acquisition targets.\n\nThe Anthropic-Pentagon situation reveals a critical insight: government AI procurement operates independently of political messaging. For TP, this means defense and federal opportunities remain viable, but require understanding both the official procurement process and the political optics clients must navigate. Don't dismiss government AI work based on headlines—instead, develop expertise in helping clients manage the political-procurement split. The biggest risk is the Cursor transparency issue becoming an industry-wide reckoning. If clients start demanding model provenance and architecture transparency, many AI vendors will fail scrutiny. TP should be ahead of this curve, positioning as the firm that helps clients ask the right technical questions before vendor commitments.",
+  "summary": "## QUICK BRIEF\n\nOpenAI dropped GPT-5.4 (plus mini and nano variants) and acquired Python tooling company Astral, signaling aggressive moves toward developer dominance. Cursor admitted its coding model was built on China's Moonshot AI tech, raising questions about AI supply chain transparency. Nvidia's GTC conference showcased NemoClaw and robotics plays but failed to excite Wall Street, while Cloudflare predicts bot traffic will exceed human traffic by 2027. The consulting implication: enterprises need help navigating a rapidly fragmenting AI vendor landscape where model provenance and infrastructure decisions carry increasing strategic weight.\n\n## COMMUNITY PULSE\n\nUnable to provide specific Reddit/HN discussion metrics as the raw data doesn't include community forum content with scores and comment counts. The data consists primarily of news headlines from TechCrunch, Anthropic, OpenAI, and BCG rather than community discussions. Would need actual Reddit/HackerNews API data to populate this section with trending discussions, vote counts, and sentiment analysis.\n\n## KEY DEVELOPMENTS\n\n- **OpenAI launches GPT-5.4 family and acquires Astral** - OpenAI released GPT-5.4 alongside mini and nano variants, expanding its model lineup for different use cases and price points. The Astral acquisition brings Python packaging and tooling expertise in-house, suggesting OpenAI wants to own more of the developer workflow stack. For enterprise AI consulting, this signals OpenAI is building a full-stack developer platform play that could compete with Microsoft's GitHub Copilot while creating new integration opportunities for firms helping clients adopt these tools.\n\n- **Cursor reveals Chinese AI foundations, raising transparency concerns** - Cursor admitted its coding model was built on top of Moonshot AI's Kimi, a Chinese foundation model. This disclosure comes amid rising scrutiny about AI supply chains and data sovereignty. Enterprise clients will increasingly demand clarity on model provenance, especially in regulated industries or government work, creating consulting opportunities around vendor due diligence, risk assessment, and compliance frameworks for AI tooling selection.\n\n- **Nvidia's GTC underwhelms Wall Street despite $1 trillion infrastructure bet** - Nvidia unveiled NemoClaw (an open-source AI framework) and robot demonstrations at GTC, but investors weren't impressed despite the company's trillion-dollar AI infrastructure thesis. The market's muted response suggests concerns about competitive moats and margin sustainability as AI infrastructure commoditizes. Consulting firms should help clients balance between Nvidia's ecosystem and emerging alternatives while preparing for potential cost structure shifts in AI compute.\n\n- **Cloudflare CEO: Bot traffic to exceed human traffic by 2027** - Cloudflare projects AI agents and bots will generate more internet traffic than humans within three years, fundamentally changing how networks, security, and content delivery work. This isn't just about security threats—it's about designing systems for machine-to-machine interaction as the primary use case. Enterprise architecture practices need to evolve now to handle this shift, creating immediate consulting demand for bot management strategies, API architectures, and infrastructure redesign.\n\n- **DoorDash launches Tasks app paying couriers to generate AI training data** - DoorDash is paying gig workers to submit videos that train AI models, turning its courier network into a data generation workforce. This represents a new model for sourcing training data beyond web scraping or synthetic generation—compensated human contribution at scale. The precedent matters for any enterprise considering how to ethically source domain-specific training data while managing labor relationships and data quality.\n\n- **Trump administration's AI framework shifts regulatory approach** - New AI policy framework targets state-level AI regulations while pushing child safety responsibilities to parents rather than platforms. This creates a more fractured regulatory landscape where enterprises must navigate state-by-state compliance rather than unified federal standards. Consulting practices need to build state-specific compliance capabilities and help clients manage the increased complexity of multi-jurisdictional AI deployment.\n\n- **Meta reduces third-party content moderation while expanding AI enforcement** - Meta is rolling out new AI-powered content moderation systems while cutting reliance on external vendors, betting on automation over human review. This shift affects both Meta's business model and sets precedent for how platforms might handle trust and safety going forward. For enterprises building user-generated content platforms, this raises questions about the liability and effectiveness tradeoffs between human and AI moderation that consulting firms should help clients navigate.\n\n## WHAT THIS MEANS FOR TP\n\nThe OpenAI-Astral acquisition and GPT-5.4 launch create immediate opportunities in developer tooling integration and migration consulting. Enterprises that adopted GitHub Copilot or other coding assistants will want third-party assessment of whether OpenAI's expanding platform warrants switching costs. More strategically, the Cursor-Moonshot revelation opens a practice area around AI supply chain transparency—helping clients audit their AI vendors' technology stacks, assess geopolitical risks, and build procurement frameworks that account for model provenance. This is especially valuable for government contractors and regulated industries where Chinese technology components could become compliance issues.\n\nThe bot traffic projection isn't a 2027 problem—it's a 2025 planning imperative. Enterprises need architecture reviews now to ensure their systems can handle inverted traffic patterns where APIs and agent interactions dominate. This creates consulting scope across infrastructure design, API management strategy, cost modeling for agent-driven usage patterns, and security postures built for machine actors. Tiger Pinnacle should develop assessment frameworks that quantify client readiness for agent-dominated traffic and build implementation roadmaps for the necessary architectural shifts.\n\nThe fractured regulatory landscape (Trump's state-focused framework) plus the DoorDash data compensation model both point to growing complexity in AI governance that creates sustained consulting demand. Clients need help building compliance programs that scale across jurisdictions, establishing ethical data sourcing practices, and navigating the labor implications of AI training workflows. The Meta moderation shift adds urgency to trust and safety consulting for any client building platforms—there's a clear market for helping companies make informed build-vs-buy decisions on AI moderation while managing the legal and reputational risks of getting it wrong. These aren't one-time projects but ongoing practices as the regulatory and technological landscape continues shifting.",
   "sources": [
     {
       "title": "Do you want to build a robot snowman?",
@@ -140,6 +140,223 @@
       "score": 0,
       "comments": 0,
       "source": "techcrunch"
+    },
+    {
+      "title": "How AI Can Help Higher Education Capture a Once-in-a-Generation Opportunity - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdWFqZldoOHJkMWpSSVRwMTJlN2Rya05YdGh3eGFrRjNKc21LeXBQaE9VWm51Q0JfcnVET2Y2TUNZaFJIV1NlVENrNjgxS3ZablhzakhVbWFOemVSMHZITkM0YXhwM3VjYlY4czN2RnZybHR6WGI0RlB5ajRhSng3cmpSVlFrdFJFTzNEMjdxdw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Four Power Moves for the CHRO: Creating People Advantage 2026 - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOa0VpV1I5VlExZVN4QU13T1FVVkh5cTd3Vl9ja19zY1pLQ2dYOFo5LTZFdFNmeFppa2o4T1NCd2NxTDhhR2pEc0ZLS2pIWlVWbW5ocm4wdk0tRFpBVzc0eHdzb3hyS3FwVlVMSVdkdzQ0ZF9waTI5Q044LU8xQWJ6Q2xpWUJjbFY4aDRkajYyRmV1V2s5Vk80?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "After Three Decades of Rapid Growth, How Can India Sustain Momentum? - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOa1dfWWtSQ1lZWXRnWi1ERExRUThhT3Q3bU40d0ZHbzdqYUxKclNfaHU5eXBUNmltZmlBS0Vzd05lTXJ5UUNOdXMzWmhjZ0lURmdJRGtzb1dlTTBUeUZlRk9fNlUyVy1iRWZlemRGZDhGUTh3RnJWMTJUSlE0d1VhQ2I3emIzSEtxVHc?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "BCG Named a Leader in Organizational Change Management Services Report by Independent Research Firm - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNk5PQ1BSWG5BY3pqY0JtWFlzLU50end1eDBRRjEzZ3dQWTlvUElHNzRSTU0wb0FXR1MzeEFXdy15RXpEWmRzU2ZHWl9XR0IzaDA5X3o5M0cxYTRMVFFwV0NuXy1ycFZ4ZWNDcENCXzNJMjRXNzVUQmFDTExsOEw3aTQ3VVRCNHZaMU02Zm03MXlzaVVNeE9wNlhOSnpJQUw2Q0pIX09iZnhLaTZ0WW5sR1JIQ2I3TWZ5WTNWLUtQdW84UQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Analyst, Geo Analytics, India - X Delivery in Gurgaon, Haryana, India | Technology and Engineering at BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTVN5ckpydGYwcGVKQkVtVUk4RnlxTm9LTEpIaFJHVnQwMmFUc1NJdFJia245SWp1TW1KUWh6WjNjTl9PNDBaRzNPSnoyNzJ6SDJRTFIydnNYVU1GOERGMDNXRTB6Nlh2OTBIb3N4THFsWENUQ2YwYTFiTElma2t2aDc5R3gtODRZWUE?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "The AI-First Utility: Defining the Industry’s Future - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRnV0QmJZSTc3VUVfWFF2UXgydjZQMVdGOW0tRmhCc25Uak9MTGdiNkVjNE5iRXVKNnMyS3hPalY1OTdvWGNKaFRjNDFWeVRCMVYzZHRmVTJHLVV3YzlZaHpPYVR3VkQ3RUE4VERlV3ZNcjZuY01PT1p3VEV0RTdzcHE1Q0cwQW1VWTN0Q05WcDRvQQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Project Leader/ Principal, Financial Institutions in Bogota, Colombia | Consulting at BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRE9SMnY0U0VRSjhhU0ZOTWQ2Mm02M3JwTzA4bjE4RG91bDVBZkMtclRId0ZTZ1RSQ0lqS3VCRGhMbzdZT0MtQVAtMEdyeXB0VGt0X2dCak90TkprM3NWeEZfTlY4UjV6VDF3TnlSODhfSi1tUS1BQ3BDekpaWnl3NURQS2NtOG9yeGF5M0g2NF9Jd3YyYnc?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "BCG Creating People Advantage Reports: The Collection - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPa1hqOVZNRkVwX1AtYWY3cFNQeUZ4anNfUERQcWRoa1ZLU2xZc2xlb3RoVUxNV1BtUjdlSWhRTTk0dlNHSWpQMVctVXo2WkFMc2lzNDNEYmNpdThZdkNQVFY0SUYtd24wLWlsbUFRaXZLclQyMFNPWVpPODI1a2dPVFBIREE?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Philip Jameson - BCG Expert | BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5NbVdaUEN3VnZUN2lQdjJoSW1KejItSTUtVVMyWDlHemxUVzBVRzNDYUtPN004b2ZfRnlJQlJjbVRWSG1OMXRlRkt1Uk5EbVJjWTM3VUF0VlJmVklDcjBlajM1VHhXQQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Talent Assistant - Staffing Operations in Toronto, Ontario, Canada | People and HR at BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWU41UC02MGdxd3hYY2N1ejVDVVJwMzRadk0zUTZramhpS0dyNnB6Y0M5YW43NERyWTk1cDdESi1RMVlFdHkwSWdFaG5wdDUtZHVyemxHWFpHS290QVdEbXpPYzBLeExGd0g4emhuRlVZMWt4aEdBbWdCTEV0RG1ELWxkSXRSX1E?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Forward Deployed AI Scientist, Norway - BCG X in Oslo, Norway | Data Science and Analytics at BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbDVLRktlZzF0eFRCS181c1NkQ3lNLTBpYXZuZk5tZ0d6amFLV0FkYno4b0VhTFJhX1FkMjlrS3RQVkJtQ1VoaFpPQ1JPd0JESzFMNW9va0pyQUNxamh2N0RuQ25NNE5EY3pxQS1yMW15Y0JjLVJ2bElib3lRdVNRY3BScGVLaG5Sbno4TXNCYw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Data Analyst, Predictive Analytics, India- X Delivery - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUVJhZmxVUHZvc0VxTTI5OWFFU285SDlWcW45Q292N0pFYXBuejBibHRjWS1yejUzTmVSLUptcVVMLVpVem44WjFfZkx1ZHR0MjRnLTBDMlNqSi12YWdWXzBDaWVXcWNLVUt1MVk4VXNyQkJQTGwxOFpORWJrNnlOOHFOT0lzeldBQ1dhRzRlX3NseDF4MWNoY0FR?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Why Low-Carbon Capital Projects Demand a Different Playbook - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeHdJM3puVHZJTnhZM0FNU3FHOWhhcHZwX3FyWlkwR1gtNGNXVHg1UTRXdWZRclJrRjN1UnlMRUt2ZC01TlhySldwbXZmSk9IU2RVRWRtQ2RlOXlYRy1sWWFZNVY4T0NYTUlNZHRVS3hrZzl1Q2ZqVjNodEdOLWw4dVl6UjEzdzRlVHdRYWExOXRXTWltVmc?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Jobs in the Middle East - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOcTVVTTlsX183WkZvZjF0aU56SnNVOFdaWFl2Y1pVY0NybV91TGJCN3hEa0hubnoxMUhMVDBQX0dXeXhqZXI5S2tkUzRJdW5icXVKY2pEemowVTd5SlVST003TWt5T1JlZzVaaVMtOWVGT0N6aW9adEE2QzA3WnozVDhtOENveGdVZ1pBQjFvN2E5OHNlelJxdnQ3YnFVVkNlVXd3WHpNZGdxRG5pZlc2YWItOG0wRmFUQ242M1ZYcldRWWVzTnBmeTQ2OC1odGhUeUlpdjZyOEs4a3ByOF9UeGJNemk5d2NFLW16dWN0djg2VHRWZmpiajZfQkRBbVJDaWhuUS1HQ19hZw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "The Enemy Is (Almost) Always Within a Company - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTUtCNW8wRnkzVUowMTFXOHp2b1B1TEVySWlwNG5sZ2ZWbnNkSVFsWFBpazVnLXVvZkF0WXlxYlNUb3A0Y3ZBdTZSdWF4eEpqTU5KQi03X25LWEhqdzZiRV93WmtNYmJMQ0hMMFRSWEJFNTdNV3ZLdWhUQmpYalczU0lLbHVFU3Za?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "AI Architect (all genders) - BCG Platinion in Cologne, Germany | Technology and Engineering at BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQTZoVEVlTG9walFLX0tHbmdyMzFFdklyUVppS1hGOUVaSGpSQnVpc2ZxSmg1a1QtU3I5UU9JVHo2c09FMWhwamxNTnRjdUhxclNLd04yTU44NGN0bmM3R3NkTERvdmZjcGhvWGpxTGZZdUgtYlQ5S2VhZWVoUWVLd1ZLbVBaY2s?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Forward Deployed AI Engineer, Italy - BCG X in Milano, Milano, Italy | Technology and Engineering at BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVEl2WmtDa0lwT0tURGdWem9rUmpndVVXbzV5QXdvZDhhM3lxZHYtTEloWm5FNHFrRWZfc3Y2blFia0RhU3V1N1dJWWJwcnJ2N19SLWNfY1AxRDVhQzBBdG0wTFQyYUJVa0RGNHoxMkpKWFEtajlHVzZLb053bUR6Ni1kRXF5OFlNaXVkUw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Forward Deployed AI Scientist, Finland - BCG X in Helsinki, Finland | Data Science and Analytics at BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSUZUaDJTdkZCY3BSajhlc1gxcENSUFlqWDdoenVLWnlBNEV3ZFp4Zjlld2hDVDdiYm5DeGtTU3BOdHNkZGxzbDhkX1gxZEVMWWx2MHZ4RjE4eWxhQ2VLaTlFVGRDc1ljcGxZTy15U3BKb1VVZ2o0WHN2SGRpcDNfX1F5MUxEMENpZ0hRUU5jcFg?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Data Scientist, Germany - BCG X in München, Germany | Data Science and Analytics at BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0xb19EeldPSkFBdzBZT0FGX2p1eVFMNk00RV93dWxwQjNZbXk1MnRoM0hDTXg3aXJ2RXFQVU0ydmQ5cm0wbWJObW9sX0pGRFdYZ05TZGh6MFRsaTZLc19xN1czbl85bW1Bd1hhaUNUZzF0NDEtRzdiYVZmenQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Forward Deployed AI Scientist in Bangkok, Thailand | Data Science and Analytics at BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1EVmp4dHRzOWxBRFo5U3VuZ2pWSDFzY0ZIZThxeG1hWDFnOGg4UVNBV3VmZTk2TWhrb3ZTMVVrTG5icWRNRmN5UXh4Ylg2Qlp3bGpuT01Dd3dNUGZBekxmTXIxVm1mYzVoYXZ4ZGc2NVB2QkMyX01yZEFxMTZvZw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Data Scientist, Internship, Germany - BCG X in München, Germany | Data Science and Analytics at BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNERPSlpXVFVhMlFIcTFwT2NHZm5GdFplTjctT1pKeWNFVWhZS3FzUXJCd0xTbjFyREhMTXJOTS1DOEFtbTFKZVh6eFdWczloZDlieDZXYkRIcnFOYXUyU242dEVLM1BfZzRSNFlGRnZjaWlZQlUzQ2hwR0dfYl93QTdKSWJuNUtueXpB?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Forward Deployed AI Scientist, Mexico - BCG X in México, D.F., Mexico | Data Science and Analytics at BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPR2FvYlZnMnhWdkw2ZDBqOGJWVUNjVkJuSWhIQ2ltQ2lpN0g3c05Gd3dTNEhaVXg5X2NocjZjYmxKUzE4bmc5R05FQ1NDSHNOdmJ4U0FIc2RIQy14SWpnUjJQdXNtZGVyUWU2UUdQaWpjV2Z3OExCR3JVM1NqSEI3dWUyNDNRbjZJTUZtdGVhdw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Forward Deployed AI Scientist in Bangkok, Thailand | データサイエンスと分析 at BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1JalVlSlRwVnBvTFlIU29FdnVGLVRnTU5ubWJkN0xONW1qTDMySk5pNVVhV3dnNTJ3T1A3clVPZXF4OTdJUkxtME5yUDRHX2RBY3VwOXViYUZzX0tlV2hKODhXOHlJMU1xVzRmMEVwbVNnSVk2Q0QxVw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Global Data Analyst Senior Specialist in Gurgaon, Haryana, India | Expertise and Insights at BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZjJNM19rUTI0aWFDUzhlbUhvNWU5MTdxbjZWQUc3X0FuSnBOcXV2OVhRWnNtTUdGXzE4OFE3bVo0b09EWTRWZXE4UUhDbElGd1RORm5CeHdIVFZDVUxXTEF0RmozczZmSXkyUVc5MEdWSG00MGRaQW10YTFfVU93ZkNaRnh3cFpG?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Teach First Summer Project in London, United Kingdom | Consulting at BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5nZGdWOXhSZHA2S3dqTkVDMFZrRXcwcnU5NkR6Rk40blZBRGlJY2dDVF8zcnI3cGFzYnVDSmZ2MXprYXZvS2xyY1JkbWtmSzVXNFJ2Z1d1UUI5SzJFQkIzdkVRWDVDUzlnbnhUMGpRWGZ4aTVkMWJ6bEtR?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Teach First Summer Project in London, United Kingdom | コンサルティング at BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBYc2F6YWtzT2xFbmpTVF9sNG80OUZiZlNTTzFFSjlHckJCZHBFNGNZZU9WVGFMcGlDME55ZkRWUFFHOUprMTNsV1BUNFVkRU5pX3JfdnhLYWdsZkdGVjFpazlFTDNpQ0hQY2d4bFNyRjMwdi1j?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Forward Deployed AI Engineer, Canada - BCG X in Toronto, Ontario, Canada | Technology and Engineering at BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcTlUc1dMRUR5ejBrelJ1aXZBSnhiMzFCSGhRc24wWnFfYkFsbnk5RmJlSHVGZUlfZi04U21DZ0pWQjUyeVgtMmh5bEFyeDhDTWRQRmIwTXZBR3hZLWcyLXZYdUhTUUVxVURpUkplOFptTlVxd0l5Z3d2M0FLc2tPMVlRUXNNTVBNM3JoMXJ3?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Worldwide Search Results Page - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWGNteFdYWmRhbm40dE5YbFI0bHM1V0hqUzQ1d2tzQ0RkRUZpdVJMVUx6WmZNanQzdEFxOGQwb3JXbTE4SkR2RWJMdWpQTk8yUGJRQnVjbmhnOXpiZWY2QTd4WmZ5UFEzNHZpazhoaTNNVUprQW5TSmdGS0tzbkZwS3VWUGp1QXlZLW9xbjg5YkwwRlZZNERrR3AyaVFwYzQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "AI Engineer, Internship, Germany - BCG X in München, Germany | Technology and Engineering at BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcmtZa0FLOU0ySmdMd2NHcEVWU2lxcWw3MEVqNnNXQzVweGNqdTVCMThsOW5ZaVZoSzA2dnpiQTRpTm50bm9LYWYyR1pZRkxwYmxDaVBqV1dqb1pNaThaX2pzb3BPNkVPQmxITVlHQWhCWGpzekw3ellhbk5XeXdpb0VvbVU4bjQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Careers at BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNR2pneGJDV3BmY2UwaVpMQ056aEhaVTRNZ2xMc2RKaUE5WDljUlVCRkFMYXFhb2g4Sl9pOGVCN0c5R2tqXy11NHZJWnFqOFFRUzR0eGRQWS1xTk9aTVVZelNjVkVTQ1R3bDF2R3J4RWFHQUtYbUlONUdyNXRZQjZicWJSWFVmVTJLY0FyV3NsYTk1QWljbGJkRnNhYjc5dw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Worldwide Search Results Page - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNa1doMmlXRDRMWWc0THJ6Ukt0VlF2elNOVUZRQ0xLNWtXTXdYcDNjTzJ3bE5uNVUyNjdKSmpQQU9IdzJ4TVdYc0ctR21HTmNPb0VXVzB0ZWQ3WnBEZHZXd2M1amFKUWw0NmxwQTlyb3pibEhGMEk2SDBEbmFKb3F4OTU4MmlSZENJWmdmTHE1MGFTclhicTRienlzSDE4N0dUSGlNdUotSE5vc1o2ZG5EblhZVlZnTTVTZmo2OWFtNmZmQUxXTTRaQVAzS2JDZw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
     },
     {
       "title": "What 81,000 people want from AI - Anthropic",
@@ -884,5 +1101,5 @@
       "source": "news"
     }
   ],
-  "generated_at": "2026-03-22T23:43:01.006Z"
+  "generated_at": "2026-03-22T23:43:40.756Z"
 }
