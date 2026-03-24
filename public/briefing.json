@@ -1,5 +1,5 @@
 {
-  "summary": "## QUICK BRIEF\n\nThe AI world is fracturing along geopolitical and technical lines. Chinese models are dominating Hugging Face leaderboards while Anthropic faces Pentagon pushback and reveals it was mere days from a federal deal before Trump intervened. Meanwhile, Yann LeCun publicly declared today's LLMs \"nearly obsolete\" (124 points, 140 comments on HN), sparking intense debate about the future of transformer architectures. Efficiency breakthroughs show LLMs running at 13 watts, and Cursor admitted its model is built on Chinese startup Moonshot AI — highlighting complex dependencies in the AI supply chain.\n\n## COMMUNITY PULSE\n\n- **Yann LeCun says LLMs are nearly obsolete** (124 pts, 140 comments) - Fierce debate between those who see this as visionary and those calling it premature. Many commenters note LeCun has been anti-LLM for years while competitors captured market share. Reveals deep uncertainty about architectural futures.\n\n- **Intel Neural-Chat-7B tops LLM leaderboard** (37 pts, 64 comments) - Community surprised by Intel's competitive showing in inference. Discussion focuses on whether this signals chip makers will increasingly bundle their own optimized models, disrupting the model/infrastructure separation.\n\n- **Chinese AI models storm Hugging Face leaderboard** (6 pts, 0 comments) - Low engagement but symbolically important. Reflects normalization of Chinese model dominance and possibly community fatigue with benchmark wars.\n\n- **Switzerland releases government AI trained on public data** (5 pts, 3 comments) - Interest in sovereign AI models. Commenters discussing whether this represents a template for other nations or just symbolic politics.\n\n- **Ask HN: Are we ready for embodied robotic agents?** (1 pt, 1 comment) - Low engagement suggests community sees this as premature or overhyped. Timing interesting given DeepMind's Agile Robots partnership announcement.\n\n**Overall sentiment**: Fragmentation anxiety. Community wrestling with competing visions (LeCun's post-LLM future vs incremental improvements), geopolitical complexity (Chinese models, Pentagon/Anthropic), and uncertainty about what architecture wins long-term.\n\n## KEY DEVELOPMENTS\n\n- **Yann LeCun declares LLMs \"nearly obsolete\"** - Meta's Chief AI Scientist made waves claiming current transformer architectures are approaching their limits. This matters because LeCun represents the research establishment view that AGI requires entirely new approaches (possibly world models or neurosymbolic systems), not just scaled LLMs. For consulting, this creates strategic uncertainty: clients investing heavily in LLM infrastructure need to understand that leading researchers see a potential architectural shift within 2-3 years. However, LeCun has been consistently anti-LLM even as they dominated commercially, so his track record on predictions is mixed.\n\n- **Anthropic-Pentagon deal collapsed just days before finalization** - New court filings reveal Anthropic and the Pentagon were \"nearly aligned\" on a partnership one week before Trump abruptly terminated discussions. Elizabeth Warren called it \"retaliation\" for Anthropic's policy positions. This exposes how quickly federal AI partnerships can evaporate due to political winds, creating risk for any AI company pursuing government contracts. The filing also reveals Amazon's Trainium chips won over Anthropic, OpenAI, and Apple — suggesting Amazon's AI infrastructure play is succeeding even as AWS faces compute shortages.\n\n- **Cursor admits its model built on Moonshot AI (Chinese startup)** - The popular AI coding assistant disclosed its new model is based on Kimi from Chinese startup Moonshot AI. This highlights uncomfortable dependencies: Western AI tools increasingly rely on Chinese foundation models, creating supply chain and regulatory risks. For enterprise clients, this raises questions about data residency, export controls, and vendor transparency. The disclosure only came after community investigation, suggesting these dependencies aren't always visible.\n\n- **Chinese models dominating Hugging Face benchmarks** - Multiple Chinese LLMs now top chatbot leaderboards, with Intel's Neural-Chat also showing surprising strength. This reflects China's rapid catch-up in open model development and suggests the \"Western AI lead\" narrative is overstated. For consulting, this means: 1) clients can access competitive models from diverse sources, reducing OpenAI/Anthropic dependence, 2) geopolitical risk cuts both ways (U.S. companies may face Chinese restrictions too), and 3) benchmark gaming is increasingly sophisticated — real-world testing matters more than leaderboard position.\n\n- **AI inference efficiency breakthrough: 13-watt LLM operation** - Researchers demonstrated LLMs running at lightbulb-level power consumption without performance loss. Combined with the AI-on-Windows-98 demo and edge deployment advances, this signals inference costs could drop 10-100x over the next year. For enterprises, this transforms the economics: what's currently cloud-only could move on-premises or to edge devices, changing security, latency, and cost models. Consulting practices need to shift from \"cloud-first AI\" to hybrid architectures.\n\n- **Big consulting firms aggressively hiring AI talent** - BCG posted 15+ Forward Deployed AI Engineer and AI Scientist roles across Europe, Americas, and Asia. McKinsey highlighted agentic commerce for Europe and published workplace AI reports. This represents the consulting establishment's massive bet on AI services — and direct competition for boutique firms like TP. The \"forward deployed\" model (engineers embedded in client sites) is becoming standard, raising the bar for what clients expect from AI consultants.\n\n- **Apple announces WWDC 2026 with AI focus** - Unusually early announcement (June 2026 date) specifically teasing \"AI advancements\" suggests Apple is preparing a major AI platform play. Given their developer ecosystem size, this could shift where enterprise AI development happens — potentially from cloud APIs to on-device/hybrid models. Consulting implication: enterprises with significant iOS deployment may want to wait for Apple's platform before committing to current architectures.\n\n## WHAT THIS MEANS FOR TP\n\n**Immediate service opportunities**: The efficiency breakthroughs and Chinese model competition create an opening for \"AI cost optimization\" and \"multi-model strategy\" consulting. Enterprises that rushed into expensive OpenAI/Anthropic contracts in 2023-24 are now looking at viable alternatives that cost 50-90% less. TP should develop assessment frameworks comparing GPT-4/Claude against Chinese models, local inference, and hybrid approaches. The Cursor/Moonshot disclosure creates demand for \"AI supply chain audits\" — helping enterprises understand what models actually power their tools and what risks that creates.\n\n**Competitive pressure**: BCG's aggressive hiring of \"Forward Deployed AI Engineers\" across 15+ locations signals the MBB firms are building serious technical delivery capacity, not just strategy. They're moving toward TP's embedded-engineer model at scale. TP's advantage is speed and specialization, but clients will increasingly expect both strategic insight AND hands-on implementation. The \"AI strategy deck\" business is dying; winning requires actually building and deploying systems. Consider whether TP needs to formalize partnerships with implementation partners or expand technical capacity.\n\n**Strategic positioning**: LeCun's \"LLMs are obsolete\" stance — despite being potentially premature — represents the emerging narrative among research elites. TP should develop a point of view on \"post-LLM AI\" (world models, neurosymbolic systems, agentic frameworks) to position as forward-thinking, while remaining pragmatic that LLMs will dominate commercially for 2-3 more years. The geopolitical fragmentation (Pentagon-Anthropic breakup, Chinese model rise, Swiss sovereign AI) means \"AI geopolitics\" is now a required consulting competency. Enterprises need guidance on navigating U.S.-China tech tensions, data residency requirements, and supply chain risks. This could be a differentiator if TP develops genuine expertise here rather than generic risk frameworks.",
+  "summary": "## QUICK BRIEF\n\nYann LeCun's declaration that today's LLMs are \"nearly obsolete\" is driving significant technical debate (124 points, 140 comments), while Chinese AI models are dominating Hugging Face benchmarks, signaling accelerating global competition. Major consulting firms are aggressively expanding AI practices with BCG alone posting 15+ AI-focused positions. Hardware innovations continue with researchers running LLMs at 13 watts and Pentagon-Anthropic tensions revealing the politicization of AI contracts. The gap between AI hype and practical deployment is widening, creating immediate consulting opportunities.\n\n## COMMUNITY PULSE\n\n- **Yann LeCun declares today's LLMs nearly obsolete** (124 pts, 140 comments) - Fierce debate over whether current transformer architectures have fundamental limitations. Community split between those seeing this as visionary critique and those defending incremental progress. Matters because it questions billions in current LLM investments.\n\n- **Intel Neural-Chat-7B tops LLM leaderboard** (37 pts, 64 comments) - Surprise performance from Intel's model sparking discussion about whether open models are catching enterprise-grade capabilities. Community excited about potential democratization but skeptical of benchmark gaming.\n\n- **Chinese AI models storm Hugging Face benchmarks** (6 pts, 0 comments) - Low engagement despite significant implications. DeepSeek, Qwen, and other Chinese models outperforming Western counterparts on standardized tests. Silent concern about losing technical leadership.\n\n- **Cursor admits new coding model built on Moonshot AI's Kimi** (TechCrunch) - Developer community discussing IP concerns and supply chain dependencies in AI tooling. Growing awareness that even \"proprietary\" tools often rely on external models.\n\n- **Switzerland releases AI model trained on public data** (5 pts, 3 comments) - Interest in sovereign AI approaches. Small but engaged discussion about data sovereignty and whether government-built models are viable alternative to Big Tech.\n\nOverall sentiment: Uncertainty about current trajectory mixed with excitement about alternatives. Technical community increasingly skeptical of LLM maximalism.\n\n## KEY DEVELOPMENTS\n\n- **LeCun challenges LLM orthodoxy** - The AI pioneer's assertion that current LLMs are approaching obsolescence isn't just provocation—it reflects growing recognition that autoregressive text generation has architectural limits for reasoning and planning. For enterprise AI consulting, this creates immediate tension: clients are investing heavily in LLM-based solutions while foundational researchers signal a paradigm shift may be needed. The 140-comment thread reveals genuine technical uncertainty about whether we're optimizing dead-end technology.\n\n- **Chinese models dominate open benchmarks** - Multiple Chinese AI models from DeepSeek, Alibaba, and others are outperforming Western counterparts on Hugging Face's standardized tests. This isn't just about benchmark scores—it demonstrates that the technical moat around frontier AI is eroding faster than expected. For consulting, this means enterprise clients can access near-frontier performance without Big Tech dependencies, but also introduces geopolitical complexity into technology selection.\n\n- **Pentagon-Anthropic relationship reveals AI militarization politics** - New court filings show Pentagon and Anthropic were \"nearly aligned\" on partnership just days before Trump administration declared the relationship over, with Senator Warren calling it \"retaliation.\" This exposes how AI procurement is becoming politically charged, creating uncertainty for any AI vendor pursuing government contracts. The Amazon Trainium exclusive tour alongside this news suggests cloud providers are positioning as neutral infrastructure layer.\n\n- **Energy efficiency breakthrough at 13 watts** - Researchers demonstrating LLM inference at lightbulb-level power consumption without performance loss addresses a critical enterprise barrier. Data center power requirements have been the elephant in the room for AI scaling. If this proves reproducible, it fundamentally changes the economics of on-premise AI deployment and edge computing applications.\n\n- **Cursor's Kimi dependency exposes AI supply chain fragility** - Cursor, a leading AI coding assistant, admitting its model is built atop Moonshot AI's Chinese-developed Kimi reveals how intertwined global AI supply chains have become. For enterprises building on AI tools, this raises questions about vendor lock-in, geopolitical risk, and IP ownership that most haven't considered. The transparency is notable but the dependency is concerning.\n\n- **Major consulting firms in aggressive AI hiring mode** - BCG posted 15+ AI-focused positions spanning Forward Deployed Engineers to AI Architects across multiple geographies. Combined with McKinsey's QuantumBlack expansion and Bain's Customer CoE roles, this signals the established players are betting heavily on AI delivery capabilities, not just strategy. The \"Forward Deployed\" framing suggests client-embedded implementation rather than advisory distance.\n\n- **Apple sets WWDC 2026 with AI focus** - Apple explicitly teasing \"AI advancements\" for a developer conference 14 months out signals they're preparing a major platform play. Given Apple's ecosystem control and developer relationships, this likely means AI capabilities embedded at OS level, potentially shifting where AI compute happens and how enterprises deploy AI to employee devices.\n\n## WHAT THIS MEANS FOR TP\n\nThe LeCun controversy and Chinese benchmark dominance create a specific consulting window: enterprises are mid-implementation on LLM strategies that may need architectural rethinking. TP should position as the firm that helps clients build \"architecture-agnostic\" AI systems—implementations that can swap underlying models as the technology evolves. This means focusing on orchestration layers, evaluation frameworks, and integration patterns rather than betting on specific model families. The practical angle: most clients don't know Chinese models exist as viable options, creating opportunity to deliver equivalent capabilities at lower cost while de-risking vendor concentration.\n\nThe Pentagon-Anthropic situation combined with Cursor's supply chain admission means enterprise AI governance just became more complex. Clients need help mapping their AI dependencies, understanding geopolitical exposure, and building redundancy. This is especially acute for regulated industries and government contractors. TP's consulting offering should include \"AI supply chain audits\"—documenting every model, training data source, and API dependency in a client's stack, then war-gaming scenarios if access is cut off. This isn't theoretical anymore.\n\nThe Big 3's hiring spree represents both threat and opportunity. They're building implementation muscle, but their model requires high-cost consultants on long engagements. TP's positioning should emphasize speed and efficiency—helping clients move faster than Big Consulting allows, at founder-friendly pricing. The specific opportunity: clients who've gotten stuck in 6-month \"AI strategy\" projects with McKinsey/BCG but need actual working systems. Target companies in that post-strategy, pre-implementation valley where traditional consulting has collected fees but delivered decks.",
   "sources": [
     {
       "title": "Switzerland releases its own AI model trained on public data",
@@ -553,6 +553,188 @@
       "score": 0,
       "comments": 0,
       "source": "bcg"
+    },
+    {
+      "title": "Nvidia GTC 2026: AI Becomes the Operating Layer - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOOXZRYWhaV0UwR1NDUTJfbGZaQ295dUNzVGp1Z09JeTk0R0JyQXp0aTNWeGtheGpYRDluQ0ktYzd4ZTcwbEFpdVQxYzJQQkFuQXNKVENhVXo3RkRKalZmT0c3UmxuVzRfRG5iNDNDMF84YU9rVVZzTjY3M0RqWmtBVFo0OA?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Associate (MCX) - Customer CoE - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9zMXhiZVd6YWIyd2J3d2h1Y05IbDRLYTVIWC1VTmdVaWdCc01pNXJFQW9iSl94UHI4RkRtRUMyUTlKN1ZVR0FqM3F1NUFvZnNvZUpsSF9jMzlVS3NlZ3o1Q0Y0QS0xRzc3R2pMeXp6bnk?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Energy Agenda 2026: Returns, Restructuring, and Resilience - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdW9FaHFwVXlMM3k2SDF5ekltR192WXRfakdXTDVMUXgzN29YVmZ1U1BBUnZEeXRpdU9SZ2tfNmo3YUZlODdEU2lDbi1fbEhXd1FGU1ZUY1gwY280S1JEUFo4dGFISEZ1VGROMmpINlpGUFkyUmJ0OHQ0V2xhVjhlRGNPQXVESUhlSUEzTXBaYw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Why Consumers Choose an AI Chatbot over a Search Engine - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYS1WWDlMd3VycVhNZ1J4aTdnUXdrWHJGZGpWc3hyTUhIenJ0YldBRkFINXVXRG84R29WRi13dzJqTmpGZkpWcHdKdm0ta1pQbU9HZ1MyTDVkaHlIamgtS0ZpVHpzaXNzMjlHM01jZmNEdlhDS0NmRkR4TnVoR1lieWhqNlNHZjVaMVdoaEhVSVdJdERkUVpQTWlWME1XZw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Exit rebound and positive net distributions signal optimism in Asia-Pacific private equity market in 2026 - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPSWVEYXRKZ1pVc3BYRy1BUVpxUlVUVFU5Mmp0SUZ3ZDdOQldVaUFsNVVjeFVhSFJPaHh3VkN0WnlobjFINTBZTWphenB1RUlFNWFOMjQ3aHU1YjViNHp4dEc3a2UzeDFsTjBlOFotWTJFd0VhRXRNYTVoTWd6TDR4YjBoTzhSdk1ZckxuZTdPRmlzOGNHWV9uUy1LZEVobWp4ZzRVU1JsdDVkaFE1blNzS3FsZWlTb2EzeXhMa0FQSWFxRnJRd01Bbk5Tc283dWp1cHpZUjg1TkhYQnB6Y1lmaGR5VElnRUROdUd5NWZhUHh4U0hMdmpkZ19R?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Morten Asplin Gauslaa - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE42ckx5ejg2VXRBMWFUUEphd0NCbVhsWWExQVlHY3AxU1lnMzh4dkd0Y0dJc0luVzhFUzY5U2hqVmc2RDBhLVJ2NU9PcjJ4N3Eyd0NsX2owMThfVGJIQWNybkh3?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Six Provocations to Future-Proof Your Bank - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1wTnM1X2JmTm9aTGVuenRpV2ZRRkhBVjVsRkhWXzBuZnZQR3puaW9tZW9mOGJuQU1BYjNqQU9GNmxaYWE0WG84R2NXM2I2RHEyT1hlWURzTWxzVXlLcE5mWW5USkJpVUpMRXM3Sk45UFg0RHBSc19UQVNDX2VIdw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "US Consumer Health Update - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9IWklRbG9OWl9kU1JhTkttYVNLNWN2NGYweVMwb01MU1dXWGhLRGxfZkdqNTkzNHFCeU5JaFQyZi1XS1RJbEpFWW1iNUM5T2RrNzktT2x1emZueEExdGZJbUZHb2pYWkdH?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Asia-Pacific Private Equity Report 2026 - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1MNTVSQ2lYQ2hxTEJnZkw2NmlmS0VwWHoyWndESjZfc3Z3SXhySXFhWVE5SHFYaUhQVVlWQkNvM1JNN243T1d4TUlFeTM4b3RwRXpyY1hNSDJoRUI4WnZVYWFTNjV6RUVqX3VaUXA2NE1KWjhsalJRS3VB?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "View Job Description - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9vTlNpc2ZsWmIyWi1NU0tuRFNCYkR1dGJxaWd3LXROUHdjSDlBS2VJWHhzcWlKdXh4QTdRNzhMa2JScFJ2c1VZSTI2OUUxRC1OYjBKOUY2cFZpQ21rUnZzS0JaR2JoTEdnczcxdEt0OXo4akVsWjB3?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Engineer, TSG Information Security, Cyber Operations - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0taDJlb29LSmRJeXZxN0FxbnlwSnpBcmdnUmdhSzNHdkR5QUFRaW5wM1NIZGVaVF96Smg0V0VOTXJ0X196d055bS01RjVQQWg1cW9CcFVZNUtCS280M25pMTBzMVhlWDJiTDRaelVJVjI?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Giovanni Bonanno - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1PYk8zbERMVFVLYU9RY09oOXdxOUdZcThkZkVuQUNKUTFNQ05rU1Y0cUhKMEZtaXBlXzFyeFh5Q3d6S2h0MmtaWEthUEU4MW5EMWxZaDlXZVRiRU0?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "What it’s really like to do a short-term office transfer at Bain - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTllESFU5YlUwLTBtaU5xZHR1MEVUeXJoa0JiQlNYaGNtUHBDZTRwcndTWmU3NXEtUDBHVHJROWV1ckd3TVNYVGlsYkwwLXBxTk1zWTNObkdvYXdIbWxQWVVYNnBURWRvT1Rfb0NVVnVwa1lMb2NmNWQxdWZnMmNzUEloTEtORnNuaDVDR2QtdndtYW9vc2NoelViUUxjYWRTXzV5Q0xNVjMzQVpwbmlfMEQ3M213SjN0Q0NV?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Project Leader- Data Science - Commercial Excellence, CORO CoE - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5WN1RtMVotQzZGeF9xdHl5enpoQjIwR2pyNldFdWNpbzY4dkRYX3dTUm1kTlllX2xNdG5RQ1dMSXpaaS1VWTdNWllVMkZIS0lKdzBBQzN1d0Znd1V3NzE5Y1BqTG1naXBUNTRUOGtoUS0?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Tenson Zhao - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE85T3Y2YUtSZmktcjdERTdmTmVGeHVDa19BUjBRS0RiWV9iN0ZTaEppbU1heDBvZ00zUFNsNDBQaHdmVzF4cDFrUkdiTHFDMTVxSDJSTA?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "ExperienceBain - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQd2NlbmtVbThPRXBDd1VINTJXMGdBU283QVRRRU10QlFVZUhkblJ0dkJLRERha0xvM1lteDVaVHZqQzJYZVh0a3JDZnZzQmNtVWVKcUE2Q0JmX1ZVbE9wQ3Rlcm5mbmhuMEVNTVpiZWlna2UtTnQyd0tKa0QzVmRYc0oyOVNPZTBocUc5cw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Julie Blitzer - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE13dElmRXd0UXlmck1Vc094clJXaEdmUkVmblVuaW1Rdy15WjFYUDRkRWh4NE9VSWx0TkNFTFF3d1ByRFMxUHVHTVR0SlQwd3ExbWM1cGozNA?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Julie Kim - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9jZnc1dF9fMHR3c250aGQ3bzk0YThhZk5FSVI4MXlhMUx5aTVrOEpxdmFWcHFtMGZNczRLU05GcnBTalY0TU5ERm52c3Q5bTBLNFE?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Tamsin Bury - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5CUnhNbXc5Z3ZHNU1hdkZKcVN0VkJTQkNSRnBCX01IS05seUEwYVRPU2FDdFBoZ1RWR01yLXFPVVFPNEtHVzdMclZZREJ3NUlYNC1fTA?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "2026 BASE: The BASE Experience Panel - Virtual - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQT3ZZd0F0R1BlWTh2WDQ5cllvcjg2aDVwRW81Rlp3bk5fZkhvelZTR1F1R0V1N1labklnSmt5MkpHSWZybE5oU2kwR1hyYlI5VjYyM1djZ3FaSklNX2RIaHRKTVF5VE92dE1BOTY2SGJVMnZKWVhkXzZKSkJSWERrQWtmT1R3OGNPZWlVTDZhWk5WT1NSU0hYalZYUGt0Z2s?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "2026 University of Florida Spring Coffee Chats: In-Person - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUTlSQVFFTjRyeHRrRlo1N1hzbTNsSjAzMnVqaHF5NEljajJleG1NQTVmUEJYaERZOTNySXpRVks1U20wajFLbVNmV3N5anJhRHlhLXVSVGlPWGN2OVVhRnJKS3VfNzI0ZlA3ekIwZFRIS1R6WDBqbTFEN0tLWHMtVGQ0R2NiRHg1N3RaY1VSM3hVV2xDcmdTcndyc0hWQ1k?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Saul Sandoval Navarrete - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9kMWJrU3lLdDJ4Rk16MzRxRkRJdEpCdnB1bUNwQ290V1llUlVHQnhqTDV5S2xCWkNfMFZJa2QzeE0xcXBPcDQ5WThjTUxNS3cyN3M2dUF1Y1dMSWFmNnVFNl93YlZPNFgwNVJYV2RvNA?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "2026 Bain Breaks it Down: First Look at Bain - Virtual - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRGJ2cFBjR0xJYlNqSE5qd19DS2ZpdWI2QXZlMFN4VmdKaE5HNWFDTTRNZlVLdHhnQ2QzOURzSjFMQUZzRFBUbnU2UzNHaFgwS1ZSSEZVUUNKejcxR3dwM2RjZEtESFhhaXhmekZtbHI4M09GVmowNHJuT09HQVlsZk85S3BNeWlVeHduRkEyaVJQMXc1LTg1TVJzajFxSlU?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "The AI Ripple Effect: Managing Strained Semiconductor Supply - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNd0ZwWDduQ0YzVVpBbFdZYVJqTllVaVR1U3gyNHlRaWJyVlY0VnZ1QlJrdkI0T3Z6bjhMTmNhb3haV2ZpVVlPYkEzaGRRN2ZOVkZLVWEzRXdpSWsxa05DMGl1QndXRUtGTk9ibzJ6dEdTekRBemwwclFTREVZY0UtTTh1bDNJNGhxX2ZnWVB5TXRjS3V2UGhPTTdqa3YyNDQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "2026 Bain Breaks it Down: NA Undergrad - Ask the ACs - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWC1wcTlqUmJoVHZiRFNJNXliMzJqUUthV3NwdHRxbmt1WUhlRURxU0pLaWJOVEFHRG96QXlDTkxWV3pDRjhIT2gzbktxMmNsUFB6aVhKaFdURG1qT01VR2wtVkpMWmNzN05XYi05RU9ZbUpOZG4zeW5ZNi1MdENPRUNRZTl4b0h2SXU3LW0zQmNQN3VOVWZ5YTBSYWx1Y0E?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "2026/1 Bain South America | Selection Process for AC & ACI - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNc2h6cDVDWktBUnlFZWJkcDJYVElYU0szU1JmOE5aNVhGX1lvRHRWU0ZSQUtBbEZYdkhRMlV6cVl6Y0h2WmN6WXhYVnJjM251VnllcHg3N1VPTlhGcElnQ2JzcWxYeFg0S0NQdFlpQVctRVY2VWhEYXVCV3daVTVZTElfMzFPTG9T?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
     },
     {
       "title": "Long-running Claude for scientific computing - Anthropic",
@@ -1332,5 +1514,5 @@
       "source": "news"
     }
   ],
-  "generated_at": "2026-03-24T12:16:55.593Z"
+  "generated_at": "2026-03-24T12:17:39.381Z"
 }
