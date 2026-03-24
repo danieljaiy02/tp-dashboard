@@ -1,5 +1,5 @@
 {
-  "summary": "## QUICK BRIEF\n\nOpenAI dropped GPT-5.4 and announced it's acquiring Python tooling company Astral, while Cursor admitted its new model is built on Moonshot AI's Kimi — a rare transparency moment in the AI stack wars. The Pentagon-Anthropic drama continues with new court filings revealing the two sides were \"nearly aligned\" just a week before Trump killed the deal. Meanwhile, Microsoft is rolling back Copilot bloat and Nvidia's GTC failed to impress Wall Street despite a $1 trillion infrastructure bet, suggesting investors are getting more skeptical about AI's near-term ROI.\n\n## COMMUNITY PULSE\n\nBased on the news flow, key discussion themes emerging:\n\n- **OpenAI acquiring Astral** - Developer community watching closely as OpenAI consolidates Python tooling infrastructure, raising questions about open-source dynamics and vendor lock-in strategies\n- **Cursor's Kimi admission** - Rare transparency about model provenance sparking debate about disclosure standards and what \"built on top of\" really means in AI development\n- **Pentagon-Anthropic relationship chaos** - Government contracting community dissecting the court filings that contradict Trump's public statements about the deal being dead\n- **Microsoft rolling back Copilot bloat** - Enterprise IT discussions about AI feature fatigue and the importance of opt-in vs. forced integration\n- **Wall Street's Nvidia skepticism** - Investor sentiment shifting from hype to \"show me the money\" on AI infrastructure spending despite GTC announcements\n\nOverall sentiment: Growing maturity and skepticism. Communities are moving past breathless excitement toward practical questions about business models, sustainability, and actual deployment challenges.\n\n## KEY DEVELOPMENTS\n\n- **OpenAI launches GPT-5.4 and acquires Astral** - OpenAI released GPT-5.4 (plus mini and nano variants) and announced acquisition of Astral, the Python tooling company behind uv and Ruff. This signals OpenAI's strategy to own more of the developer toolchain beyond just models. For consulting, this creates integration opportunities but also vendor concentration risk — clients will need guidance on balancing OpenAI's ecosystem benefits against multi-vendor strategies.\n\n- **Cursor admits building on Moonshot AI's Kimi model** - In an unusual disclosure, Cursor revealed its new coding model was built on top of Moonshot AI's Kimi, a Chinese LLM. This transparency is rare in an industry where model provenance is typically opaque. Consulting implication: Clients need supply chain transparency frameworks for AI models, especially for regulated industries where knowing the full stack matters for compliance and risk management.\n\n- **Pentagon-Anthropic saga reveals government AI contracting chaos** - New court filings show the Pentagon told Anthropic the two parties were \"nearly aligned\" one week before Trump declared the relationship over, with Elizabeth Warren calling it \"retaliation.\" The messy breakup exposes how politicized government AI procurement has become. For consulting: Federal and defense contractors need scenario planning for political disruption, and clear processes for when AI vendors become politically controversial.\n\n- **Microsoft rolls back Copilot AI bloat** - Microsoft is removing some of its forced Copilot integrations from Windows, acknowledging user pushback against aggressive AI feature deployment. This represents a significant course correction on the \"AI everywhere\" strategy. Consulting opportunity: Enterprises need change management frameworks for AI deployment that prioritize user adoption over feature counting. The backlash shows that more AI isn't always better AI.\n\n- **Nvidia GTC fails to impress Wall Street despite trillion-dollar infrastructure bet** - Despite announcing NemoClaw, robotic demonstrations, and a $1 trillion infrastructure vision at GTC, Nvidia's stock didn't rally and investors remained skeptical. Wall Street is demanding clearer paths to ROI beyond infrastructure buildout. This connects to broader questions about AI economics — if the picks-and-shovels companies can't convince investors, it suggests uncertainty about when AI applications will generate returns. Consulting angle: Help clients build business cases that don't assume infinite AI budgets. The \"build first, monetize later\" era is ending.\n\n- **Amazon's Trainium chip wins over Anthropic, OpenAI, and Apple** - Exclusive reporting reveals Amazon's custom Trainium chips are being adopted by major AI companies including Anthropic, OpenAI, and Apple, breaking Nvidia's near-monopoly on AI training hardware. This validates the multi-vendor chip strategy and suggests enterprises will have real alternatives for AI infrastructure. For consulting: Infrastructure architecture reviews should now include Trainium alongside Nvidia options, potentially offering cost advantages for certain workloads.\n\n- **Anthropic launches Science Blog and multiple enterprise tools** - Anthropic released a science blog, best practices for Claude in Excel/PowerPoint, and \"Claude Cowork\" for knowledge work, signaling a push into structured enterprise use cases beyond general chat. The company is also tracking what 81,000 users want from AI. This productization shows Anthropic competing directly with OpenAI and Microsoft on enterprise territory. Consulting implication: The Claude ecosystem is maturing fast enough that multi-vendor strategies are increasingly viable, not just theoretical.\n\n## WHAT THIS MEANS FOR TP\n\nThe OpenAI-Astral acquisition and GPT-5.4 launch create immediate opportunities around developer workflow optimization. Clients who adopted AI coding assistants 6-12 months ago are now facing a second wave of decisions about toolchain consolidation versus diversification. TP should position to help enterprises evaluate whether to go all-in on OpenAI's expanding ecosystem or deliberately maintain multi-vendor strategies. The Cursor-Kimi disclosure specifically opens a consulting niche around AI supply chain transparency — regulated industries (finance, healthcare, government contractors) will pay for frameworks that map their AI dependencies and assess geopolitical risk.\n\nThe Microsoft Copilot rollback validates a contrarian positioning: successful AI deployment is about surgical integration, not wholesale transformation. There's a consulting opportunity in \"AI rationalization\" — helping companies who over-deployed AI features in 2024-2025 now streamline to what actually drives value. This pairs well with the Wall Street skepticism toward Nvidia's GTC announcements. CFOs and boards are getting more sophisticated about AI spending, which means they need third-party validation of AI investments. TP can offer ROI modeling and vendor selection that explicitly accounts for the shift from growth-at-all-costs to profitable deployment.\n\nThe Pentagon-Anthropic drama highlights a emerging risk category: political volatility in AI vendor relationships. Any client doing government work or operating in politically sensitive sectors needs scenario planning for when their AI vendor becomes controversial. This isn't just about Anthropic — it could happen to any major AI company depending on regulatory or political winds. TP should develop playbooks for vendor relationship resilience and diversification strategies that protect against single points of political failure. The Amazon Trainium adoption news provides a concrete hedge strategy to recommend.",
+  "summary": "## QUICK BRIEF\n\nThe AI industry is moving fast on three fronts today: OpenAI announced GPT-5.4 and acquired Python tooling startup Astral while revealing Sora safety measures; Anthropic launched Claude Cowork for enterprise knowledge work and faced Pentagon drama with Elizabeth Warren calling contract cancellation \"retaliation\"; Cursor admitted its new model is built on Moonshot AI's Kimi, raising questions about model provenance transparency. Meanwhile, Nvidia's GTC conference failed to impress Wall Street despite massive infrastructure announcements, and Microsoft is rolling back bloated Copilot features—suggesting the industry is entering a maturation phase where execution matters more than hype.\n\n## COMMUNITY PULSE\n\nBased on the data provided, there are no Reddit or Hacker News discussions with scores and comment counts included. The dataset consists primarily of press releases, company announcements, and news headlines without community engagement metrics. To provide an accurate Community Pulse section, I would need:\n\n- Reddit post titles with upvote counts and comment numbers\n- Hacker News story titles with point scores and discussion counts\n- Actual community commentary or sentiment indicators\n\n**Note:** The absence of community pulse data suggests either a filtering issue in data collection or these stories haven't yet gained traction in technical communities—which itself may be noteworthy given the significance of some announcements.\n\n## KEY DEVELOPMENTS\n\n- **OpenAI acquires Astral and ships GPT-5.4 models** - OpenAI acquired Astral (makers of Ruff Python linter/formatter) while launching GPT-5.4, GPT-5.4 mini, and GPT-5.4 nano models. This represents a significant vertical integration play—owning the developer tooling layer while releasing more granular model tiers. For consulting firms, this signals that major AI labs are moving beyond pure model APIs toward full-stack developer experiences, potentially commoditizing parts of the integration work consultants currently charge for. The acquisition also suggests OpenAI sees Python ecosystem control as strategic for maintaining developer mindshare.\n\n- **Cursor transparency crisis: New model built on Moonshot AI's Kimi** - Cursor admitted its latest coding model was built on top of Moonshot AI's Kimi, not developed independently. This is significant because Cursor has been positioning itself as a cutting-edge AI coding platform, and many enterprise clients assume they're getting proprietary technology. The disclosure raises critical questions about model provenance, licensing, and whether consulting firms need to audit their tooling supply chains more carefully. Clients paying premium rates for \"AI-powered development\" deserve to know when tools are repackaged third-party models.\n\n- **Pentagon-Anthropic drama escalates with Warren intervention** - Elizabeth Warren publicly called the Pentagon's decision to bar Anthropic \"retaliation,\" with new court filings revealing the two parties were \"nearly aligned\" just a week before Trump declared the relationship dead. This isn't just political theater—it directly impacts enterprise AI procurement. If government AI contracts become political footballs, Fortune 500 companies with federal business may face pressure to avoid certain AI vendors. Consulting firms need contingency plans for clients who suddenly can't use their preferred AI provider due to political shifts.\n\n- **Anthropic launches Claude Cowork for enterprise knowledge work** - Anthropic introduced Claude Cowork, explicitly targeting enterprise knowledge work scenarios, alongside detailed guides for Excel/PowerPoint integration and best practices for scaling to real codebases. This represents Anthropic's serious push into Microsoft's traditional enterprise stronghold. The timing—while OpenAI deals with Pentagon issues—suggests competitive positioning. For consultants, this creates opportunities to help clients evaluate Anthropic vs. Microsoft Copilot for specific use cases, particularly in regulated industries where Anthropic's Constitutional AI approach may offer compliance advantages.\n\n- **Nvidia's GTC fails to move Wall Street despite $1 trillion infrastructure bet** - Despite announcing NemoClaw, robotic demonstrations, and massive AI infrastructure plans, Nvidia's GTC conference left Wall Street unmoved. This disconnect between technical announcements and market reaction suggests investors are skeptical about near-term monetization of AI infrastructure investments. For consulting businesses, this matters because client CFOs read the same market signals—if investors are questioning AI infrastructure ROI, enterprise buyers will demand better proof of value before signing large implementation contracts. The honeymoon phase of \"AI budgets with loose ROI requirements\" may be ending.\n\n- **Microsoft rolls back Copilot bloat, publisher pulls AI book** - Microsoft is scaling back some of its aggressive Copilot integrations, while publisher Tor removed horror novel \"Shy Girl\" over AI concerns—two signs of course correction in the AI deployment frenzy. The Microsoft move suggests even the biggest AI evangelists are learning that shoving AI into every workflow creates user backlash, not adoption. For consultants, this validates the \"thoughtful integration\" approach over \"AI everything.\" The book controversy reminds us that AI detection and attribution remain unsolved problems that can blow up unexpectedly, especially in creative industries.\n\n- **Google DeepMind partners with Agile Robots; infrastructure investment surge continues** - Google DeepMind added Agile Robots to its growing partner list, while BCG reports private infrastructure AUM hit $1.6 trillion. Amazon showcased its Trainium chip lab serving Anthropic, OpenAI, and Apple. These developments reinforce that robotics and custom silicon are becoming legitimate enterprise AI categories, not just research curiosities. The consulting implication: clients asking about \"AI strategy\" increasingly need answers about physical automation and chip strategy, not just LLM selection. Firms without robotics and hardware expertise may struggle to serve manufacturing and logistics clients.\n\n## WHAT THIS MEANS FOR TP\n\n**Immediate Service Opportunities:** The Cursor/Moonshot revelation creates an urgent need for \"AI tooling audits\"—helping clients understand what they're actually buying when they adopt AI development tools. This could be packaged as a 2-3 week assessment offering: catalog current AI tools, trace model provenance, identify licensing risks, and recommend vetted alternatives. Given enterprise paranoia about supply chain security, this service writes itself. Similarly, the Anthropic vs. Microsoft positioning battle creates consulting opportunities for \"AI vendor strategy\" work—helping clients with regulated workloads evaluate Constitutional AI approaches against general-purpose copilots.\n\n**Strategic Risks to Address:** The Pentagon-Anthropic situation and Wall Street's Nvidia skepticism both signal that the \"AI gold rush\" narrative is fragmenting. Political risk is now a factor in AI vendor selection, and ROI scrutiny is intensifying. TP should prepare for clients asking harder questions: \"What if our chosen AI vendor becomes politically toxic?\" and \"How do we justify this spend when public markets are bearish on AI infrastructure?\" The answer isn't to avoid AI—it's to position TP as the firm that helps clients navigate these complexities rather than selling them simplistic \"AI transformation\" packages. Build relationships with legal teams who handle government contracts, and develop ROI frameworks that survive CFO scrutiny.\n\n**Client Talking Points:** When clients mention they're \"going all-in on Copilot\" or similar vendor lock-in plays, the Cursor story provides a natural conversation starter about technology due diligence. Frame it positively: \"The best AI implementations have contingency plans and understand what's under the hood.\" For clients in manufacturing or logistics excited about robotics, the Google-Agile partnership validates that conversation—it's not premature to discuss physical AI applications. And when clients express concern about AI budget scrutiny, acknowledge it directly: \"You're right to ask about ROI—the market is asking the same questions. Let's build a business case that accounts for that reality.\"",
   "sources": [
     {
       "title": "Agile Robots becomes the latest robotics company to partner with Google DeepMind",
@@ -140,6 +140,244 @@
       "score": 0,
       "comments": 0,
       "source": "techcrunch"
+    },
+    {
+      "title": "Corporate Comms Is Playing Catch Up on AI. A Few Leaders Are Showing the Way. - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMjRQRzFrUWhnVk1ZbDk5MER1eEE1SlU1QkNJb0tMUXI5aUE2U3lGcHpZb3Z5QTRaSVpKUGQ2TUU2U0lDeGRCMlR1M0RHNVRjOHRORENQQld4QjllSnJ3WUN5Ri1yU25BemNRS2pzZ1Zpdl9xeE1JTTBKaUZ6ZHBtZ09JdHJGNnVqblFNVHJTVU1uTms?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "How AI Can Help Higher Education Capture a Once-in-a-Generation Opportunity - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdWFqZldoOHJkMWpSSVRwMTJlN2Rya05YdGh3eGFrRjNKc21LeXBQaE9VWm51Q0JfcnVET2Y2TUNZaFJIV1NlVENrNjgxS3ZablhzakhVbWFOemVSMHZITkM0YXhwM3VjYlY4czN2RnZybHR6WGI0RlB5ajRhSng3cmpSVlFrdFJFTzNEMjdxdw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Forward Deployed AI Engineer, Internship, Denmark - BCG X - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVEZMemlua2tfeURLZmR4VHdhSWxBbXNVTUNPcUZqWWl3aklCVHhHeW5RYUhkM2hVWkdVcWtUa3ExRGNrQjVlYzdCdTNZRTFacDJZekNRdUh0SGpXUTZod0dMRkhfaHh4ZjZqYkpleTJpd0ltVko3WjZFLXBDcDFqWDYtUW5TOWpXZEJrQmRSbUlleGdibVhHMUZhbGNHZw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Forward Deployed AI Engineer, Internship, Sweden - BCG X - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYnVvNFA3c2dnVWlYQVNHa1MxWUpZSmpiRHAwRU9oRExLb05zUGlieXZZSTBqNXVQWHJ6UGNIY1dFWnpmNTZVQmhITlVsZVlaTWZIc3hoQjZYM204djlhcUh1Rk1BaHZHNzRfVUpSVHlodjhYRHA5ajF0R1VXeElhZDZpRW15dEpCSlNrUmhYVml5cGR4MV82b0kxTE0?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Develop the Developers: A Strategic Priority for Africa - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNT18xSW0teXgyQm54OVU1Y0wwUy1tUjVxOTZaRUVlU0tBbFRrck1YMk93UnNYSFFZRUhtckNuR2FrS01WWWNTN0xFQWUxeHBXMUhMWlRlcWx6U3hmc05CWUE5WC0tMEMxVWFjdWZEMU52ZnJKV1ZkZUpiOFRNbVdPUUtPUjlkcGtYRWx0dmdrVHdOVHk5NmE0?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Corporate Comms Catch Up on AI: Leaders Show the Way | BCG - web-assets.bcg.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTkIxRlRzZVpVUkd1OGJPSi1WN01OYnpEckFpcVphS1ltY1IxTkRVcUFFRmQwaG5hNVFOTHVSV0hXQkpKQ1RzQTZmb2tPR0RsSXlud1ZhdWw0d1N3RW03VVAwaG54MzNBa1JvUzdDdDZQRmpXb2dqb002T3QxX2pUVm5BS0RldXpCTW0xMVFCLUZDWXlMM0lfZXMyUWhkbFBYa3c?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "The AI-First Utility: Defining the Industry’s Future - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRElWakF1RVMxdERWMmZkcE1CR0xNdGRUbkdkVlBTNFFsQy15Qk8zMm9ubmdWOTNmVE1aZHJpaHhiblpIRHJTQ05IVW13ZEEydVEwUjFZNU4tTENtTU9DUVdZemVTYjdiUjM4OGJHNmpiTGZZcW9GR2pKNGlwMFJDSm56NW4tNm1DVi0xNFN1aGJsemFFQTdOTC13?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "BCG X AP People & Development Senior Specialist in Gurgaon, Haryana, India | People and HR at BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNR0ZlOGlqN2pUOElCS09HMHJ5akRsSGZzRmdwZU1fVXZLY05Wbzk1NkFNWFhxWS13Zkt1dEF2ZkRRa28yOV9RbWpUMmk4T2N6cjF5cEo0R3RPNGZqUFhaYUxJUE5kS3Iyc2RlTW1VaVI5ay1rMUx1N1psQVJnQy12OGxDUTdKYXFiRlpwTEVBdjB2bFU?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Grande enquête sur la santé mentale au travail - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSS00YjdqNWg3NkxLTUVyWkdoOUpJUTNQT1lxVkNTZGpicDRma1lCakZvbFlpc1ZaZ2ZTVjZXS1o0ajZCSVJWdUx3RlNhaXdSV3ZDblZDMFIxZU5vWW5aeWZ1TTRGaml5TFcyUlVJbE1yWVctS3FSd1VRMEMtTnBYdWNuSWhHSUdCbEFzTWxMVjVnTWdnWnc?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Private Infrastructure Rebounds as AUM Reaches $1.6 Trillion - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9WME1QYnhBR1d3UUMxb2ZjUW5Ka3pvZ2NwelpfR0hZQkJ5LWxuWDhTZEtGZDVObFZrdnJ0N0xmWmNTWVBLbDNjZUFybTFQR1E0M3gwOWowcWphUzVpVmRZUHk2OUhEOVBSVE5nbHA3Mmg0eXVpT0tWbw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Advancing Textile Circularity in Europe: The Case for System-Level Scale-Up - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTl9SYVlHak40ZEJ2a2hzUUhzelBQWXRSSGFyR3A5T3lKRHdqTTVwNE9zNWM5RHhqdmNKenNOdUF2d294RlA3azlwNWg5Y3VYWVRjbE02R3RMMndORWxyTWlaT2RyT05TU3hVbjN0aDdCZUhpakJ1TFprbGtDUFVhdS1mUjk1SDFvd0lXNWN2d1BQYWRSdzhUTl84Nnl6UEFlWFJyQWFZNkJhbE05V0p5U0labTY5cnV4Y2E0?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Speaking Your AI Agent’s Language - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQS2lRNm9ocENQQzcwemF2NlMxSFMtYk5qbi1sTk9GVzdETHh1dXo2UlBkblIwd2VCampvcGpYWHR3dDZXS0RJdzNCZlgya3QwRmE2b0kxblBiNVFKVTFvYmhGbmtkUmFYMF9Fc3JNbVptcVBRT0kxck1RV0wxOUhiLUllQk9ZTXZEWG90MUxaUFc?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Infrastructure Strategy 2026: A Year of Increasing Scale and Diversification - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQlkyYVBoQmxXN3h4YjJBYWFuQ2RITFd1Sm5pN0RWQzlTSDl5YnpkVWlCWm5XdGY0Q2xKcnVWaGI4VF9ZWmdVNkNiOUJaejlEV1FxZnNJRjFKcGJOUW9TNU1uM2VzQm01Y0k1RVZDY2NhRld1bzFPa2hGWkVkenUwY0Q3VmJGb2h6MUE?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Philip Jameson - BCG Expert | BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5NbVdaUEN3VnZUN2lQdjJoSW1KejItSTUtVVMyWDlHemxUVzBVRzNDYUtPN004b2ZfRnlJQlJjbVRWSG1OMXRlRkt1Uk5EbVJjWTM3VUF0VlJmVklDcjBlajM1VHhXQQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Talent Assistant - Staffing Operations in Toronto, Ontario, Canada | People and HR at BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWU41UC02MGdxd3hYY2N1ejVDVVJwMzRadk0zUTZramhpS0dyNnB6Y0M5YW43NERyWTk1cDdESi1RMVlFdHkwSWdFaG5wdDUtZHVyemxHWFpHS290QVdEbXpPYzBLeExGd0g4emhuRlVZMWt4aEdBbWdCTEV0RG1ELWxkSXRSX1E?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Forward Deployed AI Scientist, Norway - BCG X in Oslo, Norway | Data Science and Analytics at BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbDVLRktlZzF0eFRCS181c1NkQ3lNLTBpYXZuZk5tZ0d6amFLV0FkYno4b0VhTFJhX1FkMjlrS3RQVkJtQ1VoaFpPQ1JPd0JESzFMNW9va0pyQUNxamh2N0RuQ25NNE5EY3pxQS1yMW15Y0JjLVJ2bElib3lRdVNRY3BScGVLaG5Sbno4TXNCYw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Forward Deployed AI Scientist, Italy - BCG X in Milano, Milano, Italy | Data Science and Analytics at BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNd1VEWl9reDhmSE8xdmhsWVlSZlZ2cUVJOUVDQ1dkSWQ3dE5xLWhoY242aVdrUjRKTWxtQ0lBUkFZZGJubmd5NDhMRmZqY3NKckRhMldaMDBhNC1FSXJZclN3M0V1ZWlVRm9DX2NDU0JNU0ZfYlhOVXMxUlNZRnZwSzhxR0hGdGhEOUZ2eTF3?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Why Low-Carbon Capital Projects Demand a Different Playbook - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeHdJM3puVHZJTnhZM0FNU3FHOWhhcHZwX3FyWlkwR1gtNGNXVHg1UTRXdWZRclJrRjN1UnlMRUt2ZC01TlhySldwbXZmSk9IU2RVRWRtQ2RlOXlYRy1sWWFZNVY4T0NYTUlNZHRVS3hrZzl1Q2ZqVjNodEdOLWw4dVl6UjEzdzRlVHdRYWExOXRXTWltVmc?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Jobs in the Middle East - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxONUgyV0xMX19Eb25BZlhadTJJek5qQ1FZQUVweThnMC1POE5icnBGUzY1SEZEbVEwUW1lbTgyUVh0MmRUXzlFc3Fld1hISzJQYm8zLUNYQllDd1NzTGNMam40eTdKa0x6Y01DUEkxQkRXM1dhREdXVXVRdFRuZG03TzJPTzdIb2pyVzV4dWVucHk3dU0zNlZ2azVEQTRLRXRiU0hQSy1ZVUN2VkJpUWtGSEVYaXBIX1M5aThIWmc2UmpqUUFNYUsyUWxUZ2tQNkg1T3Z3TC1JdmhTc3F6QTlFRVZsd05jREFyTFcxSm0yWWdHRHNZLUdsVWU3dEJOOGlFbUFWRVdQR09kTmdvUDJUNjhGNllpS2FpODBXNm9mdjFOaVFOWnh3eENuUlVkY1dTcW5hdVlMX0tkR1ZjZ3c?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Forward Deployed AI Scientist, Internship, Norway - BCG X in Oslo, Norway | Data Science and Analytics at BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPd1hIdUNzZUJTZm5RVi1uR3JyQkNWWGduOGFNRGpmNnhtaGRuSG9VRHM5dElCX1dna3dzVjgzV0YtdDV5Z1FnT1pSVldtRzVvY2dKeGtaMkZTR3ZLZnoyb1VDTFFtUnVHdU9LS2ZwSGY5LUkyaUlqWjVjdXN6NXJoZlpvM1liaVAzclF2cjZ4ZjZMZks2ODViQ3FHbUFZQQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "AI Architect (all genders) - BCG Platinion in Cologne, Germany | Technology and Engineering at BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQTZoVEVlTG9walFLX0tHbmdyMzFFdklyUVppS1hGOUVaSGpSQnVpc2ZxSmg1a1QtU3I5UU9JVHo2c09FMWhwamxNTnRjdUhxclNLd04yTU44NGN0bmM3R3NkTERvdmZjcGhvWGpxTGZZdUgtYlQ5S2VhZWVoUWVLd1ZLbVBaY2s?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Forward Deployed AI Engineer, Internship, Denmark - BCG X - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNT3o4WEdPYWJXUkVyQUJKMTN4TGg2SXlFVExVRzZjaXFxQmpUOG9Ialc0dFBMbk80WTZxV0RaYTkycEFDUEJxdUM1QjgtdG5iZmEydWJyNWFveW1mVTFvTnJ5TzNBTVROMnpTVE9sdmYyR3ZKU0JuUXZ1VzFXbVYxLTNfeFFOM1hWdTV4WFpmS1VtZmx4bzdKdw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Forward Deployed AI Scientist, Mexico - BCG X in México, D.F., Mexico | Data Science and Analytics at BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPR2FvYlZnMnhWdkw2ZDBqOGJWVUNjVkJuSWhIQ2ltQ2lpN0g3c05Gd3dTNEhaVXg5X2NocjZjYmxKUzE4bmc5R05FQ1NDSHNOdmJ4U0FIc2RIQy14SWpnUjJQdXNtZGVyUWU2UUdQaWpjV2Z3OExCR3JVM1NqSEI3dWUyNDNRbjZJTUZtdGVhdw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Forward Deployed AI Engineer, Internship, Norway - BCG X in Oslo, Norway | Technology and Engineering at BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNb3Z1UW1QdWdYMFRmbFRhdEt2QmNqUUlHWkJ5U3pxS0VhN2dQZDN4bFRVM3JUbUhyd1pSQmt3RjZQanBVdXN3OWdMazVXUEVCTEZYa2hmMEtwaDZ1SEIxVk5PaUc4c1d2Z0Z2U0M5NllycTlWUGMtVGY4NUFFVW53YUJnd1o5QkNpMUpJVVhQcmxTNm0wc3J3SkdCZ3A?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Careers at BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRDhDZFVLWkVzTE93czFlYkR1ZC1YMTI2d2lxN2tDbGprazVHMmJIaUNDM3pRUVB4OTcwcEktajEzTjNnVVVORG5hSHU3cGxsMkV5c2tDNjMwZWZQZk5menFWMW80M0pYTjlxSHhKZnJWN2dISlRkYjI1dU1HSGpzdXY4el9ablE?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Associate, Internship, Chile 2026 in Santiago, Chile | Consulting at BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1wOVpBVEZ0cVJFYmVwU0NzcFpQMXp3THg2MTVqZVZkdzFTT1pDdGEwdkJ6bTRhX0pSUjRVdFF3Ri1NdDQxMGFPdmx5cGhxNzFjbzl0Uy1KV2gzamNCZlUwbWxpRGhTYndZYnFXcHdrNjd0NkE?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Teach First Summer Project in London, United Kingdom | コンサルティング at BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBYc2F6YWtzT2xFbmpTVF9sNG80OUZiZlNTTzFFSjlHckJCZHBFNGNZZU9WVGFMcGlDME55ZkRWUFFHOUprMTNsV1BUNFVkRU5pX3JfdnhLYWdsZkdGVjFpazlFTDNpQ0hQY2d4bFNyRjMwdi1j?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Forward Deployed AI Engineer, Canada - BCG X in Toronto, Ontario, Canada | Technology and Engineering at BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcTlUc1dMRUR5ejBrelJ1aXZBSnhiMzFCSGhRc24wWnFfYkFsbnk5RmJlSHVGZUlfZi04U21DZ0pWQjUyeVgtMmh5bEFyeDhDTWRQRmIwTXZBR3hZLWcyLXZYdUhTUUVxVURpUkplOFptTlVxd0l5Z3d2M0FLc2tPMVlRUXNNTVBNM3JoMXJ3?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Forward Deployed AI Engineer, Sweden - BCG X in Stockholm, Sweden | Technology and Engineering at BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVXY4SGp6RzVYNldidlVTUmZsLUxydTFGNDVucVdOanRPcXBhQ19oYm9OanJyN1pDbXZjWDFXa251bzQzeV84ZUM1RUxkMmViMXVkTnozZkc3UVJPRjdTZXFqSzc3dDd1N0xvckw5VV9NeDBQR3Y2RmxZaFBMaXlXTkpXcGlLT2Fsd1BVTmJ3?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Lead AI Engineer, India - BCG X in Mumbai, Maharashtra, India | Technology and Engineering at BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8wRXdzeE5jeENvNUowOElkOXBzSS1EY0RWU1djQlBfY0UzcHZPVVEzMVNickVoYzczZnp4Zk5HMlZPVXZWckx2QU8wcFpubUswb0JwQUNaNEZ1SE5ZWjZTVlFkS29YOTNadWllTllzdkZhN1RteEVfMzZYNWM?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "BCG X EMESA Recruiter in Casablanca, Morocco | People and HR at BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0yaDJhVXhFV01kQlZSOGhlLUh5Mk9PQnlTNFY5dkpHV0ZjN1dRMWJ1TE95NDU3bDRJTzlJMWU3N3NBeHB5YVpqZEZwWHhOOTY5Z1VnVHFjWVREdFVrVGRHS0dfZmltVHpvXy14U0dHb254Q0E?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Forward Deployed AI Engineer in Bangkok, Thailand | テクノロジー&エンジニアリング at BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE53N2JzekVWTFhHS0s2bUxyMU56SExkai0ycm54c05fWlBzeGE4TEp3UGtuWUkzZW0yZGU5QXgtRHpOS0dheG9CdllaMnA3Y1o4alR6eE5tUEVMSGpOM1loVFNiOE5tenNld2FkXzBOTHV0ZDBSaHJB?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "AI Engineer, Internship, Germany - BCG X in München, Germany | Technology and Engineering at BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcmtZa0FLOU0ySmdMd2NHcEVWU2lxcWw3MEVqNnNXQzVweGNqdTVCMThsOW5ZaVZoSzA2dnpiQTRpTm50bm9LYWYyR1pZRkxwYmxDaVBqV1dqb1pNaThaX2pzb3BPNkVPQmxITVlHQWhCWGpzekw3ellhbk5XeXdpb0VvbVU4bjQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Worldwide Search Results Page - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNa1doMmlXRDRMWWc0THJ6Ukt0VlF2elNOVUZRQ0xLNWtXTXdYcDNjTzJ3bE5uNVUyNjdKSmpQQU9IdzJ4TVdYc0ctR21HTmNPb0VXVzB0ZWQ3WnBEZHZXd2M1amFKUWw0NmxwQTlyb3pibEhGMEk2SDBEbmFKb3F4OTU4MmlSZENJWmdmTHE1MGFTclhicTRienlzSDE4N0dUSGlNdUotSE5vc1o2ZG5EblhZVlZnTTVTZmo2OWFtNmZmQUxXTTRaQVAzS2JDZw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
     },
     {
       "title": "Long-running Claude for scientific computing - Anthropic",
@@ -919,5 +1157,5 @@
       "source": "news"
     }
   ],
-  "generated_at": "2026-03-24T12:12:59.331Z"
+  "generated_at": "2026-03-24T12:13:48.604Z"
 }
