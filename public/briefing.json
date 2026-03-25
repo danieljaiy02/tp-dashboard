@@ -1,5 +1,5 @@
 {
-  "summary": "## QUICK BRIEF\n\nAnthropic is making major moves with Claude Code getting expanded autonomy for long-running development tasks, while releasing extensive research on enterprise AI patterns and economic impact. OpenAI faces significant product struggles — Sora is shutting down after safety issues, their Amazon-style commerce push is failing, and they're doubling down on teen safety tools amid regulatory pressure. Meanwhile, capital is flooding AI infrastructure: Kleiner Perkins raised $3.5B for AI-only investments, Air Street closed a $232M solo fund, and enterprise startups like Doss ($55M) and Mirage ($75M) are attracting serious money for specific vertical applications.\n\n## COMMUNITY PULSE\n\nBased on the headlines, key sentiment trends show:\n\n- **Enterprise AI Consolidation** - Major interest in Databricks acquiring two startups for AI security product; community discussing whether buying vs. building signals market maturation or defensive positioning\n- **OpenAI Product Troubles** - Sora shutdown generating discussion about AI safety theater vs. real risk; commerce features failing suggests ChatGPT's interface may not translate to transactional use cases\n- **Anthropic's Developer Bet** - Claude Code getting \"more control but kept on a leash\" sparking debate about agentic AI boundaries; developers comparing expanded capabilities to GitHub Copilot's limitations\n- **Privacy-First Tools Rising** - Talat's local-only AI meeting notes getting attention as counterweight to cloud AI; signals growing enterprise concern about data sovereignty\n- **VC Money Concentration** - Kleiner's $3.5B AI-only fund and Air Street's $232M solo raise indicate capital flowing to specialized AI investors, not generalists\n- **Vertical AI Traction** - Doss ($55M for ERP-integrated inventory) and Mirage ($75M for video editing) show investors betting on AI tools solving specific workflow problems, not general capabilities\n- **Data Center Economics** - Kentucky farmer rejecting $26M for data center land getting philosophical discussion about AI's physical infrastructure costs and community impacts\n\n## KEY DEVELOPMENTS\n\n- **Anthropic Releases Enterprise AI Playbook** - Anthropic published comprehensive guides on Claude Code patterns including subagents, MCP integration, and scaling to real codebases, plus economic impact research and scientific computing applications. This matters because they're positioning Claude as the enterprise development platform, not just a chatbot — directly competing with GitHub Copilot and Cursor. The timing alongside expanded Claude Code autonomy suggests they're making a coordinated push for developer mindshare with both product and education.\n\n- **OpenAI's Product Strategy Unraveling** - Three simultaneous failures: Sora shutting down after being \"the creepiest app,\" ChatGPT's Amazon-style commerce features flopping, and continued struggle with agentic architecture. This signals OpenAI may have overextended from their core strength (conversational AI) into areas where the technology isn't ready or users don't want it. For consulting firms, this validates the \"start narrow, prove value, then expand\" approach rather than trying to make AI do everything at once.\n\n- **AI Infrastructure Capital Surge** - Kleiner Perkins raised $3.5B exclusively for AI investments (going \"all in\"), Air Street closed $232M as one of Europe's largest solo funds, and vertical AI companies are raising massive rounds (Doss $55M, Mirage $75M, Lucid Bots $20M). The capital concentration in specialized AI investors suggests the market is maturing beyond hype — investors want domain expertise, not generalist VCs dabbling in AI. This also means more competition for enterprise consulting as well-funded startups target specific verticals.\n\n- **Privacy-First AI Tools Gaining Ground** - Talat launched AI meeting notes that stay entirely on-device, Databricks bought two startups specifically for AI security, and enterprise controls are expanding across platforms. This reflects enterprise buyers pushing back on cloud-dependent AI — they want the capabilities but need data sovereignty. The consulting opportunity is helping enterprises evaluate when local vs. cloud AI makes sense and architecting hybrid approaches.\n\n- **Arm's Strategic Pivot** - Arm is releasing its first in-house chip in 35 years, a massive strategic shift from their IP licensing model. This matters because it could accelerate edge AI deployment if Arm optimizes silicon for inference — potentially changing the economics of where AI runs. Enterprises may soon have genuinely competitive alternatives to Nvidia for inference workloads.\n\n- **Anthropic Economic Research Drop** - Released their Economic Index report on \"learning curves\" and survey of 81,000 people on what they want from AI, alongside their Science Blog launch. They're clearly positioning as the \"serious enterprise AI company\" with research backing, contrasting with OpenAI's consumer product stumbles. The 81,000-person survey data could be valuable for understanding actual enterprise user needs vs. vendor assumptions.\n\n- **Developer Tooling Expansion** - Claude Code getting subagents and MCP integration, OpenAI releasing open source teen safety tools, Spotify fighting AI slop attribution, and vibe-coding startup Lovable hunting acquisitions. The fragmentation in developer tooling suggests the market hasn't settled on standard patterns yet — creating consulting opportunities for firms that can navigate the chaos and recommend appropriate tools for specific use cases.\n\n## WHAT THIS MEANS FOR TP\n\nThe Anthropic vs. OpenAI divergence creates a clear consulting narrative: OpenAI is struggling with product-market fit beyond chat (Sora shutdown, commerce failure), while Anthropic is doubling down on enterprise developer workflows with extensive documentation and controlled autonomy. TP should position around \"post-hype AI\" — helping clients avoid the mistakes OpenAI is making (overextending into unproven areas) and instead following Anthropic's playbook of focused, well-documented enterprise solutions. The economic research and 81,000-person survey Anthropic released are particularly useful for client conversations about what AI adoption actually looks like vs. vendor marketing.\n\nThe infrastructure capital surge ($3.5B to Kleiner, $232M to Air Street, massive rounds for vertical AI) means two things: First, well-funded startups will increasingly compete with consulting firms for enterprise AI projects, so TP needs differentiation beyond just technical implementation. Second, the money flowing to specialized AI investors validates domain expertise over generalist approaches — TP should emphasize deep understanding of specific industries or workflows rather than generic \"AI strategy.\" The privacy-first trend (Talat, Databricks security acquisitions) also creates immediate opportunity: many enterprises want AI but are paralyzed by data governance concerns. Helping them architect hybrid approaches where sensitive data stays local while less critical workloads use cloud AI is a concrete, billable service.\n\nThe developer tooling fragmentation is both opportunity and risk. Opportunity because enterprises are overwhelmed by choices and need guidance on what tools actually work for their use cases — TP can build expertise in specific stacks (Claude Code + MCP, for example) and become the go-to implementer. Risk because betting too heavily on any single vendor could backfire if the market shifts. The smart play is likely maintaining expertise across 2-3 platforms (Claude, ChatGPT, plus one dark horse like local/edge solutions) and helping clients choose based on actual requirements rather than hype. The Arm chip development is particularly interesting for future positioning — if edge AI becomes economically viable at scale, that's a major shift in architecture consulting.",
+  "summary": "## QUICK BRIEF\n\nThe enterprise AI landscape is consolidating around practical deployment and control mechanisms. Anthropic pushed Claude Code toward more autonomous operation while maintaining safety guardrails, while OpenAI shut down Sora amid safety concerns and struggles to monetize ChatGPT's shopping features. On the capital side, Kleiner Perkins deployed $3.5B entirely into AI, signaling peak institutional commitment. BCG published extensively on agentic marketing scenarios and AI sovereignty, revealing how consulting firms are positioning for the next wave of enterprise adoption.\n\n## COMMUNITY PULSE\n\nNo Reddit or Hacker News data was provided in this dataset. The news comes primarily from official company announcements, consulting firm publications, and tech media coverage. This represents a more institutional news cycle focused on enterprise developments rather than community-driven discussion. The tone suggests ongoing tension between AI capability advancement and practical safety/control concerns, particularly visible in OpenAI's recent product decisions.\n\n## KEY DEVELOPMENTS\n\n- **Anthropic releases Claude Code with expanded autonomy** - Claude Code now has more control to execute complex coding tasks while maintaining safety constraints through what Anthropic calls \"keeping it on a leash.\" This matters for enterprise because it addresses the core tension in agentic AI: clients want automation but need governance. The advanced patterns documentation covering subagents and MCP integration suggests Anthropic is building toward orchestrated multi-agent systems that enterprises can actually deploy with confidence.\n\n- **OpenAI shuts down Sora and struggles with commerce strategy** - Sora, OpenAI's video generation tool, was quietly shuttered over safety concerns, while their Amazon-style shopping integration in ChatGPT reportedly isn't gaining traction. This double setback reveals OpenAI's challenge in finding sustainable business models beyond API access. For consulting firms, this validates the pattern that generative AI monetization remains unsolved outside of enterprise B2B deployments - consumer products struggle with both safety and unit economics.\n\n- **Kleiner Perkins commits $3.5B fund entirely to AI** - One of Silicon Valley's most established VCs is going all-in on AI with a massive new fund. This institutional capital commitment signals we're past the experimental phase into full-scale buildout. It also means enterprise AI startups will have abundant funding to undercut incumbent consulting on price while building specialized vertical solutions, intensifying competitive pressure on generalist firms.\n\n- **BCG publishes framework on agentic marketing scenarios** - BCG's research on \"Agentic Scenarios Every Marketer Must Prepare For\" indicates major consulting firms are actively positioning agentic AI as the next consulting wave after basic GenAI adoption. Their framing around \"AI sovereignty\" as an illusion but \"resilience\" as achievable gives clients a more pragmatic narrative than the typical AI hype cycle. This represents direct competition in the thought leadership space.\n\n- **Databricks acquires two security startups for AI product** - Databricks is consolidating the AI security stack through acquisition, moving to own the entire governance layer for enterprise AI deployments. This vertical integration trend means consulting firms will increasingly compete with platform vendors who bundle implementation services with their products. The focus on security specifically addresses enterprise's #1 barrier to AI deployment.\n\n- **On-device AI and privacy features proliferate** - Multiple products (Talat's on-machine meeting notes, Spotify's artist attribution protection) emphasize local processing and privacy controls. This reflects enterprise anxiety about data exposure in cloud AI services. The trend toward hybrid architectures where sensitive processing stays on-premises creates both complexity and consulting opportunity in system design.\n\n- **Robotics-AI partnerships accelerate** - Google DeepMind partnering with Agile Robots, plus Lucid Bots raising $20M for autonomous window-washing drones, shows physical AI applications entering commercial deployment. These represent new consulting verticals where firms need to combine AI expertise with operational/safety considerations - a gap most pure-play AI startups can't fill.\n\n## WHAT THIS MEANS FOR TP\n\nThe Anthropic Claude Code release with \"advanced patterns\" documentation creates an immediate opportunity. Enterprises want agentic systems but lack the architectural expertise to implement subagent orchestration and MCP integration safely. TP should develop a specific offering around \"governed agentic architecture\" - helping clients deploy Claude Code (or similar tools) with proper constraints, monitoring, and escalation paths. This is a 6-12 month window before platforms commoditize these patterns.\n\nBCG's aggressive publishing on agentic marketing and AI sovereignty reveals the strategic consulting playbook: position agentic AI as requiring transformation consulting, not just implementation. TP needs differentiation here - while BCG sells enterprise-wide transformation (expensive, slow), TP can offer \"agentic proof of concept to production\" for specific functions. Target mid-market companies who can't afford BCG but need more than a dev shop. The data center story (Kentucky woman rejecting $26M) also provides a cultural angle - \"AI without displacement\" could resonate with clients anxious about community impact.\n\nThe OpenAI commerce failure and Sora shutdown validate focusing on B2B enterprise use cases rather than consumer AI products. Client conversations should emphasize that sustainable AI ROI comes from operational efficiency and decision support, not speculative new business models. Position TP as the pragmatic choice versus vendors chasing consumer moonshots. The Kleiner Perkins $3.5B fund means the market will be flooded with well-funded AI startups in 2025 - TP's value prop needs to be integration expertise and business outcome focus, not technology novelty. Consider developing quick assessment frameworks to help clients evaluate the 100+ AI vendors they'll encounter this year.",
   "sources": [
     {
       "title": "Lucid Bots raises $20M to keep up with demand for its window-washing drones ",
@@ -140,6 +140,216 @@
       "score": 0,
       "comments": 0,
       "source": "techcrunch"
+    },
+    {
+      "title": "Corporate Comms Is Playing Catch Up on AI. A Few Leaders Are Showing the Way. - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMjRQRzFrUWhnVk1ZbDk5MER1eEE1SlU1QkNJb0tMUXI5aUE2U3lGcHpZb3Z5QTRaSVpKUGQ2TUU2U0lDeGRCMlR1M0RHNVRjOHRORENQQld4QjllSnJ3WUN5Ri1yU25BemNRS2pzZ1Zpdl9xeE1JTTBKaUZ6ZHBtZ09JdHJGNnVqblFNVHJTVU1uTms?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "The AI-First Power and Utility Company: Defining the Industry’s Future - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRnV0QmJZSTc3VUVfWFF2UXgydjZQMVdGOW0tRmhCc25Uak9MTGdiNkVjNE5iRXVKNnMyS3hPalY1OTdvWGNKaFRjNDFWeVRCMVYzZHRmVTJHLVV3YzlZaHpPYVR3VkQ3RUE4VERlV3ZNcjZuY01PT1p3VEV0RTdzcHE1Q0cwQW1VWTN0Q05WcDRvQQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Temporary: Global Offer Senior Manager – (Gen)AI at Scale in London, United Kingdom | Business Operations at BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPLUFDTm1NdGxNZzV5UjZ4Q2c1WG9sSm5vN3dCbDFhN1BsWkJpS01GbzV3QVNxWENaNzhaOHZJYkk3Mlo5cGtuUHhxRGpuel8xeEF3RFdKUWIzZXlhUm5UWVB0akZVeXhFTnoxbkF2aS1Ed29CNUY4UkdVdW03UGt1X3FHLVFiY3YwWW5CdzZ2bmc1RUVxNzNiMXA0R2RVQQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Develop the Developers: A Strategic Priority for Africa - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNT18xSW0teXgyQm54OVU1Y0wwUy1tUjVxOTZaRUVlU0tBbFRrck1YMk93UnNYSFFZRUhtckNuR2FrS01WWWNTN0xFQWUxeHBXMUhMWlRlcWx6U3hmc05CWUE5WC0tMEMxVWFjdWZEMU52ZnJKV1ZkZUpiOFRNbVdPUUtPUjlkcGtYRWx0dmdrVHdOVHk5NmE0?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Tim Rodgers - BCG Expert | BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9xZHI5Rl96cUtJeV9DQmZsVmFDQURhTEZ1SGxfOHRsczU5NFA0RzdIZi1fajlvZVBBTWhUSUM3YjFjYVZQRWpxeWowOUVqUGJfZ0ZpMEs4RWR2OWtNcU9KSDBR?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "For Most Countries, AI Sovereignty Is an Illusion. Resilience Is Real. - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPd05OTy1iRXcxLVJwa0NXZzJwUlU3X0xFSF9vRWtGaGpVdEdiTEF5aWZqSDdsRmItR1lNSW1zY21zT1ZZcFUxeDVKTnR0bXk1Q3F4X2NWdnNiOExkTXh6bHQza0tFeUdPTTlNQUtLNlVUQ0pCM0FPbkxkS2RucHkyNFVNUlpWaHlMSHhCMDdBaw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "The CEO’s Value Test: Think Like an Activist, Deliver Like a Leader - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUVlBOWVmOTFKeEIyd1NROTA5UDRoRFE1SnJmN2xCTHdCaEFQSG11YTJnS3RGZmo4OWtRT005MUtrUXZWZnNXWS0xcGc5Y1AzZ2JSbWQwRW16RkRZSndoUkxMLWRFN05EbTBMemk2YTlzVTJ6QVVTQ1dLcVY3ME8zMklHRm1qNUljeS1WdXIzcno?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Agentic Scenarios Every Marketer Must Prepare For - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeHRINWNvc0pVZHozcS14cWFmUVJpZG0wQ0hVMUN5Z2tlclluQlF5SkM0aERZcElKWHVTWHFnVExqdEhYMUtLcUVyZUFwNE1ZbVZadG83dU51VE9LLXUxaVZQeC1KbFU4a0JOU0NpWjNPbnNsM2tja2FMMUVLcDVrSU5KUVU5djJuY003bUR4c0Y?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Building Better with Lean Construction - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNeHM1Mzdkb2VwMVVGSUhQWDFTdnYwOFk5VmcxRy1FUUlCUy1EZURfcTlNZFRZUDAyX1BTVjdzbm1fbkk3cHF3M1VkV1EyUTNBYUZENVEyNVllSFlkcm5VTE5TdUZUX2p3VDc5VnRoR3ZrTzRGWkx6dVNSUUtEd3pDWnFB?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Corporate Comms Catch Up on AI: Leaders Show the Way | BCG - web-assets.bcg.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTkIxRlRzZVpVUkd1OGJPSi1WN01OYnpEckFpcVphS1ltY1IxTkRVcUFFRmQwaG5hNVFOTHVSV0hXQkpKQ1RzQTZmb2tPR0RsSXlud1ZhdWw0d1N3RW03VVAwaG54MzNBa1JvUzdDdDZQRmpXb2dqb002T3QxX2pUVm5BS0RldXpCTW0xMVFCLUZDWXlMM0lfZXMyUWhkbFBYa3c?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Project Leader/ Principal, Financial Institutions in Bogota, Colombia | Consulting at BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRE9SMnY0U0VRSjhhU0ZOTWQ2Mm02M3JwTzA4bjE4RG91bDVBZkMtclRId0ZTZ1RSQ0lqS3VCRGhMbzdZT0MtQVAtMEdyeXB0VGt0X2dCak90TkprM3NWeEZfTlY4UjV6VDF3TnlSODhfSi1tUS1BQ3BDekpaWnl3NURQS2NtOG9yeGF5M0g2NF9Jd3YyYnc?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "BCG X AP People & Development Senior Specialist in Gurgaon, Haryana, India | People and HR at BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNR0ZlOGlqN2pUOElCS09HMHJ5akRsSGZzRmdwZU1fVXZLY05Wbzk1NkFNWFhxWS13Zkt1dEF2ZkRRa28yOV9RbWpUMmk4T2N6cjF5cEo0R3RPNGZqUFhaYUxJUE5kS3Iyc2RlTW1VaVI5ay1rMUx1N1psQVJnQy12OGxDUTdKYXFiRlpwTEVBdjB2bFU?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Grande enquête sur la santé mentale au travail - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSS00YjdqNWg3NkxLTUVyWkdoOUpJUTNQT1lxVkNTZGpicDRma1lCakZvbFlpc1ZaZ2ZTVjZXS1o0ajZCSVJWdUx3RlNhaXdSV3ZDblZDMFIxZU5vWW5aeWZ1TTRGaml5TFcyUlVJbE1yWVctS3FSd1VRMEMtTnBYdWNuSWhHSUdCbEFzTWxMVjVnTWdnWnc?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "CFO Excellence in Mining - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5oSFBaNjh6OWpHQmYwZDN6UXpNV3l4MWtYNDIwbERXaElRQUpkN3VUMnBVNWd6WDVOSjJvZWhiZkhiRWtZaWFRSElHZ3IzNVRaS2MwSWRMUThPSE4xV09LUXBKd0hkV2dyM0dRRVdQVDhmV19qZkVN?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Forward Deployed Data Scientist, Spain - BCG X in Madrid, Spain | Data Science and Analytics at BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOc2RXNjBwcDA4aE5aajVWeUUyT0xvMnRPM3FDZkFleXlfdnhvTlJSRWRKMXJ5VzgyTjAwaHVoUmJSV0NYN1Y1dTUwdWxVZVhuZDk4WTUzb3pxWVUzSVRJenZfTnpIUjRlbnVtcmVFYkxvWW54ejFHanE2MTFFVmI1cGF0ckdwbVRDQzByN29tc1M?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Advancing Textile Circularity in Europe: The Case for System-Level Scale-Up - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTl9SYVlHak40ZEJ2a2hzUUhzelBQWXRSSGFyR3A5T3lKRHdqTTVwNE9zNWM5RHhqdmNKenNOdUF2d294RlA3azlwNWg5Y3VYWVRjbE02R3RMMndORWxyTWlaT2RyT05TU3hVbjN0aDdCZUhpakJ1TFprbGtDUFVhdS1mUjk1SDFvd0lXNWN2d1BQYWRSdzhUTl84Nnl6UEFlWFJyQWFZNkJhbE05V0p5U0labTY5cnV4Y2E0?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Speaking Your AI Agent’s Language - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQS2lRNm9ocENQQzcwemF2NlMxSFMtYk5qbi1sTk9GVzdETHh1dXo2UlBkblIwd2VCampvcGpYWHR3dDZXS0RJdzNCZlgya3QwRmE2b0kxblBiNVFKVTFvYmhGbmtkUmFYMF9Fc3JNbVptcVBRT0kxck1RV0wxOUhiLUllQk9ZTXZEWG90MUxaUFc?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Forward Deployed AI Scientist, Internship, Sweden - BCG X in Stockholm, Sweden | データサイエンスと分析 at BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSlN1MEp5Y01KSWcxNXZVaTBCdnQ4MzV1QUZQcjVHUjIwcFB6WjJnbFdaVS1zTGl4cWlMcjJjMGJfaHpfNXJEN19MWnJicThBb3Zfa0JIWjgxRWRmRkRlSlQzdE01MDZSS0QxYWZpaXY4b2FSMTJzNVhMMmdLdklOdEc1NXNNVHQxeEJuWkl0Z0Ryc2V6cEk2aw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Infrastructure Strategy 2026: A Year of Increasing Scale and Diversification - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQlkyYVBoQmxXN3h4YjJBYWFuQ2RITFd1Sm5pN0RWQzlTSDl5YnpkVWlCWm5XdGY0Q2xKcnVWaGI4VF9ZWmdVNkNiOUJaejlEV1FxZnNJRjFKcGJOUW9TNU1uM2VzQm01Y0k1RVZDY2NhRld1bzFPa2hGWkVkenUwY0Q3VmJGb2h6MUE?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Talent Assistant - Staffing Operations in Toronto, Ontario, Canada | People and HR at BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWU41UC02MGdxd3hYY2N1ejVDVVJwMzRadk0zUTZramhpS0dyNnB6Y0M5YW43NERyWTk1cDdESi1RMVlFdHkwSWdFaG5wdDUtZHVyemxHWFpHS290QVdEbXpPYzBLeExGd0g4emhuRlVZMWt4aEdBbWdCTEV0RG1ELWxkSXRSX1E?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Forward Deployed AI Scientist, Norway - BCG X in Oslo, Norway | Data Science and Analytics at BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbDVLRktlZzF0eFRCS181c1NkQ3lNLTBpYXZuZk5tZ0d6amFLV0FkYno4b0VhTFJhX1FkMjlrS3RQVkJtQ1VoaFpPQ1JPd0JESzFMNW9va0pyQUNxamh2N0RuQ25NNE5EY3pxQS1yMW15Y0JjLVJ2bElib3lRdVNRY3BScGVLaG5Sbno4TXNCYw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Jobs in the Middle East - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxONUgyV0xMX19Eb25BZlhadTJJek5qQ1FZQUVweThnMC1POE5icnBGUzY1SEZEbVEwUW1lbTgyUVh0MmRUXzlFc3Fld1hISzJQYm8zLUNYQllDd1NzTGNMam40eTdKa0x6Y01DUEkxQkRXM1dhREdXVXVRdFRuZG03TzJPTzdIb2pyVzV4dWVucHk3dU0zNlZ2azVEQTRLRXRiU0hQSy1ZVUN2VkJpUWtGSEVYaXBIX1M5aThIWmc2UmpqUUFNYUsyUWxUZ2tQNkg1T3Z3TC1JdmhTc3F6QTlFRVZsd05jREFyTFcxSm0yWWdHRHNZLUdsVWU3dEJOOGlFbUFWRVdQR09kTmdvUDJUNjhGNllpS2FpODBXNm9mdjFOaVFOWnh3eENuUlVkY1dTcW5hdVlMX0tkR1ZjZ3c?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Forward Deployed AI Scientist, Internship, Norway - BCG X in Oslo, Norway | Data Science and Analytics at BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPd1hIdUNzZUJTZm5RVi1uR3JyQkNWWGduOGFNRGpmNnhtaGRuSG9VRHM5dElCX1dna3dzVjgzV0YtdDV5Z1FnT1pSVldtRzVvY2dKeGtaMkZTR3ZLZnoyb1VDTFFtUnVHdU9LS2ZwSGY5LUkyaUlqWjVjdXN6NXJoZlpvM1liaVAzclF2cjZ4ZjZMZks2ODViQ3FHbUFZQQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "AI Architect (all genders) - BCG Platinion in Cologne, Germany | Technology and Engineering at BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQTZoVEVlTG9walFLX0tHbmdyMzFFdklyUVppS1hGOUVaSGpSQnVpc2ZxSmg1a1QtU3I5UU9JVHo2c09FMWhwamxNTnRjdUhxclNLd04yTU44NGN0bmM3R3NkTERvdmZjcGhvWGpxTGZZdUgtYlQ5S2VhZWVoUWVLd1ZLbVBaY2s?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Forward Deployed AI Scientist, Internship, Finland - BCG X in Helsinki, Finland | データサイエンスと分析 at BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUFAxUHNrZG5CNHg1a0tseEFJcUZzbjVud0NiZnBEOXgxR2pKeHFleHFiLXc0QWRYdVFaS0U4NEtZWVRUb0xiSGdraUdfM09qYkZjXzczSzN1SV9xQjN6ZVYtLXRUQ2xhV2FtNEV2WGFqLVJZSDF1TlJjV3d1M3FvZTRLanZQYmh5Y1JFaTlXRUdwdWNaSDFpSUF3?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Careers at BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRDhDZFVLWkVzTE93czFlYkR1ZC1YMTI2d2lxN2tDbGprazVHMmJIaUNDM3pRUVB4OTcwcEktajEzTjNnVVVORG5hSHU3cGxsMkV5c2tDNjMwZWZQZk5menFWMW80M0pYTjlxSHhKZnJWN2dISlRkYjI1dU1HSGpzdXY4el9ablE?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Associate, Internship, Chile 2026 in Santiago, Chile | Consulting at BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1wOVpBVEZ0cVJFYmVwU0NzcFpQMXp3THg2MTVqZVZkdzFTT1pDdGEwdkJ6bTRhX0pSUjRVdFF3Ri1NdDQxMGFPdmx5cGhxNzFjbzl0Uy1KV2gzamNCZlUwbWxpRGhTYndZYnFXcHdrNjd0NkE?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Teach First Summer Project in London, United Kingdom | コンサルティング at BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBYc2F6YWtzT2xFbmpTVF9sNG80OUZiZlNTTzFFSjlHckJCZHBFNGNZZU9WVGFMcGlDME55ZkRWUFFHOUprMTNsV1BUNFVkRU5pX3JfdnhLYWdsZkdGVjFpazlFTDNpQ0hQY2d4bFNyRjMwdi1j?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Lead AI Engineer, India - BCG X in Mumbai, Maharashtra, India | Technology and Engineering at BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8wRXdzeE5jeENvNUowOElkOXBzSS1EY0RWU1djQlBfY0UzcHZPVVEzMVNickVoYzczZnp4Zk5HMlZPVXZWckx2QU8wcFpubUswb0JwQUNaNEZ1SE5ZWjZTVlFkS29YOTNadWllTllzdkZhN1RteEVfMzZYNWM?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Forward Deployed AI Engineer, Denmark - BCG X in Copenhagen V, Denmark | Technology and Engineering at BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQekdjaVY2d3hXRW5ENW11aUVmMWk3akdMTFgzWnRnbDN4OXQ3SkxydHlGMU01SHUwdDk4Nmd2REZ5azlSYUpObUlxVTE4RzJtV2RWVm5pVTBybGxfbktMMXZnUXVIY0lhMjVoY20tdFJQVHNBNElTeVBTcVZGYVJYcHFNS3o3bmQ2ZzM5aVNWdw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
     },
     {
       "title": "Harness design for long-running application development - Anthropic",
@@ -919,5 +1129,5 @@
       "source": "news"
     }
   ],
-  "generated_at": "2026-03-25T12:12:53.805Z"
+  "generated_at": "2026-03-25T12:13:37.366Z"
 }
