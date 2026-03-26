@@ -1,5 +1,5 @@
 {
-  "summary": "## QUICK BRIEF\n\nThe consulting majors are aggressively positioning around AI implementation barriers and enterprise readiness. BCG published five separate pieces on AI enterprise challenges, McKinsey focused on workplace integration, while Harvey AI's $11B valuation and Granola's $1.5B raise show where enterprise money is flowing. Meanwhile, technical developments suggest a bifurcation: Chinese models dominating benchmarks, energy-efficient inference breakthroughs at 13 watts, and Yann LeCun declaring current LLMs \"nearly obsolete\" — all pointing to a potential architectural shift that could disrupt current enterprise AI strategies.\n\n## COMMUNITY PULSE\n\n- **Yann LeCun declares today's LLMs nearly obsolete** (124 pts, 140 comments) - Heavy debate between AI researchers and practitioners. Many arguing LeCun is right about architectural limitations but wrong about timeline. Sentiment split between \"he's always been skeptical\" and \"this validates concerns about current enterprise investments.\" Critical for consulting positioning.\n\n- **Intel Neural-Chat-7B tops LLM leaderboard** (37 pts, 64 comments) - Community surprised by Intel's model performance. Discussion centers on whether this represents genuine innovation or benchmark gaming. Enterprise implications debated around vendor diversification beyond OpenAI/Anthropic duopoly.\n\n- **Chinese AI models storm Hugging Face benchmarks** (6 pts, 0 comments) - Low engagement but signals market shift. Community appears fatigued by benchmark wars, questioning real-world applicability versus leaderboard performance.\n\n- **Switzerland releases government AI model on public data** (5 pts, 3 comments) - Discussion focuses on data sovereignty and whether government-trained models create competitive advantages. Seen as potential template for regulated industries.\n\n- **AI runs at 13 watts without performance loss** (3 pts, 0 comments) - Minimal discussion despite major efficiency implications. Community may be waiting for independent validation before getting excited.\n\nOverall sentiment: Growing skepticism about current AI paradigm's longevity, with increasing focus on practical deployment challenges over capability claims.\n\n## KEY DEVELOPMENTS\n\n- **Harvey AI confirms $11B valuation with Sequoia tripling investment** - Legal AI platform's massive valuation signals enterprise vertical AI is where institutional money sees exits. This validates the thesis that general-purpose AI assistants face commoditization while domain-specific applications with workflow integration command premium multiples. For consulting firms, this suggests clients will pay significantly more for industry-contextualized AI rather than generic LLM implementations. The Sequoia triple-down also indicates confidence in professional services AI replacing traditional billable hour models.\n\n- **Granola raises $125M at $1.5B valuation expanding beyond meeting notes to enterprise AI apps** - The trajectory from point solution (meeting notes) to platform play shows the enterprise AI sales pattern: enter with narrow use case, expand to workflow orchestration. This mirrors what consulting firms should architect for clients — starting with contained AI pilots that have clear platform expansion paths. The $1.5B valuation for what began as a productivity tool demonstrates how quickly enterprise AI companies can scale once they prove ROI and integration capability.\n\n- **BCG publishes \"Five Barriers CEOs Must Overcome for AI Impact\" alongside AI risk management and implementation frameworks** - The consulting giants are shifting from AI evangelism to implementation methodology, acknowledging the gap between pilot and production. This validates that most enterprises remain stuck in proof-of-concept purgatory. BCG's focus on barriers rather than opportunities suggests clients are hitting predictable walls around data infrastructure, change management, and ROI measurement. This creates openings for firms that can bridge the pilot-to-production gap with concrete implementation frameworks.\n\n- **Anthropic gives Claude Code more autonomy while adding safety guardrails** - The tension between agent autonomy and control represents the core enterprise AI dilemma. Anthropic's approach of expanding capabilities while adding leashes shows the path forward: giving AI tools more power to execute multi-step tasks while maintaining human oversight loops. This architectural pattern — progressive automation with safety gates — becomes the template for enterprise agentic AI deployments where compliance and explainability matter.\n\n- **Google launches TurboQuant memory compression and Lyria 3 Pro music generation** - Google's dual release shows the two parallel AI tracks: infrastructure optimization (TurboQuant for efficient inference) and capability expansion (Lyria for creative workflows). The TurboQuant compression algorithm addresses the practical concern of model deployment costs, potentially enabling edge deployment scenarios that were economically unfeasible. For enterprises, this means revisiting assumptions about what can run locally versus cloud-based.\n\n- **Yann LeCun declares current LLMs \"nearly obsolete\" with 124-point HN discussion** - When a Turing Award winner and Meta's Chief AI Scientist calls the dominant AI paradigm obsolete, it warrants strategic attention. LeCun has consistently argued for world models and reasoning systems beyond next-token prediction. If he's right about architectural shifts coming, enterprises betting heavily on current LLM infrastructure face potential stranded investments. This doesn't invalidate near-term LLM deployments but suggests consulting advice should include architectural flexibility and avoid over-commitment to current-generation tooling.\n\n- **Bernie Sanders and AOC propose data center construction ban while Kentucky farmer rejects $26M for data center land** - Political backlash against AI infrastructure is escalating from fringe to mainstream Democratic politicians. The convergence of environmental concerns (energy consumption), economic anxiety (job displacement), and local resistance (land use) creates regulatory risk for AI scaling plans. For enterprises with data-intensive AI strategies, this signals potential capacity constraints and regulatory compliance costs that aren't priced into current AI roadmaps.\n\n## WHAT THIS MEANS FOR TP\n\nThe market is bifurcating between firms selling AI dreams and those solving the pilot-to-production gap. Harvey's $11B and Granola's $1.5B valuations weren't awarded for novel algorithms — they were earned through enterprise workflow integration and measurable ROI. This creates a clear positioning opportunity for TP: become the firm that bridges the deployment chasm with practical implementation frameworks. BCG's simultaneous publication of barrier analyses, risk frameworks, and AI-first operating models shows the majors recognize this gap, but their size makes them slower to execute. TP's advantage is building repeatable deployment methodologies for the specific barriers BCG identified: data infrastructure readiness, change management, ROI measurement, and scaling beyond pilots.\n\nThe technical landscape suggests hedging strategies should be part of every AI roadmap discussion. LeCun's obsolescence comments, Chinese model dominance on benchmarks, and energy-efficient inference at 13 watts all point toward potential architectural disruptions within 12-18 months. Client conversations should explicitly address this: recommend current-generation LLM deployments for immediate ROI while architecting for model portability and avoiding vendor lock-in. The Switzerland government model and sovereignty discussions create an angle for regulated industry clients — positioning data governance and local training capabilities as strategic differentiators rather than compliance burdens.\n\nThe political backlash narrative (Sanders/AOC data center ban proposals, farmer rejecting $26M) provides a critical talking point for enterprise AI strategies: social license to operate matters as much as technical capability. Clients pursuing aggressive AI automation should simultaneously develop workforce transition programs and community benefit frameworks. This isn't just PR — it's risk mitigation against regulatory constraints that could materially impact AI infrastructure availability and operating costs. TP should develop a \"sustainable AI transformation\" methodology that addresses community impact alongside technical implementation, differentiating from pure technology-focused competitors.",
+  "summary": "## QUICK BRIEF\n\nThe AI consulting market is heating up dramatically with Harvey hitting $11B valuation and Granola reaching $1.5B as enterprise AI applications mature beyond basic automation. Major consulting firms are aggressively hiring AI specialists while political backlash against data centers intensifies — Sanders and AOC are proposing construction bans. Meanwhile, the technical landscape is fragmenting: Chinese models are dominating benchmarks, Google is pushing compression algorithms, and Yann LeCun is publicly declaring current LLMs \"nearly obsolete,\" signaling a potential architecture shift that could reshape the entire consulting playbook.\n\n## COMMUNITY PULSE\n\n- **Yann LeCun declares today's LLMs nearly obsolete** (124 pts, 140 comments) - Deep technical debate about whether current transformer architectures have fundamental limitations. Community split between those seeing incremental improvements and those expecting paradigm shifts. Critical for consultants to understand clients may be hesitant on major LLM investments.\n\n- **Intel Neural-Chat-7B tops leaderboard** (37 pts, 64 comments) - Community surprised by Intel's competitive performance with smaller model. Discussion centers on cost-efficiency vs. capability tradeoffs. Validates the \"good enough\" thesis for many enterprise use cases.\n\n- **Chinese AI models storm Hugging Face benchmarks** (6 pts, 0 comments) - Low engagement despite significant development. Suggests community fatigue with benchmark wars or skepticism about real-world applicability of Chinese models in Western enterprise contexts.\n\n- **Switzerland releases public data-trained model** (5 pts, 3 comments) - Interest in sovereign AI approaches. Community discussing data provenance and privacy implications. Reflects growing enterprise concern about training data rights.\n\n- **AI runs at 13 watts without performance loss** (3 pts, 0 comments) - Efficiency breakthrough getting minimal attention. Gap between technical possibility and community awareness suggests consulting education opportunity on deployment economics.\n\n**Overall sentiment**: Technical skepticism is rising. The community is moving past hype toward pragmatic evaluation of what actually works in production environments.\n\n## KEY DEVELOPMENTS\n\n- **Harvey raises at $11B valuation with Sequoia tripling down** - Legal AI platform secures massive valuation, demonstrating vertical-specific AI applications can command premium multiples. This validates the thesis that domain expertise + AI beats general-purpose tools. For enterprise consulting, it shows clients will pay significantly more for specialized solutions that understand industry workflows rather than generic chatbots. The Sequoia commitment level suggests institutional investors see vertical AI as the real money-maker.\n\n- **Granola hits $1.5B valuation expanding beyond meeting notes to enterprise AI apps** - Another specialized player reaching unicorn status by starting narrow (meeting notes) then expanding into broader enterprise AI tooling. The $125M raise at this valuation shows investors believe in the \"land and expand\" strategy. For consulting firms, this demonstrates the value of starting with one painful workflow problem and building trust before offering comprehensive AI transformation. The enterprise AI app layer is where consulting integration work will live.\n\n- **Yann LeCun publicly calls current LLMs \"nearly obsolete\"** - One of AI's founding fathers declaring transformers may hit fundamental limits creates strategic uncertainty for enterprises mid-deployment. This isn't casual commentary — LeCun is Meta's Chief AI Scientist. If next-gen architectures emerge (likely multimodal, reasoning-focused systems), clients who went all-in on LLM infrastructure may face costly pivots. Consulting implication: build flexible architectures and avoid vendor lock-in. Also creates urgency for advisors to understand what comes after transformers.\n\n- **Google launches TurboQuant compression and Lyria 3 Pro music generation** - Google pushing hard on both efficiency (compression algorithms that reduce memory requirements) and capability (multimodal generation). The \"Pied Piper\" comparisons show the compression tech resonates with technical audiences. For enterprises, compression means running more sophisticated models on existing hardware. This commoditizes inference infrastructure, shifting value to application design and integration — exactly where consulting adds value.\n\n- **Bernie Sanders and AOC propose data center construction ban** - Political backlash against AI infrastructure is materializing into actual legislation. Combined with the Kentucky farmer rejecting $26M for data center conversion, this signals growing resistance to AI's physical footprint. For consulting practices, this creates regulatory risk for clients' AI roadmaps and opportunity in helping enterprises navigate energy efficiency requirements and distributed deployment strategies. Expect \"sustainable AI\" to become a board-level concern.\n\n- **Mistral releases open-source speech generation model** - European AI champion continues open-source strategy while US companies (OpenAI shuttering Sora) pull back. This creates a philosophical split: proprietary vs. open models. For enterprise consulting, Mistral's approach offers deployment flexibility and data sovereignty — increasingly important for regulated industries and international clients. The speech generation capability also signals the multimodal future LeCun hints at.\n\n- **Reddit implements human verification for bot behavior** - Major platform acknowledging AI agents are flooding their ecosystem. This \"immune response\" from digital platforms will spread. For consulting clients building AI agents, this means designing for platform compliance and human-like behavior patterns becomes critical. Also signals opportunity in \"AI citizenship\" consulting — helping companies ensure their agents play nicely in shared digital spaces.\n\n## WHAT THIS MEANS FOR TP\n\n**Immediate service opportunities**: The Harvey and Granola valuations validate vertical-specific AI consulting over generic transformation work. TP should double down on industry-specialized offerings rather than horizontal \"AI strategy.\" Both companies succeeded by solving one painful workflow deeply before expanding — this is the consulting playbook to sell. There's also clear demand for \"what comes after LLMs\" advisory given LeCun's comments; clients mid-deployment need reassurance or pivot planning. The political backlash creates immediate opportunity in sustainable AI consulting and helping clients navigate regulatory uncertainty around infrastructure.\n\n**Architecture and positioning shifts**: LeCun's obsolescence claim is a yellow flag for any consulting advice that locks clients into current LLM architectures. TP should emphasize modular, swappable components and avoid proprietary vendor lock-in in all client work. The compression breakthroughs (TurboQuant, 13-watt inference) mean the value is shifting from infrastructure to application design — lean into integration and workflow expertise over infrastructure consulting. The open-source vs. proprietary split (Mistral releases, OpenAI shutdowns) suggests positioning around deployment flexibility and data sovereignty, especially for risk-averse enterprises.\n\n**Client talking points**: For hesitant clients, the technical uncertainty (LeCun, architecture debates) validates a \"fast follower\" strategy over bleeding-edge adoption. For ambitious clients, the mega-rounds (Harvey, Granola, Kleiner's $3.5B AI fund) show this market is accelerating, not plateauing. The political backlash is real but manageable with proper sustainability planning. Most importantly, the benchmark wars (Chinese models, Intel) matter less than domain-specific problem-solving — clients should stop optimizing for leaderboard scores and focus on business outcomes. The Reddit bot verification requirement is a preview of broader platform resistance; any client deploying AI agents needs compliance planning now.",
   "sources": [
     {
       "title": "Switzerland releases its own AI model trained on public data",
@@ -574,6 +574,167 @@
       "score": 0,
       "comments": 0,
       "source": "bcg"
+    },
+    {
+      "title": "Asia-Pacific Private Equity Report 2026 - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1MNTVSQ2lYQ2hxTEJnZkw2NmlmS0VwWHoyWndESjZfc3Z3SXhySXFhWVE5SHFYaUhQVVlWQkNvM1JNN243T1d4TUlFeTM4b3RwRXpyY1hNSDJoRUI4WnZVYWFTNjV6RUVqX3VaUXA2NE1KWjhsalJRS3VB?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Nvidia GTC 2026: AI Becomes the Operating Layer - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOOXZRYWhaV0UwR1NDUTJfbGZaQ295dUNzVGp1Z09JeTk0R0JyQXp0aTNWeGtheGpYRDluQ0ktYzd4ZTcwbEFpdVQxYzJQQkFuQXNKVENhVXo3RkRKalZmT0c3UmxuVzRfRG5iNDNDMF84YU9rVVZzTjY3M0RqWmtBVFo0OA?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Senior Designer - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWUl3VHg1LThINm8zTTVoTzhLdFVOOHJvQlJIT3hrOTgtOEl3Z19OTVNXcmp5a1lFc3pHU1Q4NG9RVTlMdzJacGRWZ3JIbGhVckZ1M3JjTzh5cndvU0ZZdzNQdWVmVTN0MGlnR01KNlVPZmdaeGlXTThDZ0IxV1NzNndGcmswdXNL?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Business Insight Analyst - TMT - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcEFjekotdEJELW4xeHcyZEFHRTFYdjdSQ3JHc1Qxc0VBazZwT1N1YTl0czVsU0IyYVNiRjdUQ2JPMmFYRWdGMEhaVmFPdUtNTERid2g2Z1l4RWNnVXVFeWdYTDN2TENIWVRkMmF2QTQxZEx5eHRvOWFBRy1XWE51b1FybGxyME0?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Exit rebound and positive net distributions signal optimism in Asia-Pacific private equity market in 2026 - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPSWVEYXRKZ1pVc3BYRy1BUVpxUlVUVFU5Mmp0SUZ3ZDdOQldVaUFsNVVjeFVhSFJPaHh3VkN0WnlobjFINTBZTWphenB1RUlFNWFOMjQ3aHU1YjViNHp4dEc3a2UzeDFsTjBlOFotWTJFd0VhRXRNYTVoTWd6TDR4YjBoTzhSdk1ZckxuZTdPRmlzOGNHWV9uUy1LZEVobWp4ZzRVU1JsdDVkaFE1blNzS3FsZWlTb2EzeXhMa0FQSWFxRnJRd01Bbk5Tc283dWp1cHpZUjg1TkhYQnB6Y1lmaGR5VElnRUROdUd5NWZhUHh4U0hMdmpkZ19R?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Intern (Staffing Reporting) - Finance - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9kdmJvbVBBdTNTVEdCeVkyTDB4c0R2N3dOYmg3bXVPOGVQako3aTdqekk1UDFJMmFiQVVDbHF4UDdUNVRuR3g2YVBYYlJUVWRlRk5kVnliNjdQWG0xWUZIMTVydTR2UjdKSHBrVUZDck4?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Morten Asplin Gauslaa - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE42ckx5ejg2VXRBMWFUUEphd0NCbVhsWWExQVlHY3AxU1lnMzh4dkd0Y0dJc0luVzhFUzY5U2hqVmc2RDBhLVJ2NU9PcjJ4N3Eyd0NsX2owMThfVGJIQWNybkh3?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "The AI Ripple Effect: Managing Strained Semiconductor Supply - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNd0ZwWDduQ0YzVVpBbFdZYVJqTllVaVR1U3gyNHlRaWJyVlY0VnZ1QlJrdkI0T3Z6bjhMTmNhb3haV2ZpVVlPYkEzaGRRN2ZOVkZLVWEzRXdpSWsxa05DMGl1QndXRUtGTk9ibzJ6dEdTekRBemwwclFTREVZY0UtTTh1bDNJNGhxX2ZnWVB5TXRjS3V2UGhPTTdqa3YyNDQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Senior Operations Specialist - Temporary - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOR0xpb0RxdmFnVndhWk1zSlRoVEh5M0xlYVNnblh3LWhyaUw4endjRmtzZVhGZ0lpLTI2bmhkdDhaMnFHa0ZVU0tMeFhLSDBLY1cyM0xZSG1GWDFJZG41TkhTeDZ0NFBtVjVJUFFIczFlbW9TQ01qbkNIS0dvZlhqNy1pZXlkS0pu?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Six Provocations to Future-Proof Your Bank - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1wTnM1X2JmTm9aTGVuenRpV2ZRRkhBVjVsRkhWXzBuZnZQR3puaW9tZW9mOGJuQU1BYjNqQU9GNmxaYWE0WG84R2NXM2I2RHEyT1hlWURzTWxzVXlLcE5mWW5USkJpVUpMRXM3Sk45UFg0RHBSc19UQVNDX2VIdw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Engineer, TSG Information Security, Cyber Operations - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0taDJlb29LSmRJeXZxN0FxbnlwSnpBcmdnUmdhSzNHdkR5QUFRaW5wM1NIZGVaVF96Smg0V0VOTXJ0X196d055bS01RjVQQWg1cW9CcFVZNUtCS280M25pMTBzMVhlWDJiTDRaelVJVjI?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Swasth Bharat se Viksit Bharat - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1iNTNNdk13X2N5aDVneE93cmxwRFFRRHF1WFJ3bDBYRHNuemZpeVVmUVNtOHRSUjFhYUV6SmdCZWtCYXlCNFVXaVRKeTBKb2xqQ1BqbFViNmdmbGhMSEJZOUdwMUMySWw5b2REQktR?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Infrastructure’s Next Frontiers with Stonepeak’s Michael Dorrell - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVTBrSVBBTWpTV0hkNjF4Tjh6NEx0dUUtWmVwWmM4RmRTdi0xS09GOWQ1S1JSTXUxdWxGNk1DYkpqb2ZNeUFtaVhxa3hlTGloVTU3NnVoTTFoM2NoUHV3ZFc4SlNxMWxlNUdVc2dtekxkVGtxYXVUekJWVW5KNjBPd2JFVHhneHhLblpxYmp1VjN2UkIyVndJNTI5NXhmSmtVanEw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Financial Firm Builds Credible Net-Zero Path for Small and Medium-sized Clients - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUXktaDVnV0VZYnRNUXJCUUJ5QUh1S09sYjNnSmp3cVNOMVVjeHQ3Zjg0Z0VuR3VIQzkxWGFRU2MwRm42WTAzM0Y3NEQwWGt4V1VmYkVRaEQ3a0xhQnZZUy1MaU02QklrNXB6OU4zMzVhcjBIN05RQUVmSkpjUFRBenpTbFlCVkVsSldxVno4M2FPTVdTYl83ckdaMjBmLWtQLTBTSHJiSnN2T01tcnRoSTVMVEJ6UlE?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Project Leader- Data Science - Commercial Excellence, CORO CoE - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5WN1RtMVotQzZGeF9xdHl5enpoQjIwR2pyNldFdWNpbzY4dkRYX3dTUm1kTlllX2xNdG5RQ1dMSXpaaS1VWTdNWllVMkZIS0lKdzBBQzN1d0Znd1V3NzE5Y1BqTG1naXBUNTRUOGtoUS0?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Francesca Celano - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43NkFfOGxzN1RLZEpzVm5HSUJtb2E2QnZ5ME9jc1BQak5XdS05X0RaVl9FY3M1MUpKQ1Y2bFVONlZodFVGY3phVUhOVW1QZURKbUFNY09Ma05pZDg?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "2026 Bain SG Campus Engagement Evening (In-Person) - Register by 3 April 2026 - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONTl5ZGFsVnA0Wk5OTEN1c0NzTE9VYjRZUVpuZDlyWktQbFFiUWNTelBCU1l3VXZ2di03eHlZS29Ea2hSUENSUVVfSzhmNFNkVEk3NTRMSDVJYlpiWXBaTTRWaGRPS1hKMjBLR05uMkJCYUkxSHBCS0RHSnBocmRXRk9zSVhSaHk4TVE4UzQtRjZOQkZ4QzZxU254NE9yMnM?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Tamsin Bury - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5CUnhNbXc5Z3ZHNU1hdkZKcVN0VkJTQkNSRnBCX01IS05seUEwYVRPU2FDdFBoZ1RWR01yLXFPVVFPNEtHVzdMclZZREJ3NUlYNC1fTA?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "2026 University of Florida Spring Coffee Chats: In-Person - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUTlSQVFFTjRyeHRrRlo1N1hzbTNsSjAzMnVqaHF5NEljajJleG1NQTVmUEJYaERZOTNySXpRVks1U20wajFLbVNmV3N5anJhRHlhLXVSVGlPWGN2OVVhRnJKS3VfNzI0ZlA3ekIwZFRIS1R6WDBqbTFEN0tLWHMtVGQ0R2NiRHg1N3RaY1VSM3hVV2xDcmdTcndyc0hWQ1k?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Rohit Kumar - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9SWG5GUlZ4aDhDbDRiWnJhbTRKMWlBeV9PU2JVQlBhSFlSeVpOUjR5eTZ6d3FWdlcycFF1Z1BodlUwWU9YdVJ3WnVUNnNtWXNCajlpbg?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Saul Sandoval Navarrete - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9kMWJrU3lLdDJ4Rk16MzRxRkRJdEpCdnB1bUNwQ290V1llUlVHQnhqTDV5S2xCWkNfMFZJa2QzeE0xcXBPcDQ5WThjTUxNS3cyN3M2dUF1Y1dMSWFmNnVFNl93YlZPNFgwNVJYV2RvNA?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "2026 Bain Breaks it Down: First Look at Bain - Virtual - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRGJ2cFBjR0xJYlNqSE5qd19DS2ZpdWI2QXZlMFN4VmdKaE5HNWFDTTRNZlVLdHhnQ2QzOURzSjFMQUZzRFBUbnU2UzNHaFgwS1ZSSEZVUUNKejcxR3dwM2RjZEtESFhhaXhmekZtbHI4M09GVmowNHJuT09HQVlsZk85S3BNeWlVeHduRkEyaVJQMXc1LTg1TVJzajFxSlU?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "2026 Bain Breaks it Down: NA Undergrad - Ask the ACs - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWC1wcTlqUmJoVHZiRFNJNXliMzJqUUthV3NwdHRxbmt1WUhlRURxU0pLaWJOVEFHRG96QXlDTkxWV3pDRjhIT2gzbktxMmNsUFB6aVhKaFdURG1qT01VR2wtVkpMWmNzN05XYi05RU9ZbUpOZG4zeW5ZNi1MdENPRUNRZTl4b0h2SXU3LW0zQmNQN3VOVWZ5YTBSYWx1Y0E?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
     },
     {
       "title": "Claude Code auto mode: a safer way to skip permissions - Anthropic",
@@ -1395,5 +1556,5 @@
       "source": "news"
     }
   ],
-  "generated_at": "2026-03-26T12:16:14.185Z"
+  "generated_at": "2026-03-26T12:17:01.460Z"
 }
