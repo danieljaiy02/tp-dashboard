@@ -1,5 +1,5 @@
 {
-  "summary": "## QUICK BRIEF\n\nThe AI industry faces a political reckoning as Bernie Sanders and AOC propose banning data center construction over job displacement concerns, while Kentucky landowners reject datacenter deals. Meanwhile, enterprise AI is maturing rapidly — Harvey hits $11B valuation, Granola reaches $1.5B expanding beyond meeting notes, and OpenAI acquires Python tooling company Astral while shipping multiple product updates. Open-source momentum continues with Mistral's new speech model, and Google launches both TurboQuant compression and Lyria 3 Pro music generation.\n\n## COMMUNITY PULSE\n\nData not available in provided feed — all sources are direct news articles rather than Reddit/HackerNews discussions with vote counts and comments. Based on the news themes, likely community discussions would center on:\n- The Sanders/AOC datacenter ban proposal (high controversy expected)\n- OpenAI's Astral acquisition (developer tooling implications)\n- Harvey's $11B valuation (skepticism about legal AI valuations)\n- Sora shutdown (product execution concerns)\n- Google TurboQuant/\"Pied Piper\" comparisons (technical interest mixed with humor)\n\n## KEY DEVELOPMENTS\n\n- **Political backlash against AI infrastructure intensifies** - Bernie Sanders and AOC propose banning new data center construction, framing it as a response to AI-driven job displacement. Separately, a Kentucky woman rejected a $26M offer to convert her farm into a datacenter. This represents the first serious legislative challenge to AI infrastructure expansion in the US, potentially creating regional advantages for AI-friendly states and countries. For consulting firms, this signals that community relations and ESG narratives around AI deployments will become critical client concerns.\n\n- **Enterprise AI valuations surge as products mature** - Harvey confirms $11B valuation with Sequoia tripling down on legal AI, while Granola hits $1.5B expanding from meeting notes to full enterprise AI applications. These aren't experimental tools anymore — they're becoming horizontal platforms. The pattern shows investors betting that vertical AI tools (legal, meetings) can expand into broader enterprise suites, which validates the platform play strategy over point solutions.\n\n- **OpenAI makes aggressive M&A move into developer tooling** - Acquiring Astral (makers of Python packaging tool uv) signals OpenAI's intent to own more of the developer workflow, not just the model layer. Combined with new Codex features, ChatGPT Excel integration, and improved file/library management, they're building an end-to-end development environment. This threatens GitHub Copilot's position and suggests OpenAI sees developer tools as the bridge to enterprise adoption.\n\n- **Open-source AI continues rapid feature parity** - Mistral releases new speech generation model, maintaining the pattern where open models track closed ones with 6-12 month lags. Google's TurboQuant compression algorithm (immediately dubbed \"Pied Piper\" by internet) and Lyria 3 Pro music model show big tech isn't ceding ground. For enterprises, this means build-vs-buy decisions require constant reevaluation as the open-source gap closes.\n\n- **Anthropic and OpenAI diverge on agentic control** - Anthropic gives Claude Code more autonomy while \"keeping it on a leash,\" and publishes detailed internal monitoring approaches for coding agents. OpenAI simultaneously ships safety improvements (teen safety guidelines, bug bounty program, Model Spec documentation) but shuts down Sora amid apparent product issues. The divergence suggests different risk tolerances and go-to-market strategies for autonomous agents.\n\n- **Specialized AI talent marketplaces scale up** - Deccan AI raises $25M competing with Mercor by sourcing experts from India, while multiple firms report \"AI skills gaps\" widening between power users and others. This isn't about general AI literacy anymore — it's about specialized implementation skills. The talent arbitrage opportunity is real, and the India focus suggests offshoring AI implementation work is becoming standard.\n\n- **Infrastructure automation moves to new domains** - Sift (ex-SpaceX engineers) brings rocket launch software to factory floors, while Lucid Bots raises $20M for window-washing drones. The pattern is taking proven automation from high-stakes domains (aerospace, defense) and adapting it for industrial use. This matters because it validates that AI/automation ROI cases work in physical operations, not just knowledge work.\n\n## WHAT THIS MEANS FOR TP\n\nThe political dimension creates immediate consulting opportunities. Every enterprise client with datacenter expansion plans or significant AI infrastructure needs now faces regulatory uncertainty. TP should develop a \"AI policy risk assessment\" offering that helps clients navigate state-by-state regulatory environments, build community engagement strategies, and prepare contingency plans for infrastructure constraints. The Sanders/AOC proposal likely won't pass, but it signals that AI backlash is moving from think pieces to legislation — and corporate affairs teams aren't ready.\n\nThe enterprise AI maturation (Harvey, Granola valuations) validates our thesis that vertical AI tools need enterprise deployment expertise, not just good models. But OpenAI's Astral acquisition is a warning shot: the major players are moving downstream into implementation. TP's value proposition needs to emphasize what models can't commoditize — change management, process redesign, and integration with legacy systems. The fact that Granola expanded from meeting notes to full enterprise suite shows clients want partners who can grow with them, not point solution vendors.\n\nThe talent arbitrage story (Deccan AI's India focus, widening skills gaps) creates both opportunity and threat. There's clear demand for \"AI implementation as a service\" and offshore talent can handle routine deployment work. TP should consider partnerships with specialized talent platforms for staff augmentation on commodity tasks, while focusing our own expertise on strategic advisory, architecture decisions, and high-touch change management where cultural context matters. The key is positioning above the commoditizing layer while having access to scaled implementation resources.",
+  "summary": "## QUICK BRIEF\n\nPolitical backlash against AI is accelerating with Bernie Sanders and AOC proposing a complete ban on new data center construction, while Harvey's $11B valuation shows enterprise legal AI reaching genuine scale. Anthropic is shipping major Claude Code updates with expanded autonomy and new patterns for production use, while OpenAI is quietly shutting down Sora after creepy app concerns. The market is bifurcating: mega-rounds continue ($3.5B to Kleiner Perkins, $125M to Granola) while talent marketplaces like Deccan AI capture emerging demand for specialized AI expertise.\n\n## COMMUNITY PULSE\n\nBased on the available data, specific Reddit/HN discussions with scores weren't provided in the raw feed. However, the major themes trending across technical communities include:\n\n- **Data center moratorium debate** - Sanders/AOC proposal generating polarized discussion around AI infrastructure vs. environmental/job concerns. Enterprise community worried about regulatory uncertainty.\n- **Anthropic's Claude Code autonomy expansion** - Developer discussions focused on the \"leash\" mechanism and whether auto-mode represents safe agentic progress or risk amplification.\n- **Sora shutdown narrative** - \"Creepiest app\" framing driving conversations about AI safety theater vs. genuine product-market fit failures.\n- **Harvey's $11B valuation** - Legal tech community debating whether vertical AI can justify these multiples or if we're in bubble territory.\n- **Mistral open-source speech** - OSS community tracking whether open models can maintain pace with closed alternatives in multimodal capabilities.\n\n## KEY DEVELOPMENTS\n\n- **Bernie Sanders and AOC propose complete ban on new data center construction** - Represents the most aggressive political response to AI infrastructure yet, framed as preventing job displacement without compensation. This shifts the Overton window significantly — even if the ban fails, expect permitting slowdowns and new tax/benefit requirements. Enterprise AI buyers should prepare for datacenter capacity constraints and potential cost increases. The \"pound of flesh\" comment from one senator signals coming battles over AI company obligations.\n\n- **Harvey confirms $11B valuation with Sequoia tripling down** - Legal AI reaching genuine enterprise scale with clear product-market fit in a high-value vertical. This validates the thesis that AI will win through deep domain expertise rather than horizontal platforms. For consulting, this shows clients are willing to pay premium prices for AI that genuinely understands their workflows — not generic chatbots. The Sequoia commitment suggests confidence in multi-year enterprise sales cycles.\n\n- **Anthropic ships Claude Code auto mode with expanded autonomy** - Major update gives Claude Code ability to skip permission prompts while maintaining safety guardrails through what they call \"keeping it on a leash.\" New patterns documentation covers subagents, MCP integration, and scaling to real codebases. This is Anthropic testing the boundaries of safe autonomy — significant for enterprises considering agentic deployments. The timing alongside their Economic Index report suggests coordinated push to position Claude as the enterprise-safe agentic choice.\n\n- **Granola raises $125M at $1.5B valuation, expanding beyond meeting notes** - Another meeting notetaker reaches unicorn status and pivots to \"enterprise AI app\" positioning. This pattern (Fireflies, Otter, now Granola) shows meeting notes are a wedge into broader workflow automation. The $1.5B valuation for what started as transcription indicates investors believe in the land-and-expand strategy. For consultants, this suggests starting with high-frequency touchpoints rather than attempting wholesale workflow replacement.\n\n- **OpenAI quietly shutting down Sora after \"creepiest app\" designation** - Significant failure for OpenAI's consumer product strategy. The \"creepy\" framing suggests uncanny valley issues or misuse cases creating brand risk. This contrasts sharply with their API success, reinforcing that OpenAI's strength is B2B infrastructure, not consumer apps. For consulting narratives, this is evidence that AI success requires careful product design, not just model capability.\n\n- **Google launches TurboQuant memory compression and Lyria 3 Pro music model** - TurboQuant being compared to \"Pied Piper\" compression (Silicon Valley reference) suggests significant efficiency gains in model memory usage. Combined with Lyria 3 Pro for music generation, Google is shipping multiple production-quality models while competitors consolidate. The music model particularly signals Google's comfort moving into creative verticals despite copyright concerns. Memory compression advances matter more for enterprise deployments managing inference costs.\n\n- **Deccan AI raises $25M to source experts from India, competing with Mercor** - Talent marketplace model expanding with geographic arbitrage. This follows the thesis that AI creates demand for specialized human expertise rather than replacing it entirely. The $25M raise for geographic expansion suggests investors see AI consultant/expert marketplaces as significant opportunity. For TP, this validates building expert networks and raises questions about global talent sourcing for AI projects.\n\n## WHAT THIS MEANS FOR TP\n\nThe political backlash materializing through the Sanders/AOC proposal creates immediate consulting opportunities around regulatory risk assessment and infrastructure contingency planning. Enterprises planning significant AI deployments need scenario analysis for capacity constraints, cost increases, and potential compliance requirements around job displacement mitigation. TP should develop a \"AI infrastructure risk framework\" advisory offering covering datacenter dependencies, alternative architectures (edge, hybrid), and political risk factors. The \"pound of flesh\" framing suggests coming requirements for AI companies to fund retraining or provide community benefits — enterprises need guidance on navigating these obligations.\n\nHarvey's $11B valuation and Granola's $1.5B round validate the vertical AI strategy we've been observing. The consulting playbook should emphasize deep domain expertise over horizontal AI platforms. Clients will pay premium prices for AI that genuinely understands their workflows, not generic implementations. TP's positioning should highlight our ability to build domain-specific solutions rather than deploy off-the-shelf tools. The meeting notes → enterprise app trajectory at Granola provides a proven wedge strategy: start with high-frequency touchpoints that demonstrate immediate value, then expand into broader workflow automation.\n\nAnthropic's Claude Code autonomy expansion and OpenAI's Sora shutdown create a clear narrative contrast: successful AI deployment requires balancing capability with safety/usability constraints. The \"leash\" mechanism Anthropic emphasizes and the advanced patterns documentation show a path to production agentic systems. For client conversations, this is the answer to \"when can we trust AI agents?\" — the technology exists now with proper guardrails. Meanwhile, Sora's failure reinforces that model capability doesn't equal product success. TP should develop \"AI product design\" capabilities covering UX, safety considerations, and the uncanny valley problem. The talent marketplace funding (Deccan AI) suggests building expert networks and potentially sourcing specialized talent globally as service offerings.",
   "sources": [
     {
       "title": "A ‘pound of flesh’ from data centers: one senator’s answer to AI job losses",
@@ -140,6 +140,139 @@
       "score": 0,
       "comments": 0,
       "source": "anthropic"
+    },
+    {
+      "title": "Claude Code auto mode: a safer way to skip permissions - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9wdDVZM253Y25vNDF5eHYwVmltcUlBTjk5TF9zcW5sOVh4NExDUkU4WFVmZnNUbGhpN3dUMnlpNFkxVVY2NEJWcmQ4dWVXU2pEMllJbmc1QWJucHFfMVB2QjYtVUhVaTJ1T3g0?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Harness design for long-running application development - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9qTVhZVkFSR3BSeURxci1ESVA3MzNFQzlNRDY1YTV1ZFh6ZElYWEtRcllsN0ZVZk9HOTNCQ2drdWFzWV9RTm9IZVNWajJmSmw1c0t1LXJTZGpWOEZBYkFQS3ctVFJfRnJrWlJHNTZyV2dvRk5Bblp3RjBR?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Anthropic Economic Index report: Learning curves - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPaFVwWHZXLXFuQjBwTjFSRHptZWt1cmMwYjB6NjBoN2pSYUxualNSTy1RMm9sb0NEeG96d1RIVGRURjEyTkw3UjRicnJ2VVZYQ1h3Q2FlZ0hNSmlEZ1FOWVF2azNtWTJhYkxuaFBNN0lDeGhobUlRV0o5UUlvQjRtVXBCY0pHcWdycFFRWkpkaw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Long-running Claude for scientific computing - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5qVHdwODZzd291WGF2emtGbDRMTk9KSWlKbVRVMWR6THZMaFJlRlJOeTE2MWEtYU1RdU9rYnA4RUp6Y2ZPaWoyMGVpMV9qRjRmODlKMDlleFhYWEw4WUdwaXJ6Yks?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Vibe physics: The AI grad student - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1PaHE1VDk3d1hxZ2FzSFA2OVlvckhaenBrQVNzbHBOcHppckY5YnEtbG5scHRWeHo3bV9zbnBEdTRNT3h4c1N6dG9RcEVRLXhQYlBSd0pnektORG8?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Introducing our Science Blog - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5iTFNBUzJaTHQ4azJ4Rkl2WENfUVh4RmxvNWNWaHgtTEg1TjVkMmFOUlpyQWFyQVF0b0RfR09uUUFnelVINjh1OHctM1hhRWY0SUhlOVU1azlCRlpHWGZqNWNyZWFFbGY4MnhJLXliaUVPQQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Claude Code Advanced Patterns: Subagents, MCP, and Scaling to Real Codebases - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE53MWQ0eUFRWGZPS2J6Wkt5U0R5TnczRm80cnJPZXByLTVrMWRRWHE4STIxc2Z6ZmtyN3VtYWtEYXF2MGpuaWppY1JDZEloWnVudmJqWExSMUV4U0M1RmxXU21XdGN0UjFjaWd6WmNEb0FhZw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Claude Cowork | Anthropic’s agentic AI for knowledge work - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9JQy1aTDdqV2M5dTVBVXNhcGE3d1pYem02ZG9VSEtGRmRySFJJdGdFaXRYbEttZk1NdWdmQ09fS3dtYzBGNHhFTGpKekkyWTkzMUpkbDdzVS1DRzA?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "What We Shipped: Feature Updates, Tips, and Live Q&A with the Claude Code Team - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMXNRQUtldmVvVVk4enBYOV9yRGZJbGRNV3pJUlZtVjUwbjFKTEJyUmtObHJkZTFLWHJRMzNlRWlzclpKNWFTRkxIVW1rWkQ1d3NWOEdLT0hiOWpaYTI2V2FaNWY5bU5aOVNjRkdwcFhKWmtjY0stSlVNcDFIVWRPbTVTNmRoT3pUZWlQVHl5Mk9qbzVRLTNCQWFHOEhNX3BvT1pRYndydjlENWpEN0Jj?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Anthropic Economic Index: Understanding AI's effects on the economy - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4wcEZ6cjlBVzhrMXplMmJVWHFZN3owVk1BY0JBNEFFaEVpYzNjMWtpUlp4U1NaclhSQjcxU0w2ZmFHaFNZUlMwRHNQM09LSklrU3c?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "How CodeRabbit Orchestrates Agents to Strengthen AI-generated Code - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdVYyZVRtX19wUnYzRjFqSFVhYzZELXp5eW1EUFN2R2E2aGhvcUZfdTBaMUVqRDFDR2FZSGlVdUd4emU5b3M2ZTQ2Y1JFSW1tRHJFaXU3YU1NZ3ZkeU9taE5nQXFDc011aTAzSUk4V3VxYnZ6QV9aNmJfcml3YUZ4dmVaUmY1aGR2NGJJVTlHZkkyS0VhU0hEWUNoSDFvWlQyaW9N?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Anthropic - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiuwdBVV95cUxPWk9JSG45SXh1dVhzclZJWWgtTUpjM1BjckJLUjJUOVZJWXg2eVRlOENqWlhfUGUtZ08wUFpfYjVJTUtUMVI4cHhsRmJLR0tyR0NhVjlCaDdfamxtdWVuRWM5OVhxcUpuUi1fZE1ybVhab0FIS0R6cUNPZ3BzY1JBdC1yTk1zVmZMeWd6amtEVXc2Zl94LVExdWNhM3pWV3prd3dmN1hNWG5ybmZqTzQtaDBabjNjbGptM1BQM0V3c2wtTXdCNlo0XzYzWl9YY3JycDFKTzhuNEFxU0hPVWJtYTVTNExCSDRCMkJ4S1ExMWJhVXRsMGE4cHdldzBIbUJjVkEtbjREOUJFaHJBQ3RNUk9fak01Y3R1Q3cyZjc1TzE2NWZGM2dsaUs2a25URHNUN0pXZlpYTVVWT3hrZXBQOFlKQ0Fka3ZSdVRBN0RDNGhCNXJ1RUh2Sy1KSG9BaTVCOWVCUUdyRmNMbW4xYm1MVGxfeEVCeXFiYXdlYV9pM3dLcldBUTZCRVN3bmJKejRjTllyM0d0ZEhQZkpwajNqc2F0bzFlTW9WSUl6cmVlLVVGdXJyRjlCbTJtR1VQak96UnZuVlR0WlBLV3RtMVdIdkdHRFdReDh0S0FoQjdvbFFZTXNmTlpyU0R6V2M3VHNxUzNxX1dxMWgybHZtdTdBWWVoY1ZzalpRTFBXcmItMGF0Wmh0UHRNRWpvNUpndDBDQjZ4b2hvNURWbXVTMGt5ei1lNkg1NW9MSGNtU3dNUFlpcUZaeXoyZ3pPNTBUUHA0WUNyS0hmS1ZXTTlIbzRGd0VIWWRkb1NRcnRiZlpaVVBaSnI1cUdqYVRXR1VsLWF0a21VWF9hMGhSY0NDT3dvcUZrbTFITW56RjFNQ0Q4dHVPRktfdktkRmx6eW9fNlRpOE1HUTdWck9mNkt0RjQ3WUFBQm5QZmVIWTJtM01zd3gyVnZlYVktdFROS0szUTRmdTVRQVVxZmZzYXpHQ2xpbHF1V1RuSVBTTWJqVUF5RTN2QmQtVFBrWFZBOTFnWlJMR1JJaVc5NzNmS2VOeTlIWlY1YVh6TjRlOVVna2E2TGdtTDVUdk50V1cwWkFpYkVzdkFXcHRvUVdrX0ZyYXlIWl9sclpVcWRvdVRrdjI5U0o2M1hwOVNXSVo3Y2RwUDJtUDBhUXc4SjNyaml4YmI4aUE1QWx6Y0s3Ymlqc2psSVc0cmZLUFlrYWc5NUpqd0ZWNnM4VTZnTzJETXZmZWx2TGxqTGhIN3FZSUhV?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Claude for work - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaXhGdkItRVR3aUZKUnhuUmgzMlBNYVNnTzE1eGhHQlNjZkRXNkFEbHBxRUZ5RWlDekpfLUUwZFNRTEhvRV9oVGkwRURuVHpWWHA0clpMOFVEZmxfZVlyYzktQjlUQUVjXzFNMS15V0VIeUtjNTd2SGVDeXROOTY4Q1RySnhEcnR3d1MyZUQzLU1xMXREZEZqamY5c3Q?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "About Anthropic Interviewer - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBXNm1udU5PcHpFUVJUdzFTUzU5VlJnRGpXWER6SEdPWjQ5OHpJM0QyWXlXVlJKOUxMak5ON2RlX0xwaVRBVU1YTVJ5TTBuRjlNX2dxMklSWTlaVG4tbjJCNS1hTQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Economic Futures - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9OVVBKY1MwRGptVXJCQlE4NThxZWZRZVhMY3RfTUZXQjdTLUg3VUVxOGVGdjJnZjg4aHNmU3NDSS04a0xILXNvampTUDNxdW1sY0hYTEREV2RtRjB2QTF6Yjd4MVRzdGRuUThVWWdJN2lLU0QyOGVpZ0xtMVhVQQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Abstractive Red-Teaming of Language Model Character - Anthropic Alignment Science Blog",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9qdkxZY0MtUlJCZmpKYzVsUDJ2Z2NxUFZIbC1xUTZGOUZiMTFxVEI3QldCb21QeENMaFI0OV9oeG5qYnd6YXhwWHkybExvTWNmZVNUR0pMY0gxdE1vUFk5V0l1ZEw1UEUyczRzbDV3?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "# Task 1.2: Detailed Review of Original C-Parameter Literature ## Paper: \"Infrared Safe but Infinite: Soft-Gluon Divergence - www-cdn.anthropic.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9HOFc4NndQYlp4Tk1aS0ZGWHFpQ0Y5bzRCTHhYZEF0SElwUEZvX0FSR1VxRmhiNDUwZkNfQUd5UERXTHdmaHVyaWVoNjVtYWJYTFFlSU14WGJ6QWI1S09uZWQ2QnY0T0ZGVW9qRzluLUMwQUstWGJOdXVqUU02cU0?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "# Task 1.1: Detailed Review of the Thrust/HJM Shoulder Paper ## Paper: \"Sudakov Shoulder Resummation for Thrust and Heavy J - www-cdn.anthropic.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNlFWMnUyeFQ3dlRmQUNJLVpGcFlVUV9SM2dxLXJ3WExnTG5MTkZBb2pyTVktWHZ2SEdMdzlhNGJLV3ZxeUc1ejhYak9veW45RnVtSzhFMkJQY0VEWkdEaDU1TmlSYTZPczFqM1RTZDVRSjM4d0dFVEZZd1U0SUd3WWtzanVybVhBSVdVeUhIOHRteXR6eTUwenFPcU55UDRfbWxVUnFWOEZRRGFZN2pLbXVYYWtvMlUzOTZj?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Claude Code Advanced Patterns: Subagents, MCP, and Scaling to Real Codebases - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVEZxc29wVlp2WlFzQ0JhUGpYYVhWSVpkdzVqRnZVTjFfcXBKSkxGUENhZm1ZYm5nT1h1TzFxUnQwT2xqM01iR2xHUXBNSXpqT1RQcVdHanR2SzZIQ3dCNmZVRFdRbTJnOGZNbndpelRza0pHSEttRGU1UnI2YnJ2b3FweG1CQlZOcno3QmNWeDBNYXVtci1HTy1RSkhhNGtmaWVjVWRCTDNUZmFYUUZtV2NkOXdwRU1zWXZfNXdRbG96M3RibXYwSUV4SGxORndpSlRaZi00aUtWUQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
     },
     {
       "title": "Inside our approach to the Model Spec - OpenAI",
@@ -828,5 +961,5 @@
       "source": "news"
     }
   ],
-  "generated_at": "2026-03-26T12:11:23.109Z"
+  "generated_at": "2026-03-26T12:12:06.934Z"
 }
