@@ -1,5 +1,5 @@
 {
-  "summary": "## QUICK BRIEF\n\nOpenAI is simultaneously killing side projects (Sora video generator, erotic ChatGPT mode) while SoftBank's $40B loan signals a 2026 IPO push. Anthropic is aggressively shipping enterprise features — auto-permission modes, long-running agents, economic research — and just won a legal battle against Trump's Defense Department restrictions. Meanwhile, Google launched TurboQuant memory compression (dubbed \"Pied Piper\"), open source voice models flooded the market (Cohere, Mistral), and the Senate is preparing regulatory pressure on data center power consumption. The industry is clearly consolidating around enterprise deployment while governments gear up for AI oversight.\n\n## COMMUNITY PULSE\n\n- **OpenAI shutting down Sora video generator** (487 pts, 312 comments) - Community expressing frustration that OpenAI kills experimental features before they mature, with comparisons to Google's product graveyard. Many see this as evidence OpenAI is narrowing focus ahead of IPO preparations.\n\n- **SoftBank $40B loan to OpenAI points to 2026 IPO** (623 pts, 189 comments) - Heavy discussion around OpenAI's enterprise pivot and whether public markets will value AI infrastructure companies. Skepticism about revenue sustainability and burn rate dominating threads.\n\n- **Anthropic beats Trump administration in court** (891 pts, 456 comments) - Strong sentiment favoring Anthropic's legal win on Defense Department access restrictions. Community views this as important precedent for AI company independence from political pressure.\n\n- **Wikipedia bans AI-generated content** (1,247 pts, 782 comments) - Heated debate over AI's role in knowledge work. Many support the ban citing accuracy concerns, while others argue this is futile gatekeeping. Reflects broader anxiety about AI replacing human expertise.\n\n- **Google's TurboQuant dubbed \"Pied Piper\"** (534 pts, 267 comments) - Silicon Valley references aside, technical community impressed by memory compression breakthrough. Discussion centers on practical implications for reducing AI inference costs.\n\n- **David Sacks exits AI Czar role** (412 pts, 198 comments) - Mixed reactions to short tenure, with most viewing this as expected given political appointment volatility. Little confidence in government AI leadership continuity.\n\n- **Senate demanding data center power bills** (376 pts, 223 comments) - Growing concern about regulatory overreach, but acknowledgment that energy consumption accountability is inevitable. Discussion of how this affects AI infrastructure scaling plans.\n\nOverall sentiment: Cautious pessimism about OpenAI's direction, optimism about Anthropic's enterprise execution, and resignation that AI regulation is accelerating.\n\n## KEY DEVELOPMENTS\n\n- **OpenAI shutters Sora and erotic ChatGPT mode** - OpenAI discontinued its video generation tool Sora and removed adult content capabilities from ChatGPT, signaling a strategic retreat from experimental features. This matters for enterprise because it shows OpenAI prioritizing core business lines and risk reduction ahead of its anticipated 2026 IPO. The pattern of launching then abandoning side projects creates uncertainty for enterprises considering OpenAI partnerships — what features can they actually rely on long-term?\n\n- **SoftBank provides $40B loan facility to OpenAI** - This massive credit line points to OpenAI preparing balance sheets for public markets within 24 months. For consulting firms, this means OpenAI's enterprise focus will intensify as they optimize for revenue growth and margin improvement metrics that public investors demand. Expect more aggressive enterprise sales pushes, potentially more favorable partnership terms for large deployments, and likely price increases on consumer/small business tiers to demonstrate pricing power.\n\n- **Anthropic wins injunction against Defense Department restrictions** - Anthropic successfully challenged Trump administration attempts to limit their Defense Department work, establishing important precedent for AI companies maintaining independence from political interference. This legal victory strengthens Anthropic's position in government contracting — a massive market where Claude's safety-first positioning was already advantageous. Consulting firms working with defense/government clients now have clearer runway to recommend Claude without regulatory uncertainty.\n\n- **Anthropic ships major enterprise features across Claude ecosystem** - Anthropic released auto-permission modes for Claude Code (reducing friction), long-running agent capabilities, Claude Cowork for knowledge work, and published their Economic Index research. This is aggressive product velocity targeting enterprise deployment barriers. The \"auto mode\" that skips permissions while maintaining safety is particularly significant — it addresses the biggest complaint about AI coding assistants (constant approval interruptions) while Anthropic maintains their safety brand. This makes Claude Code substantially more competitive with Cursor and GitHub Copilot.\n\n- **Open source voice models flood market** - Cohere launched open source transcription models while Mistral released speech generation capabilities, both explicitly targeting enterprise use cases. This commoditizes voice AI features that were premium differentiators 12 months ago. For consulting businesses, this means voice interface implementations just got cheaper and easier to customize, but also that basic voice AI is no longer a compelling value proposition — clients will expect it as table stakes.\n\n- **Google's TurboQuant memory compression breakthrough** - Google DeepMind released TurboQuant, an algorithm that significantly compresses AI memory requirements during inference (hence the \"Pied Piper\" jokes about compression). This directly addresses one of the biggest cost drivers in AI deployment. Practical implication: AI inference costs should decrease substantially once this propagates through the ecosystem, making larger context windows and more complex applications economically viable for enterprise clients.\n\n- **Senate targets data center energy consumption** - Senate committees are demanding power bills from data centers and floating ideas like taxing AI companies for job displacement (\"pound of flesh\" proposals). This signals regulatory pressure shifting from AI safety abstractions to concrete economic impacts — energy consumption and employment effects. For consulting firms, this creates demand for energy-efficient AI architecture consulting and helps frame AI projects around augmentation rather than replacement to avoid political backlash.\n\n## WHAT THIS MEANS FOR TP\n\nThe OpenAI IPO preparation creates a 24-month window of opportunity. Companies going public optimize for growth metrics, which means OpenAI will push harder on enterprise deals and may offer better partnership terms to show customer diversity and deployment scale. TP should position for larger OpenAI-based implementations now while they're motivated to build reference customers. However, the Sora shutdown is a warning — build client solutions on OpenAI's core models (GPT-5.x series) rather than experimental features that might disappear. Any video AI work should use stable alternatives like ByteDance's Dreamina or wait for OpenAI to re-launch video capabilities post-IPO.\n\nAnthropic's aggressive enterprise feature shipping and legal win makes them the stronger bet for government and highly regulated industry work. Their Claude Code auto-permission mode specifically solves the biggest adoption barrier in AI coding tools, which creates immediate consulting opportunities around developer productivity implementations. TP should develop specific Claude Code deployment methodologies for enterprise engineering teams — this is a clear service package that didn't exist three weeks ago. The Economic Index research Anthropic is publishing also provides excellent thought leadership hooks for client conversations about AI's business impact.\n\nThe open source voice model releases and Google's memory compression breakthrough both point to rapidly falling AI implementation costs. This is good for adoption but means TP needs to move upmarket on value proposition — basic AI integration is commoditizing fast. The consulting value is shifting toward orchestration (how multiple AI capabilities work together), change management (how organizations actually use these tools), and strategic architecture (which AI capabilities to build vs. buy vs. customize). The Senate's energy focus also creates a niche opportunity: TP could develop expertise in energy-efficient AI architecture specifically for clients worried about regulatory exposure or genuine sustainability commitments. That's a differentiated offering that plays to both regulatory risk and operational cost reduction.",
+  "summary": "## QUICK BRIEF\n\nOpenAI is systematically shutting down experimental projects (Sora, erotic ChatGPT mode) while SoftBank's $40B loan signals a 2026 IPO path—suggesting a focus-before-public-markets strategy. Meanwhile, the enterprise AI landscape is fracturing along deployment lines: Anthropic wins legal battles and ships practical automation features, open-source speech models proliferate (Mistral, Cohere), and BCG floods the market with \"Forward Deployed AI\" hiring across Europe and Middle East. The Senate is targeting data centers with power consumption scrutiny, potentially reshaping AI infrastructure economics just as infrastructure investment hits $1.6T AUM.\n\n## COMMUNITY PULSE\n\nNo Reddit/HackerNews data was provided in the source material. The news feed consists entirely of press releases, corporate announcements, and industry publications. This suggests either a filtering issue or a slow news day on community platforms.\n\n**Trend note:** The lack of community discussion data makes it impossible to gauge grassroots sentiment on these developments, which is unusual given the magnitude of the OpenAI and Anthropic stories. Would recommend checking data pipeline.\n\n## KEY DEVELOPMENTS\n\n- **OpenAI enters pre-IPO consolidation mode** - SoftBank's $40B loan is being read as IPO preparation financing, while OpenAI simultaneously kills Sora (its video generation product) and ChatGPT's erotic mode. This pattern of shuttering experimental features while securing massive traditional finance suggests OpenAI is cleaning house for public market scrutiny. For consulting: clients will ask why OpenAI abandoned video after all the hype—answer is focus on monetizable enterprise features over moonshots.\n\n- **Anthropic wins injunction against Trump administration, ships practical automation** - Legal victory over Defense Department contracting dispute gives Anthropic credibility in regulated sectors, while they're simultaneously shipping Claude Code auto mode (permission-skipping for long-running tasks) and Cowork features. The \"vibe physics\" blog post and new Science Blog launch signal Anthropic positioning as the \"research-serious\" alternative to OpenAI's commercial pivot. Their Economic Index report on AI employment effects is ammunition for enterprise adoption conversations.\n\n- **Open-source speech models flood the market** - Cohere launched transcription-specific voice models, Mistral released speech generation capabilities, and ByteDance's Dreamina Seedance 2.0 integrated into CapCut. This commoditization of voice AI in the span of days means transcription and basic voice interfaces are no longer differentiators—enterprises need to move up the value chain to orchestration and domain-specific applications. The free alternatives will kill low-end transcription consulting opportunities.\n\n- **Senate scrutiny of data center power consumption begins** - Multiple articles reference senators demanding power bills from data centers and discussing \"pounds of flesh\" for AI-driven job losses. This isn't just environmental posturing—it's the opening salvo of AI infrastructure regulation that could materially impact economics. BCG's infrastructure report noting $1.6T AUM and \"diversification\" suggests smart money is already hedging against regulatory risk. Clients need to model compliance costs into AI infrastructure decisions now.\n\n- **BCG's \"Forward Deployed\" hiring blitz reveals consulting model shift** - Dozens of job postings for \"Forward Deployed AI Scientists/Engineers\" across UAE, Germany, Denmark, Netherlands, Spain, Czech Republic, UK, and France. This isn't consulting—it's staff augmentation with a fancy title. BCG is embedding technical people inside client organizations long-term, which means traditional project-based consulting is dying in AI. They're also publishing vertical-specific AI insights (logistics, commercial vehicles, corporate comms) to own industry narratives.\n\n- **Wikipedia bans AI in article writing as quality concerns escalate** - While companies push AI content generation, Wikipedia's crackdown on AI-written articles signals growing skepticism about AI content quality in high-stakes applications. This matters because enterprises are making the same content generation bets Wikipedia is now rejecting. The implicit message: AI is fine for drafts but not for anything requiring accountability or accuracy at scale.\n\n- **Memory tech IPOs and \"RAMmageddon\" concerns** - SK hynix planning major US IPO as memory becomes the bottleneck in AI scaling. Simultaneously, Google releases TurboQuant memory compression algorithm (internet is calling it \"Pied Piper\" after the TV show). The convergence of memory shortage, compression innovation, and hardware IPOs suggests AI infrastructure is hitting physical limits that will reshape vendor relationships and cost structures in 2025-2026.\n\n## WHAT THIS MEANS FOR TP\n\n**The consulting model is bifurcating and TP needs to pick a lane fast.** BCG's \"Forward Deployed\" blitz isn't just hiring—it's a declaration that traditional consulting is dead for AI work. They're embedding people inside organizations for months or years, effectively becoming outsourced AI departments. TP can't compete on that model but doesn't need to. The countermove is to own the orchestration layer: help clients integrate these embedded specialists, audit vendor work, and build governance frameworks. When BCG embeds an AI scientist, who ensures it aligns with business strategy? That's the gap.\n\n**OpenAI's project shutdowns create a \"what not to build\" playbook for clients.** Sora's death after massive hype is a gift to consulting conversations. It proves that technical achievement ≠ business viability, which is exactly what non-technical executives need to hear before greenlighting expensive AI experiments. TP should productize this into a \"AI Investment Validation\" service—a lightweight assessment that predicts which AI projects will end up like Sora (technically impressive, commercially dead) before clients waste money. Use Anthropic's Economic Index research as the analytical framework.\n\n**The regulatory hammer is coming for infrastructure, creating a 6-12 month advisory window.** Senate power bill demands are the early warning system. Within two quarters, enterprises will face mandates around AI infrastructure energy usage, carbon accounting, and potentially economic offset requirements for job displacement. TP should develop a \"regulatory readiness\" assessment now—help clients audit their AI infrastructure power consumption, model regulatory cost scenarios, and identify which projects are vulnerable to sudden economic shifts if power costs 2x or carbon taxes arrive. This is a service competitors won't have because they're not watching the political signals.",
   "sources": [
     {
       "title": "Why SoftBank’s new $40B loan points to a 2026 OpenAI IPO",
@@ -140,6 +140,300 @@
       "score": 0,
       "comments": 0,
       "source": "techcrunch"
+    },
+    {
+      "title": "Corporate Comms Is Playing Catch Up on AI. A Few Leaders Are Showing the Way. - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMjRQRzFrUWhnVk1ZbDk5MER1eEE1SlU1QkNJb0tMUXI5aUE2U3lGcHpZb3Z5QTRaSVpKUGQ2TUU2U0lDeGRCMlR1M0RHNVRjOHRORENQQld4QjllSnJ3WUN5Ri1yU25BemNRS2pzZ1Zpdl9xeE1JTTBKaUZ6ZHBtZ09JdHJGNnVqblFNVHJTVU1uTms?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "For Most Countries, AI Sovereignty Is an Illusion. Resilience Is Real. - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPd05OTy1iRXcxLVJwa0NXZzJwUlU3X0xFSF9vRWtGaGpVdEdiTEF5aWZqSDdsRmItR1lNSW1zY21zT1ZZcFUxeDVKTnR0bXk1Q3F4X2NWdnNiOExkTXh6bHQza0tFeUdPTTlNQUtLNlVUQ0pCM0FPbkxkS2RucHkyNFVNUlpWaHlMSHhCMDdBaw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Visiting Forward Deployed AI Scientist, Internship, United Arab Emirates - BCG X - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVG9xOUY4QjZDU3ZEQktGaEZSWllPUGtEb1VNU2RzWlZfS3NxQVJNTW1FV2FoR3B4MTYycHhQa2RxdmtRbExDTEg1WU9ISUNodUxRUXpFZUNUY1FTeE8ybnh1UTNFMXJDMU1JSmpEbHIzZENCbWhncW9FOFNGQW5fNXpJYkJja0FkOVl1MWJwYnpIV2dNVXJYa2twWlZTNzl3NEo5T0NyNklNX3pLSUZkSVdmT3UwTTBuN2dmdA?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Infrastructure Strategy 2026: A Year of Increasing Scale and Diversification - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQlkyYVBoQmxXN3h4YjJBYWFuQ2RITFd1Sm5pN0RWQzlTSDl5YnpkVWlCWm5XdGY0Q2xKcnVWaGI4VF9ZWmdVNkNiOUJaejlEV1FxZnNJRjFKcGJOUW9TNU1uM2VzQm01Y0k1RVZDY2NhRld1bzFPa2hGWkVkenUwY0Q3VmJGb2h6MUE?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Agentic Scenarios Every Marketer Must Prepare For - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeHRINWNvc0pVZHozcS14cWFmUVJpZG0wQ0hVMUN5Z2tlclluQlF5SkM0aERZcElKWHVTWHFnVExqdEhYMUtLcUVyZUFwNE1ZbVZadG83dU51VE9LLXUxaVZQeC1KbFU4a0JOU0NpWjNPbnNsM2tja2FMMUVLcDVrSU5KUVU5djJuY003bUR4c0Y?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Advancing Textile Circularity in Europe: The Case for System-Level Scale-Up - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTl9SYVlHak40ZEJ2a2hzUUhzelBQWXRSSGFyR3A5T3lKRHdqTTVwNE9zNWM5RHhqdmNKenNOdUF2d294RlA3azlwNWg5Y3VYWVRjbE02R3RMMndORWxyTWlaT2RyT05TU3hVbjN0aDdCZUhpakJ1TFprbGtDUFVhdS1mUjk1SDFvd0lXNWN2d1BQYWRSdzhUTl84Nnl6UEFlWFJyQWFZNkJhbE05V0p5U0labTY5cnV4Y2E0?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Forward Deployed AI Engineer, Internship, Denmark - BCG X - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVW1CbEg4QVMzbnB0MkctbGRKeU80MTE3SzJ4WVl2YllpTUE4TUJOa3QyV2pmbHNMUnQ1eHU3QnNoWkx1Zk9YMGswbWhYcWZlZEFLOTBwYjI2UlQtRVBVS3BvaFdDUld1ZXVrdWVOc0M4WWdHSkJ0WGJFd054X3ctU294ZmRDOG5RQjNJbjQwLWxZSjlHOTdUcWdVdFVPYjg?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "AI Is Already Moving the Logistics Industry Forward - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQm5TNTJmTXRCYU85WUVCaUt0cEltZXdDWnV2bkw5RFdMSDg5aGk3a0FkNHY3OVd4NFdGYVl2ZzJEcllPSXVSNVg5UThrdlFQYlAzQTI4dDhQTGFoX3JhMHlZeDBLUVlhVERyQXAwajlJTFdNdV95ZlJJajJnYUJLVVBCNXhuOFltWFEwRVY3d1h0RGs?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Tim Rodgers - BCG Expert | BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9xZHI5Rl96cUtJeV9DQmZsVmFDQURhTEZ1SGxfOHRsczU5NFA0RzdIZi1fajlvZVBBTWhUSUM3YjFjYVZQRWpxeWowOUVqUGJfZ0ZpMEs4RWR2OWtNcU9KSDBR?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "A Faster Path to Value from AI in the Commercial Vehicle Aftermarket - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWjlHenA1NE1FNno4Q3hobUhrOEVvZHNxMnV1OWtFZWtjSHlsNXlabWdXZEQzcUo2RXA3S1d3eFU4TVcxd1I5UWY3M3J0OEJXaWFPVmY1dDVaaGJmN0F0dHFLdnF6OHlNYlZYaHdWeDJiVE9ibGJUd1NSREJsaWxvd1NxNnRVQUQzb2NMZlVqNHM4WFhKNHc?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Weekly Brief - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUm5NNml2UEotel9rT1Nva2ZVcDJHZUY3ZDVfbG85UHA0dUpEY04zdXZvMXp1cWdOMldOSGNzcEdVZTNkR2ttM0hnaFpHdW9GeGlucWk2S2djbWhGSklDTm5vR2Z1VlZpU0dUa3hMNHcxZk5HbzgzclQ4cUNyMVdRX3VCbFpGWVBtRVFvMEZ3?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Building Better with Lean Construction - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNeHM1Mzdkb2VwMVVGSUhQWDFTdnYwOFk5VmcxRy1FUUlCUy1EZURfcTlNZFRZUDAyX1BTVjdzbm1fbkk3cHF3M1VkV1EyUTNBYUZENVEyNVllSFlkcm5VTE5TdUZUX2p3VDc5VnRoR3ZrTzRGWkx6dVNSUUtEd3pDWnFB?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Visiting Forward Deployed AI Scientist, Internship, Germany - BCG X - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPR0xEYTQ0ZFRYNzdGc2V6NkJUeXB3QU9mcE9KWWxTeHZJbzBhbVdERmRDQVF6cE5TM25DQ3NpclI1dE5paXlQV3dRck11VWMwZVdodWFXQlJLRTJCNFk5STdwdzQyelI4SVk4bmE4QkhLOWF4b2NmR3NxbnJwTEk1dXI5bnRtSFBJc3FfTU1BbmkwbXVJcV91ZTUzYnRqNHpJRVFWcGZDY1ViZzg?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Grande enquête sur la santé mentale au travail - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSS00YjdqNWg3NkxLTUVyWkdoOUpJUTNQT1lxVkNTZGpicDRma1lCakZvbFlpc1ZaZ2ZTVjZXS1o0ajZCSVJWdUx3RlNhaXdSV3ZDblZDMFIxZU5vWW5aeWZ1TTRGaml5TFcyUlVJbE1yWVctS3FSd1VRMEMtTnBYdWNuSWhHSUdCbEFzTWxMVjVnTWdnWnc?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Lauren Powers - BCG Expert | BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5lcmVyeDl1a2tqd1JCeWh2WUxiYVpPTnFYZ1l4RlQ4TlpWcWlCZXAzc1FLVjlOQzJrN3ByY0M5elhMVWoxQWg5cnd6WGJ3bHNiS2ZybVJSeEMxR1NZbGVLTlR0V3I?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Daniel Hogberg - BCG Expert | BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBCdGxYbk9hN0hyblN4N2Z2M1ZmQVV2Z3p3VnNxelczUDNkMHVQSlNPMUJTTGVIR3VHV1oxVVVXaGkzNUh3QWRjQkhyTkV0MG5OWXFUY2NMM1U0LTk2cUpuUzZDMTZIZw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Forward Deployed Data Scientist, Spain - BCG X in Madrid, Spain | Data Science and Analytics at BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOc2RXNjBwcDA4aE5aajVWeUUyT0xvMnRPM3FDZkFleXlfdnhvTlJSRWRKMXJ5VzgyTjAwaHVoUmJSV0NYN1Y1dTUwdWxVZVhuZDk4WTUzb3pxWVUzSVRJenZfTnpIUjRlbnVtcmVFYkxvWW54ejFHanE2MTFFVmI1cGF0ckdwbVRDQzByN29tc1M?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "AI Expectations Rise in Logistics, but Scaled Adoption Remains Limited - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeGJxOWRtZUVfZ0pGdHdjTFMwc0taUUVfZXk2VXkyY29LcFBOUUZBZllrZUxlbW1XMHFGY1VBQTVVNndPSnhwaVZBOTcyWVRjUmY0T2hvYW9fNlhSaXBzbng4dDM4cE11OEVNMUZsOVVKSGtPeHU2MDN6eEVEaDB5N2RNZHBmdFlqTnBNVGloWVJ4c3JfVVFJb09tVWM1UjQxVmp3SnR3?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "How The Dallas Foundation Is Focusing Philanthropy for Lasting Community Impact - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNak5CM0ZHc2swdjRzVUVTTk1uZWh5SjRpS2tnZFhjaTFSUk9LdDc1WlowUTdub2oteTh0UllQSC1IM21YZlhYaFQ4cjBSWHBKZXpoTzJLY1NCZEVzR3dKenBaZDEyOTFuOGlsRmh6TTRiTHNVRXl0U0lwVkl0dlMyRXozUk42Rkt6X2lVaWNoUC1UUkV6Unc4c3ZB?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Private Infrastructure Rebounds as AUM Reaches $1.6 Trillion - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9WME1QYnhBR1d3UUMxb2ZjUW5Ka3pvZ2NwelpfR0hZQkJ5LWxuWDhTZEtGZDVObFZrdnJ0N0xmWmNTWVBLbDNjZUFybTFQR1E0M3gwOWowcWphUzVpVmRZUHk2OUhEOVBSVE5nbHA3Mmg0eXVpT0tWbw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Speaking Your AI Agent’s Language - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQS2lRNm9ocENQQzcwemF2NlMxSFMtYk5qbi1sTk9GVzdETHh1dXo2UlBkblIwd2VCampvcGpYWHR3dDZXS0RJdzNCZlgya3QwRmE2b0kxblBiNVFKVTFvYmhGbmtkUmFYMF9Fc3JNbVptcVBRT0kxck1RV0wxOUhiLUllQk9ZTXZEWG90MUxaUFc?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Oman - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAybEt0eDlwN2hkdTBWd3lINlNlejVLUE50N0dKcXJzdi1SVDJ2Q0hpekFMaEdsZWdWQXI4UDdCdTRIX09fRVBLY0RaZXEyZURuQXJvVQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Contact Us | BCG Kuwait City| BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5WZ3dkNXdNWUQxb2xpUXI3UEZ0dkZBNTlfX2xxUWo1WVFRQ2lwRDNIMUI4dGFWYzltMGdXdVhSUnlrSExmYmtSRk5aRmFzOTN5a2lrVXZ2N1BRQzQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Data Scientist, Chile - BCG X in Santiago, Chile | Data Science and Analytics at BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMi5ARBVV95cUxPbEt5NWtzdmZVclpsZThfNVlpTlFlUDFIWUF0Tk5xWHdYQzJELUYxTmtCa1hKc2xxYnM0UHNTLTZ3TnE5Y2FDM1hoN3JCTC1SQnEyb1hDWFhsT1NqaEowWXVMNjE2M3ZnTTlDUFV1T2FUMk8zZUlTcFhMMFllZ3ljZFdELVdaMWhWMDJLN0hqbmJ3a0lEaTJ3LWlJS0xKeG10Y0ZGa2NxWjJmOUJhbE0xa05xYUN5Y0hkb1lQOG9iQ1NzQmNKeTNpTXBFeGsxZXJpUklmWHJhN1JjSDNYb1hhRFRCV2lxV3NiZWh2S3pKVFlSQUpYcUZ0NDJGVGU0R0dJWjlXcjAtQjBUaDFmbFdVOXBsQ1dnSlBxRjBYR3BtWmV5ZjJlUFcxODZhQVZaejJJX2hfSnV3M0Z5a2h3bGRuRW9lR3BaUXBteHF1N0V5dXlBRllpdW1qYlJqaWtqYUZYZlVWU3ZGLXhHb2g1d2tDcjBWRmxqRkR0b2dsbDNfWHNrYU13YkI3b2JPZlNCLWp5WlNJM3VlWHhRZXRDdC04aWRLWEtZYmhtRExXNUQwSTFjTHVOcGszT1pJcUVPaEVsUGRsNjlOVW93SnR4WGRJazNxS0hZa1JJdmFtSFRRR0Vsd2FaVXhKeHA1bkMzaC1Qb1ZWcDRWYll1T2JtRnQxOHItRFhFU3BuMlhrUlQxMGJiYlBHYURCc0xqdDhVdUtUZnR0QTFxMDgwYmVfSW1zUS1NUUlSaUI5SHowQjNVUlhJVVpBc2ZzZ1hONFRHQlUtZXd2YXZQb01HR0t0WlBIZkRnRmU?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Forward Deployed AI Scientist, Czech Republic - BCG X in Prague, Praha, Czechia | Data Science and Analytics at BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOam4wbWgyQnNleFk5Zl95THAxUzlzSlU4aUFHT3M2THRwcHNpVVRUYUdoNFp4Y0M4anRMS2djcTVWdmE3a2gxYjdNdThTSDdpVTk4RDdjc3NpNzh6bjJrdGNLS1R6M0d5OXJSWU84aWtEVUZpa3RNaWt0SkQydjhTSEJ6TjNqc1JjelJnR1dxMzU3QllpbDBQMmJB?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Forward Deployed AI Scientist, Netherlands - BCG X - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZDFsbEFGT0ZrbE55NERONVhfd0ZmUnVWcThNLXV2Zk1hWWloRlRRU3QxbFFYM1NRNDY3S3hfS3puMkFPUGNxVmRWamltemRNWXg5VmkxOGYwWjQxV0NfRlJfb2R4WDl6TGtTVjRETGc3RTFVZlY2RExRMURBemQ0VklSWjVsbEdNZW81REFuS3A?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Jobs in the Middle East - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxONUgyV0xMX19Eb25BZlhadTJJek5qQ1FZQUVweThnMC1POE5icnBGUzY1SEZEbVEwUW1lbTgyUVh0MmRUXzlFc3Fld1hISzJQYm8zLUNYQllDd1NzTGNMam40eTdKa0x6Y01DUEkxQkRXM1dhREdXVXVRdFRuZG03TzJPTzdIb2pyVzV4dWVucHk3dU0zNlZ2azVEQTRLRXRiU0hQSy1ZVUN2VkJpUWtGSEVYaXBIX1M5aThIWmc2UmpqUUFNYUsyUWxUZ2tQNkg1T3Z3TC1JdmhTc3F6QTlFRVZsd05jREFyTFcxSm0yWWdHRHNZLUdsVWU3dEJOOGlFbUFWRVdQR09kTmdvUDJUNjhGNllpS2FpODBXNm9mdjFOaVFOWnh3eENuUlVkY1dTcW5hdVlMX0tkR1ZjZ3c?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Forward Deployed AI Scientist, Internship, United Kingdom - BCG X in London, United Kingdom | Consulting at BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWThvNlprejJfdUVIWWRXX2dDWGpGVUZIdC1nS1FKRW12Q1ZYTGthQjE1LXV1ZTJXYVFGaDJGQ01LX3liYjNPSHJRT3BlaEpkT2FfUUdWdk1pN0ZfeWNicDdRSGM0QktQVEdCTDNhdFJoUXFCXzE2UWhmc1cxVXh4UE50M2V1OHVWd1Rxa3llc0FJT3FacHVTOVpOTk5CTk5xdm9QVFdRbXY?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Forward Deployed AI Scientist, France - BCG X in Paris, France | データサイエンスと分析 at BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQM1p2MngxQmFIbU9LWVZjV2FrRHBsdkdaeG1wSnc1VWNrVU1YUE1ONTctRHBldGE1X3lXWkhRSi0yOEhiUVo3YzRsVmYyYlQxNkRXdml3aXVXV2h1MWJaeTJvOUhzNURnQmkyenJQcWVHVEQ1TF90UXkwNDc2LTZTNTlSM2lpQkVULVE?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Forward Deployed AI Scientist, Germany - BCG X in München, Germany | Data Science and Analytics at BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMk9CMjgxMXdwZ2VGNTNqZmZvVUlHUERfNi1pLUIzN0VYUUNFWnRPdXEzelI4ektRWHlSaElXSTlBV0t0WmdDOHRGSEhkWldKTWJibGhKRTBSMG92ZzRXRGM5R192SzRwbERQb0MxcVlCaHJFTnJ5WlE5ZmtmSExkLTJSeWNJS2w0eG0yMTdZMEU?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Forward Deployed AI Scientist, Internship, Netherlands - BCG X in Amsterdam, Netherlands | Consulting at BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZU54ekdQYUJUTk9JZmJ6TTNOanhkc213QU5ONHB3QzY1b3plUDBuNWx5MmNISUQ2NEs1Tmo4ZW5lNEIxQ3FKaEZRN0ZSWmNsNkkzZk1WT3ptQ050MWlaN2I3bXFxREU1RjQ5Y2xRblZGTXpxeGZOanowSFBLN1dOdFJNY29ISWFvUXNBbEhWbDVRelZyOUNCN21QWjAtZC1ZWkJpMw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Jobs in the Middle East - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOS3dFOWN5a3J6MVpYZC1IUW5DdjRMREIyZ3YwYTZhalYtc18xa3Y2MDRLYjhOVjVDNEdWdGJ1V3F4aGlXWFI4WEZTQ0ZVYk9kQzV2NDZaQkVLWmRtRjJ6eHZpVl9CTTFFd3RPemR3ajRWdHFTdUl0ZGVLLV9aTjhrYU5mNGlLRFIxNC13aTZubGhoaXp6NkpkYkhtUkk1a3AzeHRWZEJ2Tm1kMnpvcW1BR1c3Nk5MdGZFX29TcVp5OG93Y1NtX3JF?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Forward Deployed Data Scientist, Internship, Spain - BCG X in Madrid, Spain | Data Science and Analytics at BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcGQzVE9hTTU0RDVvOEhaUjR2aGZRclA3aE82Uk5BcC1aUE43dHpnREg0NTRyRFEzNExGMXl2dnR2S0dRbV8yRE9JUVhfZFg3aXVDRC0wOTFUajhSWkxnemZOMnZzdmFIeU41WWs3Nmp3SDNHMTRLV2JUWUlVejN1bTR3THk2aG1Nemgtc0dxTUsxS2d2MTBtTGhIUVRBUjg?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Data Science and Analytics Jobs - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNampoaW5ZYVAwMWZTUWFrY1dyTDRweUFGX2dEd2t6bUl0SENCUi1odnplSkFLZHZsT3VqVDc4VFF3SmZmZ1lRdTJUX3hDa2M2Xzh2VjFIUGt0Yl9UWEY0a29takJ2SDZ3UmI0NTFTNWgtaFJGM25WTnVvSk1BdzBJVFp1cjdMdDQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Global Data Analyst Senior Specialist in Gurgaon, Haryana, India | Expertise and Insights at BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZjJNM19rUTI0aWFDUzhlbUhvNWU5MTdxbjZWQUc3X0FuSnBOcXV2OVhRWnNtTUdGXzE4OFE3bVo0b09EWTRWZXE4UUhDbElGd1RORm5CeHdIVFZDVUxXTEF0RmozczZmSXkyUVc5MEdWSG00MGRaQW10YTFfVU93ZkNaRnh3cFpG?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "A Faster Path to Value from AI in the Commercial Vehicle Aftermarket - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRFA2UnFQVkhsNjNqRlJ0NlhvWXE0Q3JSU1dNTk0wVDFvQ1RDcjNQTU1BSVlReklYY05HUDU1bGRpUkc4VVpaa21mVnd3VS1oYXdKbG5BQS1ZUVRWQTU4U25UZ1BjZWU0OU5ZN0djSlU2MlVmRFMwRENySkxaMmhKcnVJMHgxZUt4WWlZTUwtZ2E4X0JWVWZWUGp5UWVOZw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Careers at BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRDhDZFVLWkVzTE93czFlYkR1ZC1YMTI2d2lxN2tDbGprazVHMmJIaUNDM3pRUVB4OTcwcEktajEzTjNnVVVORG5hSHU3cGxsMkV5c2tDNjMwZWZQZk5menFWMW80M0pYTjlxSHhKZnJWN2dISlRkYjI1dU1HSGpzdXY4el9ablE?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Lateral Hire FI - BGT 2026 in Bogota, Colombia | Conseil at BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE51WU13djlZVndoT3lieGxYai11ekVYQVRpREZ4Y3B4azU3bmZMaUxma2pLaVByNzZiMEtGWU5mVTRqNU1idUpoM2JQdmtsRHFBenFzaDNtSFNINmE0WFdVWUJmdHJhUDRYNXRsbjBQUmQwdw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Consultant, Upstream Operations & AI, Italy in Milan, Italy | Consulting at BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPazV4Z3B2eEU4WjQyeEF1ellXel9rbkxhWkFaY0pqSnpZQm00bUZWSDdSNm9nWU81YktybWhSWFRjQ2dVOWUtZlU5ZkI3MmpkblB5UWczU01NS2lDZXJhQkpDWlhla1RGbktSX0hOMERkd0dHMlFJYmFkWDh6ZlNkTUdQUmJaWjRzOEkw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Forward Deployed AI Scientist, Internship, Spain - BCG X in Madrid, Spain | Science des données et analytique at BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOT2tGRkYyODl1Q2c5NllzYVk5VW51SE9GNk0wMWFFNndDQ09qNEhnQnZlSUxKZGdtV3NvUXBERnh0X3plcGpuenl6cC1OelU3bVFIaGRnZmJnRzUxNy1hdjRuV2w0U3NYTVRTUjFRS2pJVHE4THJzSkRwU1NYQTdWMS1IUE5FeWNPWDNnRHkzNnh2cnFIWEU4?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Lead AI Engineer, India - BCG X in Mumbai, Maharashtra, India | Technology and Engineering at BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8wRXdzeE5jeENvNUowOElkOXBzSS1EY0RWU1djQlBfY0UzcHZPVVEzMVNickVoYzczZnp4Zk5HMlZPVXZWckx2QU8wcFpubUswb0JwQUNaNEZ1SE5ZWjZTVlFkS29YOTNadWllTllzdkZhN1RteEVfMzZYNWM?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
+    },
+    {
+      "title": "Forward Deployed AI Engineer, Internship, United Kingdom - BCG X in London, United Kingdom | Consulting at BCG - Boston Consulting Group",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMG9xTGxxdnNBZk00VXhtZkwwa1R5MkNoZkNtakZXX2VheHFRaTZIUWRoeDlVMXY5SGE3dTlCTDZBSHBRNlRtaG96cXFaOTZQWG9pd011Z1NNWEZ4cVZMYWkxeExEOHNaclprN1k1aTlwaWtoSGpjaU9FUEpxUFhRLThIWmRzd3pidFVfd0pWQ0ZsSGNvTVRrd2hqZzdUNU5GWm1hUlVzVQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "bcg"
     },
     {
       "title": "Protecting People from Harmful Manipulation - Google DeepMind",
@@ -947,5 +1241,5 @@
       "source": "news"
     }
   ],
-  "generated_at": "2026-03-28T12:13:02.393Z"
+  "generated_at": "2026-03-28T12:13:46.312Z"
 }
