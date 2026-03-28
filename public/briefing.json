@@ -1,5 +1,5 @@
 {
-  "summary": "## QUICK BRIEF\n\nThe AI landscape is fragmenting along national lines as Switzerland launches its own public-data-trained model and Chinese models dominate Hugging Face leaderboards, while Yann LeCun's declaration that current LLMs are \"nearly obsolete\" sparked the day's most heated debate (124 points, 140 comments). Enterprise developments focus on efficiency breakthroughs—researchers running LLMs at 13 watts and Google's new TurboQuant memory compression—while OpenAI continues pruning side projects, shutting down Sora's public access. Meanwhile, consulting giants BCG and McKinsey are aggressively hiring \"Forward Deployed AI Scientists\" across global markets, signaling where they see 2025-26 revenue opportunities.\n\n## COMMUNITY PULSE\n\n- **Yann LeCun declares today's LLMs nearly obsolete** (124 pts, 140 comments) - Sharp divide between researchers agreeing that transformer-only architectures have fundamental limitations versus practitioners defending current LLM capabilities. Discussion reveals growing tension between academic AI vision and commercial reality—matters because it signals potential paradigm shift clients will ask about.\n\n- **Intel Neural-Chat-7B tops LLM leaderboard** (37 pts, 64 comments) - Community skeptical about benchmark gaming and questioning real-world performance versus leaderboard optimization. Reflects broader distrust of synthetic benchmarks—important for consulting conversations about model selection and evaluation criteria.\n\n- **Switzerland releases government AI model on public data** (5 pts, 3 comments) - Quiet but significant discussion about data sovereignty and national AI strategies. Signals trend toward localized models that consulting firms will need positioning for.\n\n- **Chinese AI models storm Hugging Face benchmark** (6 pts, 0 comments) - No discussion despite potentially major geopolitical implications. The silence itself is notable—community may be fatigued by US-China AI competition narratives.\n\n- **AI researchers achieve 13-watt LLM operation** (3 pts, 0 comments) - Zero engagement on major efficiency breakthrough, suggesting HN community is overwhelmed by pace of technical advances or skeptical of claims without validation.\n\n**Overall sentiment**: Growing skepticism about benchmarks, benchmarks, and more benchmarks. Community wants real-world proof over leaderboard positions.\n\n## KEY DEVELOPMENTS\n\n- **OpenAI shuts down Sora public access** - After brief public availability, OpenAI has killed consumer access to its video generation model while competitors like ByteDance launch Dreamina Seedance 2.0 in CapCut. This continues OpenAI's pattern of abandoning \"side quests\" (also shut down ChatGPT's erotic mode), suggesting intense focus on core revenue-generating products. For enterprise consulting, this signals video generation opportunities are moving to other providers and that OpenAI partnerships may carry platform risk.\n\n- **Anthropic wins injunction against Trump administration** - Legal victory in Defense Department saga keeps Anthropic in federal contracting game. This matters because government AI procurement is becoming a major revenue stream, and the legal precedent affects how consulting firms position AI vendors to public sector clients. Constitutional questions around AI vendor selection could create compliance consulting opportunities.\n\n- **Google launches TurboQuant memory compression** - New algorithm dramatically reduces AI memory footprint (internet dubbing it \"Pied Piper\" reference suggests significant compression claims). Combined with the 13-watt LLM research, efficiency is becoming the next battleground after raw capability. Enterprise implication: AI deployment costs could drop significantly, making previously uneconomical use cases viable—consultants should revisit shelved proposals.\n\n- **Open source voice models from Cohere and Mistral** - Cohere released transcription-specific voice model while Mistral launched speech generation model, both open source. This commoditizes voice AI capabilities that were premium features months ago. Creates opportunity for consultants to help clients rapidly integrate voice interfaces without vendor lock-in, but also compresses margins on voice AI implementation services.\n\n- **Data center power consumption under Senate scrutiny** - Senate demanding power bills from data centers, with proposals for AI companies to pay \"pound of flesh\" for job displacement. Regulatory risk is escalating beyond just AI safety to economic impact and energy consumption. Consulting firms need regulatory monitoring and compliance strategy capabilities to help clients navigate this shifting landscape.\n\n- **Wikipedia bans AI-generated content** - Platform's crackdown on AI writing reflects broader institutional pushback against synthetic content. While seemingly niche, this signals growing authentication and provenance requirements that will spread to enterprise contexts—companies will need AI content governance frameworks.\n\n- **BCG/McKinsey mass hiring \"Forward Deployed AI Scientists\"** - Both firms posting dozens of positions globally for client-embedded AI specialists. This reveals where Big Consulting sees 2025-26 revenue: not selling AI strategy decks but deploying technical talent directly into client operations. For boutique firms like TP, this is both competitive threat (they're building technical depth) and validation (market wants embedded expertise over advisory).\n\n## WHAT THIS MEANS FOR TP\n\nThe market is bifurcating between firms that can deploy technical talent directly into client environments versus those offering pure advisory. BCG and McKinsey's aggressive hiring of \"Forward Deployed AI Scientists\" across every major market shows they're positioning for implementation revenue, not just strategy work. This validates TP's technical-depth approach but raises the competitive bar—clients will increasingly expect consultants who can architect, implement, and optimize, not just recommend.\n\nThree immediate service opportunities emerge: First, efficiency-focused AI redesign engagements as TurboQuant-style breakthroughs make previously cost-prohibitive AI applications viable—clients with shelved AI projects need fresh economics analysis. Second, regulatory compliance strategy around data center energy and AI economic impact as Senate scrutiny intensifies—many clients lack frameworks for this emerging risk. Third, voice AI rapid integration using the newly open-sourced Cohere/Mistral models—there's a 6-12 month window before this becomes commoditized where consultants can capture value helping enterprises deploy voice interfaces quickly.\n\nThe OpenAI Sora shutdown reinforces a critical client talking point: platform diversification is not optional. Any client building on single-vendor AI capabilities needs multi-provider architecture planning. The Switzerland and Chinese model developments, while seemingly distant, actually strengthen the case for helping clients develop vendor selection frameworks based on data sovereignty, geopolitical risk, and benchmark skepticism (as HN community clearly demonstrates). Daniel should consider developing a \"AI Vendor Risk Assessment\" framework as a lead-generation tool—every enterprise is grappling with these questions but few have systematic approaches.",
+  "summary": "## QUICK BRIEF\n\nLeCun's declaration that LLMs are \"nearly obsolete\" is driving major community debate while Chinese models dominate new benchmarks and Switzerland launches a sovereign AI initiative. Enterprise infrastructure is under scrutiny as senators demand power consumption transparency from data centers, while practical deployment advances with 13-watt LLM operation and new transcription-specific models from Cohere and Mistral. OpenAI continues strategic retreats, shuttering both Sora and ChatGPT's adult content mode, as consulting giants BCG and McKinsey aggressively expand AI workforce hiring across multiple regions.\n\n## COMMUNITY PULSE\n\n- **Yann LeCun declares LLMs nearly obsolete** (124 pts, 140 comments) - Intense debate on whether current transformer architectures have fundamental limitations. Community split between agreeing LLMs hit ceiling versus seeing incremental improvements continuing. Matters because it validates alternative approaches clients may ask about.\n\n- **Intel Neural-Chat-7B tops leaderboard** (37 pts, 64 comments) - Discussion centers on open model performance vs closed alternatives and Intel's unexpected AI competitiveness. Commenters questioning benchmark reliability and real-world applicability. Signals growing enterprise interest in non-OpenAI options.\n\n- **Chinese AI models storm Hugging Face benchmarks** (6 pts, 0 comments) - Limited engagement despite significance, suggesting HN fatigue with China AI stories or skepticism about benchmark gaming. Important for geopolitical positioning conversations.\n\n- **Switzerland releases sovereign AI model** (5 pts, 3 comments) - Small but engaged discussion on data sovereignty and public sector AI. Commenters interested in training approach and data sources. Represents growing trend of national AI initiatives beyond US/China.\n\n- **LLMs running at 13 watts** (3 pts, 0 comments) - No engagement yet on efficiency breakthrough. Community may be waiting for technical details or proof of concept. Critical for edge deployment and cost discussions.\n\n**Overall sentiment**: Skepticism is rising about transformer architecture longevity and benchmark validity, while efficiency and sovereignty concerns gain traction.\n\n## KEY DEVELOPMENTS\n\n- **Yann LeCun positions LLMs as transitional technology** - AI pioneer's claim that current LLMs are \"nearly obsolete\" creates strategic uncertainty for enterprises mid-deployment. For consulting, this validates diversified AI strategy recommendations rather than all-in LLM bets. Connects to the efficiency research (13-watt operation) suggesting architecture evolution is accelerating faster than enterprises can deploy current generation.\n\n- **David Sacks exits AI czar role after brief tenure** - Trump administration's AI policy leadership vacuum continues as Sacks moves on. Creates regulatory uncertainty window that could benefit aggressive enterprise adopters but complicates long-term AI governance planning. Anthropic's successful injunction against Defense Department in same news cycle shows judicial branch increasingly willing to constrain executive AI decisions.\n\n- **Senate demands data center power consumption transparency** - Legislative pressure mounting on AI infrastructure costs with explicit framing around job losses (\"pound of flesh\"). This regulatory attention to energy consumption will accelerate enterprise demands for efficiency metrics and carbon accounting in AI deployments. Directly connects to 13-watt LLM research as competitive advantage.\n\n- **OpenAI retreats from Sora and adult content** - Simultaneous shutdown of video generation tool and ChatGPT's erotic mode signals OpenAI prioritizing core business over experimental features. For consulting positioning: OpenAI increasingly focused, less experimental, while competitors (Meta, ByteDance with Dreamina) expand capabilities. Enterprises should diversify video generation vendors now.\n\n- **China's benchmark dominance accelerates** - Multiple Chinese models topping Hugging Face leaderboards alongside Switzerland's sovereign model launch demonstrates AI capability decentralization. Enterprise clients need multi-vendor strategies that don't assume US model superiority. BCG/McKinsey's aggressive international AI hiring (30+ positions across Europe, Middle East, Asia) shows consulting firms already positioning for fragmented AI landscape.\n\n- **Open source speech models proliferate** - Cohere's transcription-specific model and Mistral's speech generation release in same cycle shows rapid commoditization of voice capabilities. Enterprise speech applications becoming table stakes rather than differentiators. Google's TurboQuant memory compression algorithm addresses deployment bottleneck, making smaller models more viable.\n\n- **Wikipedia bans AI-generated content** - Major knowledge platform establishing hard line against AI authorship signals growing institutional resistance to synthetic content. For enterprises, this creates content authenticity verification requirements and potential brand risk in AI-generated materials. Consulting opportunity in AI content governance frameworks.\n\n## WHAT THIS MEANS FOR TP\n\n**Immediate service opportunities**: The confluence of LeCun's obsolescence claim, 13-watt efficiency breakthroughs, and Chinese benchmark dominance creates urgency for \"AI architecture future-proofing\" engagements. Clients who invested heavily in current-gen LLMs need migration roadmaps to next-generation approaches. Package this as \"AI portfolio diversification\" - helping enterprises hedge transformer architecture risk while maintaining production systems. The Senate's data center scrutiny creates immediate demand for AI energy auditing and carbon accounting services, especially for clients in regulated industries.\n\n**Strategic repositioning required**: BCG and McKinsey's massive AI hiring spree (40+ positions in this brief alone) across Europe, Middle East, and Asia shows Big 4 executing on geographic diversification while TP remains US-focused. Their \"Forward Deployed AI Scientist\" roles directly compete with TP's implementation value proposition. The consulting giants are embedding technical capability rather than relying on implementation partners - this is existential competition. TP needs either specialized vertical depth they can't match or technical innovation (like efficiency optimization) they haven't commoditized yet.\n\n**Client talking points**: Frame the OpenAI retreats (Sora, adult content) alongside Meta and ByteDance advances as \"the great AI unbundling\" - specialized providers will beat general-purpose platforms in specific domains. Wikipedia's AI ban and Senate energy scrutiny represent the \"institutional resistance phase\" every technology faces - clients need governance frameworks now, not later. Switzerland's sovereign model and Chinese benchmark dominance prove US model hegemony is ending faster than expected; enterprises need vendor diversification strategies that assume geopolitical AI fragmentation. The efficiency research (13-watt operation) means edge deployment and on-premise AI are suddenly viable - this reopens entire categories of use cases clients dismissed as too expensive.",
   "sources": [
     {
       "title": "Switzerland releases its own AI model trained on public data",
@@ -616,6 +616,223 @@
       "score": 0,
       "comments": 0,
       "source": "bcg"
+    },
+    {
+      "title": "Bain & Company announces expansion of lead global management consulting partnership with Palantir to bring world industry-leading AI transformation capabilities to clients - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxNeWFGdVo2WlI1WGJSRnhYMVIwTEtxVld4aFF0ZU15WFU0eUJTQmotV3RzTzMtRURYeXplbWp5em1Ya3pnazJ1OVFsR1lsQmxYY0RQU1Nza0t4OGZuY3BiTGVGZHRnM0NxM3FPODN1Tml6eFdDTmhPcnU2Q0wzLTFRXzUwNXZJYjFuamFXMENaWVg4Mko0STZFenEtR1dhU05WcmNMeFVndXVqUVBROVV3OXlrQ3VIRjRDam5odXp0eUttUEVNSVFESzA4RVk4RXc0b1YxZFMySnF2bVUzWWdJVlExMkpFTWpiaVlNaWE1UjNXb3JsSW1RZHoyaXBIT3hDZ1BKdENvV3d3cHlEeTBtR056QTMwOWdNb1FKX2ZteE5hWUhOa0NyY0prSk16eG5fVzQ4cDJtNUpuckRXOUlSYUdoWGZzTGdVTldRdGxPVmo?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Analyst- AMS - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBXTzFzdWFiMDFDLTcyS2F0RS1zQU9pcTlScU9IdXZjNzZ2TWZuUjRfa2FGWHdjX2sxMGVPaFhNS0xOOUZKak04OXZPMm12bE93NGpKU19RUTNKUlVxMy1NM1F6cjI0VmhKVGZ3VkRoV04?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Senior Machine Learning Engineer - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0tQzFiekNfU0VBRTJsdHpkNXNiWGlPWHB3aWowbmNKaE9oVjB4U2xDeEpZMlFpcHd1bjM3aDRLb3FXOFFzZGw5eUt0cnBINTFkUXVwRkwxV25sbGpfTk9FbEFEU1RadGk2bDY0UTVocDM?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Senior Designer - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWUl3VHg1LThINm8zTTVoTzhLdFVOOHJvQlJIT3hrOTgtOEl3Z19OTVNXcmp5a1lFc3pHU1Q4NG9RVTlMdzJacGRWZ3JIbGhVckZ1M3JjTzh5cndvU0ZZdzNQdWVmVTN0MGlnR01KNlVPZmdaeGlXTThDZ0IxV1NzNndGcmswdXNL?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Business Insight Analyst - TMT - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcEFjekotdEJELW4xeHcyZEFHRTFYdjdSQ3JHc1Qxc0VBazZwT1N1YTl0czVsU0IyYVNiRjdUQ2JPMmFYRWdGMEhaVmFPdUtNTERid2g2Z1l4RWNnVXVFeWdYTDN2TENIWVRkMmF2QTQxZEx5eHRvOWFBRy1XWE51b1FybGxyME0?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Asia-Pacific Private Equity Report 2026 - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1MNTVSQ2lYQ2hxTEJnZkw2NmlmS0VwWHoyWndESjZfc3Z3SXhySXFhWVE5SHFYaUhQVVlWQkNvM1JNN243T1d4TUlFeTM4b3RwRXpyY1hNSDJoRUI4WnZVYWFTNjV6RUVqX3VaUXA2NE1KWjhsalJRS3VB?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Exit rebound and positive net distributions signal optimism in Asia-Pacific private equity market in 2026 - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPSWVEYXRKZ1pVc3BYRy1BUVpxUlVUVFU5Mmp0SUZ3ZDdOQldVaUFsNVVjeFVhSFJPaHh3VkN0WnlobjFINTBZTWphenB1RUlFNWFOMjQ3aHU1YjViNHp4dEc3a2UzeDFsTjBlOFotWTJFd0VhRXRNYTVoTWd6TDR4YjBoTzhSdk1ZckxuZTdPRmlzOGNHWV9uUy1LZEVobWp4ZzRVU1JsdDVkaFE1blNzS3FsZWlTb2EzeXhMa0FQSWFxRnJRd01Bbk5Tc283dWp1cHpZUjg1TkhYQnB6Y1lmaGR5VElnRUROdUd5NWZhUHh4U0hMdmpkZ19R?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Intern (Staffing Reporting) - Finance - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9kdmJvbVBBdTNTVEdCeVkyTDB4c0R2N3dOYmg3bXVPOGVQako3aTdqekk1UDFJMmFiQVVDbHF4UDdUNVRuR3g2YVBYYlJUVWRlRk5kVnliNjdQWG0xWUZIMTVydTR2UjdKSHBrVUZDck4?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Top Survival Tips for Bain Consultants - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE16dkxWc043ZGdtZWthSGV1X3NjYV82cnJGT25URkxmVjZXbUZmUmxSMmFWMks4LU1LVUZCMGEzTlI3VE50V2lQUDdLcE5tU21CMXVRZjVBTzZxd05HaUpwTkRKbjNSbXhiYW1nVjBOLVMyYXc?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Inside Bain’s 2025 Asia-Pacific Consumer Products Report - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPODhlZEYzV2FTRXZIUHhKdFRQTWZ3TVA4am5TR0NOXy1pY2V3dlNLM1dUcW9LZ2xTY3JFRTdpQWtwSS04a0VldG4zVUotZW8tcDJoNldHTGRfY1F0WS1UaGZaT2J0LWE3WGFFVkduRmtha3AyR2MwcldhbnV0cUdkTnRoRUJ6cWhoWk5CdjZaMlpyLVpIWnFQdEln?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Junior Specialist, EMEA Recruiting Operations - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaXo2UlZzNFZUeW8zZ3hZWHJuVHl4WFk1Mml1LXRWUnZsX093T2J0ck4tVXFuYy1CdEZlbTVJTUdOVElNQVM0bm83WHJ2NHRUcWlDQ0NFbURJQTdMYXRFd2pGeTRhYUZBZEk2SnZ6SGNWelktUHVJZlJWMTJMZWxfekl2aUxLQmtq?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "The AI Ripple Effect: Managing Strained Semiconductor Supply - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNd0ZwWDduQ0YzVVpBbFdZYVJqTllVaVR1U3gyNHlRaWJyVlY0VnZ1QlJrdkI0T3Z6bjhMTmNhb3haV2ZpVVlPYkEzaGRRN2ZOVkZLVWEzRXdpSWsxa05DMGl1QndXRUtGTk9ibzJ6dEdTekRBemwwclFTREVZY0UtTTh1bDNJNGhxX2ZnWVB5TXRjS3V2UGhPTTdqa3YyNDQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Senior Operations Specialist - Temporary - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOR0xpb0RxdmFnVndhWk1zSlRoVEh5M0xlYVNnblh3LWhyaUw4endjRmtzZVhGZ0lpLTI2bmhkdDhaMnFHa0ZVU0tMeFhLSDBLY1cyM0xZSG1GWDFJZG41TkhTeDZ0NFBtVjVJUFFIczFlbW9TQ01qbkNIS0dvZlhqNy1pZXlkS0pu?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Swasth Bharat se Viksit Bharat - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1iNTNNdk13X2N5aDVneE93cmxwRFFRRHF1WFJ3bDBYRHNuemZpeVVmUVNtOHRSUjFhYUV6SmdCZWtCYXlCNFVXaVRKeTBKb2xqQ1BqbFViNmdmbGhMSEJZOUdwMUMySWw5b2REQktR?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Infrastructure’s Next Frontiers with Stonepeak’s Michael Dorrell - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVTBrSVBBTWpTV0hkNjF4Tjh6NEx0dUUtWmVwWmM4RmRTdi0xS09GOWQ1S1JSTXUxdWxGNk1DYkpqb2ZNeUFtaVhxa3hlTGloVTU3NnVoTTFoM2NoUHV3ZFc4SlNxMWxlNUdVc2dtekxkVGtxYXVUekJWVW5KNjBPd2JFVHhneHhLblpxYmp1VjN2UkIyVndJNTI5NXhmSmtVanEw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Analyst - Financial Services - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVDFpaldYa1ZzTmdTS1l5bjhKWDJqeDhuQVEyUjgtc05TLTNpcThlYUFyQWFla1NpYkJpN3p2SHBNTnhGWUdKeU9mWnpYTU1WUURrU1BpejVCNERTS2RIVUx4NEUxTVFlbVFKWEhXa2F4aFBNSkZPUnNJMEEyc3BadUl4T2U3QmFB?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "AI Talent Lab: Underwriters - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5mSTE1M1lKX1dKY3N4amFJc2Q1YzRTU3Z0Rmd0bHRpNG10a1Fhd2VEUWpUVkcxZS1lVDZYVzRBbDlIXy15RGhuTl9sQzAxRDQ4em5TLXNRZlJIa0Y4YWNJR1U0aW5DMVU5?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Six Provocations to Future-Proof Your Bank - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1wTnM1X2JmTm9aTGVuenRpV2ZRRkhBVjVsRkhWXzBuZnZQR3puaW9tZW9mOGJuQU1BYjNqQU9GNmxaYWE0WG84R2NXM2I2RHEyT1hlWURzTWxzVXlLcE5mWW5USkJpVUpMRXM3Sk45UFg0RHBSc19UQVNDX2VIdw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "2026 Northeast Asian at Bain (AAB) Undergrad Coffee Chats - Virtual - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZlRTTjYyNXJ1SVA2VzA1S0NLSFp1X3JWeUhveHNYWnpCZjhaa2FURUxlNlFwdUgyNm1ZLXhKUVJaRTBQYnNSdm5mWmxpTmZHNjgwS1JLVUpBN09ra0VBZTA4dDlLY1czR1c0YWxRajdlaUl6NmREeVhhTDB6ajQxZ3BBVEl5N2ozUmFGdXVqLXVrMjlfM1ZCeWtSWG1DejQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "2026 Princeton Recruiting Office Hours - Virtual - 1:1 timeslots - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQLVhZeWVNVk02QUgxa1hIenJKRW1sYTRDNEQwLVlvcHU3QTl2WjZZOERFdzI1WEtodlFVVC1aaEE3RnF5QnRBc0hxQ2tkOUlOa2U0NlVpRUsyQjVVd2R4T1FGeWxkNVhjanIwOHU4VmI5MEU2SF94WmhGQ1VNRWZkQWM1Q3JZUElIcnBIdndBTlJ0ZV9rTUNSd3NBNkJpeTg?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "2026 UVA STL Office Hours - Virtual - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTXFYcTdSUF91cmRrNU9LZmpscUF2dEZjRkoyY3pFZHZ1NDE0VFZzSWVaR2FGRWphdVo5LUowLWhUTUxTLW5WQ0NVallGU0hxVW5KOGdOYk9iTDBhNXpHbXFFb3NBTUF5UTN5bS1hTmh4NXIxQkM5Q01sVWs1ZXVtbDVpS1VZWnVrb1hmX0pxd3c1T1J5YXl3UmtXck41RzA?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Principal Platform Architect - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9sZEJkdEM4S3hpM2pUcVdTemdoTE41UmxhRWUwc1JHMHZidXhrQ2M0RnV2YUVVWlhIZEFGNS05Z1FrUTZqWU9qRFhQZ3FhazRnV21Qd2plNC1uTTBJVU5WSk1FRzVmX1JINTlEM0N5WUE?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Francesca Celano - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43NkFfOGxzN1RLZEpzVm5HSUJtb2E2QnZ5ME9jc1BQak5XdS05X0RaVl9FY3M1MUpKQ1Y2bFVONlZodFVGY3phVUhOVW1QZURKbUFNY09Ma05pZDg?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Giovanni Bonanno - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1PYk8zbERMVFVLYU9RY09oOXdxOUdZcThkZkVuQUNKUTFNQ05rU1Y0cUhKMEZtaXBlXzFyeFh5Q3d6S2h0MmtaWEthUEU4MW5EMWxZaDlXZVRiRU0?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Gaurav Sharma - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA1b2hJakN2NFo0SEtsWDlPTk9mVmFwM0FLRUNlQlhMeWxBRDFEM1JsTGJUakZpLVFxdUlWc2U4UERadVp2Y1p6T0t0TGdxYTVSQkZiWWNwZw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "2026 Bain SG Campus Engagement Evening (In-Person) - Register by 3 April 2026 - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONTl5ZGFsVnA0Wk5OTEN1c0NzTE9VYjRZUVpuZDlyWktQbFFiUWNTelBCU1l3VXZ2di03eHlZS29Ea2hSUENSUVVfSzhmNFNkVEk3NTRMSDVJYlpiWXBaTTRWaGRPS1hKMjBLR05uMkJCYUkxSHBCS0RHSnBocmRXRk9zSVhSaHk4TVE4UzQtRjZOQkZ4QzZxU254NE9yMnM?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Chun Yue Tan - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE52elloa2d5Q0JvNnhaRldFVUJpcjdud0hpVnFrejlWTS1Lc3EwM19wZWtCMGdSanNvc2hHWjRsSGR4SDJoS0RUeDZ2REpmVW51LTFraGlR?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Rohit Kumar - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9SWG5GUlZ4aDhDbDRiWnJhbTRKMWlBeV9PU2JVQlBhSFlSeVpOUjR5eTZ6d3FWdlcycFF1Z1BodlUwWU9YdVJ3WnVUNnNtWXNCajlpbg?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Executive Assistant with English - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5OUjUzRGdMOXczbEE1NnNFY1htTWtEMHlpdW9NWVJHbTFYLTZSSmowV3BZcmFET0hJeGVkc0J3TktNUlpkTHB0cGY2VkJ6SVlteEVIbGY4RWdFOVpzX2dNSWxwd0FkR0ZxaXgzbUZLbWo?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Global Talent Acquisition Marketing Coordinator - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9JUngtSzM3UVFuaWFLMXU4VExTenYwRFk4Mmp4bE9hcGJlbmxkZlNSdUR6QUg2NFJkS0c0aVI4OWNma0Fpa3RQenV3ck1Zb2oyMDBxWklvbVVUcTRZbXg1Wm1PVURybXUzazNOMlJqUzQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
+    },
+    {
+      "title": "Senior DevOps Engineer - Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9zTHlXTlM3cG5ob1VfUmtVdVVsSjgtOHp3cnhqcEpqaE5taWRKRWlpM0hnc29QVHlQcDd0S2pTVkMxS18xZmx3YnEtMlNQOGRNSm43LVlvM0lTU1YyVkc0MW5RU28ya3kwSFZ3QnRaQjU?oc=5",
+      "score": 0,
+      "comments": 0,
+      "source": "news"
     },
     {
       "title": "Protecting People from Harmful Manipulation - Google DeepMind",
@@ -1423,5 +1640,5 @@
       "source": "news"
     }
   ],
-  "generated_at": "2026-03-28T12:16:58.866Z"
+  "generated_at": "2026-03-28T12:17:43.023Z"
 }
